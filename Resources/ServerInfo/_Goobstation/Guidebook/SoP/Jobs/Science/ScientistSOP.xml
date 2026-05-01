@@ -6,33 +6,33 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Scientist SOP
-This is the list of procedures, responsibilities, and duties of the [color=#cc74fc]Scientist[/color] of this station.
+# SOP du Scientifique
+C'est la liste des procédures, responsabilités et devoirs du [color=#cc74fc]Scientifique[/color] de cette station.
 
 <ColorBox>
   <Box>
-    For the purposes of Alert Escalation: Treat higher alerts as if they are still on the previous alert level. (Yellow Alert is Blue Alert if it was Blue Alert prior.) Furthermore, treat Delta, Gamma, Epsilon, and Violet Alert as Red Alert.
+    Pour les besoins de l'Escalade d'Alerte : Traitez les alertes supérieures comme si elles étaient toujours au niveau d'alerte précédent. (L'Alerte Jaune est l'Alerte Bleue si c'était l'Alerte Bleue auparavant.) De plus, traitez l'Alerte Delta, Gamma, Epsilon, et Violette comme l'Alerte Rouge.
   </Box>
 </ColorBox>
 
-## Green Alert
-1. Scientists are not permitted to bring grenades, harmful chemicals, nor Toxin bombs outside of the Science Department.
-<Box>[bullet/]Exceptions for the Toxin bombs if being handed over to the Cargo Department for Salvaging operations.</Box>
+## Alerte Verte
+1. Les scientifiques ne sont pas autorisés à apporter des grenades, des produits chimiques nocifs, ni des bombes à toxines hors du Département Science.
+<Box>[bullet/]Exceptions pour les bombes à toxines si elles sont remises au Département Cargo pour les opérations de Sauvetage.</Box>
 
-2. Scientists should give a warning over the Commons Channel and Science Channel before generating an anomaly.
+2. Les scientifiques doivent donner un avertissement sur le Canal Commun et le Canal Science avant de générer une anomalie.
 
-3. Scientists are not permitted to create AI Console Boards nor AI Control Boards without permission from Research Director and/or Captain.
+3. Les scientifiques ne sont pas autorisés à créer des Cartes de Console IA ni des Cartes de Contrôle IA sans la permission du Directeur de Recherche et/ou du Capitaine.
 
-## Blue Alert
-1. Scientists are not permitted to bring harmful chemicals outside of the Science Department.
+## Alerte Bleue
+1. Les scientifiques ne sont pas autorisés à apporter des produits chimiques nocifs hors du Département Science.
 
-2. Scientists should give a warning over the Commons Channel and Science Channel before generating an anomaly.
+2. Les scientifiques doivent donner un avertissement sur le Canal Commun et le Canal Science avant de générer une anomalie.
 
-3. Scientists are permitted to bring grenades outside of the Science Department, but must justify their uses.
+3. Les scientifiques sont autorisés à apporter des grenades hors du Département Science, mais doivent justifier leurs utilisations.
 
-4. Scientists are permitted to bring Toxin bombs outside of the Science Department, but only to deliver to Armory and/or Cargo Department for Salvage operations.
+4. Les scientifiques sont autorisés à apporter des bombes à toxines hors du Département Science, mais seulement pour livrer à l'Armurerie et/ou au Département Cargo pour les opérations de Sauvetage.
 
-## Red Alert
-1. All Guidelines from [color=#388c34]Green Alert[/color] and [color=#1b67a5]Blue Alert[/color] carry over. No special guidelines in [color=#ba292c]Red Alert[/color].
+## Alerte Rouge
+1. Toutes les lignes directrices de l'[color=#388c34]Alerte Verte[/color] et de l'[color=#1b67a5]Alerte Bleue[/color] sont reportées. Aucune ligne directrice spéciale dans l'[color=#ba292c]Alerte Rouge[/color].
 
 </Document>

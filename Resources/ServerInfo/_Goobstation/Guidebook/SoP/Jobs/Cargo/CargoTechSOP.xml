@@ -6,32 +6,32 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Cargo Technician SOP
-This is the list of procedures, responsibilities, and duties of the [color=#846326]Cargo Technician[/color] of this station.
+# SOP du Technicien de Cargo
+C'est la liste des procédures, responsabilités et devoirs du [color=#846326]Technicien de Cargo[/color] de cette station.
 
-1. Cargo Technicians must ensure that every approved order is delivered within 15 minutes of having been placed and approved.
+1. Les Techniciens de Cargo doivent s'assurer que chaque commande approuvée est livrée dans les 15 minutes d'avoir été passée et approuvée.
 
-2. Cargo Technicians are not permitted to handle restricted crates (crates for Security/Command).
+2. Les Techniciens de Cargo ne sont pas autorisés à manipuler des caisses restreintes (caisses pour la Sécurité/Commandement).
 
-3. Cargo Technicians are not permitted to order items for sole personal use with the supply department account without express consent from the Quartermaster.
-<Box>Exception is made if there are more than [bold]7,500 spesos[/bold] available and no outstanding orders. Cargo Technicians may not deplete the entire department account balance for this.</Box>
+3. Les Techniciens de Cargo ne sont pas autorisés à commander des articles pour un usage personnel uniquement avec le compte du département d'approvisionnement sans le consentement expresse du Quart-Maître.
+<Box>Une exception est faite s'il y a plus de [bold]7 500 spesos[/bold] disponibles et aucune commande en attente. Les Techniciens de Cargo ne peuvent pas épuiser tout le solde du compte du département pour cela.</Box>
 
-4. Cargo Technicians are not permitted to order non-essential items using the supply account (such as cats, or clothing) without express consent from the Quartermaster.
+4. Les Techniciens de Cargo ne sont pas autorisés à commander des articles non essentiels en utilisant le compte d'approvisionnement (comme des chats, ou des vêtements) sans le consentement expresse du Quart-Maître.
 
-5. Cargo Technicians are not permitted to force and/or break open locked crates.
-<Box>Exception is made for Abandoned Crates found by Salvaging.</Box>
+5. Les Techniciens de Cargo ne sont pas autorisés à forcer et/ou briser ouvert les caisses verrouillées.
+<Box>Une exception est faite pour les Caisses Abandonnées trouvées par le Sauvetage.</Box>
 
-6. Cargo Technicians are not permitted to authorize non-departmental orders (such as a Medical Doctor asking for Insulated Gloves) without express permission from the Quartermaster.
+6. Les Techniciens de Cargo ne sont pas autorisés à autoriser des commandes non départementales (comme un Médecin demandant des Gants Isolés) sans la permission expresse du Quart-Maître.
 
-7. Cargo Technicians are to ensure and verify that the personnel ordering in the request form is a crew member and is correct identification and shows the correct reason in the request.
+7. Les Techniciens de Cargo doivent s'assurer et vérifier que le personnel commandant dans le formulaire de demande est un membre de l'équipage et est une identification correcte et montre la raison correcte dans la demande.
 
-8. Cargo Technicians must ensure at least one copy of every Order Form (ie, the forms produced by the Requests Console) is kept inside Cargo until the order is finished.
+8. Les Techniciens de Cargo doivent s'assurer qu'au moins une copie de chaque Formulaire de Commande (c'est-à-dire, les formulaires produits par la Console de Demandes) est gardée à l'intérieur de Cargo jusqu'à ce que la commande soit terminée.
 
-9. Cargo Technicians must send back all crates that have been ordered, with accompanying manifest on the crate.
+9. Les Techniciens de Cargo doivent renvoyer toutes les caisses qui ont été commandées, avec le manifeste accompagnant sur la caisse.
 
-10. Cargo Technicians are not permitted to ask for spesos in exchange for legal cargo crate orders or autolathe requests from crew members.
+10. Les Techniciens de Cargo ne sont pas autorisés à demander des spesos en échange de commandes de caisses de cargo légales ou de demandes d'autolathe des membres de l'équipage.
 
-11. Cargo Technicians are not permitted to trade items and/or favors in exchange for items with regular personnel without express consent from the Quartermaster.
+11. Les Techniciens de Cargo ne sont pas autorisés à échanger des articles et/ou des faveurs en échange d'articles avec le personnel régulier sans le consentement expresse du Quart-Maître.
 
-12. Cargo Technicians are not to keep any illegal items that are flushed down Disposals, and must deliver them to Security.
+12. Les Techniciens de Cargo ne doivent garder aucun article illégal qui est évacué par les Évacuations, et doivent les livrer à la Sécurité.
 </Document>

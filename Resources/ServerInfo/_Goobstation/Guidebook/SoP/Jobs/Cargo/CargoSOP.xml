@@ -6,12 +6,12 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Cargo Department SOP
-These are the list of SOPs that Cargo Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
+# SOP du Département Cargo
+Ce sont la liste des SOP que le Personnel de Cargo doit suivre. Ce sont, comme indiqué précédemment, [bold]pas des listes de contrôle[/bold] et doivent être traités comme des lignes directrices.
 
-The following jobs have entries in this Department, the [color=#1b67a5][bold]Quartermaster[/bold][/color] being the Head of Staff:
-- [textlink="Quartermaster" link="QuartermasterSOP"]
-- [textlink="Cargo Technician" link="CargoTechSOP"]
-- [textlink="Salvage Specialist" link="SalvageSpecialistSOP"]
+Les emplois suivants ont des entrées dans ce Département, le [color=#1b67a5][bold]Quart-Maître[/bold][/color] étant le Chef de Département :
+- [textlink="Quart-Maître" link="QuartermasterSOP"]
+- [textlink="Technicien de Cargo" link="CargoTechSOP"]
+- [textlink="Spécialiste de Sauvetage" link="SalvageSpecialistSOP"]
 
 </Document>

@@ -6,16 +6,16 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Fire/Gas Spill Procedures
-In the event of a fire or gas spill (namely anything considered station-wide dangerous), Command should set the alert to [color=#c8a404]Yellow Alert[/color] until Engineering personnel can deal with the problem.
-<Box>This is namely for massive gas spills, such as Plasma, Tritium, N2O, and anything that damages the station.</Box>
+# Procédures de Déversement de Feu/Gaz
+En cas d'incendie ou de déversement de gaz (à savoir tout ce qui est considéré comme dangereux pour toute la station), le Commandement doit régler l'alerte sur [color=#c8a404]Alerte Jaune[/color] jusqu'à ce que le personnel d'Ingénierie puisse traiter le problème.
+<Box>C'est principalement pour les déversements massifs de gaz, comme le Plasma, le Tritium, le N2O, et tout ce qui endommage la station.</Box>
 
-1. If there is a plasma/tritium flood with no ignition, all personnel should vacate the area and turn off flammable sources until Engineering can scrub/vent the gas out of the area.
+1. S'il y a une inondation de plasma/tritium sans inflammation, tout le personnel doit évacuer la zone et éteindre les sources inflammables jusqu'à ce que l'Ingénierie puisse nettoyer/ventiler le gaz de la zone.
 
-2. If there is an ignited plasma/tritium flood, all personnel should vacate the area and maintain safe distance while Engineering scrubs/vents the area and balances the temperature to a safe, optimal level.
+2. S'il y a une inondation de plasma/tritium enflammée, tout le personnel doit évacuer la zone et maintenir une distance de sécurité pendant que l'Ingénierie nettoie/ventile la zone et équilibre la température à un niveau sûr et optimal.
 
-3. If there is a deadly/harmful gas spill (non-plasma/tritium), such as N2O or any other gas, Engineering should scrub the area and ensure all affected personnel are vacated from the area.
+3. S'il y a un déversement de gaz mortel/nuisible (non plasma/tritium), comme le N2O ou tout autre gaz, l'Ingénierie doit nettoyer la zone et s'assurer que tout le personnel affecté est évacué de la zone.
 
-4. Once the fire/gas is dealt with and the area affected is returned to optimal conditions, Engineering should give the all clear and Command should return to a safe alert level.
+4. Une fois que le feu/gaz est traité et que la zone affectée est revenue à des conditions optimales, l'Ingénierie doit donner le feu vert et le Commandement doit revenir à un niveau d'alerte sûr.
 
 </Document>

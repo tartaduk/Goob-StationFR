@@ -6,65 +6,65 @@ SPDX-License-Identifier: MIT
 -->
 
 <Document>
-# Enchanting
+# Enchantement
 
-Those who are magically inclined, such as Wizards, Heretic and Chaplains, have access to the arcane art of Enchanting.
+Ceux qui sont enclins à la magie, comme les Sorciers, les Hérétiques et les Chapelains, ont accès à l'art arcanique de l'Enchantement.
 
-# Enchanting an item
+# Enchanter un objet
 
-To enchant an item, you need a sacrificial offering and an item to enchant. Most often these are the cores of anomalies, but are occasionally more mundane components like Diamonds.
+Pour enchanter un objet, vous avez besoin d'une offrande sacrificielle et d'un objet à enchanter. Le plus souvent, ce sont les noyaux d'anomalies, mais parfois ce sont des composants plus banals comme les Diamants.
 <Box>
   <GuideEntityEmbed Entity="AltarConvert" Caption=""/>
 </Box>
-Place an item on an altar (or a Transmutation Rune) alongside the offering and hit the item with your magical tome. For wizards, this is their Wizard's Grimoire. For Chaplain, their Bible or other religious texts. For Heretics, their Codex Cicatrix.
+Placez un objet sur un autel (ou une Rune de Transmutation) avec l'offrande et frappez l'objet avec votre tome magique. Pour les sorciers, c'est leur Grimoire de Sorcier. Pour les Chapelains, leur Bible ou d'autres textes religieux. Pour les Hérétiques, leur Codex Cicatrix.
 
-If the item and offering are compatible, the offering will be consumed and the item will become enchanted. If you use an anomaly core, those from critical anomalies are more potent than inert cores, and empower your item more effectively.
+Si l'objet et l'offrande sont compatibles, l'offrande sera consommée et l'objet deviendra enchanté. Si vous utilisez un noyau d'anomalie, ceux des anomalies critiques sont plus puissants que les noyaux inertes, et renforcent votre objet plus efficacement.
 
-# Enchantment limits
+# Limites d'enchantement
 
-An item can only be enchanted with one kind of enchantment, unless you perform a ritual. By killing any living entity with a soul on top of an altar alongside your enchanted item, their soul will be consumed and increase the enchantment limit.
+Un objet ne peut être enchanté qu'avec un seul type d'enchantement, à moins que vous ne effectuiez un rituel. En tuant toute entité vivante avec une âme sur un autel avec votre objet enchanté, leur âme sera consommée et augmentera la limite d'enchantement.
 
-The sacrifice will be possible to revive, but have the ill effects of losing their soul, akin to selling their soul to a Devil.
+Le sacrifice pourra être ressuscité, mais aura les effets néfastes de perdre son âme, semblable à vendre son âme à un Diable.
 
-# Types of enchantments
+# Types d'enchantements
 
-  ### Fire Aspect
-Fire Aspect causes your weapon to set your foes on fire. Obtainable from Pyroclastic Anomaly cores.
+  ### Aspect de Feu
+L'Aspect de Feu fait en sorte que votre arme mette le feu à vos ennemis. Obtenable à partir des noyaux d'Anomalie Pyroclastique.
 
-  ### Lavaforged
-Lavaforged grants your equipment the ability to protect you from lava. Obtainable from Pyroclastic Anomaly cores.
+  ### Forgé dans la Lave
+Forgé dans la Lave donne à votre équipement la capacité de vous protéger de la lave. Obtenable à partir des noyaux d'Anomalie Pyroclastique.
 
-  ### Knockback
-Knockback causes your weapon to knock people back on hit. Obtainable from Gravity Anomaly cores.
+  ### Recul
+Le Recul fait en sorte que votre arme repousse les gens au toucher. Obtenable à partir des noyaux d'Anomalie de Gravité.
 
-  ### Fire Protection
-Fire Protection grants your armor protection from... Fire. Obtainable from Ice Anomaly cores.
+  ### Protection contre le Feu
+La Protection contre le Feu donne à votre armure une protection contre... le Feu. Obtenable à partir des noyaux d'Anomalie de Glace.
 
-  ### Sharpness
-Sharpness sharpens your weapon and grants four bonus Slash damage per level. Obtainable from Flesh Anomaly cores.
+  ### Tranchant
+Le Tranchant aiguise votre arme et accorde quatre dégâts de Coupure bonus par niveau. Obtenable à partir des noyaux d'Anomalie de Chair.
 
-  ### Unbreaking
-Unbreaking reduces all damage by 50%. Due to complicated magical law restrictions, this is only applicable to mice. Obtainable from Rock Anomaly cores.
+  ### Indestructible
+Indestructible réduit tous les dégâts de 50%. En raison de restrictions légales magiques complexes, cela n'est applicable qu'aux souris. Obtenable à partir des noyaux d'Anomalie de Roche.
 
   ### Protection
-Protection grants your equipment damage resistance. Obtainable from Rock Anomaly cores.
+La Protection donne à votre équipement une résistance aux dégâts. Obtenable à partir des noyaux d'Anomalie de Roche.
 
-  ### Slippery
-Slippery makes any item slip people. Obtainable from Liquid Anomaly cores.
+  ### Glissant
+Glissant fait glisser les gens avec n'importe quel objet. Obtenable à partir des noyaux d'Anomalie Liquide.
 
-  ### Unslippable
-Unslippable makes any shoes grant immunity to slipping. Obtainable from Liquid Anomaly cores.
+  ### Antidérapant
+Antidérapant fait en sorte que n'importe quelles chaussures accordent une immunité au glissement. Obtenable à partir des noyaux d'Anomalie Liquide.
 
-  ### Insulated?
-Insulated? grants a chance to not be shocked by sources of electricity to gloves. Obtainable from inert Elecricity Anomaly cores.
+  ### Isolé ?
+Isolé ? accorde une chance de ne pas être électrocuté par des sources d'électricité aux gants. Obtenable à partir des noyaux inertes d'Anomalie d'Électricité.
 
-  ### Insulated
-Insulated grants gloves full insulation from electricity. Obtainable from critical Elecricity Anomaly cores.
+  ### Isolé
+Isolé accorde aux gants une isolation complète contre l'électricité. Obtenable à partir des noyaux critiques d'Anomalie d'Électricité.
 
-  ### Thorns
-Thorns can be applied to armor, and damages melee attackers with 4 slash damage per level. Obtainable from Floral Anomaly cores.
+  ### Épines
+Les Épines peuvent être appliquées à l'armure, et endommagent les attaquants au corps à corps avec 4 dégâts de Coupure par niveau. Obtenable à partir des noyaux d'Anomalie Florale.
 
   ### Fortune
-Fortune has a chance to increase ore yield for drills and pickaxes, chance proportional to enchantment level. Obtainable from Santa Anomaly cores and diamonds.
+La Fortune a une chance d'augmenter le rendement du minerai pour les foreuses et les pioches, chance proportionnelle au niveau d'enchantement. Obtenable à partir des noyaux d'Anomalie Santa et des diamants.
 
 </Document>

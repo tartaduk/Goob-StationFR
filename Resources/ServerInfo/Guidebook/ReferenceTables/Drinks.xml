@@ -6,13 +6,13 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Drinks
-Knowing how to make a requested drink is important. Here are the different drinks in the game, including their recipes:
+# Boissons
+Savoir comment faire une boisson demandée est important. Voici les différentes boissons dans le jeu, y compris leurs recettes :
 
-## Alcoholic Drinks
+## Boissons Alcoolisées
 <GuideReagentGroupEmbed Group="AlcoholicDrinks"/>
 
-## Non-Alcoholic Drinks
+## Boissons Non Alcoolisées
 <GuideReagentGroupEmbed Group="NonAlcoholicDrinks"/>
-<!-- Goobstation - Split the drinks page into separte 'Alcoholic' and 'Non-alcoholic' categories-->
+<!-- Goobstation - Diviser la page des boissons en catégories séparées 'Alcoolisées' et 'Non alcoolisées'-->
 </Document>

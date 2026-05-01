@@ -11,15 +11,15 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Salvage
+  # Sauvetage
 
-  [color=cyan]Salvage[/color] is one of Cargo's key, but also most dangerous, sources of income. Salvage extracts money from [color=cyan]Space Debris[/color] and the enigmatic [color=cyan]Mining Asteroid[/color].
+  Le [color=cyan]Sauvetage[/color] est l'une des sources de revenus clés mais aussi les plus dangereuses du Fret. Le sauvetage extrait de l'argent des [color=cyan]Débris Spatiaux[/color] et de l'énigmatique [color=cyan]Astéroïde Minier[/color].
 
-  While the void of space is full of terrors, with proper preparation and coordination any Salvage Team can make a lot of money for Cargo.
+  Bien que le vide de l'espace soit rempli de terreurs, avec une préparation et une coordination appropriées, toute équipe de sauvetage peut gagner beaucoup d'argent pour le Fret.
 
-  ## Preparations
+  ## Préparations
 
-  Before leaving the station, ensure you are prepared with all the required equipment. Otherwise, you will likely die before seeing any profits!
+  Avant de quitter la station, assurez-vous d'être préparé avec tout l'équipement requis. Sinon, vous mourrez probablement avant de voir aucun profit !
 
   <Box>
     <GuideEntityEmbed Entity="SuitStorageSalv"/>
@@ -27,7 +27,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="VendingMachineSalvage"/>
   </Box>
 
-  Everything needed before leaving the station is provided inside Salvage's starting room. While Science can research better weapons and equipment, it is best to be equipped with your starting gear rather than nothing.
+  Tout ce dont vous avez besoin avant de quitter la station est fourni dans la salle de départ du sauvetage. Bien que la Science puisse rechercher de meilleures armes et équipements, il est préférable d'être équipé avec votre équipement de départ plutôt que de rien.
 
   <Box>
     <GuideEntityEmbed Entity="ClothingOuterHardsuitSpatio"/>
@@ -35,29 +35,29 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="VendingMachineTankDispenserEVA"/>
   </Box>
 
-  The most basic equipment you need is the EVA setup.
+  L'équipement le plus basique dont vous avez besoin est la configuration EVA.
 
-  - [color=cyan]Spationaut Hardsuit[/color]: This keeps you alive in space. [italic]Remember to activate the helmet so you can breathe and turn on its built-in flashlight[/italic].
-  - [color=cyan]Magboots[/color]: These provide you with gravity when exploring space debris while also making you slip-proof.
-  - [color=cyan]Oxygen/Nitrogen[/color]: Depending on your species, you will need [color=cyan]Nitrogen[/color] (slimes & vox) or [color=cyan]Oxygen[/color] (every other species). The [color=cyan]Gas Tank Dispenser[/color] has all the tanks needed, so stock up.
+  - [color=cyan]Combinaison Spationaute[/color] : Cela vous garde en vie dans l'espace. [italic]Rappelez-vous d'activer le casque pour pouvoir respirer et d'allumer sa lampe de poche intégrée[/italic].
+  - [color=cyan]Bottes Magnétiques[/color] : Elles vous fournissent de la gravité lorsque vous explorez les débris spatiaux tout en vous rendant antidérapant.
+  - [color=cyan]Oxygène/Azote[/color] : Selon votre espèce, vous aurez besoin d'[color=cyan]Azote[/color] (slimes et vox) ou d'[color=cyan]Oxygène[/color] (toutes les autres espèces). Le [color=cyan]Distributeur de Bouteilles de Gaz[/color] a toutes les bouteilles nécessaires, alors faites le plein.
 
   <Box>
     <GuideEntityEmbed Entity="WeaponProtoKineticAccelerator"/>
   </Box>
 
-  All Salvage Specialists must be armed, in case they need to defend themselves from hostiles.
+  Tous les Spécialistes du Sauvetage doivent être armés, au cas où ils auraient besoin de se défendre contre les hostiles.
 
-  - [color=cyan]Proto-Kinetic Accelerator[/color]: This gun has infinite ammunition, allowing you to slowly mine and fly through space. Science can print upgrades to make it hit harder, shoot farther, and cycle faster.
+  - [color=cyan]Accélérateur Cinétique Proto[/color] : Cette arme a des munitions infinies, vous permettant de miner lentement et de voler dans l'espace. La Science peut imprimer des améliorations pour qu'elle frappe plus fort, tire plus loin et cycle plus vite.
 
   <Box>
     <GuideEntityEmbed Entity="Pickaxe"/>
     <GuideEntityEmbed Entity="OreBag"/>
   </Box>
 
-  While you can technically mine and gather ore with just a PKA and a Backpack, Salvagers start with more specialized gear for the task.
+  Bien que vous puissiez techniquement miner et collecter du minerai avec seulement un PKA et un Sac à Dos, les Sauveteurs commencent avec un équipement plus spécialisé pour cette tâche.
 
-  - [color=cyan]Pickaxe[/color]: This is required for mining at any reasonable speed when wielded. It also works as a handy melee weapon!
-  - [color=cyan]Ore Bag[/color]: When equipped in your belt slot, this magnetizes nearby ore and automatically picks it up for you.
+  - [color=cyan]Pioche[/color] : C'est nécessaire pour miner à une vitesse raisonnable lorsqu'elle est maniée. Elle fonctionne également comme une arme de mêlée pratique !
+  - [color=cyan]Sac à Minerai[/color] : Lorsqu'il est équipé dans votre emplacement de ceinture, cela magnétise le minerai à proximité et le ramasse automatiquement pour vous.
 
   <Box>
     <GuideEntityEmbed Entity="FireExtinguisher"/>
@@ -66,12 +66,12 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="ComputerRadar"/>
   </Box>
 
-  Although you can acquire more advanced forms of travel, you'll begin with more humble methods.
+  Bien que vous puissiez acquérir des formes de voyage plus avancées, vous commencerez avec des méthodes plus modestes.
 
-  - [color=cyan]Fire Extinguisher[/color]: The poor man's Jetpack. While in space, you can use a Fire Extinguisher's knockback to propel yourself in the opposite direction. It can be refilled with any liquid.
-  - [color=cyan]Grappling Gun[/color]: A movement tool with infinite potential. It's fired like any other gun, and can be retracted by reloading. Once you hook onto something, click [color=yellow][bold][keybind="UseSecondary"][/bold][/color] to reel yourself in.
-  - [color=cyan]Salvage PDA[/color]: Your PDA spawns with the AstroNav GPS program installed, allowing you to use it as a GPS when held in hand. Be sure to note the station's coordinates before you head out!
-  - [color=cyan]Mass Scanner Computer[/color]: A computer console which provides a top-down view of the station and nearby entities in space. Use it to double-check the location and direction of debris or asteroids before you travel to them.
+  - [color=cyan]Extincteur[/color] : Le Jetpack du pauvre. Dans l'espace, vous pouvez utiliser le recul d'un extincteur pour vous propulser dans la direction opposée. Il peut être rempli avec n'importe quel liquide.
+  - [color=cyan]Pistolet à Grappin[/color] : Un outil de mouvement avec un potentiel infini. Il est tiré comme n'importe quelle autre arme, et peut être rétracté en rechargeant. Une fois que vous vous êtes accroché à quelque chose, cliquez sur [color=yellow][bold][keybind="UseSecondary"][/bold][/color] pour vous hisser.
+  - [color=cyan]PDA de Sauvetage[/color] : Votre PDA apparaît avec le programme GPS AstroNav installé, vous permettant de l'utiliser comme GPS lorsqu'il est tenu en main. Assurez-vous de noter les coordonnées de la station avant de partir !
+  - [color=cyan]Ordinateur de Scanner de Masse[/color] : Une console informatique qui fournit une vue de haut de la station et des entités à proximité dans l'espace. Utilisez-la pour vérifier l'emplacement et la direction des débris ou des astéroïdes avant de vous y rendre.
 
   <Box>
     <GuideEntityEmbed Entity="RadioHandheld"/>
@@ -79,27 +79,27 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="ClothingBeltUtilityFilled"/>
   </Box>
 
-  Finally, there are also some helpful but not required equipment that is available to Salvage.
+  Enfin, il y a aussi un équipement utile mais non requis disponible pour le sauvetage.
 
-  - [color=cyan]Handheld Radio[/color]: This lets you communicate with other Salvage Specialists even if regular radio communications are unavailable.
-  - [color=cyan]Global Positioning System[/color]: A spare GPS system, identical to the one pre-installed in your PDA. Useful as a backup option or as equipment from newly-hired Salvagers.
-  - [color=cyan]Utility Belt[/color]: This holds all the equipment you will need to loot machines and the like from Salvage Wrecks and the Mining Asteroid. Wear it anytime you aren't planning on mining.
+  - [color=cyan]Radio Portative[/color] : Cela vous permet de communiquer avec d'autres Spécialistes du Sauvetage même si les communications radio régulières ne sont pas disponibles.
+  - [color=cyan]Système de Positionnement Global[/color] : Un système GPS de secours, identique à celui préinstallé dans votre PDA. Utile comme option de sauvegarde ou comme équipement pour les Sauveteurs nouvellement embauchés.
+  - [color=cyan]Ceinture Utilitaire[/color] : Elle contient tout l'équipement dont vous aurez besoin pour piller les machines et similaires des Épaves de Sauvetage et de l'Astéroïde Minier. Portez-la à tout moment où vous ne prévoyez pas de miner.
 
-  ## Salvage Magnet Pulls
+  ## Tirages d'Aimant de Sauvetage
 
-  Once prepared, it is time to go and explore the stars.
+  Une fois préparé, il est temps d'aller explorer les étoiles.
 
   <Box>
     <GuideEntityEmbed Entity="SalvageMagnet"/>
   </Box>
 
-  The [color=cyan]Salvage Magnet[/color] is the machine that brings space debris into nearby space.
+  L'[color=cyan]Aimant de Sauvetage[/color] est la machine qui amène les débris spatiaux dans l'espace proche.
 
-  The Salvage Magnet provides five offers: they will be a random mix of [color=cyan]Asteroids[/color], [color=cyan]Salvage Wrecks[/color], and [color=cyan]Space Debris[/color]. After choosing one of the offers, the selected chunk will be pulled in for the next [bold]6 minutes[/bold]. At the end of this time, any loot remaining on the pulled grid will disappear. If none of the offers look appealing to you, they refresh every [bold]3 minutes[/bold] if unclaimed.
+  L'Aimant de Sauvetage propose cinq offres : elles seront un mélange aléatoire d'[color=cyan]Astéroïdes[/color], d'[color=cyan]Épaves de Sauvetage[/color] et de [color=cyan]Débris Spatiaux[/color]. Après avoir choisi l'une des offres, le morceau sélectionné sera tiré pendant les prochaines [bold]6 minutes[/bold]. À la fin de ce temps, tout butin restant sur la grille tirée disparaîtra. Si aucune des offres ne vous semble attrayante, elles se rafraîchissent toutes les [bold]3 minutes[/bold] si elles ne sont pas réclamées.
 
-  During the 6 minutes, fly to the pulled grid, extract all profit possible, and then fly back to the station.
+  Pendant les 6 minutes, volez vers la grille tirée, extrayez tout profit possible, puis revenez à la station.
 
-### Asteroids
+  ### Astéroïdes
 
   <Box>
     <GuideEntityEmbed Entity="Pickaxe"/>
@@ -107,13 +107,13 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="OreProcessor"/>
   </Box>
 
-  The Salvage Magnet provides information on the types of resources on an asteroid, which can help you decide which to prioritize based on the current needs of the station. This is a relatively safe option for mining as there are no hostile creatures on asteroids - though there are certainly still threats...
+  L'Aimant de Sauvetage fournit des informations sur les types de ressources sur un astéroïde, ce qui peut vous aider à décider lesquelles prioriser en fonction des besoins actuels de la station. C'est une option relativement sûre pour le minage car il n'y a pas de créatures hostiles sur les astéroïdes - bien qu'il y ait certainement encore des menaces...
 
-  All you need to do is fly around and mine the ore with your [color=cyan]Pickaxe[/color] and [color=cyan]Ore Bag[/color]. Once you have collected all the ore, you can refine it into materials through the [color=cyan]Ore Processor[/color].
+  Tout ce que vous avez à faire est de voler autour et de miner le minerai avec votre [color=cyan]Pioche[/color] et votre [color=cyan]Sac à Minerai[/color]. Une fois que vous avez collecté tout le minerai, vous pouvez le raffiner en matériaux via le [color=cyan]Processeur de Minerai[/color].
 
-  Tread lightly - hidden in seemingly normal rock, chunks of [color=red]Gibtonite[/color] hide, ready to explode at the slightest disturbance.
+  Marchez légèrement - cachés dans une roche apparemment normale, des morceaux de [color=red]Gibtonite[/color] se cachent, prêts à exploser à la moindre perturbation.
 
-### Space Debris
+  ### Débris Spatiaux
 
   <Box>
     <GuideEntityEmbed Entity="Wrench"/>
@@ -121,13 +121,13 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="Recycler"/>
   </Box>
 
-  [color=cyan]Space Debris[/color] is a versatile option, providing vital basic materials (such as steel, glass, etc.) in short supply at the start of the shift. Items and scrap are scattered across the debris, and must be collected. Consider dragging along one of the lockers or crates aboard the debris for easier storage.
+  Les [color=cyan]Débris Spatiaux[/color] sont une option polyvalente, fournissant des matériaux de base vitaux (tels que l'acier, le verre, etc.) en pénurie au début du quart. Les articles et la ferraille sont dispersés sur les débris, et doivent être collectés. Envisagez de traîner l'un des casiers ou caisses à bord des débris pour un stockage plus facile.
 
-  Debris is sprinkled with numerous threats. Bloodthirsty [color=red]Space Carp[/color] and [color=red]Sharkminnows[/color] infest them, eager to rush any Salvagers that come nearby. [color=red]Landmines[/color] are also rarely found aboard debris, capable of incapacitating the unwary explorer.
+  Les débris sont parsemés de nombreuses menaces. Des [color=red]Carpes Spatiales[/color] assoiffées de sang et des [color=red]Sharkminnows[/color] les infestent, désireux de se précipiter sur tout Sauveteur qui s'approche. Des [color=red]Mines terrestres[/color] se trouvent également rarement à bord des débris, capables d'incapaciter l'explorateur imprudent.
 
-  Once you return from the Debris, place any scrap you found aboard the debris into your department's [color=cyan]Recycler[/color] to transform it into useful materials and give it to Cargo to distribute to the station. Should you find valuables aboard the Debris, like [color=yellow]Coins, Rings, and Watches,[/color] give them to Cargo so they can be sold at the [color=cyan]Automated Trade Station[/color] for profit.
+  Une fois que vous revenez des Débris, placez toute ferraille que vous avez trouvée à bord des débris dans le [color=cyan]Recycleur[/color] de votre département pour la transformer en matériaux utiles et donnez-la au Fret pour la distribuer à la station. Si vous trouvez des objets de valeur à bord des Débris, comme des [color=yellow]Pièces, Bagues et Montres,[/color] donnez-les au Fret pour qu'ils puissent être vendus à la [color=cyan]Station de Commerce Automatisée[/color] pour un profit.
 
-  ### Salvage Wrecks
+  ### Épaves de Sauvetage
 
   <Box>
     <GuideEntityEmbed Entity="SurvivalKnife"/>
@@ -135,21 +135,21 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="WeaponProtoKineticAccelerator"/>
   </Box>
 
-  The Salvage Magnet provides information on the size of a Wreck. Salvage Wrecks vary wildly in both threat and value, but they often have more diverse threats than [color=cyan]Space Debris[/color]. Keep your distance from hostiles and shoot at them with the [color=cyan]Proto-Kinetic Accelerator[/color]. Look out for valuable loot and machinery, and use your [color=cyan]Appraisal Tool[/color] to check the value of different things.
+  L'Aimant de Sauvetage fournit des informations sur la taille d'une Épave. Les Épaves de Sauvetage varient énormément à la fois en menace et en valeur, mais elles ont souvent des menaces plus diversifiées que les [color=cyan]Débris Spatiaux[/color]. Gardez vos distances avec les hostiles et tirez sur eux avec l'[color=cyan]Accélérateur Cinétique Proto[/color]. Surveillez le butin et les machines de valeur, et utilisez votre [color=cyan]Outil d'Évaluation[/color] pour vérifier la valeur de différentes choses.
 
-  ## Progression & Upgrades
+  ## Progression et Améliorations
 
-  While your starting equipment is all you need to do your job at a basic level, advanced gear makes your work far easier, and gives you the equipment necessary to let you tackle the dreaded [color=red]Mining Asteroid[/color]
+  Bien que votre équipement de départ soit tout ce dont vous avez besoin pour faire votre travail à un niveau de base, l'équipement avancé rend votre travail beaucoup plus facile, et vous donne l'équipement nécessaire pour vous permettre de vous attaquer au redouté [color=red]Astéroïde Minier[/color]
 
-  ### Salvage Job Board
+  ### Tableau des Tâches de Sauvetage
 
   <Box>
     <GuideEntityEmbed Entity="ComputerSalvageJobBoard"/>
   </Box>
 
-  The [color=cyan]Salvage Job Board[/color] is a computer located in the Salvage Bay. It serves as Salvage's version of the [color=cyan]Cargo Bounty Computer[/color], allowing Salvagers to fulfill specific jobs with Salvage-specific materials in order to earn Spesos and unlock [color=yellow]Advanced Salvage Gear[/color].
+  Le [color=cyan]Tableau des Tâches de Sauvetage[/color] est un ordinateur situé dans la Baie de Sauvetage. Il sert de version du sauvetage de l'[color=cyan]Ordinateur de Contrats de Fret[/color], permettant aux Sauveteurs d'accomplir des tâches spécifiques avec des matériaux spécifiques au sauvetage afin de gagner des Spesos et de débloquer l'[color=yellow]Équipement de Sauvetage Avancé[/color].
 
-  Once you gather the supplies necessary to complete a job, print out a [color=cyan]Salvage Job Shipment Label[/color] and attach it to the crate or locker containing the goods. You can use your [color=cyan]Appraisal Tool[/color] to double-check that it's ready for sale. The prepared bounty can then be brought to the [color=cyan]Automated Trade Station[/color] to earn Cargo Spesos and to unlock new Salvage-specific crates in the [color=cyan]Cargo Request Computer[/color].
+  Une fois que vous avez rassemblé les fournitures nécessaires pour accomplir une tâche, imprimez une [color=cyan]Étiquette d'Expédition de Tâche de Sauvetage[/color] et attachez-la à la caisse ou au casier contenant les marchandises. Vous pouvez utiliser votre [color=cyan]Outil d'Évaluation[/color] pour vérifier qu'il est prêt à être vendu. Le contrat préparé peut ensuite être apporté à la [color=cyan]Station de Commerce Automatisée[/color] pour gagner des Spesos de Fret et pour débloquer de nouvelles caisses spécifiques au sauvetage dans l'[color=cyan]Ordinateur de Demandes de Fret[/color].
 
   <Box>
     <GuideEntityEmbed Entity="Fulton1"/>
@@ -157,22 +157,22 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="SeismicCharge"/>
   </Box>
 
-  Completing Salvage Jobs will upgrade your rank and unlock new equipment purchases in the [color=cyan]Cargo Request Computer[/color], including:
+  Accomplir des Tâches de Sauvetage améliorera votre rang et débloquera de nouveaux achats d'équipement dans l'[color=cyan]Ordinateur de Demandes de Fret[/color], y compris :
 
-  - [color=cyan]Fultons[/color]: Once a Fulton has been linked to a Fulton Beacon, they can be attached to unanchored structures like crates or machines to teleport them back to the Beacon after a short wait. Exceptionally useful for moving both items and people.
-  - [color=cyan]Crusher Weapons[/color]: A series of upgraded melee options for Salvagers to purchase. The [color=red]Crusher Dagger[/color] is an upgrade to your Survival knife, swinging automatically and far faster than a regular knife. The [color=red]Crusher[/color] and upgraded [color=red]Crusher Glaive[/color] are gigantic polearms which can fire special projectiles when wielded. These projectiles do no damage on their own, but if a marked enemy is meleed quickly enough, you'll leech some of their life away to heal yourself. All Crusher weaponry comes with a built-in floodlamp.
-  - [color=cyan]Seismic Charges[/color]: Mining explosives intended to be used to break up asteroids or breach into dangerous wrecks. Remember that you can link them to a remote detonator or set them to start detonating when attached to a wall for safer demolition.
+  - [color=cyan]Fultons[/color] : Une fois qu'un Fulton a été lié à une Balise Fulton, ils peuvent être attachés à des structures non ancrées comme des caisses ou des machines pour les téléporter de retour à la Balise après une courte attente. Exceptionnellement utile pour déplacer à la fois des articles et des personnes.
+  - [color=cyan]Armes de Broyeur[/color] : Une série d'options de mêlée améliorées pour les Sauveteurs à acheter. Le [color=red]Dague de Broyeur[/color] est une amélioration de votre couteau de survie, balançant automatiquement et beaucoup plus vite qu'un couteau régulier. Le [color=red]Broyeur[/color] et le [color=red]Glaive de Broyeur[/color] amélioré sont des armes d'haste gigantesques qui peuvent tirer des projectiles spéciaux lorsqu'elles sont maniées. Ces projectiles ne font aucun dégâts par eux-mêmes, mais si un ennemi marqué est attaqué au corps à corps assez rapidement, vous drainerez une partie de leur vie pour vous guérir. Toutes les armes de Broyeur sont livrées avec une lampe de poche intégrée.
+  - [color=cyan]Charges Sismiques[/color] : Des explosifs de minage destinés à être utilisés pour briser des astéroïdes ou pour pénétrer dans des épaves dangereuses. Rappelez-vous que vous pouvez les lier à un détonateur à distance ou les régler pour commencer à exploser lorsqu'elles sont attachées à un mur pour une démolition plus sûre.
 
-  ### Working with Science
+  ### Travailler avec la Science
 
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineScientist"/>
     <GuideEntityEmbed Entity="ResearchDisk"/>
   </Box>
 
-  The [color=purple]Science Department[/color] is a crucial partner for Salvage. Science depends on Salvage for both basic materials (steel, plastic, glass) and advanced materials (silver, gold, plasma, and uranium), and Salvage relies on Science for the upgraded equipment that makes their work easier.
+  Le [color=purple]Département de Science[/color] est un partenaire crucial pour le sauvetage. La Science dépend du sauvetage pour les matériaux de base (acier, plastique, verre) et les matériaux avancés (argent, or, plasma et uranium), et le sauvetage dépend de la Science pour l'équipement amélioré qui rend leur travail plus facile.
 
-  Whenever possible, communicate with Science and try to prioritize their requests. While Science will need large quantities of basic materials, they rely entirely on you for their supply of [color=yellow]Gold, Silver and Uranium,[/color] all of which are required for your advanced gear. If you want Science to help you, you have to help them - and vice versa.
+  Dans la mesure du possible, communiquez avec la Science et essayez de prioriser leurs demandes. Bien que la Science aura besoin de grandes quantités de matériaux de base, elle dépend entièrement de vous pour son approvisionnement en [color=yellow]Or, Argent et Uranium,[/color] tous requis pour votre équipement avancé. Si vous voulez que la Science vous aide, vous devez les aider - et vice versa.
 
   <Box>
     <GuideEntityEmbed Entity="MiningDrill"/>
@@ -180,15 +180,15 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="PKAUpgradeRange"/>
   </Box>
 
-  Science is the only source for a variety of extremely useful gear, including:
+  La Science est la seule source pour une variété d'équipements extrêmement utiles, y compris :
 
-  - [color=cyan]Mining Gear[/color]: Science can provide you with [color=yellow]Mining Drills and Mineral Scanners[/color], which make mining faster and easier. They can also build you an [color=yellow]Industrial Ore Processor[/color], which processes ore into finished materials at a much better rate.
-  - [color=cyan]Handheld Mass Scanner[/color]: A pocket-portable Mass Scanner Computer. Though it requires a battery to use, it lets you view your position anywhere in space.
-  - [color=cyan]PKA Upgrades[/color]: You can upgrade your PKA with up to two unique upgrades from a pool of three: [color=red]Damage,[/color] [color=yellow]Fire Rate,[/color] and [color=green]Range[/color].
+  - [color=cyan]Équipement de Minage[/color] : La Science peut vous fournir des [color=yellow]Perceuses de Minage et Scanners de Minéraux[/color], qui rendent le minage plus rapide et plus facile. Ils peuvent également vous construire un [color=yellow]Processeur de Minerai Industriel[/color], qui traite le minerai en matériaux finis à un bien meilleur taux.
+  - [color=cyan]Scanner de Masse Portatif[/color] : Un Ordinateur de Scanner de Masse portable de poche. Bien qu'il nécessite une batterie pour être utilisé, il vous permet de voir votre position n'importe où dans l'espace.
+  - [color=cyan]Améliorations de PKA[/color] : Vous pouvez améliorer votre PKA avec jusqu'à deux améliorations uniques parmi un pool de trois : [color=red]Dégâts,[/color] [color=yellow]Cadence de Tir,[/color] et [color=green]Portée[/color].
 
-  ## The Mining Asteroid
+  ## L'Astéroïde Minier
 
-  Once you feel that you've mastered the Salvage Magnet, the distant [color=red]Mining Asteroid[/color] serves as the next step in a Salvager's journey. Reaching the Mining Asteroid generally requires a shuttle or jetpacks, and it should generally not be explored alone due to the exceptional dangers within.
+  Une fois que vous sentez que vous avez maîtrisé l'Aimant de Sauvetage, le lointain [color=red]Astéroïde Minier[/color] sert comme prochaine étape dans le voyage d'un Sauveteur. Atteindre l'Astéroïde Minier nécessite généralement une navette ou des jetpacks, et il ne devrait généralement pas être exploré seul en raison des dangers exceptionnels à l'intérieur.
 
   <Box>
     <GuideEntityEmbed Entity="MobGoliath"/>
@@ -196,11 +196,11 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="MobBasilisk"/>
   </Box>
 
-  The Mining Asteroid consists of two sections: the [color=cyan]Dungeon[/color], a randomly-generated structure filled with enemies and material loot, and the [color=cyan]Asteroid[/color], which contains vast deposits of mineral wealth dotted with pockets of loot and monsters.
+  L'Astéroïde Minier se compose de deux sections : le [color=cyan]Donjon[/color], une structure générée aléatoirement remplie d'ennemis et de butin de matériaux, et l'[color=cyan]Astéroïde[/color], qui contient d'énormes gisements de richesses minérales parsemés de poches de butin et de monstres.
 
-  Beware of the monsters aboard the Mining Asteroid, as they stand head and shoulders above the threats present on Wrecks and Debris.
+  Attention aux monstres à bord de l'Astéroïde Minier, car ils dépassent de loin les menaces présentes sur les Épaves et les Débris.
 
-  - [color=cyan]Goliaths[/color]: Titanic beasts which can incapacitate targets with writhing tendrils, leaving them helpless against their massive claws and gnashing teeth. They're a pain to take down, but they can be butchered for valuable [color=cyan]Goliath Hide Plating,[/color] useful in both completing Salvage Jobs and upgrading your Spationaut Suit.
-  - [color=cyan]Hivelords[/color]: Fast moving and erratic anomalies. They prefer to keep their distance in combat, spewing out small [color=cyan]Hivelord Brood[/color] to swarm Salvagers. They're not especially tough, so ambush them quickly before they can summon a horde to drown you in. They can be butchered for the quick-rotting [color=cyan]Hivelord Cores,[/color] which are used to complete Salvage Jobs and can also be eaten raw for quick healing.
-  - [color=cyan]Basilisks[/color]: An ice-encrusted terror that lurks in the shadows. Basilisks can fire freezing energy bolts which damage and slow their targets, and will often use them to soften up a target before moving in for the kill. Once defeated, they can be butchered for invaluable [color=cyan]Diamond Ore[/color].
+  - [color=cyan]Goliaths[/color] : Des bêtes titanesques qui peuvent incapaciter des cibles avec des vrilles ondulantes, les laissant sans défense contre leurs griffes massives et leurs dents qui grincent. Ils sont douloureux à abattre, mais ils peuvent être dépecés pour des [color=cyan]Plaques de Peau de Goliath[/color] précieuses, utiles à la fois pour accomplir des Tâches de Sauvetage et pour améliorer votre Combinaison Spationaute.
+  - [color=cyan]Seigneurs de la Ruche[/color] : Des anomalies rapides et erratiques. Ils préfèrent garder leurs distances au combat, crachant de petits [color=cyan]Couvée de Seigneur de la Ruche[/color] pour submerger les Sauveteurs. Ils ne sont pas particulièrement résistants, alors tendez-leur une embuscade rapidement avant qu'ils ne puissent invoquer une horde pour vous noyer. Ils peuvent être dépecés pour les [color=cyan]Cœurs de Seigneur de la Ruche[/color] à décomposition rapide, qui sont utilisés pour accomplir des Tâches de Sauvetage et peuvent également être mangés crus pour une guérison rapide.
+  - [color=cyan]Basilics[/color] : Une terreur enrobée de glace qui se cache dans les ombres. Les Basilics peuvent tirer des éclairs d'énergie gelante qui endommagent et ralentissent leurs cibles, et les utiliseront souvent pour ramollir une cible avant de s'approcher pour tuer. Une fois vaincus, ils peuvent être dépecés pour du [color=cyan]Minerai de Diamant[/color] inestimable.
 </Document>

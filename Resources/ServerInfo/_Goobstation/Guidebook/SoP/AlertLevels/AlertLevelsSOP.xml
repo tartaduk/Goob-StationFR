@@ -6,146 +6,146 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Alert Levels
-The following alert levels are the publicly defined levels on this station and what they entail.
-Below are the listed pop-ups for each alert and the color associated with them.
+# Niveaux d'Alerte
+Les niveaux d'alerte suivants sont les niveaux publiquement définis sur cette station et ce qu'ils impliquent.
+Ci-dessous sont les fenêtres contextuelles listées pour chaque alerte et la couleur associée à elles.
 
 <ColorBox>
   <Box>
-    For the purposes of Alert Escalation: Treat higher alerts as if they are still on the previous alert level. (Yellow Alert is Blue Alert if it was Blue Alert prior.) Furthermore, treat Delta, Gamma, Epsilon, and Violet Alert as Red Alert.
+    Pour les besoins de l'Escalade d'Alerte : Traitez les alertes supérieures comme si elles étaient toujours au niveau d'alerte précédent. (L'Alerte Jaune est l'Alerte Bleue si c'était l'Alerte Bleue auparavant.) De plus, traitez l'Alerte Delta, Gamma, Epsilon, et Violette comme l'Alerte Rouge.
   </Box>
 </ColorBox>
 
-There are individual entries for each alert level and what they entail for station personnel.
+Il y a des entrées individuelles pour chaque niveau d'alerte et ce qu'elles impliquent pour le personnel de la station.
 
 <Table Columns="1">
   <ColorBox Color="#388c34">
     <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
-      [bold][color=#ffffff][head=1]Green Alert[/head][/color][/bold]
+      [bold][color=#ffffff][head=1]Alerte Verte[/head][/color][/bold]
     </Box>
   </ColorBox>
   <ColorBox>
     <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
-      Attention! Station alert level is now green! It is now safe to return to your workplace!
+      Attention ! Le niveau d'alerte de la station est maintenant vert ! Il est maintenant sûr de retourner à votre lieu de travail !
     </Box>
   </ColorBox>
 </Table>
 
-The [color=#388c34]Green Alert[/color] will always appear at the start of shift and is the default station alert level.
+L'[color=#388c34]Alerte Verte[/color] apparaîtra toujours au début du quart et est le niveau d'alerte par défaut de la station.
 
 <Table Columns="1">
   <ColorBox Color="#1b67a5">
     <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
-      [bold][color=#ffffff][head=1]Blue Alert[/head][/color][/bold]
+      [bold][color=#ffffff][head=1]Alerte Bleue[/head][/color][/bold]
     </Box>
   </ColorBox>
   <ColorBox>
     <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
-      Attention! Station alert level is now blue! There is a confirmed threat to the station. Security should perform random checks. Crewmembers are advised to be vigilant and report suspicious activity to security.
+      Attention ! Le niveau d'alerte de la station est maintenant bleu ! Il y a une menace confirmée pour la station. La sécurité doit effectuer des vérifications aléatoires. Les membres de l'équipage sont conseillés d'être vigilants et de signaler toute activité suspecte à la sécurité.
     </Box>
   </ColorBox>
 </Table>
 
-The [color=#1b67a5]Blue Alert[/color] will appear when a threat or significant amount of crimes have been reported. This often stays around for a while.
+L'[color=#1b67a5]Alerte Bleue[/color] apparaîtra lorsqu'une menace ou une quantité significative de crimes ont été signalés. Cela reste souvent autour pendant un certain temps.
 
 <Table Columns="1">
   <ColorBox Color="#c8a404">
     <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
-      [bold][color=#ffffff][head=1]Yellow Alert[/head][/color][/bold]
+      [bold][color=#ffffff][head=1]Alerte Jaune[/head][/color][/bold]
     </Box>
   </ColorBox>
   <ColorBox>
     <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
-      Attention! Station alert level is now yellow! There is a structural or atmospheric threat within the station. Engineering staff are advised to immediately respond and perform safety measures. Crewmembers are advised to stay away from the threat, and stay in their workplaces if necessary.
+      Attention ! Le niveau d'alerte de la station est maintenant jaune ! Il y a une menace structurelle ou atmosphérique dans la station. Le personnel d'ingénierie est conseillé de répondre immédiatement et d'effectuer des mesures de sécurité. Les membres de l'équipage sont conseillés de rester loin de la menace, et de rester dans leurs lieux de travail si nécessaire.
     </Box>
   </ColorBox>
 </Table>
 
-The [color=#c8a404]Yellow Alert[/color] will appear for massive damage to the station or gas leaks.
+L'[color=#c8a404]Alerte Jaune[/color] apparaîtra pour des dommages massifs à la station ou des fuites de gaz.
 
 <Table Columns="1">
   <ColorBox Color="#ba292c">
     <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
-      [bold][color=#ffffff][head=1]Red Alert[/head][/color][/bold]
+      [bold][color=#ffffff][head=1]Alerte Rouge[/head][/color][/bold]
     </Box>
   </ColorBox>
   <ColorBox>
     <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
-      Attention! Station alert level is now red! There is an immediate threat to the station. Security should prepare to use lethal force if necessary. Crewmembers should find a safe place to shelter in, and are advised to follow any present authorities.
+      Attention ! Le niveau d'alerte de la station est maintenant rouge ! Il y a une menace immédiate pour la station. La sécurité doit se préparer à utiliser la force létale si nécessaire. Les membres de l'équipage doivent trouver un endroit sûr pour s'abriter, et sont conseillés de suivre toute autorité présente.
     </Box>
   </ColorBox>
 </Table>
 
-The [color=#ba292c]Red Alert[/color] will appear for major hostile activities and/or threats to the station.
+L'[color=#ba292c]Alerte Rouge[/color] apparaîtra pour des activités hostiles majeures et/ou des menaces pour la station.
 
 <Table Columns="1">
   <ColorBox Color="#8b0000">
     <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
-      [bold][color=#ffffff][head=1]Delta Alert[/head][/color][/bold]
+      [bold][color=#ffffff][head=1]Alerte Delta[/head][/color][/bold]
     </Box>
   </ColorBox>
   <ColorBox>
     <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
-      Attention! Station alert level is now delta! The station is currently under threat of imminent destruction. Crewmembers are advised to listen to heads of staff for more information.
+      Attention ! Le niveau d'alerte de la station est maintenant delta ! La station est actuellement sous menace de destruction imminente. Les membres de l'équipage sont conseillés d'écouter les chefs de département pour plus d'informations.
     </Box>
   </ColorBox>
 </Table>
 
-The [color=#8b0000]Delta Alert[/color] will appear in situations where the station is actively about to self-destruct or be destroyed by other means.
+L'[color=#8b0000]Alerte Delta[/color] apparaîtra dans des situations où la station est activement sur le point de s'autodétruire ou être détruite par d'autres moyens.
 
 <Table Columns="1">
   <ColorBox Color="#9400d3">
     <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
-      [bold][color=#ffffff][head=1]Epsilon Alert[/head][/color][/bold]
+      [bold][color=#ffffff][head=1]Alerte Epsilon[/head][/color][/bold]
     </Box>
   </ColorBox>
   <ColorBox>
     <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
-      Attention! Station alert level is now epsilon! Central Command has ordered the Epsilon security level on the station. Consider all contracts terminated.
+      Attention ! Le niveau d'alerte de la station est maintenant epsilon ! Le Commandement Central a ordonné le niveau de sécurité Epsilon sur la station. Considérez tous les contrats terminés.
     </Box>
   </ColorBox>
 </Table>
 
-The [color=#9400d3]Epsilon Alert[/color] is only set when Central Command intervenes on the station for whatever reason.
+L'[color=#9400d3]Alerte Epsilon[/color] n'est réglée que lorsque le Commandement Central intervient sur la station pour quelque raison que ce soit.
 
 <Table Columns="1">
   <ColorBox Color="#db7093">
     <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
-      [bold][color=#ffffff][head=1]Gamma Alert[/head][/color][/bold]
+      [bold][color=#ffffff][head=1]Alerte Gamma[/head][/color][/bold]
     </Box>
   </ColorBox>
   <ColorBox>
     <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
-      Attention! Station alert level is now gamma! Central Command has ordered the Gamma security level on the station. Security is to have weapons at all times, and all civilians are to immediately seek their nearest head for transportation to a secure location.
+      Attention ! Le niveau d'alerte de la station est maintenant gamma ! Le Commandement Central a ordonné le niveau de sécurité Gamma sur la station. La sécurité doit avoir des armes à tout moment, et tous les civils doivent immédiatement chercher leur chef le plus proche pour le transport vers un endroit sécurisé.
     </Box>
   </ColorBox>
 </Table>
 
-The [color=#db7093]Gamma Alert[/color] is rare and often only used in extreme cases.
+L'[color=#db7093]Alerte Gamma[/color] est rare et souvent seulement utilisée dans des cas extrêmes.
 
 <Table Columns="1">
   <ColorBox Color="#cc74fc">
     <Box HorizontalAlignment="Center" VerticalAlignment="Stretch" Margin="10">
-      [bold][color=#ffffff][head=1]Violet Alert[/head][/color][/bold]
+      [bold][color=#ffffff][head=1]Alerte Violette[/head][/color][/bold]
     </Box>
   </ColorBox>
   <ColorBox>
     <Box HorizontalAlignment="Left" VerticalAlignment="Stretch" Margin="10">
-      Attention! Station alert level is now violet! There is a viral threat on the station. Medical staff are advised to isolate crewmembers with any symptoms. Crewmembers are advised to distance themselves from others and perform safety measures to prevent further spread.
+      Attention ! Le niveau d'alerte de la station est maintenant violet ! Il y a une menace virale sur la station. Le personnel médical est conseillé d'isoler les membres de l'équipage avec tout symptôme. Les membres de l'équipage sont conseillés de s'éloigner des autres et d'effectuer des mesures de sécurité pour empêcher toute propagation ultérieure.
     </Box>
   </ColorBox>
 </Table>
 
-The [color=#cc74fc]Violet Alert[/color] is set for viral outbreaks when a zombie infection or other disease occurs.
+L'[color=#cc74fc]Alerte Violette[/color] est réglée pour les épidémies virales lorsqu'une infection de zombie ou d'autre maladie se produit.
 
-These alerts can be found in entries listed below:
-- [textlink="Green Alert" link="GreenAlert SOP"]
-- [textlink="Blue Alert" link="BlueAlert SOP"]
-- [textlink="Yellow Alert" link="YellowAlert SOP"]
-- [textlink="Red Alert" link="RedAlert SOP"]
-- [textlink="Delta Alert" link="DeltaAlert SOP"]
-- [textlink="Epsilon Alert" link="EpsilonAlert SOP"]
-- [textlink="Gamma Alert" link="GammaAlert SOP"]
-- [textlink="Violet Alert" link="VioletAlert SOP"]
+Ces alertes peuvent être trouvées dans les entrées listées ci-dessous :
+- [textlink="Alerte Verte" link="GreenAlert SOP"]
+- [textlink="Alerte Bleue" link="BlueAlert SOP"]
+- [textlink="Alerte Jaune" link="YellowAlert SOP"]
+- [textlink="Alerte Rouge" link="RedAlert SOP"]
+- [textlink="Alerte Delta" link="DeltaAlert SOP"]
+- [textlink="Alerte Epsilon" link="EpsilonAlert SOP"]
+- [textlink="Alerte Gamma" link="GammaAlert SOP"]
+- [textlink="Alerte Violette" link="VioletAlert SOP"]
 
 </Document>

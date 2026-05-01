@@ -11,47 +11,47 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Jobs
+# Emplois
 
-SS14 has a large number of jobs, divided into seven major departments:
+SS14 possède un grand nombre d'emplois, divisés en sept grands départements :
 
 ## Service
-[color=#9fed58]Service[/color] is a diverse department that includes the head of personnel and other jobs who exist to serve the station.
+[color=#9fed58]Service[/color] est un département diversifié qui comprend le chef du personnel et d'autres emplois qui existent pour servir la station.
 
-It primarily functions as folks who entertain, clean, and serve the rest of the crew, with the exception of passengers who have no particular job beyond getting lost in maintenance.
+Il fonctionne principalement comme des personnes qui divertissent, nettoient et servent le reste de l'équipage, à l'exception des passagers qui n'ont pas de travail particulier au-delà de se perdre dans la maintenance.
 
 ## Cargo
-[color=#b18644]Cargo[/color] consists of the cargo technicians, salvage specialists, and the quartermaster. As a department, it responsible resource distribution and trade, capable of buying and selling things on the galactic market.
+[color=#b18644]Cargo[/color] comprend les techniciens de cargo, les spécialistes de sauvetage et le quart-maître. En tant que département, il est responsable de la distribution des ressources et du commerce, capable d'acheter et de vendre des choses sur le marché galactique.
 
-For the most part, this means they scrounge around the station and assorted wrecks to find materials to sell and redistribute, and purchase materials other departments request.
+Pour l'essentiel, cela signifie qu'ils fouillent la station et diverses épaves pour trouver des matériaux à vendre et redistribuer, et achètent des matériaux demandés par d'autres départements.
 
-## Security
-[color=#cb0000]Security[/color] consists of the security cadets, lawyers, detective, security officers, warden, and the head of security. As a department it is responsible for dealing with troublemakers and non-humanoid threats like giant rats and carp.
+## Sécurité
+[color=#cb0000]Sécurité[/color] comprend les cadets de sécurité, les avocats, le détective, les officiers de sécurité, le gardien et le chef de la sécurité. En tant que département, il est responsable de gérer les fauteurs de troubles et les menaces non humanoïdes comme les rats géants et les carpes.
 
-As a result of this, and the need to walk a fine line, security sometimes is overwhelmed by angry crew (don't kill the clown), and it is important for its members to try and stay on their best behavior.
+En conséquence de cela, et du besoin de marcher sur une ligne fine, la sécurité est parfois submergée par l'équipage en colère (ne tuez pas le clown), et il est important pour ses membres d'essayer de rester sur leur meilleur comportement.
 
-## Medical
-[color=#5b97bc]Medical[/color] consists of the medical interns, chemists, medical doctors, and the chief medical officer. As a department it is responsible for taking care of the crew, treat and/or clone the wounded and dead, treat disease, and prevent everyone from dying a horrible, bloody death in a closet somewhere.
+## Médical
+[color=#5b97bc]Médical[/color] comprend les internes médicaux, les chimistes, les médecins et le chef médical. En tant que département, il est responsable de prendre soin de l'équipage, de traiter et/ou cloner les blessés et les morts, de traiter les maladies, et d'empêcher tout le monde de mourir une mort horrible et sanglante dans un placard quelque part.
 
-Medical is one of the more well-equipped departments, with the ability to locate injured crew using the crew monitor, a nigh infinite supply of chems should chemistry be on-par, and the ability to rapidly diagnose and vaccinate contagious diseases.
+Le médical est l'un des départements les mieux équipés, avec la capacité de localiser l'équipage blessé en utilisant le moniteur d'équipage, une quasi infinie provision de produits chimiques si la chimie est au niveau, et la capacité de diagnostiquer rapidement et vacciner les maladies contagieuses.
 
 ## Science
-[color=#c96dbf]Science[/color] consists of research assistants, scientists, and the research director. As a department it is responsible for researching technologies and artifacts, upgrading machines, and printing new and useful devices.
+[color=#c96dbf]Science[/color] comprend les assistants de recherche, les scientifiques et le directeur de recherche. En tant que département, il est responsable de la recherche de technologies et d'artefacts, de la mise à niveau des machines, et de l'impression de nouveaux dispositifs utiles.
 
-Scientists should seek out new artifacts to study, as well as solicit departments to help upgrade their machines.
+Les scientifiques devraient chercher de nouveaux artefacts à étudier, ainsi que solliciter les départements pour aider à mettre à niveau leurs machines.
 
-## Engineering
-[color=#f39f27]Engineering[/color] consists of technical assistants, station engineers, atmospheric technicians, and the chief engineer. As a department it is responsible for keeping the station powered, its structure intact and its air supply working.
+## Ingénierie
+[color=#f39f27]Ingénierie[/color] comprend les assistants techniques, les ingénieurs de station, les techniciens atmosphériques et le chef ingénieur. En tant que département, il est responsable de maintenir la station alimentée, sa structure intacte et son approvisionnement en air fonctionnel.
 
-Engineering is readily equipped to go safely into space, and as such they should always attempt to repair uninhabitable parts of the station.
+L'ingénierie est facilement équipée pour aller en toute sécurité dans l'espace, et en tant que telle, elle devrait toujours tenter de réparer les parties inhabitables de la station.
 
-## Command
-[color=#1b67a5]Command[/color] consists of every department head. It is responsible for keeping the station and its departments running efficiently.
+## Commandement
+[color=#1b67a5]Commandement[/color] comprend tous les chefs de département. Il est responsable de maintenir la station et ses départements fonctionnant efficacement.
 
-Command members should always be relatively competent in their respective departments and attempt to delegate responsibility and direct work.
+Les membres du commandement devraient toujours être relativement compétents dans leurs départements respectifs et essayer de déléguer la responsabilité et diriger le travail.
 
-# Getting Your Job Changed
-The [color=#9fed58]Head of Personnel[/color] is the person in charge of changing ID accesses and handing out encryption keys. Head over to their office and let them know what job you'd like to work instead.
+# Changer d'Emploi
+Le [color=#9fed58]Chef du Personnel[/color] est la personne responsable de changer les accès d'identification et de distribuer les clés de cryptage. Allez à leur bureau et informez-les de l'emploi que vous aimeriez faire à la place.
 
-Often, they'll want you to go get a paper [color=#a4885c]stamped[/color] by a department head. Don't sweat it, just find them and hand them the paper.
+Souvent, ils voudront que vous alliez chercher un papier [color=#a4885c]tamponné[/color] par un chef de département. Ne vous inquiétez pas, trouvez-les simplement et donnez-leur le papier.
 </Document>

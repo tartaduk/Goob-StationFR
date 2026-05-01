@@ -6,34 +6,34 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Station Alert - Epsilon
+  # Alerte de Station - Epsilon
 
   <Box>
-    [italic]Called by: Central Command Only.[/italic]
+    [italic]Appelée par : Commandement Central Uniquement.[/italic]
   </Box>
 
-  [bold]Conditions:[/bold]
+  [bold]Conditions :[/bold]
 
-  Central Command has deemed it necessary to terminate all contracts.
+  Le Commandement Central a jugé nécessaire de terminer tous les contrats.
 
-  [bold]Security:[/bold]
+  [bold]Sécurité :[/bold]
 
-  Security and the rest of the station are to fend for themselves. All contracts are terminated and nothing is required to act upon.
+  La Sécurité et le reste de la station doivent se débrouiller seuls. Tous les contrats sont terminés et rien n'est requis d'agir.
 
-  [bold]Secure Areas:[/bold]
+  [bold]Zones Sécurisées :[/bold]
 
-  The entire station is considered a secure area.
+  Toute la station est considérée comme une zone sécurisée.
 
-  All Secure Areas are to be bolted down. Secure Areas may be left unbolted at the discretion of any personnel with access to do so.
+  Toutes les Zones Sécurisées doivent être verrouillées. Les Zones Sécurisées peuvent être laissées déverrouillées à la discrétion de tout le personnel ayant accès pour le faire.
 
-  [bold]General Crew:[/bold]
+  [bold]Équipage Général :[/bold]
 
-  All personnel are no longer required to maximize suit sensors. Do so at your discretion.
+  Tout le personnel n'est plus tenu de maximiser les capteurs de combinaison. Faites-le à votre discrétion.
 
-  All personnel are no longer required to remain in any Department.
+  Tout le personnel n'est plus tenu de rester dans aucun Département.
 
-  Visitors of the station, anyone without Central Command access, are to fend for themselves along with the station crew.
+  Les visiteurs de la station, quiconque sans accès au Commandement Central, doivent se débrouiller seuls avec l'équipage de la station.
 
-  Personnel are no longer required to follow instructions from any other person.
+  Le personnel n'est plus tenu de suivre les instructions de toute autre personne.
 
 </Document>

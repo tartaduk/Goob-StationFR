@@ -6,41 +6,41 @@
     <GuideEntityEmbed Entity="ClothingHandsGlovesKravMaga" Caption=""/>
   </Box>
 
-  Krav Maga is a self-defence [textlink="martial art" link="MartialArts"] that was developed by ancient militaries on Terra six centuries ago.
-  It can be learned through years of training or be given to a user by advanced nanomachines stored inside gloves.
-  On the station, a singular pair of Krav Maga Gloves can be found the Warden's locker. Syndicate antagonists can use Krav Maga Implant for the same effect.
+  Le Krav Maga est un [textlink="art martial" link="MartialArts"] de légitime défense qui a été développé par des militaires anciens sur Terra il y a six siècles.
+  Il peut être appris à travers des années d'entraînement ou être donné à un utilisateur par des nanomachines avancées stockées à l'intérieur de gants.
+  Sur la station, une paire unique de Gants de Krav Maga peut être trouvée dans le casier du Gardien. Les antagonistes du Syndicat peuvent utiliser l'Implant de Krav Maga pour le même effet.
 
-  ## Action Combat
+  ## Combat d'Action
 
-  Krav Maga attacks aren't like the combos of most martial arts. The user must instead ready the attack they
-  wish to use in the action bar, then follow it up by performing Harm action on the opponent as normal.
+  Les attaques de Krav Maga ne sont pas comme les combos de la plupart des arts martiaux. L'utilisateur doit plutôt préparer l'attaque qu'il
+  souhaite utiliser dans la barre d'action, puis la suivre en effectuant l'action de Nuisance sur l'adversaire comme d'habitude.
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  ### Leg Sweep
+  ### Balayage de Jambes
 
   <Box>
     <GuideEntityEmbed Entity="ActionLegSweep" Caption=""/>
   </Box>
 
-  Sweeps the legs out from under an opponent to knock them down.
+  Balaye les jambes d'un adversaire pour le faire tomber.
 
-  ### Neck Chop
+  ### Coup de Cou
 
   <Box>
     <GuideEntityEmbed Entity="ActionNeckChop" Caption=""/>
   </Box>
 
-  A hard swing with the side of the user's hand temporally disables the opponent's ability to speak.
+  Un coup dur avec le côté de la main de l'utilisateur désactive temporairement la capacité de l'adversaire à parler.
 
-  ### Lung Punch
+  ### Coup de Poumon
 
   <Box>
     <GuideEntityEmbed Entity="ActionLungPunch" Caption=""/>
   </Box>
 
-  Deals Stamina damage and temporally disables the opponent's ability to breath.
+  Inflige des dégâts d'Endurance et désactive temporairement la capacité de l'adversaire à respirer.
 
 </Document>

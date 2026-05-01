@@ -1,120 +1,120 @@
 <Document>
-<GuideEntityEmbed Entity="RoboticArm" Caption="The factory must grow."/>
+<GuideEntityEmbed Entity="RoboticArm" Caption="L'usine doit grandir."/>
 
-On goob many machines and processes can be automated.
+Sur goob beaucoup de machines et processus peuvent être automatisés.
 
-The first step is getting science to unlock [bold]Industrial Engineering[/bold] which unlocks everything you need.
+La première étape est d'obtenir de la science pour débloquer [bold]Ingénierie Industrielle[/bold] qui débloque tout ce dont vous avez besoin.
 
-If you have played with Factorio or the Create mod you will be familiar with how it works.
+Si vous avez joué à Factorio ou au mod Create vous serez familier avec comment cela fonctionne.
 
-## Robotic Arm
+## Bras Robotique
 
 <GuideEntityEmbed Entity="RoboticArm"/>
 
-The main workhorse for automation, it moves items from an input to an output.
+Le principal cheval de bataille pour l'automatisation, il déplace des articles d'une entrée vers une sortie.
 
-Without any configuration, it will work with items on the floor infront of it and behind it.
+Sans aucune configuration, il fonctionnera avec les articles sur le sol devant lui et derrière lui.
 
-[bold]Use a multitool[/bold] to link its input and output machine to [bold]automated machines[/bold].
-Any signal port that starts with "Item:" is compatible.
+[bold]Utilisez un multitool[/bold] pour lier sa machine d'entrée et de sortie aux [bold]machines automatisées[/bold].
+Tout port de signal qui commence par "Item:" est compatible.
 
-It has a [italic]Moved[/italic] signal port which is invoked after an item is moved to the output.
+Il a un port de signal [italic]Déplacé[/italic] qui est invoqué après qu'un article est déplacé vers la sortie.
 
-## Automated Machines
+## Machines Automatisées
 
-A variety of machines can be automated by installing an [bold]Automation Upgrade[/bold] on them.
+Une variété de machines peuvent être automatisées en installant une [bold]Amélioration d'Automatisation[/bold] sur elles.
 
-This can unlock:
-- signal ports to control the machine by linking it to buttons, logic gates, etc.
-- signal ports that get invoked when the machine does something, like a disposal unit being ready to flush
-- item automation ports for the [bold]robotic arm[/bold] to use
-- a combination of both
+Cela peut débloquer :
+- des ports de signal pour contrôler la machine en la liant à des boutons, portes logiques, etc.
+- des ports de signal qui sont invoqués lorsque la machine fait quelque chose, comme une unité d'évacuation prête à évacuer
+- des ports d'automatisation d'articles pour le [bold]bras robotique[/bold] à utiliser
+- une combinaison des deux
 
-Here is every machine that accepts automation upgrades:
+Voici chaque machine qui accepte les améliorations d'automatisation :
 
 <GuideAutomationSlotsEmbed/>
 
-## Storage Bin
+## Bac de Stockage
 
 <GuideEntityEmbed Entity="StorageBin"/>
 
-A large gridinv storage that can be accessed by robotic arms by default.
+Un grand stockage gridinv qui peut être accessible par les bras robotiques par défaut.
 
-It has a filter slot to control what items can be inserted, similar to a belt whitelist.
+Il a un emplacement de filtre pour contrôler quels articles peuvent être insérés, similaire à une liste blanche de ceinture.
 
-A good use of this is stacking up items and then extracting them in chunks with a stack filter robotic arm.
+Une bonne utilisation de ceci est d'empiler des articles et ensuite de les extraire en morceaux avec un bras robotique de filtre de pile.
 
-## Interactor
+## Interacteur
 
 <GuideEntityEmbed Entity="Interactor"/>
 
-This simulates left click interactions with its held item on an entity infront of it.
-If no item is held it's like pressing E, to open a door/crate, picking up an item, etc.
+Ceci simule les interactions de clic gauche avec son article tenu sur une entité devant lui.
+Si aucun article n'est tenu c'est comme appuyer sur E, pour ouvrir une porte/caisse, ramasser un article, etc.
 
-It stores its tool in an actual hand so you can swap it out with the strip menu by pressing E on it.
+Il stocke son outil dans une main réelle donc vous pouvez l'échanger avec le menu de bande en appuyant sur E dessus.
 
-A filter slot is used to change what entities it will interact with. Using a proper filter is essential as it will only try to interact with 1 item.
-It will search for [bold]any entity[/bold] without a filter, even things like conveyors or puddles! Use filters.
+Un emplacement de filtre est utilisé pour changer avec quelles entités il interagira. Utiliser un filtre approprié est essentiel car il essaiera seulement d'interagir avec 1 article.
+Il cherchera [bold]toute entité[/bold] sans filtre, même des choses comme les convoyeurs ou les flaques ! Utilisez des filtres.
 
-It has 4 signal ports:
-- Start, used to try interacting with something
-- Auto Start, when enabled it will automatically try to interact after a successful interaction
-- Started, invoked if the interaction starts a doafter
-- Completed, invoked on interaction success OR when the doafter ends
-- Failed, invoked if it could not interact with anything
+Il a 4 ports de signal :
+- Démarrer, utilisé pour essayer d'interagir avec quelque chose
+- Démarrage Auto, lorsqu'il est activé il essaiera automatiquement d'interagir après une interaction réussie
+- Démarré, invoqué si l'interaction démarre un doafter
+- Complété, invoqué sur le succès de l'interaction OU lorsque le doafter se termine
+- Échoué, invoqué s'il ne pouvait pas interagir avec quoi que ce soit
 
-## Constructor
+## Constructeur
 
 <GuideEntityEmbed Entity="Constructor"/>
 
-This will construct new objects like you would in the G menu, click it to select which thing to craft.
-It will only complete the first step, [bold]use interactors to finish multi-step constructions[/bold].
-Construction ghosts and created items both get placed infront of it.
+Ceci construira de nouveaux objets comme vous le feriez dans le menu G, cliquez dessus pour sélectionner quoi fabriquer.
+Il ne complètera que la première étape, [bold]utilisez des interacteurs pour finir les constructions multi-étapes[/bold].
+Les fantômes de construction et les articles créés sont tous deux placés devant lui.
 
-Input items are taken from the floor nearby as well as its internal storage, which doubles as a storage bin.
+Les articles d'entrée sont pris du sol à proximité ainsi que de son stockage interne, qui fait doublement office de bac de stockage.
 
-It has the same ports as an Interactor.
+Il a les mêmes ports qu'un Interacteur.
 
-## Filters
+## Filtres
 
-Filters can be inserted into robotic arms and storage bins to restrict what items they can move and store respectively.
+Les filtres peuvent être insérés dans les bras robotiques et les bacs de stockage pour restreindre quels articles ils peuvent déplacer et stocker respectivement.
 
-Craft them by hand in the [bold]G menu[/bold] and click them into machines to insert them.
+Fabriquez-les à la main dans le [bold]menu G[/bold] et cliquez-les dans les machines pour les insérer.
 
 <Box>
 <GuideEntityEmbed Entity="AutomationFilterName"/>
-The name filter searches an item's name in some way.
-For example, if you set it to check that an item [italic]contains[/italic] "sheet", it will match steel sheets, glass sheets, etc.
+Le filtre de nom recherche le nom d'un article d'une certaine manière.
+Par exemple, si vous le réglez pour vérifier qu'un article [italic]contient[/italic] "feuille", il correspondra aux feuilles d'acier, aux feuilles de verre, etc.
 </Box>
 
 <Box>
 <GuideEntityEmbed Entity="AutomationFilterLabel"/>
-The label filter requires items to have an exact matching label.
-Use a hand labeler on items to have them picked up.
+Le filtre d'étiquette exige que les articles aient une étiquette correspondante exacte.
+Utilisez un étiqueteur à main sur les articles pour qu'ils soient ramassés.
 </Box>
 
 <Box>
 <GuideEntityEmbed Entity="AutomationFilterStack"/>
-The stack filter controls how it interacts with stacks.
-The minimum stack size is a simple minimum, if an item doesn't have that much in a stack it won't be used.
-Out chunk size limits how many of a stack can be taken. Only a whole multiple of this size will be taken out.
-[italic]For example, a chunk size of 5 on stacks of 6, 10, 14 and 15 will take 5, 10, 10 and 15 respectively.[/italic]
+Le filtre de pile contrôle comment il interagit avec les piles.
+La taille de pile minimale est un simple minimum, si un article n'a pas autant dans une pile il ne sera pas utilisé.
+La taille de morceau de sortie limite combien d'une pile peuvent être pris. Seul un multiple entier de cette taille sera pris.
+[italic]Par exemple, une taille de morceau de 5 sur des piles de 6, 10, 14 et 15 prendra 5, 10, 10 et 15 respectivement.[/italic]
 </Box>
 
 <Box>
 <GuideEntityEmbed Entity="AutomationFilterCombined"/>
-The combined filter stores 2 filters inside it and uses a logic gate to control how they function.
-By default it will allow any item that passes either filter (an OR gate).
-It supports all the same operations that logic gate items do.
-These can be nested for arbitrarily complex filters!
+Le filtre combiné stocke 2 filtres à l'intérieur et utilise une porte logique pour contrôler comment ils fonctionnent.
+Par défaut il permettra tout article qui passe l'un ou l'autre filtre (une porte OU).
+Il supporte toutes les mêmes opérations que les articles de porte logique font.
+Ceux-ci peuvent être imbriqués pour des filtres arbitrairement complexes !
 </Box>
 
 ## Transport
 
-Conveyor belts are an obvious way to transport items around as they allow machines to pick up from them.
+Les ceintures transporteuses sont un moyen évident de transporter des articles car elles permettent aux machines de les ramasser.
 
-For higher speed you can use automated disposal units to flush items around.
+Pour une vitesse plus élevée vous pouvez utiliser des unités d'évacuation automatisées pour évacuer les articles autour.
 
-For long-range space transport you can use Containment Field + Disposal Unit cannons to fire items precisely.
+Pour le transport spatial à longue portée vous pouvez utiliser un Champ de Confinement + Canons d'Unité d'Évacuation pour tirer des articles avec précision.
 
 </Document>

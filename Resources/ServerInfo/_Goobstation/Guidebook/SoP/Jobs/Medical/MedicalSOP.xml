@@ -6,16 +6,16 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Medical Department SOP
-These are the list of SOPs that Medical Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
+# SOP du Département Médical
+Ce sont la liste des SOP que le Personnel Médical doit suivre. Ce sont, comme indiqué précédemment, [bold]pas des listes de contrôle[/bold] et doivent être traités comme des lignes directrices.
 
-For purposes of condensing entries, [color=#42636d][bold]Medical Doctor[/bold][/color], [color=#42636d][bold]Medical Intern[/bold][/color], [color=#42636d][bold]Paramedic[/bold][/color] are combined.
+Pour les besoins de condenser les entrées, le [color=#42636d][bold]Médecin[/bold][/color], l'[color=#42636d][bold]Interne Médical[/bold][/color], le [color=#42636d][bold]Paramédique[/bold][/color] sont combinés.
 
-The following jobs have entries in this Department, the [color=#1b67a5][bold]Chief Medical Officer[/bold][/color] being the Head of Staff:
-- [textlink="Chief Medical Officer" link="ChiefMedicalOfficerSOP"]
-- [textlink="Chemist" link="ChemistSOP"]
-- [textlink="Paramedic" link="DoctorInternSOP"]
-- [textlink="Medical Doctor" link="DoctorInternSOP"]
-- [textlink="Medical Intern" link="DoctorInternSOP"]
+Les emplois suivants ont des entrées dans ce Département, le [color=#1b67a5][bold]Chef Médical[/bold][/color] étant le Chef de Département :
+- [textlink="Chef Médical" link="ChiefMedicalOfficerSOP"]
+- [textlink="Chimiste" link="ChemistSOP"]
+- [textlink="Paramédique" link="DoctorInternSOP"]
+- [textlink="Médecin" link="DoctorInternSOP"]
+- [textlink="Interne Médical" link="DoctorInternSOP"]
 
 </Document>

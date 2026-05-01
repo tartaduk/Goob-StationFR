@@ -5,21 +5,21 @@
     <GuideEntityEmbed Entity="MobChitinid" Caption=""/>
   </Box>
 
-  An industrious hymenoptera species, the Chitinid are strong and diligent. Thanks to evolution, they have grown an acute resistance to radiation, but not without its side effects.
+  Une espèce hyménoptère industrieuse, les Chitinid sont forts et diligents. Grâce à l'évolution, ils ont développé une résistance aiguë aux radiations, mais pas sans ses effets secondaires.
 
-  ## Diet
-  - Can eat raw meat.
+  ## Régime
+  - Peut manger de la viande crue.
 
-  ## Benefits
-  - Takes 80% less Radiation, 10% less Slash Blunt and Piercing.
-  - Their bodies naturally recover from light radiation damage up to a point, once they accumulate enough radiation they must purge it from their systems in the form of a small rock [color=#ff0f0f]WARNING:The Chitzite they expel is slightly radioactive [/color].
-  - They possess a bio light.
+  ## Avantages
+  - Subit 80% moins de radiations, 10% moins de dégâts de coupure, contondants et perforants.
+  - Leurs corps récupèrent naturellement des légers dégâts de radiation jusqu'à un certain point, une fois qu'ils ont accumulé suffisamment de radiations, ils doivent les purger de leurs systèmes sous forme d'une petite roche [color=#ff0f0f]ATTENTION : Le Chitzite qu'ils expulsent est légèrement radioactif [/color].
+  - Ils possèdent une lumière biologique.
 
-  ## Drawbacks
-  - They take 15% more Shock damage due to their biology.
-  - Due to their hard shells normal syringes can not pierce them, requiring hypos to bypass the toughness.
-  - Thanks to their overactive systems they get hungry 33% faster.
-  - The cold does not agree with their biology and makes their movement sluggish the colder it gets, the cold also harms them more than others causing them to take 25% more damage from it.
-  - Bug Blood.
+  ## Inconvénients
+  - Ils subissent 15% plus de dégâts de choc en raison de leur biologie.
+  - En raison de leurs coquilles dures, les seringues normales ne peuvent pas les percer, nécessitant des hypos pour contourner la robustesse.
+  - Grâce à leurs systèmes suractifs, ils ont faim 33% plus vite.
+  - Le froid ne convient pas à leur biologie et rend leur mouvement lent plus il fait froid, le froid leur fait également plus de mal qu'aux autres, leur faisant subir 25% plus de dégâts.
+  - Sang d'insecte.
 
 </Document>

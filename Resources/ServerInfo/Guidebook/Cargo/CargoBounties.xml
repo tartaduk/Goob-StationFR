@@ -9,23 +9,23 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Cargo Bounties
-  While [textlink="Cargo" link="Cargo"] can make [color=cyan]spesos[color] selling just about anything, more spesos can be made by fulfilling [color=cyan]bounties[/color] found through the Cargo Bounty Computer.
+  # Contrats de Fret
+  Bien que [textlink="Cargo" link="Cargo"] puisse gagner des [color=cyan]spesos[color] en vendant à peu près n'importe quoi, plus de spesos peuvent être gagnés en accomplissant des [color=cyan]contrats[/color] trouvés via l'Ordinateur de Contrats de Fret.
 
-  ## Starting Bounties
+  ## Démarrer les Contrats
 
   <Box>
     <GuideEntityEmbed Entity="ComputerCargoBounty"/>
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
   </Box>
 
-  To start a bounty, open the bounty screen by interacting with the [color=cyan]Cargo Bounty Computer[/color]. The Cargo Bounty Computer maintains a list of all the current bounties and lets you either print out a label or skip it.
+  Pour commencer un contrat, ouvrez l'écran des contrats en interagissant avec l'[color=cyan]Ordinateur de Contrats de Fret[/color]. L'Ordinateur de Contrats de Fret maintient une liste de tous les contrats actuels et vous permet soit d'imprimer une étiquette, soit de passer le contrat.
 
-  - Printing the label gives you a [color=cyan]Bounty Manifest[/color] listing the goods that need to be acquired. You can print out infinite Bounty Manifests, so ensure you are not repeating the same work as another Cargo Technician.
+  - Imprimer l'étiquette vous donne un [color=cyan]Manifeste de Contrat[/color] listant les marchandises à acquérir. Vous pouvez imprimer un nombre illimité de manifestes de contrat, alors assurez-vous de ne pas refaire le même travail qu'un autre Technicien de Fret.
 
-  - Skipping a bounty replaces that bounty with a new one, as there can only be six active bounties at any time. Skipping has a 15-minute cooldown and voids that bounty, which may anger other Cargo Technicians working on it.
+  - Passer un contrat remplace ce contrat par un nouveau, car il ne peut y avoir que six contrats actifs à tout moment. Passer un contrat a un temps de recharge de 15 minutes et annule ce contrat, ce qui peut énerver d'autres Techniciens de Fret qui y travaillent.
 
-  ## Fulfilling Bounties
+  ## Accomplir les Contrats
 
   <Box>
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
@@ -33,13 +33,13 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="AppraisalTool"/>
   </Box>
 
-  With the [color=cyan]Bounty Manifest[/color], it is now up to you to collect the required goods, but most departments will give you what you need if you ask for it with a Bounty Manifest.
+  Avec le [color=cyan]Manifeste de Contrat[/color], c'est maintenant à vous de collecter les marchandises requises, mais la plupart des départements vous donneront ce dont vous avez besoin si vous le demandez avec un Manifeste de Contrat.
 
-  Once you have collected the goods, return to the cargo bay and put the goods inside an empty [color=cyan]Crate[/color]. After everything is in the crate, close it, and then apply the Bounty Manifest to it.
+  Une fois que vous avez collecté les marchandises, retournez à la baie de fret et mettez les marchandises dans une [color=cyan]Caisse[/color] vide. Une fois que tout est dans la caisse, fermez-la, puis appliquez le Manifeste de Contrat dessus.
 
-  To verify the completion of a bounty, use the [color=cyan]Appraisal Tool[/color] on it. It should show a confirmation that the bounty has been completed.
+  Pour vérifier l'achèvement d'un contrat, utilisez l'[color=cyan]Outil d'Évaluation[/color] dessus. Il devrait afficher une confirmation que le contrat a été accompli.
 
-  ## Selling Bounties
+  ## Vendre les Contrats
 
   <Box>
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
@@ -47,9 +47,9 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="CargoPalletSell"/>
   </Box>
 
-  Once you have verified that you have completed the bounty, follow the same steps as selling anything else.
+  Une fois que vous avez vérifié que vous avez accompli le contrat, suivez les mêmes étapes que pour vendre n'importe quoi d'autre.
 
-  Just transport it to the [color=cyan]Trading Station[/color], sell it, and you are done!
+  Transportez-le simplement à la [color=cyan]Station de Commerce[/color], vendez-le, et c'est terminé !
 
-  When you return, there should be a new bounty to take its place.
+  Lorsque vous revenez, il devrait y avoir un nouveau contrat pour le remplacer.
 </Document>

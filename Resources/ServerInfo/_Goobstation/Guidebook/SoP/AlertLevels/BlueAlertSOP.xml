@@ -6,44 +6,44 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Station Alert - Blue
+  # Alerte de Station - Bleue
 
   <Box>
-    [italic]Called by: Anyone with Command-Level Access at a working Communications Console.[/italic]
+    [italic]Appelée par : Quiconque avec un Accès de Niveau Commandement à une Console de Communications fonctionnelle.[/italic]
   </Box>
 
-  [bold]Conditions:[/bold]
+  [bold]Conditions :[/bold]
 
-  There is a suspected threat on-board the station, or at a nearby location in space. This includes any signs of hostile activity that have not caused any damage to station or crew, but nonetheless seem present.
+  Il y a une menace suspectée à bord de la station, ou à un emplacement proche dans l'espace. Cela inclut tout signe d'activité hostile qui n'a causé aucun dommage à la station ou à l'équipage, mais qui semble néanmoins présent.
 
-  [italics]Minor threats such as thieves, bar fights, and non-violent protests are not credible enough threats to elevate alert level to blue.
+  [italics]Les menaces mineures comme les voleurs, les bagarres de bar, et les protestations non violentes ne sont pas des menaces crédibles suffisantes pour élever le niveau d'alerte au bleu.
 
-  [bold]OR[/bold]
+  [bold]OU[/bold]
 
-  Confirmed Code Red threats have been properly handled or subsided on their own. It is recommended that, after 10+ minutes on Code Red without any hostile activity, Code Blue be called.
+  Les menaces de Code Rouge confirmées ont été correctement gérées ou se sont apaisées d'elles-mêmes. Il est recommandé qu'après 10+ minutes en Code Rouge sans aucune activité hostile, le Code Bleu soit appelé.
 
-  [bold]Security:[/bold]
+  [bold]Sécurité :[/bold]
 
-  Weapons do not need to be holstered. However, it is recommended that Security personnel follow Security SOP in order to prevent accidents and to be fully aware of armament procedure;
+  Les armes n'ont pas besoin d'être rangées. Cependant, il est recommandé que le personnel de Sécurité suive le SOP de Sécurité afin de prévenir les accidents et d'être pleinement conscient de la procédure d'armement ;
 
-  Random searches are fully permitted. Security personnel may detain any personnel refusing a random search in order to conduct said search;
+  Les fouilles aléatoires sont entièrement permises. Le personnel de Sécurité peut détenir tout le personnel refusant une fouille aléatoire afin de mener ladite fouille ;
 
-  [bold]Secure Areas:[/bold]
+  [bold]Zones Sécurisées :[/bold]
 
-  EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Vault, Gateway, anywhere else requiring command level access that does not get regularly used.
+  Stockage EVA, Stockage Technique, Générateur de Gravité, Stockage Sécurisé d'Ingénierie, Téléversement IA, Coffre, Passerelle, n'importe où ailleurs nécessitant un accès de niveau commandement qui n'est pas régulièrement utilisé.
 
-  It is recommended that all Secure Areas be bolted down unless their use is necessary;
+  Il est recommandé que toutes les Zones Sécurisées soient verrouillées sauf si leur utilisation est nécessaire ;
 
-  Excursions into the Gateway are not recommended, unless they are rescue parties.
+  Les excursions dans la Passerelle ne sont pas recommandées, sauf si elles sont des équipes de sauvetage.
 
-  [bold]General Crew:[/bold]
+  [bold]Équipage Général :[/bold]
 
-  All personnel are highly recommended to maximize their Suit Sensors;
+  Tout le personnel est fortement recommandé de maximiser ses Capteurs de Combinaison ;
 
-  Personnel are to report any suspicious activity to the nearest member of Security, or use their PDA or headsets if required;
+  Le personnel doit signaler toute activité suspecte au membre le plus proche de la Sécurité, ou utiliser son PDA ou ses casques si nécessaire ;
 
-  Personnel are highly encouraged to exercise caution, even if the threat is only suspected. Following simple safety procedures (such as not going through Maintenance alone) can prevent needless accidents;
+  Le personnel est fortement encouragé à faire preuve de prudence, même si la menace est seulement suspectée. Suivre des procédures de sécurité simples (comme ne pas aller seul dans la Maintenance) peut prévenir des accidents inutiles ;
 
-  Visitors to the station (anyone with Civilian-level access) are recommended to stay in public areas, for their safety.
+  Les visiteurs de la station (quiconque avec un accès de niveau Civil) sont recommandés de rester dans les zones publiques, pour leur sécurité.
 
 </Document>

@@ -1,38 +1,38 @@
 <Document>
 
-  # Dragon Kung Fu
+  # Kung Fu du Dragon
 
   <Box>
     <GuideEntityEmbed Entity="BSOManual" Caption=""/>
   </Box>
 
-  Dragon Kung Fu is a Shaolin [textlink="martial art" link="MartialArts"] focused on defense and control.
-  Fluid movements and powerful strikes come with patience and resilience. Perfect for bodyguards, it strengthens defenses and counters with precision.
-  Blueshield Officers can select the manual of this martial art in their weaponry box.
+  Le Kung Fu du Dragon est un [textlink="art martial" link="MartialArts"] Shaolin axé sur la défense et le contrôle.
+  Des mouvements fluides et des frappes puissantes viennent avec la patience et la résilience. Parfait pour les gardes du corps, il renforce les défenses et contre-attaque avec précision.
+  Les Officiers Bouclier Bleu peuvent sélectionner le manuel de cet art martial dans leur boîte d'armement.
 
-  ## Special abilities
+  ## Capacités spéciales
 
-  ### Dragon Power
+  ### Puissance du Dragon
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookDragonPower" Caption=""/>
   </Box>
 
-  A moment of staying still unarmed turns the warrior into a living mountain, greatly lowering
-  the force of incoming melee strikes and boosting their own attacks, both armed and not.
+  Un moment de rester immobile sans arme transforme le guerrier en une montagne vivante, réduisant grandement
+  la force des frappes de mêlée entrantes et boostant ses propres attaques, armées et non armées.
 
-  ## Combo attacks
+  ## Attaques combinées
 
-  ### Dragon Claw
+  ### Griffe du Dragon
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
   </Box>
 
-  Deals massive Stamina damage and slows the opponent down significantly.
+  Inflige des dégâts massifs d'Endurance et ralentit significativement l'adversaire.
 
-  ### Dragon Tail
+  ### Queue du Dragon
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
@@ -40,9 +40,9 @@
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Deals Blunt and Stamina damage. Knocks the opponent down if they are standing, and applies a short stun otherwise.
+  Inflige des dégâts Contondants et d'Endurance. Fait tomber l'adversaire s'il est debout, et applique un étourdissement court sinon.
 
-  ### Dragon Strike
+  ### Frappe du Dragon
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
@@ -50,6 +50,6 @@
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Deals 40 damage and stuns for 2 seconds. Only works on downed opponents.
+  Inflige 40 dégâts et étourdit pendant 2 secondes. Fonctionne seulement sur les adversaires à terre.
 
 </Document>

@@ -6,35 +6,35 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Roboticist SOP
-This is the list of procedures, responsibilities, and duties of the [color=#cc74fc]Roboticist[/color] of this station.
-<Box>For clarification, 'Scientist' and 'Roboticist' are both referred to as 'Scientist' in this SOP.</Box>
+# SOP du Roboticien
+C'est la liste des procédures, responsabilités et devoirs du [color=#cc74fc]Roboticien[/color] de cette station.
+<Box>Pour clarification, 'Scientifique' et 'Roboticien' sont tous deux appelés 'Scientifique' dans ce SOP.</Box>
 
 <ColorBox>
   <Box>
-    For the purposes of Alert Escalation: Treat higher alerts as if they are still on the previous alert level. (Yellow Alert is Blue Alert if it was Blue Alert prior.) Furthermore, treat Delta, Gamma, Epsilon, and Violet Alert as Red Alert.
+    Pour les besoins de l'Escalade d'Alerte : Traitez les alertes supérieures comme si elles étaient toujours au niveau d'alerte précédent. (L'Alerte Jaune est l'Alerte Bleue si c'était l'Alerte Bleue auparavant.) De plus, traitez l'Alerte Delta, Gamma, Epsilon, et Violette comme l'Alerte Rouge.
   </Box>
 </ColorBox>
 
-## Green Alert
-1. The Scientist is not permitted to construct any Combat Mechs without express permission from the Captain and/or Head of Security.
-<Box>The [color=#1b67a5][bold]Research Director[/bold][/color] is placed under these same restrictions.</Box>
+## Alerte Verte
+1. Le Scientifique n'est pas autorisé à construire aucun Méch de Combat sans permission expresse du Capitaine et/ou du Chef de la Sécurité.
+<Box>Le [color=#1b67a5][bold]Directeur de Recherche[/bold][/color] est placé sous ces mêmes restrictions.</Box>
 
-2. The Scientist is freely permitted to construct Utility Mechs, along with Utility Equipment. This refers to Ripleys.
+2. Le Scientifique est librement autorisé à construire des Méchs Utilitaires, ainsi que de l'Équipement Utilitaire. Cela fait référence aux Ripleys.
 
-3. The Scientist is freely permitted to construct Cyborgs and all assorted equipment (modules and more).
+3. Le Scientifique est librement autorisé à construire des Cyborges et tout l'équipement assorti (modules et plus).
 
-4. The Scientist is not permitted to transfer personnel MMIs into Cyborgs without express written or verbal consent from the person in question.
-<Box>The consent form should be kept safe.</Box>
+4. Le Scientifique n'est pas autorisé à transférer le personnel MMI dans des Cyborges sans consentement écrit ou verbal expresse de la personne en question.
+<Box>Le formulaire de consentement doit être gardé en sécurité.</Box>
 
-## Blue Alert
-1. Guidelines 2, 3, and 4 carry over from [color=#388c34]Green Alert[/color].
+## Alerte Bleue
+1. Les lignes directrices 2, 3, et 4 sont reportées de l'[color=#388c34]Alerte Verte[/color].
 
-2. The Scientist is permitted to construct Combat Mechs, but [bold]must deliver them to Armory[/bold] for Storage. Failure to do so will result in the Combat Mech being destroyed.
-<Box>The only exception to this policy is for extreme emergencies, such as Delta Alert, Nuclear Operatives, Blob, et cetera.</Box>
-<Box>The [color=#1b67a5][bold]Research Director[/bold][/color] is placed under these same restrictions.</Box>
+2. Le Scientifique est autorisé à construire des Méchs de Combat, mais [bold]doit les livrer à l'Armurerie[/bold] pour le Stockage. Le défaut de le faire entraînera la destruction du Méch de Combat.
+<Box>La seule exception à cette politique est pour les urgences extrêmes, comme l'Alerte Delta, les Opératifs Nucléaires, le Blob, et cetera.</Box>
+<Box>Le [color=#1b67a5][bold]Directeur de Recherche[/bold][/color] est placé sous ces mêmes restrictions.</Box>
 
-## Red Alert
-1. All guidelines from [color=#388c34]Green Alert[/color] and [color=#1b67a5]Blue Alert[/color] carry over. No special guidelines in [color=#ba292c]Red Alert[/color].
+## Alerte Rouge
+1. Toutes les lignes directrices de l'[color=#388c34]Alerte Verte[/color] et de l'[color=#1b67a5]Alerte Bleue[/color] sont reportées. Aucune ligne directrice spéciale dans l'[color=#ba292c]Alerte Rouge[/color].
 
 </Document>

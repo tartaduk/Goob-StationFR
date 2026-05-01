@@ -1,97 +1,97 @@
 <Document>
-# Virology
-This is a guide to diseases and how to handle them.
+# Virologie
+C'est un guide sur les maladies et comment les gérer.
 
 ## Infection
-Diseases initially come from a specific source. Most often, it's a plague mouse.
+Les maladies viennent initialement d'une source spécifique. Le plus souvent, c'est une souris de peste.
 
-<GuideEntityEmbed Entity="MobMousePlague" Caption="plague mouse"/>
+<GuideEntityEmbed Entity="MobMousePlague" Caption="souris de peste"/>
 
-If you're bitten by a plague mouse, there's a significant chance you get infected with a disease. The disease is random and can be anything, but will generally be weak. Alternatively, someone can cough near you, and you will get infected if not wearing protective gear.
+Si vous êtes mordu par une souris de peste, il y a une chance significative que vous soyez infecté par une maladie. La maladie est aléatoire et peut être n'importe quoi, mais sera généralement faible. Alternativement, quelqu'un peut tousser près de vous, et vous serez infecté si vous ne portez pas d'équipement de protection.
 
-Infections can also affect monkeys and other mice, but diseases do not have any effect in mice, so they act as disease spread vectors. However, non-plague mice have a smaller chance to infect on bite.
+Les infections peuvent également affecter les singes et d'autres souris, mais les maladies n'ont aucun effet sur les souris, donc elles agissent comme des vecteurs de propagation de maladie. Cependant, les souris non peste ont une plus petite chance d'infecter à la morsure.
 
-## Disease lifecycle
-Once you're infected, the disease gains infection progress while inside of you. The only way to tell you're infected at this point is to use a health analyzer or a swab. Additionally, you gain permanent immunity to that disease's genotype, as if you've taken a vaccine, so one disease can't infect you twice.
+## Cycle de vie de la maladie
+Une fois que vous êtes infecté, la maladie gagne du progrès d'infection pendant qu'elle est à l'intérieur de vous. La seule façon de savoir que vous êtes infecté à ce point est d'utiliser un analyseur de santé ou un écouvillon. De plus, vous gagnez une immunité permanente au génotype de cette maladie, comme si vous aviez pris un vaccin, donc une maladie ne peut pas vous infecter deux fois.
 
-Symptoms will begin showing up once the infection progress crosses certain thresholds. The more infection progress, the stronger the effects. Eventually it will hit its full force and stop progressing.
+Les symptômes commenceront à apparaître une fois que le progrès d'infection franchit certains seuils. Plus le progrès d'infection est élevé, plus les effets sont forts. Finalement, il atteindra sa pleine force et cessera de progresser.
 
-At that time, immunity progress will also start catching up, if not suppressed by the disease. Immunity progress will make the infection progress slow down and eventually reverse. For most diseases, this will make you eventually lose the disease on your own.
+À ce moment, le progrès d'immunité commencera également à rattraper, si non supprimé par la maladie. Le progrès d'immunité fera ralentir le progrès d'infection et éventuellement l'inversera. Pour la plupart des maladies, cela vous fera éventuellement perdre la maladie par vous-même.
 
-Disease effects can be varied. Most diseases will have some effect that makes it obvious you are sick, but rarely they will simply silently damage you. Some diseases will fight back against your immunity, not going away on their own.
+Les effets de maladie peuvent varier. La plupart des maladies auront un effet qui rend évident que vous êtes malade, mais rarement ils vous endommageront simplement silencieusement. Certaines maladies se battront contre votre immunité, ne partant pas d'eux-mêmes.
 
-Once the infection progress hits 0, you lose the disease.
+Une fois que le progrès d'infection atteint 0, vous perdez la maladie.
 
-## Treatment
-There's several ways to treat diseases.
+## Traitement
+Il y a plusieurs façons de traiter les maladies.
 
-The first and most important, of course, is simply not getting infected:
-- Avoid mice, especially if it's trying to bite you.
-- If you see someone coughing, keep away.
-- Wear sterile masks and other protective gear. Wear a biosuit for full protection. They can be ordered at cargo.
-- Wear a MedHUD to see who is infected.
-- Vaccines. If the virologist has gotten their hands on a disease, they might have a vaccine that will make you permanently immune.
+La première et la plus importante, bien sûr, est de simplement ne pas être infecté :
+- Évitez les souris, surtout si elle essaie de vous mordre.
+- Si vous voyez quelqu'un tousser, gardez vos distances.
+- Portez des masques stériles et d'autres équipements de protection. Portez une combinaison bio pour une protection complète. Elles peuvent être commandées au cargo.
+- Portez un MedHUD pour voir qui est infecté.
+- Vaccins. Si le virologue a mis la main sur une maladie, ils pourraient avoir un vaccin qui vous rendraira immunité de manière permanente.
 
-If that didn't work, you'll have to cure the disease, and not even vaccines will work. This can be done in several ways:
-- Immurin. It's a chemical that boosts your immunity, causing the disease to go away on its own much quicker.
-- Specialised anti-disease-type chemicals, such as devirate or spaceacilin.
-- Additionally, pay a visit to the virologist and let them swab you so they may analyze the disease and make vaccines against it.
+Si cela n'a pas fonctionné, vous devrez guérir la maladie, et même les vaccins ne fonctionneront pas. Cela peut être fait de plusieurs façons :
+- Immurin. C'est un produit chimique qui booste votre immunité, causant la maladie à partir d'elle-même beaucoup plus vite.
+- Produits chimiques spécialisés anti-maladie, comme le dévirat ou le spaceaciline.
+- De plus, rendez visite au virologue et laissez-les vous faire un écouvillon pour qu'ils puissent analyser la maladie et faire des vaccins contre elle.
 
-## Disease specifics and mutation
-Diseases aren't static, and they mutate every time they spread. Just about everything about a disease can mutate, even mutation rate itself, but not the disease type. Bacteria aren't going to mutate into viruses.
+## Spécificités de la maladie et mutation
+Les maladies ne sont pas statiques, et elles mutent à chaque fois qu'elles se propagent. Juste à peu près tout sur une maladie peut muter, même le taux de mutation lui-même, mais pas le type de maladie. Les bactéries ne vont pas muter en virus.
 
-The main properties of a disease are its genotype and its effects.
+Les principales propriétés d'une maladie sont son génotype et ses effets.
 
-The genotype is relevant for immunity against this disease. If the disease mutates its genotype, the resulting mutated disease will be able to infect even people who have been sick with the original disease.
+Le génotype est pertinent pour l'immunité contre cette maladie. Si la maladie mute son génotype, la maladie mutante résultante sera capable d'infecter même les personnes qui ont été malades avec la maladie originale.
 
-The disease effects are self-explanatory. It's what the disease does, such as coughing, damage, immunity suppression, vomiting, or positive effects such as speeding you up.
+Les effets de maladie sont explicites. C'est ce que la maladie fait, comme tousser, des dégâts, la suppression de l'immunité, vomir, ou des effets positifs comme vous accélérer.
 
-Diseases can be mutated by drinking unstable mutagen.
+Les maladies peuvent être mutées en buvant du mutagène instable.
 
-# Virologist
-This is a sub-guide on how to be the virologist.
+# Virologue
+C'est un sous-guide sur comment être le virologue.
 
-## The job
-As a virologist, your job is both to combat disease and to use it to your advantage.
+## Le travail
+En tant que virologue, votre travail est à la fois de combattre la maladie et de l'utiliser à votre avantage.
 
-You have many tools you can use for that purpose.
+Vous avez beaucoup d'outils que vous pouvez utiliser à cette fin.
 
-## Your toolkit
-- Your ViroHUD. It's significantly more avanced than the MedHUD at spotting who is infected, and can tell the rough severity.
-- Disease-related chemicals. Ask chemistry to make some.
-- Your biosuit, which will protect you from infection. Plague mice can't infect you through it.
-- Swabs, which let you take samples of disease from infected people.
-- A health analyzer, which can see what people are infected with.
-- And of course, your virology machinery.
+## Votre trousse
+- Votre ViroHUD. Il est significativement plus avancé que le MedHUD pour repérer qui est infecté, et peut dire la gravité approximative.
+- Produits chimiques liés aux maladies. Demandez à la chimie d'en faire.
+- Votre combinaison bio, qui vous protégera de l'infection. Les souris de peste ne peuvent pas vous infecter à travers elle.
+- Écouvillons, qui vous permettent de prendre des échantillons de maladie des personnes infectées.
+- Un analyseur de santé, qui peut voir quelles personnes sont infectées.
+- Et bien sûr, votre machinerie de virologie.
 
 <Box>
 <GuideEntityEmbed Entity="ClothingEyesHudViro" Caption="viro HUD"/>
 <GuideEntityEmbed Entity="VirologistPDA"/>
-<GuideEntityEmbed Entity="ClothingOuterBioVirology" Caption="biosuit"/>
+<GuideEntityEmbed Entity="ClothingOuterBioVirology" Caption="combinaison bio"/>
 <GuideEntityEmbed Entity="Syringe"/>
 <GuideEntityEmbed Entity="HandheldHealthAnalyzer"/>
 </Box>
 
-## Virology machines
-The disease analyzer and vaccinator are necessary to be able to properly handle disease. To use both of the machines, you will need a swab with disease on it. To get one, take a sterile swab and use it on someone who is infected.
+## Machines de virologie
+L'analyseur de maladie et le vaccinateur sont nécessaires pour pouvoir correctement gérer la maladie. Pour utiliser les deux machines, vous aurez besoin d'un écouvillon avec la maladie dessus. Pour en obtenir un, prenez un écouvillon stérile et utilisez-le sur quelqu'un qui est infecté.
 
-<GuideEntityEmbed Entity="DiseaseSwab" Caption="swab"/>
+<GuideEntityEmbed Entity="DiseaseSwab" Caption="écouvillon"/>
 
-The disease analyzer is a machine that can tell the specifics of a disease. It's important for triage and deciding what to do about the disease.
+L'analyseur de maladie est une machine qui peut dire les spécificités d'une maladie. C'est important pour le triage et décider quoi faire de la maladie.
 
-<GuideEntityEmbed Entity="DiseaseDiagnoser" Caption="disease analyzer"/>
+<GuideEntityEmbed Entity="DiseaseDiagnoser" Caption="analyseur de maladie"/>
 
-The vaccinator has 2 modes. Vaccine mode, and live injector mode. In vaccine mode, when inserted a swab, it will output a vaccine against the genotype of the disease on the swab. Vaccines make it so that people they are applied to gain permanent immunity to the disease's genotype. In live injector mode, the vaccinator will instead output an injector that infects whoever it's applied to with the source disease.
+Le vaccinateur a 2 modes. Mode vaccin, et mode injecteur vivant. En mode vaccin, lorsqu'un écouvillon est inséré, il produira un vaccin contre le génotype de la maladie sur l'écouvillon. Les vaccins font en sorte que les personnes auxquelles ils sont appliqués gagnent une immunité permanente au génotype de la maladie. En mode injecteur vivant, le vaccinateur produira à la place un injecteur qui infectera quiconque il est appliqué avec la maladie source.
 
 <Box>
-<GuideEntityEmbed Entity="Vaccine" Caption="vaccine"/>
-<GuideEntityEmbed Entity="LiveInjector" Caption="injector"/>
-<GuideEntityEmbed Entity="Vaccinator" Caption="vaccinator"/>
+<GuideEntityEmbed Entity="Vaccine" Caption="vaccin"/>
+<GuideEntityEmbed Entity="LiveInjector" Caption="injecteur"/>
+<GuideEntityEmbed Entity="Vaccinator" Caption="vaccinateur"/>
 </Box>
 
-## Experimentation
-And now, on why the live injector mode is needed, other than purposes not condoned by Nanotrasen.
+## Expérimentation
+Et maintenant, pourquoi le mode injecteur vivant est nécessaire, autres que des fins non condonnées par Nanotrasen.
 
-Diseases work on monkeys, so you can infect them and try to get the disease to mutate. Eventually, this might result in a positive effect, getting you a helpful disease. Additionally, if you get lucky, you might get a disease with the same genotype but way weaker. People sick with the weaker disease will gain immunity against the original disease. There's more usages that this guide won't go through.
+Les maladies fonctionnent sur les singes, donc vous pouvez les infecter et essayer de faire muter la maladie. Éventuellement, cela pourrait résulter en un effet positif, vous obtenant une maladie utile. De plus, si vous avez de la chance, vous pourriez obtenir une maladie avec le même génotype mais beaucoup plus faible. Les gens malades avec la maladie plus faible gagneront une immunité contre la maladie originale. Il y a plus d'utilisations que ce guide ne passera pas en revue.
 
 </Document>

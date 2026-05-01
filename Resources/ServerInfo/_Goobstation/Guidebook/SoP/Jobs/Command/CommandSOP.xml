@@ -6,26 +6,26 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Command Department SOP
-These are the list of SOPs that Command Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
+# SOP du Département Commandement
+Ce sont la liste des SOP que le Personnel de Commandement doit suivre. Ce sont, comme indiqué précédemment, [bold]pas des listes de contrôle[/bold] et doivent être traités comme des lignes directrices.
 
-Below are the list of guidelines [bold]all of Command should follow[/bold]:
+Ci-dessous sont la liste des lignes directrices [bold]tout le Commandement doit suivre[/bold] :
 
-1. The Command Personnel, excluding Head of Security, should not act as Security. Their job is to maintain their own Departments and assist the station.
+1. Le Personnel de Commandement, à l'exclusion du Chef de la Sécurité, ne doit pas agir comme la Sécurité. Son travail est de maintenir ses propres Départements et d'assister la station.
 
-2. The Command Personnel may defend themselves and perform arrests as needed in self-defense, but may not try, place times, or perform any other Security activities except hand-off arrested personnel to Security.
+2. Le Personnel de Commandement peut se défendre et effectuer des arrestations selon les besoins en légitime défense, mais ne peut pas essayer, fixer des temps, ou effectuer toute autre activité de Sécurité sauf remettre le personnel arrêté à la Sécurité.
 
-3. The Command Personnel may not, under any circumstances, promote station personnel to Central Command VIP Positions ([color=#1b67a5][bold]Nanotrasen Representative[/bold][/color] and [color=#1b67a5][bold]Blueshield Officer[/bold][/color]) without authorization from Central Command.
+3. Le Personnel de Commandement ne peut, en aucune circonstance, promouvoir le personnel de la station aux Postes VIP du Commandement Central ([color=#1b67a5][bold]Représentant Nanotrasen[/bold][/color] et [color=#1b67a5][bold]Officier Bouclier Bleu[/bold][/color]) sans l'autorisation du Commandement Central.
 
-The following jobs have entries in this Department, the Chain of Command being linked at the top, the Central Command VIP being separated in terms of Chain of Command, the Captain being the top of Chain of Command, and all Heads of Staff on equal footing:
-- [textlink="Chain of Command" link="Succession"]
-- [textlink="Nanotrasen Representative" link="NanotrasenRepSOP"]
-- [textlink="Blueshield Officer" link="BlueshieldOfficerSOP"]
-- [textlink="Head of Personnel" link="HeadOfPersonnelSOP"]
-- [textlink="Head of Security" link="HeadOfSecuritySOP"]
-- [textlink="Research Director" link="ResearchDirectorSOP"]
-- [textlink="Chief Medical Officer" link="ChiefMedicalOfficerSOP"]
-- [textlink="Chief Engineer" link="ChiefEngineerSOP"]
-- [textlink="Quartermaster" link="QuartermasterSOP"]
+Les emplois suivants ont des entrées dans ce Département, la Chaîne de Commandement étant liée en haut, le VIP du Commandement Central étant séparé en termes de Chaîne de Commandement, le Capitaine étant au sommet de la Chaîne de Commandement, et tous les Chefs de Département sur un pied d'égalité :
+- [textlink="Chaîne de Commandement" link="Succession"]
+- [textlink="Représentant Nanotrasen" link="NanotrasenRepSOP"]
+- [textlink="Officier Bouclier Bleu" link="BlueshieldOfficerSOP"]
+- [textlink="Chef du Personnel" link="HeadOfPersonnelSOP"]
+- [textlink="Chef de la Sécurité" link="HeadOfSecuritySOP"]
+- [textlink="Directeur de Recherche" link="ResearchDirectorSOP"]
+- [textlink="Chef Médical" link="ChiefMedicalOfficerSOP"]
+- [textlink="Chef Ingénieur" link="ChiefEngineerSOP"]
+- [textlink="Quart-Maître" link="QuartermasterSOP"]
 
 </Document>

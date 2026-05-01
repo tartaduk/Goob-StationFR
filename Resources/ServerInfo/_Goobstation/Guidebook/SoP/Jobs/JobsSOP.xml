@@ -6,20 +6,20 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Job Standards
-Attached below this are several different categories for Job-Specific Standard Operating Procedures (SOP). These are here to help clarify different goals in your job or department.
+# Normes d'Emploi
+Ci-joint ci-dessous sont plusieurs catégories différentes pour les Procédures Opérationnelles Standard Spécifiques à l'Emploi (SOP). Celles-ci sont là pour aider à clarifier différents objectifs dans votre emploi ou département.
 
 <Box>
-[bold][color=#f0e4b4]To be clear:[/color][/bold] these are not a [italic]checklist[/italic] for you to follow. They can be used as such, but should be used more as guidelines.
+[bold][color=#f0e4b4]Pour être clair :[/color][/bold] ce ne sont pas une [italic]liste de contrôle[/italic] pour vous à suivre. Elles peuvent être utilisées comme telles, mais devraient être utilisées plus comme des lignes directrices.
 </Box>
 
-The following folders are listed underneath this folder:
-- [textlink="Cargo Department" link="CargoSOP"]
-- [textlink="Command Department" link="CommandSOP"]
-- [textlink="Engineering Department" link="EngineeringSOP"]
-- [textlink="Medical Department" link="MedicalSOP"]
-- [textlink="Science Department" link="ScienceSOP"]
-- [textlink="Security Department" link="SecuritySOP"]
-- [textlink="Service Department" link="ServiceSOP"]
+Les dossiers suivants sont listés sous ce dossier :
+- [textlink="Département Cargo" link="CargoSOP"]
+- [textlink="Département Commandement" link="CommandSOP"]
+- [textlink="Département Ingénierie" link="EngineeringSOP"]
+- [textlink="Département Médical" link="MedicalSOP"]
+- [textlink="Département Science" link="ScienceSOP"]
+- [textlink="Département Sécurité" link="SecuritySOP"]
+- [textlink="Département Service" link="ServiceSOP"]
 
 </Document>

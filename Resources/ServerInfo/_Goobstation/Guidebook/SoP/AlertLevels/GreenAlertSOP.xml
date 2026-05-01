@@ -6,42 +6,42 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-    # Station Alert - Green
+    # Alerte de Station - Verte
 
     <Box>
-        [italic]Called by: Anyone with Command-Level Access at a working Communications Console.[/italic]
+        [italic]Appelée par : Quiconque avec un Accès de Niveau Commandement à une Console de Communications fonctionnelle.[/italic]
     </Box>
 
-    [bold]Conditions:[/bold]
+    [bold]Conditions :[/bold]
 
-    Default Alert Code at the start of the shift. Do not change unless a threat is suspected/confirmed;
+    Code d'Alerte par défaut au début du quart. Ne changez pas sauf si une menace est suspectée/confirmée ;
 
-    [bold]OR[/bold]
+    [bold]OU[/bold]
 
-    All confirmed/suspected threats to the station and/or crew have been handled, or simply vanished on their own. It is recommended that, after 15+ minutes on Code Blue without any hostile activity, Code Green be called;
+    Toutes les menaces confirmées/suspectées pour la station et/ou l'équipage ont été gérées, ou ont simplement disparu d'elles-mêmes. Il est recommandé qu'après 15+ minutes en Code Bleu sans aucune activité hostile, le Code Vert soit appelé ;
 
-    [bold]Security:[/bold]
+    [bold]Sécurité :[/bold]
 
-    All weapons must be holstered or kept in pockets/suit storage slots unless absolutely required;
+    Toutes les armes doivent être rangées ou gardées dans les poches/emplacements de stockage de combinaison sauf si absolument requis ;
 
-    Random searches are not permitted without express permission by either the Head of Security or Captain. However, searches are still permitted if there is reasonable suspicion of a crime.
+    Les fouilles aléatoires ne sont pas permises sans permission expresse du Chef de la Sécurité ou du Capitaine. Cependant, les fouilles sont toujours permises s'il y a une suspicion raisonnable d'un crime.
 
-    [bold]Secure Areas:[/bold]
+    [bold]Zones Sécurisées :[/bold]
 
-    EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Vault, Gateway, anywhere else requiring command level access that does not get regularly used.
+    Stockage EVA, Stockage Technique, Générateur de Gravité, Stockage Sécurisé d'Ingénierie, Téléversement IA, Coffre, Passerelle, n'importe où ailleurs nécessitant un accès de niveau commandement qui n'est pas régulièrement utilisé.
 
-    Secure areas such as EVA are to be left unbolted and ready to be used for their intended purposes.
+    Les zones sécurisées comme l'EVA doivent être laissées déverrouillées et prêtes à être utilisées pour leurs fins prévues.
 
-    Exceptions are below;
+    Les exceptions sont ci-dessous ;
 
-    The Vault is not to be opened unless repairs are required, gold is required for Research and Development (in case Mining fails to deliver) or a critical item needs to be hidden in the safe.
+    Le Coffre ne doit pas être ouvert sauf si des réparations sont requises, de l'or est requis pour la Recherche et Développement (au cas où l'Exploitation Minière échoue à livrer) ou un article critique doit être caché dans le coffre-fort.
 
-    Searches of a person or department need to have a signed and stamped warrant by the Captain or HoP.
+    Les fouilles d'une personne ou d'un département doivent avoir un mandat signé et tamponné par le Capitaine ou le HoP.
 
-    [bold]General Crew:[/bold]
+    [bold]Équipage Général :[/bold]
 
-    While not required, it is recommended that the crew activate and maximize their Suit Sensors, due to the potential for workplace accidents;
+    Bien que non requis, il est recommandé que l'équipage active et maximise ses Capteurs de Combinaison, en raison du potentiel d'accidents de travail ;
 
-    Free transit through the station is permitted for the crew, excluding Secure Areas.
+    Le transit libre à travers la station est permis pour l'équipage, à l'exclusion des Zones Sécurisées.
 
 </Document>

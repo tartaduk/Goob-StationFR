@@ -6,15 +6,15 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Engineering Department SOP
-These are the list of SOPs that Engineering Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
+# SOP du Département Ingénierie
+Ce sont la liste des SOP que le Personnel d'Ingénierie doit suivre. Ce sont, comme indiqué précédemment, [bold]pas des listes de contrôle[/bold] et doivent être traités comme des lignes directrices.
 
-For clarification, [color=#c8a404][bold]Station Engineer[/bold][/color] and [color=#c8a404][bold]Technical Assistant[/bold][/color] are combined into the same entry, and should be followed as such.
+Pour clarification, l'[color=#c8a404][bold]Ingénieur de Station[/bold][/color] et l'[color=#c8a404][bold]Assistant Technique[/bold][/color] sont combinés dans la même entrée, et doivent être suivis comme tels.
 
-The following jobs have entries in this Department, with [color=#1b67a5][bold]Chief Engineer[/bold][/color] being the Head of Staff:
-- [textlink="Chief Engineer" link="ChiefEngineer SOP"]
-- [textlink="Atmospheric Technician" link="AtmosTech SOP"]
-- [textlink="Station Engineer" link="StationEngineer SOP"]
-- [textlink="Technical Assistant" link="StationEngineer SOP"]
+Les emplois suivants ont des entrées dans ce Département, avec le [color=#1b67a5][bold]Chef Ingénieur[/bold][/color] étant le Chef de Département :
+- [textlink="Chef Ingénieur" link="ChiefEngineer SOP"]
+- [textlink="Technicien Atmosphérique" link="AtmosTech SOP"]
+- [textlink="Ingénieur de Station" link="StationEngineer SOP"]
+- [textlink="Assistant Technique" link="StationEngineer SOP"]
 
 </Document>

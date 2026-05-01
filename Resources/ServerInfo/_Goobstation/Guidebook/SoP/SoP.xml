@@ -6,42 +6,42 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Standard Operating Procedure
-The Standard Operating Procedure, SOP, is the set of procedures for crew personnel to follow when there is (or isn't) an emergency on the station.
-These directives are here to assist you, as a valuable crew member on this station, with knowledge of what to do in these special scenarios.
+# Procédure Opérationnelle Standard
+La Procédure Opérationnelle Standard, SOP, est l'ensemble des procédures pour le personnel de l'équipage à suivre lorsqu'il y a (ou n'y a pas) une urgence sur la station.
+Ces directives sont là pour vous assister, en tant que membre précieux de l'équipage sur cette station, avec la connaissance de ce qu'il faut faire dans ces scénarios spéciaux.
 
-These procedures are a guideline to assure all actions follow Nanotrasen's best interest. Failure to follow these can result in dismissal and/or demotion from your job position.
+Ces procédures sont une ligne directrice pour assurer que toutes les actions suivent le meilleur intérêt de Nanotrasen. Le défaut de suivre celles-ci peut entraîner le licenciement et/ou la rétrogradation de votre poste de travail.
 
-<Box>It is [bold]highly advised[/bold] to read over the [bold]Standard Procedures[/bold], [bold]Legal[/bold], and your [bold]Job Department[/bold] SOP!</Box>
+<Box>Il est [bold]fortement conseillé[/bold] de lire les [bold]Procédures Standard[/bold], le [bold]Juridique[/bold], et le SOP de votre [bold]Département de Travail[/bold] !</Box>
 
-## What Does This Define?
-The SOP outlines several procedures for alert levels, Chain of Command (command succession), treatment of prisoners, identification of threats, and much more.
-Adherence to these guidelines is expected but the guidelines are malleable to multiple scenarios. Should you choose to deviate from these guidelines, you must justify your actions when asked.
+## Que Cela Définit-il ?
+Le SOP décrit plusieurs procédures pour les niveaux d'alerte, la Chaîne de Commandement (succession de commandement), le traitement des prisonniers, l'identification des menaces, et bien plus encore.
+L'adhésion à ces lignes directrices est attendue mais les lignes directrices sont malléables à plusieurs scénarios. Si vous choisissez de dévier de ces lignes directrices, vous devez justifier vos actions lorsqu'on vous le demande.
 
   <Box>
-    [bold]NOTE:[/bold] Blindly following SOP while ignoring context is a [italic]ridiciously bad idea[/italic] and is not suggested. [bold]Context is King![/bold]
+    [bold]NOTE :[/bold] Suivre aveuglément le SOP tout en ignorant le contexte est une [italic]idée ridiculement mauvaise[/italic] et n'est pas suggéré. [bold]Le Contexte est Roi ![/bold]
   </Box>
   <Box>
-    Further note that any references to "This Station" or "Station" are assumed to be the station you are working on during this shift. You may find this on your PDA.
+    Notez en outre que toute référence à "Cette Station" ou "Station" est supposée être la station sur laquelle vous travaillez pendant ce quart. Vous pouvez trouver cela sur votre PDA.
   </Box>
 
-## General Station SOP
-The following links are for general knowledge of the station.
-- [textlink="Hiring, Promoting, Transferring" link="HiringSOP"]
-- [textlink="Firing, Demoting, Terminating" link="DemotingSOP"]
-- [textlink="Chain of Command" link="Succession"]
-- [textlink="Legal" link="LegalSOP"]
-- [textlink="Emergencies" link="EmergenciesSOP"]
-- [textlink="Alert Levels" link="AlertLevels"]
+## SOP Général de Station
+Les liens suivants sont pour la connaissance générale de la station.
+- [textlink="Embauche, Promotion, Transfert" link="HiringSOP"]
+- [textlink="Licenciement, Rétrogradation, Terminaison" link="DemotingSOP"]
+- [textlink="Chaîne de Commandement" link="Succession"]
+- [textlink="Juridique" link="LegalSOP"]
+- [textlink="Urgences" link="EmergenciesSOP"]
+- [textlink="Niveaux d'Alerte" link="AlertLevels"]
 
-## General Department
-The following links are for general department SOPs. These will guide you to the folder entry.
-- [textlink="Cargo Department" link="CargoSOP"]
-- [textlink="Command Department" link="CommandSOP"]
-- [textlink="Engineering Department" link="EngineeringSOP"]
-- [textlink="Medical Department" link="MedicalSOP"]
-- [textlink="Science Department" link="ScienceSOP"]
-- [textlink="Security Department" link="SecuritySOP"]
-- [textlink="Service Department" link="ServiceSOP"]
+## Département Général
+Les liens suivants sont pour les SOP de département généraux. Ceux-ci vous guideront vers l'entrée du dossier.
+- [textlink="Département Cargo" link="CargoSOP"]
+- [textlink="Département Commandement" link="CommandSOP"]
+- [textlink="Département Ingénierie" link="EngineeringSOP"]
+- [textlink="Département Médical" link="MedicalSOP"]
+- [textlink="Département Science" link="ScienceSOP"]
+- [textlink="Département Sécurité" link="SecuritySOP"]
+- [textlink="Département Service" link="ServiceSOP"]
 
 </Document>

@@ -7,26 +7,26 @@ SPDX-License-Identifier: MIT
 -->
 
 <Document>
-## Anomaly Scanner
+## Scanneur d'Anomalie
 
-The Anomaly Scanner is used to gather various information on anomalies. They can be found inside the lockers in the science department.
+Le Scanneur d'Anomalie est utilisé pour rassembler diverses informations sur les anomalies. Ils peuvent être trouvés à l'intérieur des casiers dans le département science.
 
 <Box>
 <GuideEntityEmbed Entity="AnomalyScanner"/>
 </Box>
 
-Scanning an anomaly shows the severity, general stability, approximate point output, reactions with particle types, and time until the next pulse. The reaction types, specifically, can be used in conjunction with the A.P.E. to manipulate anomalies.
+Scanner une anomalie montre la gravité, la stabilité générale, la sortie de point approximative, les réactions avec les types de particules, et le temps jusqu'au prochain pulse. Les types de réactions, spécifiquement, peuvent être utilisés en conjonction avec l'A.P.E. pour manipuler les anomalies.
 
-## Anomaly Vessel
+## Vaisseau d'Anomalie
 
-The anomaly vessel is a machine that generates points from anomalies. Use the anomaly scanner on an empty vessel, and the anomaly that was last scanned will be synced with the vessel.
+Le vaisseau d'anomalie est une machine qui génère des points à partir des anomalies. Utilisez le scanneur d'anomalie sur un vaisseau vide, et l'anomalie qui a été scannée en dernier sera synchronisée avec le vaisseau.
 
 <Box>
 <GuideEntityEmbed Entity="MachineAnomalyVessel"/>
 </Box>
 
-The amount of points a vessel generates per second is based on the severity, stability, and health of an anomaly. The higher each of these values, the higher the point output will be.
+La quantité de points qu'un vaisseau génère par seconde est basée sur la gravité, la stabilité, et la santé d'une anomalie. Plus chacune de ces valeurs est élevée, plus la sortie de points sera élevée.
 
-Be careful: if an anomaly goes [color=#a4885c]supercritical[/color], the vessel it is linked to will explode. This may damage the station and nearby equipment.
+Soyez prudent : si une anomalie va [color=#a4885c]supercritique[/color], le vaisseau auquel elle est liée explosera. Cela peut endommager la station et l'équipement à proximité.
 
 </Document>

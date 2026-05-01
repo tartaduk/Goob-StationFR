@@ -6,42 +6,42 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Station Alert - Red
+  # Alerte de Station - Rouge
 
   <Box>
-    [italic]Called by: Anyone with Command-Level Access at a working Communications Console.[/italic]
+    [italic]Appelée par : Quiconque avec un Accès de Niveau Commandement à une Console de Communications fonctionnelle.[/italic]
   </Box>
 
-  [bold]Conditions:[/bold]
+  [bold]Conditions :[/bold]
 
-  There is a confirmed, hostile threat on-board the station or nearby in space. This threat should pose recognizable danger to the station and/or crew at large.
+  Il y a une menace confirmée, hostile à bord de la station ou à proximité dans l'espace. Cette menace doit poser un danger reconnaissable pour la station et/ou l'équipage en général.
 
-  [italic]Weak threats such as Shadowlings are not credible enough threats to elevate alert level to red, unless they have caused visible chaos.[/italic]
+  [italic]Les menaces faibles comme les Shadowlings ne sont pas des menaces crédibles suffisantes pour élever le niveau d'alerte au rouge, sauf si elles ont causé un chaos visible.[/italic]
 
-  [bold]Security:[/bold]
+  [bold]Sécurité :[/bold]
 
-  Security personnel should read Security SOP for armament, armory and safety procedures;
+  Le personnel de Sécurité doit lire le SOP de Sécurité pour l'armement, l'armurerie et les procédures de sécurité ;
 
-  Random searches are fully permitted and recommended. Security personnel may detain any personnel refusing a random search in order to conduct said search;
+  Les fouilles aléatoires sont entièrement permises et recommandées. Le personnel de Sécurité peut détenir tout le personnel refusant une fouille aléatoire afin de mener ladite fouille ;
 
-  Security personnel are to cooperate fully with any Central Command Staff (such as Emergency Response Teams) in order to eliminate the threat to the station.
+  Le personnel de Sécurité doit coopérer pleinement avec tout le Personnel du Commandement Central (comme les Équipes de Réponse d'Urgence) afin d'éliminer la menace pour la station.
 
-  [bold]Secure Areas:[/bold]
+  [bold]Zones Sécurisées :[/bold]
 
-  EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Vault, anywhere else requiring command level access that does not get regularly used.
+  Stockage EVA, Stockage Technique, Générateur de Gravité, Stockage Sécurisé d'Ingénierie, Téléversement IA, Coffre, n'importe où ailleurs nécessitant un accès de niveau commandement qui n'est pas régulièrement utilisé.
 
-  There are no restrictions on bolting Secure Areas. Secure Areas may be left bolted or unbolted at the discretion of Command personnel;
+  Il n'y a pas de restrictions sur le verrouillage des Zones Sécurisées. Les Zones Sécurisées peuvent être laissées verrouillées ou déverrouillées à la discrétion du personnel de Commandement ;
 
-  [bold]General Crew:[/bold]
+  [bold]Équipage Général :[/bold]
 
-  All personnel are required to maximize their Suit Sensors;
+  Tout le personnel est tenu de maximiser ses Capteurs de Combinaison ;
 
-  Unless their job demands it, personnel are forbidden from entering maintenance tunnels. Personnel in violation of this order may be charged with trespassing;
+  Sauf si leur travail l'exige, le personnel est interdit d'entrer dans les tunnels de maintenance. Le personnel en violation de cet ordre peut être accusé d'intrusion ;
 
-  Visitors to the station (anyone with Civilian-level access) are to remain inside the Bar, Library or Dormitories for the duration of Code Red;
+  Les visiteurs de la station (quiconque avec un accès de niveau Civil) doivent rester à l'intérieur du Bar, de la Bibliothèque ou des Dortoirs pour la durée du Code Rouge ;
 
-  Personnel are to follow the instructions of Security staff, so long as they are within the bounds of Space Law and are not acting against the general well-being of the station and its crew. Failure to do so may lead to their arrest for Creating a Workplace Hazard.
+  Le personnel doit suivre les instructions du personnel de Sécurité, tant qu'elles sont dans les limites de la Loi Spatiale et n'agissent pas contre le bien-être général de la station et de son équipage. Le défaut de le faire peut conduire à leur arrestation pour Création d'un Danger sur le Lieu de Travail.
 
-  Crewmembers in maintenance without proper reason or authorization may be detained for trespassing.
+  Les membres de l'équipage dans la maintenance sans raison appropriée ou autorisation peuvent être détenus pour intrusion.
 
 </Document>

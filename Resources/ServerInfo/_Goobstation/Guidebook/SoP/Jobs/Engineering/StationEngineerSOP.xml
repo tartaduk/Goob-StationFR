@@ -6,22 +6,22 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Station Engineer SOP
-This is the list of procedures, responsibilities, and duties of the [color=#c8a404][bold]Station Engineer[/bold][/color] and [color=#c8a404][bold]Technical Assistant[/bold][/color] of this station.
+# SOP de l'Ingénieur de Station
+C'est la liste des procédures, responsabilités et devoirs de l'[color=#c8a404][bold]Ingénieur de Station[/bold][/color] et de l'[color=#c8a404][bold]Assistant Technique[/bold][/color] de cette station.
 
-1. Engineers are responsible for the proper activation and maintenance of the station's engines, alongside maintaining the Stations Power Network.
-<Box>Failure to do so is grounds for termination.</Box>
+1. Les Ingénieurs sont responsables de l'activation appropriée et de la maintenance des moteurs de la station, aux côtés de la maintenance du Réseau d'Énergie de la Station.
+<Box>Le défaut de le faire est un motif de terminaison.</Box>
 
-2. Engineers are not permitted to construct additional engines (such as additional SM/Tesla/Singularity engines, and/or solar panels) until at least one engine is correctly set up and powering the station.
+2. Les Ingénieurs ne sont pas autorisés à construire des moteurs supplémentaires (comme des moteurs SM/Tesla/Singularité supplémentaires, et/ou des panneaux solaires) jusqu'à ce qu'au moins un moteur soit correctement configuré et alimente la station.
 
-3. Engineers must check each active engine at least once per 30 minutes to ensure safety and fueling.
+3. Les Ingénieurs doivent vérifier chaque moteur actif au moins une fois par 30 minutes pour assurer la sécurité et l'alimentation.
 
-4. Engineers are permitted to carry out solo reconstruction/rebuilding/personal projects if there is no damage to the station that requires fixing.
-<Box>Large projects require approval from Captain and/or Chief Engineer. Resources must be accounted for and not deprived from other Departments.</Box>
+4. Les Ingénieurs sont autorisés à effectuer une reconstruction/reconstruction/projets personnels en solo s'il n'y a pas de dommages à la station qui nécessitent une réparation.
+<Box>Les grands projets nécessitent l'approbation du Capitaine et/ou du Chef Ingénieur. Les ressources doivent être comptabilisées et ne pas être privées aux autres Départements.</Box>
 
-5. Engineers must promptly respond to breaches within fifteen (15) minutes, and may hack doors to gain access should the location need repairs.
-<Box>All hazard zones must be cordoned off with Holofans or barriers.</Box>
+5. Les Ingénieurs doivent répondre promptement aux brèches dans les quinze (15) minutes, et peuvent pirater les portes pour accéder si l'emplacement nécessite des réparations.
+<Box>Toutes les zones de danger doivent être délimitées par des Ventilateurs Holographiques ou des barrières.</Box>
 
-6. Engineers are required to respond to any emergency requested by Security/Command for perma brig, bridge, brig, etc. immediately.
+6. Les Ingénieurs sont tenus de répondre à toute urgence demandée par la Sécurité/Commandement pour le brig permanent, le pont, le brig, etc. immédiatement.
 
 </Document>

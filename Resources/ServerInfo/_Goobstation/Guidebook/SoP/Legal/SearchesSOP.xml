@@ -6,28 +6,28 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Search Procedures
-This is the list of procedures that should be followed when performing searches on station personnel and/or in Departments.
+# Procédures de Fouille
+C'est la liste des procédures qui doivent être suivies lors de l'exécution de fouilles sur le personnel de la station et/ou dans les Départements.
 
-1. On [color=#388c34]Green Alert[/color], a search requires probable cause and/or approval from the Captain and/or Head of Security.
-<Box>Probable Cause is defined as any circumstance that creates reasonable suspicion that a crime was committed (eg, direct accusation from a crewmember, witnessing the crime directly, prints on a crime scene, presence in a restricted area with high value items, etc).</Box>
-<Box>Approval simply requires permission from the relevant person - verbal or over radio is enough.</Box>
+1. Sur l'[color=#388c34]Alerte Verte[/color], une fouille nécessite une cause probable et/ou l'approbation du Capitaine et/ou du Chef de la Sécurité.
+<Box>La Cause Probable est définie comme toute circonstance qui crée une suspicion raisonnable qu'un crime a été commis (par exemple, accusation directe d'un membre de l'équipage, avoir été témoin direct du crime, empreintes sur une scène de crime, présence dans une zone restreinte avec des articles de haute valeur, etc).</Box>
+<Box>L'approbation nécessite simplement la permission de la personne pertinente - verbale ou par radio suffit.</Box>
 
-2. On [color=#388c34]Green Alert[/color], searches should be conducted without cuffs, and the searched personnel must hand over requested items.
+2. Sur l'[color=#388c34]Alerte Verte[/color], les fouilles doivent être effectuées sans menottes, et le personnel fouillé doit remettre les articles demandés.
 
-3. Searchees who refuse may be cuffed for the search.
+3. Les fouillés qui refusent peuvent être menottés pour la fouille.
 
-4. Any other item in the searchee's possession may be asked for, including but not limited to bags, belts, jackets, headsets, and PDAs.
+4. Tout autre article en possession du fouillé peut être demandé, y compris mais non limité aux sacs, ceintures, vestes, casques, et PDAs.
 
-5. On [color=#1b67a5]Blue Alert[/color] and above, a search can be done without probable cause.
-<Box>This can be done by cuffing the searched, and forcibly removing their bags and emptying their pockets.</Box>
+5. Sur l'[color=#1b67a5]Alerte Bleue[/color] et au-dessus, une fouille peut être faite sans cause probable.
+<Box>Cela peut être fait en menottant le fouillé, et en retirant de force leurs sacs et en vidant leurs poches.</Box>
 
-6. Refusing a legal search is considered resisting arrest (on [color=#1b67a5]Blue Alert[/color] or higher).
+6. Refuser une fouille légale est considéré comme résister à l'arrestation (sur l'[color=#1b67a5]Alerte Bleue[/color] ou supérieure).
 
-7. Security may only perform surgery to search for illegal implants if the searched personnel is a confirmed EoC or has been confirmed to have stolen an item that can no longer be located.
-<Box>In addition, if there is reasonable suspicion of illegal implant possession, the Captain and/or Head of Security can issue a warrant for an implant search if they deem it necessary.</Box>
+7. La Sécurité peut seulement effectuer une chirurgie pour rechercher des implants illégaux si le personnel fouillé est un EoC confirmé ou a été confirmé avoir volé un article qui ne peut plus être localisé.
+<Box>De plus, s'il y a une suspicion raisonnable de possession d'implant illégal, le Capitaine et/ou le Chef de la Sécurité peuvent émettre un mandat pour une fouille d'implant s'ils le jugent nécessaire.</Box>
 
-8. Recommended but optional: After searching someone, their security status should be set to RELEASED, and add a note that they were searched but nothing was found.
-<Box>This helps prevent security wasting time by repeatedly re-searching the same person, and makes it easier to tell who has not yet been searched.</Box>
+8. Recommandé mais optionnel : Après avoir fouillé quelqu'un, leur statut de sécurité doit être réglé sur LIBÉRÉ, et ajouter une note qu'ils ont été fouillés mais rien n'a été trouvé.
+<Box>Cela aide à empêcher la sécurité de perdre du temps en refoulant à plusieurs reprises la même personne, et rend plus facile de dire qui n'a pas encore été fouillé.</Box>
 
 </Document>

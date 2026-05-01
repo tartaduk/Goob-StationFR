@@ -12,46 +12,46 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Security
-Ensuring the safety of both station and crew is number one for [color=#cb0000]Security[/color]. They are ready for any situation, and [color=#cb0000]Security[/color] are on hand to maintain order and control crowds.
+# Sécurité
+Assurer la sécurité de la station et de l'équipage est la priorité numéro un pour [color=#cb0000]Sécurité[/color]. Ils sont prêts pour toute situation, et [color=#cb0000]Sécurité[/color] est sur place pour maintenir l'ordre et contrôler les foules.
 
-They face [textlink="Syndicate Agents" link="Traitors"], [textlink="Nuclear Operatives" link="NuclearOperatives"], [textlink="Zombies" link="Zombies"] and unruly staff.
+Ils font face aux [textlink="Agents du Syndicat" link="Traitors"], [textlink="Opératifs Nucléaires" link="NuclearOperatives"], [textlink="Zombies" link="Zombies"] et au personnel désordonné.
 
 ## Personnel
-[color=#cb0000]Security[/color]'s staff is made up of Security Cadets, Security Officers, the Detective and the Brigmedic. [color=#cb0000]Security[/color] is run by the Warden and Head of Security.
+Le personnel de [color=#cb0000]Sécurité[/color] est composé de Cadets de Sécurité, d'Officiers de Sécurité, du Détective et du Brigmedic. [color=#cb0000]Sécurité[/color] est dirigée par le Gardien et le Chef de la Sécurité.
 
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineSecurity" Caption="Secoff"/>
-    <GuideEntityEmbed Entity="ToyFigurineDetective" Caption="Detective"/>
+    <GuideEntityEmbed Entity="ToyFigurineSecurity" Caption="Officier de Sécurité"/>
+    <GuideEntityEmbed Entity="ToyFigurineDetective" Caption="Détective"/>
     <GuideEntityEmbed Entity="ToyFigurineBrigmedic" Caption="Brigmedic"/>
-    <GuideEntityEmbed Entity="ToyFigurineWarden" Caption="Warden"/>
-    <GuideEntityEmbed Entity="ToyFigurineHeadOfSecurity" Caption="HoS"/>
+    <GuideEntityEmbed Entity="ToyFigurineWarden" Caption="Gardien"/>
+    <GuideEntityEmbed Entity="ToyFigurineHeadOfSecurity" Caption="CS"/>
   </Box>
 
-## Gear
-First we have non-lethals a step above simply telling someone to cooperate with instructions. Both the stunbaton and disabler are capable of limiting the movement of an assailant, whereas handcuffs can be applied to deny a criminal free movement and access to their hands.
+## Équipement
+D'abord nous avons les non létaux, un cran au-dessus de simplement dire à quelqu'un de coopérer avec les instructions. La matraque électrique et le désactivateur sont tous deux capables de limiter le mouvement d'un agresseur, tandis que les menottes peuvent être appliquées pour refuser à un criminel le mouvement libre et l'accès à ses mains.
 
-Stunbaton operates differently depending on attack type. On light attack ([color=yellow]Left click[/color]) it deals 60 immediate stamina damage and knocks target down for 4 seconds after 2 second delay, these values are can be modified or cancelled entirely by armor and stimulants. Light attacks are delayed by 2.5 seconds and consume twice as much battery power. Heavy attacks ([color=yellow]Right click[/color]) deal 15 immediate stamina damage and 40 overtime stamina damage, which soft-crits the target after 2 hits when overtime stamina damage reaches stamcrit threshold (100 stamina damage for most species). Soft stamina crit still allows the target to crawl, but any immediate stamina damage will stamcrit them, allowing them to be cuffed. To stun your target using heavy stunbaton attack, you need to either hit them twice, then wait a while until they are knocked down and hit them once more to fully stamcrit them, or hit them four times in quick succession.
+La matraque électrique fonctionne différemment selon le type d'attaque. Sur l'attaque légère ([color=yellow]clic gauche[/color]) elle inflige 60 dégâts d'endurance immédiats et fait tomber la cible pendant 4 secondes après un délai de 2 secondes, ces valeurs peuvent être modifiées ou annulées entièrement par l'armure et les stimulants. Les attaques légères sont retardées de 2.5 secondes et consomment deux fois plus d'énergie de batterie. Les attaques lourdes ([color=yellow]clic droit[/color]) infligent 15 dégâts d'endurance immédiats et 40 dégâts d'endurance supplémentaires, qui critiquent doucement la cible après 2 coups lorsque les dégâts d'endurance supplémentaires atteignent le seuil de crit d'endurance (100 dégâts d'endurance pour la plupart des espèces). Le crit d'endurance doux permet toujours à la cible de ramper, mais tout dégât d'endurance immédiat la critiquera en endurance, permettant de la menotter. Pour étourdir votre cible en utilisant l'attaque lourde de matraque électrique, vous devez soit les frapper deux fois, puis attendre un peu jusqu'à ce qu'ils tombent et les frapper une fois de plus pour les critiquer entièrement en endurance, soit les frapper quatre fois en succession rapide.
   <Box>
     <GuideEntityEmbed Entity="Stunbaton"/>
     <GuideEntityEmbed Entity="Handcuffs"/>
    <GuideEntityEmbed Entity="WeaponDisabler"/>
   </Box>
 
-## Flashes
-[color=#a4885c]Flashes[/color] are an effective tool for dispersing crowds and apprehending particularly evasive targets, with a large area of effect blinding all those without protection.
-It is worth noting that flashes can be both used in a large area ([color=yellow]Z[/color] hotkey) and if you attack somebody with it while [color=red]harm mode[/color] is active. Important to note that localized flashes last [color=yellow]2.5[/color] times as long as large area ones.
-[color=#cb0000]Security[/color] and [color=#a4885c]some[/color] other members of staff have eye protection from flashbangs and flashes.
+## Flashs
+Les [color=#a4885c]Flashs[/color] sont un outil efficace pour disperser les foules et appréhender des cibles particulièrement évasives, avec une grande zone d'effet aveuglant tous ceux sans protection.
+Il vaut la peine de noter que les flashs peuvent être utilisés à la fois dans une grande zone ([color=yellow]Z[/color] touche de raccourci) et si vous attaquez quelqu'un avec alors que le [color=red]mode de nuisance[/color] est actif. Il est important de noter que les flashs localisés durent [color=yellow]2.5[/color] fois plus longtemps que ceux de grande zone.
+[color=#cb0000]Sécurité[/color] et [color=#a4885c]certains[/color] autres membres du personnel ont une protection oculaire contre les flashbangs et les flashs.
 
-Flashbangs emit loud noise on trigger, knocking down everyone in large area, knockdown duration scales with the distance to the epicenter. Ear protection in a form of some helmets and over-ear headsets that [color=#cb0000]Security[/color] and [color=#a4885c]all[/color] command staff has suppresses flashbang noise to some extent, allowing you to use flashbangs safely at range but at the same time preventing you from blowing them up in your hands.
+Les flashbangs émettent un bruit fort au déclenchement, faisant tomber tout le monde dans une grande zone, la durée de chute évolue avec la distance à l'épicentre. La protection auditive sous forme de certains casques et d'écouteurs sur l'oreille que [color=#cb0000]Sécurité[/color] et [color=#a4885c]tout[/color] le personnel de commandement a supprime le bruit des flashbangs dans une certaine mesure, vous permettant d'utiliser les flashbangs en toute sécurité à distance mais en même temps vous empêchant de les faire exploser dans vos mains.
   <Box>
     <GuideEntityEmbed Entity="Flash"/>
     <GuideEntityEmbed Entity="ClothingEyesGlassesSecurity"/>
     <GuideEntityEmbed Entity="GrenadeFlashBang"/>
   </Box>
 
-## Lethals
-Should the situation dictate, [color=#cb0000]Security[/color] have access to laser rifles, shotguns, handguns and automatic rifles able to put down substantial fire against any who would stand against the station.
+## Létaux
+Si la situation l'exige, [color=#cb0000]Sécurité[/color] a accès aux fusils laser, fusils à pompe, pistolets et fusils automatiques capables de mettre un feu substantiel contre quiconque s'opposerait à la station.
   <Box>
     <GuideEntityEmbed Entity="WeaponLaserCarbine"/>
     <GuideEntityEmbed Entity="WeaponShotgunKammerer"/>

@@ -6,84 +6,84 @@
     <GuideEntityEmbed Entity="CapoeiraManual" Caption=""/>
   </Box>
 
-  Capoeira, the Syndicate's dance of war originating in Brazil, is a [textlink="martial art" link="MartialArts"] that disguises violence as beauty.
-  Swift attacks link into flowing combos, each move faster and harder than the last one, fueled by relentless momentum.
+  La Capoeira, la danse de guerre du Syndicat originaire du Brésil, est un [textlink="art martial" link="MartialArts"] qui déguise la violence en beauté.
+  Des attaques rapides s'enchaînent en combos fluides, chaque mouvement plus rapide et plus dur que le précédent, alimenté par une élan implacable.
 
-  ## Special abilities
+  ## Capacités spéciales
 
-  Capoeira users are better at Grab intent. Successfully grabbing an opponent grants user a brief speed boost and denies target from sprinting temporarily.
+  Les utilisateurs de Capoeira sont meilleurs à l'intention de Saisir. Saisir avec succès un adversaire accorde à l'utilisateur un bref boost de vitesse et refuse temporairement à la cible de sprinter.
 
-  ### Capoeira Stance
+  ### Posture de Capoeira
 
-  You never stop moving while performing the ginga. This makes you very mobile while fighting.
+  Vous ne vous arrêtez jamais de bouger pendant que vous effectuez la ginga. Cela vous rend très mobile pendant que vous combattez.
 
-  Through swift motion, Capoeira masters channel speed into energy, with combos being more deadly the faster they run.
-  Halt their flow, and their strength will vanish. Their combos, powered by movement, falter when they are prone.
+  À travers un mouvement rapide, les maîtres de Capoeira canalisent la vitesse en énergie, avec des combos plus mortels plus ils courent vite.
+  Arrêtez leur flux, et leur force disparaîtra. Leurs combos, alimentés par le mouvement, faiblent lorsqu'ils sont à terre.
 
-  ### Capoeira Momentum
+  ### Élan de Capoeira
 
-  Through the flowing, relentless motion of Capoeira, each successful combo restores the user's stamina.
-  Every connected strike fuels their endurance, allowing them to fight longer, faster, and harder without pause.
+  À travers le mouvement fluide et implacable de la Capoeira, chaque combo réussi restaure l'endurance de l'utilisateur.
+  Chaque frappe connectée alimente leur endurance, leur permettant de combattre plus longtemps, plus vite et plus fort sans pause.
 
-  ### Capoeira Tempo
+  ### Tempo de Capoeira
 
-  Hit or miss, it's just part of the dance! And the best part is about to start!
+  Touché ou raté, c'est juste partie de la danse ! Et la meilleure partie est sur le point de commencer !
 
-  A missed attack sharpens the next, reducing its recovery and increasing the damage.
+  Une attaque ratée aiguise la suivante, réduisant sa récupération et augmentant les dégâts.
 
-  ## Combo attacks
+  ## Attaques combinées
 
-  ### Push Kick
-
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-  </Box>
-
-  Disarms the opponent, pushes them away, as well as knocking them down causing them to be more vulnerable to unarmed melee attacks while they're down.
-  Only works on standing opponents.
-
-  ### Circle Kick
-
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-  </Box>
-
-  Deals Blunt damage and also slows down the opponent significantly.
-
-  ### Sweep Kick
-
-  <Box>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
-    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
-  </Box>
-
-  Knocks down and deals Blunt and Stamina damage. Temporarily increases user's attack speed by a bit.
-  Cannot be performed if the user is moving too slow.
-
-  ### Spin Kick
+  ### Coup de Pied de Poussée
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+  </Box>
+
+  Désarme l'adversaire, le repousse, ainsi que le fait tomber le rendant plus vulnérable aux attaques de mêlée à mains nues pendant qu'il est à terre.
+  Fonctionne seulement sur les adversaires debout.
+
+  ### Coup de Pied Circulaire
+
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Deals a lot of Blunt damage and knocks the opponent down. Also makes the user flip. Only works on standing opponents.
-  Cannot be performed if the user is moving too slow.
+  Inflige des dégâts Contondants et ralentit également significativement l'adversaire.
 
-  ### Kick Up
+  ### Coup de Pied Balayage
+
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+  </Box>
+
+  Fait tomber et inflige des dégâts Contondants et d'Endurance. Augmente temporairement un peu la vitesse d'attaque de l'utilisateur.
+  Ne peut pas être effectué si l'utilisateur bouge trop lentement.
+
+  ### Coup de Pied Tournant
+
+  <Box>
+    <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
+    <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
+  </Box>
+
+  Inflige beaucoup de dégâts Contondants et fait tomber l'adversaire. Fait également faire une pirouette à l'utilisateur. Fonctionne seulement sur les adversaires debout.
+  Ne peut pas être effectué si l'utilisateur bouge trop lentement.
+
+  ### Coup de Pied vers le Haut
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
   </Box>
 
-  Needs to be targeted at the user themselves. Can be performed while prone. Removes knock down status effect and forces the user to stand up instantly.
+  Doit être ciblé sur l'utilisateur lui-même. Peut être effectué pendant qu'il est à terre. Retire l'effet de mise à terre et force l'utilisateur à se lever instantanément.
 
 </Document>

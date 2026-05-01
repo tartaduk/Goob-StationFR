@@ -6,48 +6,48 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Chain of Command
-This is the ideal list for passing down the Captain role in command. There are several factors to take into respect here, but this boils down to a simple list.
+# Chaîne de Commandement
+C'est la liste idéale pour transmettre le rôle de Capitaine dans le commandement. Il y a plusieurs facteurs à prendre en compte ici, mais cela se résume à une simple liste.
 
-[bullet/][color=#1b67a5]Blueshield Officer[/color] (BSO) and [color=#1b67a5]Nanotrasen Representative[/color] (NTR) should never hold a position of command on this station.
+[bullet/][color=#1b67a5]Officier Bouclier Bleu[/color] (BSO) et [color=#1b67a5]Représentant Nanotrasen[/color] (NTR) ne doivent jamais occuper un poste de commandement sur cette station.
 
-[bullet/]This list can be deviated from for special circumstances, with the vote resting on Command to do so.
+[bullet/]Cette liste peut être déviée pour des circonstances spéciales, le vote reposant sur le Commandement pour le faire.
 
-[bullet/][color=#1b67a5]Nanotrasen Representative[/color], if one is present, should assist in this process and guide the new Captain.
+[bullet/][color=#1b67a5]Le Représentant Nanotrasen[/color], s'il est présent, devrait assister dans ce processus et guider le nouveau Capitaine.
 
-[bullet/]When choosing the succeeding Captain, they should be marked on their ID as [color=#1b67a5]Acting Captain[/color] (following the same promotion procedures).
+[bullet/]Lors du choix du Capitaine successeur, ils doivent être marqués sur leur ID comme [color=#1b67a5]Capitaine par Intérim[/color] (suivant les mêmes procédures de promotion).
 
 <Box>~</Box>
-<Box>[bold][color=#1b67a5][head=1]Command Succession[/head][/color][/bold]</Box>
-<Box>Captain</Box>
-<Box>Head of Personnel (HoP)</Box>
-<Box>Head of Security (HoS)</Box>
-<Box>Warden</Box>
-<Box>Research Director (RD)</Box>
-<Box>Chief Medical Officer (CMO)</Box>
-<Box>Chief Engineer (CE)</Box>
-<Box>Quartermaster (QM)</Box>
-<Box>Security Officer</Box>
+<Box>[bold][color=#1b67a5][head=1]Succession de Commandement[/head][/color][/bold]</Box>
+<Box>Capitaine</Box>
+<Box>Chef du Personnel (HoP)</Box>
+<Box>Chef de la Sécurité (HoS)</Box>
+<Box>Gardien</Box>
+<Box>Directeur de Recherche (RD)</Box>
+<Box>Chef Médical (CMO)</Box>
+<Box>Chef Ingénieur (CE)</Box>
+<Box>Quart-Maître (QM)</Box>
+<Box>Officier de Sécurité</Box>
 <Box>~</Box>
 
-## Succession Decision Process
-The new Acting Captain should follow the same responsibilities and uphold the same duties as a normal Captain would. These can be found in the Captain SOP.
-The succession list is shown from [bold]top to bottom[/bold] and should be followed as such.
+## Processus de Décision de Succession
+Le nouveau Capitaine par Intérim doit suivre les mêmes responsabilités et maintenir les mêmes devoirs qu'un Capitaine normal le ferait. Ceux-ci peuvent être trouvés dans le SOP du Capitaine.
+La liste de succession est montrée de [bold]haut en bas[/bold] et doit être suivie comme telle.
 
-If it is deemed necessary, or by wish of the Head of Staff that is being chosen, the next person in the succession may be skipped.
+S'il est jugé nécessaire, ou par souhait du Chef de Département qui est choisi, la prochaine personne dans la succession peut être sautée.
 
-[bullet/]For choices where the Head of Staff is deemed necessary to skip by others, it should be put to a vote by successors (barring Security Officers).
+[bullet/]Pour les choix où le Chef de Département est jugé nécessaire à sauter par d'autres, cela doit être mis au vote par les successeurs (à l'exclusion des Officiers de Sécurité).
 
-[bullet/]For choices where the Head of Staff chooses to not accept the title, they should have a valid reason for doing so and justify it if necessary.
+[bullet/]Pour les choix où le Chef de Département choisit de ne pas accepter le titre, ils doivent avoir une raison valide pour le faire et la justifier si nécessaire.
 
-## Choosing Security Officers
-When choosing Security Officers for Command Succession, it should be put to a vote by all those included if there is no [color=#1b67a5]Nanotrasen Representative[/color].
+## Choix des Officiers de Sécurité
+Lors du choix des Officiers de Sécurité pour la Succession de Commandement, cela doit être mis au vote par tous ceux inclus s'il n'y a pas de [color=#1b67a5]Représentant Nanotrasen[/color].
 
-When voting, it should be held as fast as possible. If a tie happens while voting, seniority should prevail.
+Lors du vote, il doit être tenu aussi rapidement que possible. Si une égalité se produit lors du vote, l'ancienneté doit prévaloir.
 
-## Procedure for Acquiring Access
-If at all possible, damage to station and Captain Quarter's should be minimized while acquiring accesses to ID during Command Succession procedures.
+## Procédure pour l'Acquisition de l'Accès
+Si possible, les dommages à la station et aux Quartiers du Capitaine doivent être minimisés lors de l'acquisition des accès à l'ID pendant les procédures de Succession de Commandement.
 
-AI should follow these procedures and assist in this process. If AI is not available, engineers should be utilized in opening the doors and ensuring they are properly secured when finished.
+L'IA doit suivre ces procédures et assister dans ce processus. Si l'IA n'est pas disponible, les ingénieurs doivent être utilisés pour ouvrir les portes et s'assurer qu'elles sont correctement sécurisées une fois terminé.
 
 </Document>

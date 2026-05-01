@@ -6,68 +6,68 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Warden SOP
-This is the list of procedures, responsibilities, and duties of the [color=#ba292c][bold]Warden[/bold][/color] of this station.
+# SOP du Gardien
+C'est la liste des procédures, responsabilités et devoirs du [color=#ba292c][bold]Gardien[/bold][/color] de cette station.
 
 <ColorBox>
   <Box>
-    For the purposes of Alert Escalation: Treat higher alerts as if they are still on the previous alert level. (Yellow Alert is Blue Alert if it was Blue Alert prior.) Furthermore, treat Delta, Gamma, Epsilon, and Violet Alert as Red Alert.
+    Pour les besoins de l'Escalade d'Alerte : Traitez les alertes supérieures comme si elles étaient toujours au niveau d'alerte précédent. (L'Alerte Jaune est l'Alerte Bleue si c'était l'Alerte Bleue auparavant.) De plus, traitez l'Alerte Delta, Gamma, Epsilon, et Violette comme l'Alerte Rouge.
   </Box>
 </ColorBox>
 
-The [color=#ba292c][bold]Warden[/bold][/color] is permitted to carry their shift-start equipment, but should follow escalation procedures and refrain from using lethals.
+Le [color=#ba292c][bold]Gardien[/bold][/color] est autorisé à porter son équipement de début de quart, mais doit suivre les procédures d'escalade et s'abstenir d'utiliser des létales.
 
-## Green Alert
-1. The Warden is obligated to remain in the Security Department at all times except to assist in transportation of prisoners.
-<Box>The Warden must maintain control over the Armory as well, with only exceptions being allowed for Captain and Head of Security.</Box>
+## Alerte Verte
+1. Le Gardien est obligé de rester dans le Département de Sécurité à tout moment sauf pour assister au transport des prisonniers.
+<Box>Le Gardien doit également maintenir le contrôle sur l'Armurerie, avec seulement des exceptions autorisées pour le Capitaine et le Chef de la Sécurité.</Box>
 
-2. The Warden may not perform arrests if there are Security Officers active.
+2. Le Gardien ne peut pas effectuer d'arrestations s'il y a des Officiers de Sécurité actifs.
 
-3. The Warden must conduct a thorough search of every prisoner's belongings, including pockets, PDA slots, any coat pockets and suit storage slots.
-<Box>Following proper Space Law: PDA, clothes, and Headsets are to be returned when the search is finished; unless contraband/tampering is evident. Then replacements should be issued.</Box>
+3. Le Gardien doit mener une fouille approfondie des affaires de chaque prisonnier, y compris les poches, les emplacements PDA, toutes les poches de manteau et les emplacements de stockage de combinaison.
+<Box>Suivant la Loi Spatiale appropriée : Le PDA, les vêtements, et les casques doivent être retournés lorsque la fouille est terminée ; sauf si la contrebande/le sabotage est évident. Alors des remplacements doivent être émis.</Box>
 
-4. The warden should ensure that all prisoners are equipped with their PDA, Headset, and clothes (provided they are not contraband/tampered with).
-<Box>In such cases where the PDA, Headset, and/or clothes are tampered with or harboring contraband, replacements should be issued.</Box>
+4. Le gardien doit s'assurer que tous les prisonniers sont équipés de leur PDA, casque, et vêtements (à condition qu'ils ne soient pas de la contrebande/sabotés).
+<Box>Dans de tels cas où le PDA, le casque, et/ou les vêtements sont sabotés ou abritant de la contrebande, des remplacements doivent être émis.</Box>
 
-5. The Warden is not obligated to provide a trial, but is encouraged to allow legal representation should the suspect request it. This only applies to Capital Crimes.
+5. Le Gardien n'est pas obligé de fournir un procès, mais est encouragé à permettre une représentation légale si le suspect le demande. Cela s'applique seulement aux Crimes Capitaux.
 
-6. The Warden may not hand out any weapons or armour from the Armory, except for extra disablers.
+6. Le Gardien ne peut pas distribuer aucune arme ou armure de l'Armurerie, sauf pour des désactivateurs supplémentaires.
 
-7. The Warden is permitted to carry a standard disabler, a flash, a stunbaton, a flashbang and their provided energy shotgun.
+7. Le Gardien est autorisé à porter un désactivateur standard, un flash, un matraque à étourdissement, un flashbang et leur fusil à énergie fourni.
 
-8. The Warden may not place the portable flashers nor deployable barriers within the Brig.
+8. Le Gardien ne peut pas placer les flashers portables ni les barrières déployables dans le Brig.
 
-9. The Warden must read to every prisoner the crimes they are sentenced to.
+9. Le Gardien doit lire à chaque prisonnier les crimes auxquels ils sont condamnés.
 
-10. The Warden is not permitted to leave prisoners buckled and cuffed to their beds.
-<Box>An exception is made if the prisoners are acting overly hostile or attempting to breach the cell in order to escape.</Box>
+10. Le Gardien n'est pas autorisé à laisser les prisonniers attachés et menottés à leurs lits.
+<Box>Une exception est faite si les prisonniers agissent de manière excessivement hostile ou tentent de briser la cellule afin de s'échapper.</Box>
 
-11. The Warden must follow the same guidelines as Security Officers for attire, with the exception that their own assigned attire is also acceptable for any of the attire mentioned for Security Officers.
+11. Le Gardien doit suivre les mêmes lignes directrices que les Officiers de Sécurité pour l'habillement, avec l'exception que leur propre habillement assigné est également acceptable pour n'importe quel habillement mentionné pour les Officiers de Sécurité.
 
-12. The Warden is permitted to place the portable flashers inside the Brig if there is an influx of prisoner personnel and/or several attempts to escape.
+12. Le Gardien est autorisé à placer les flashers portables à l'intérieur du Brig s'il y a un afflux de personnel prisonnier et/ou plusieurs tentatives d'évasion.
 
-## Blue Alert
-1. Guidelines 2, 3, 5, 7, 10, and 12 are carried over from [color=#388c34]Green Alert[/color].
+## Alerte Bleue
+1. Les lignes directrices 2, 3, 5, 7, 10, et 12 sont reportées de l'[color=#388c34]Alerte Verte[/color].
 
-2. The Warden is permitted to hand out all equipment from the Armory. Energy and Laser guns are only to be handed out with Captain and/or Head of Security's approval, as they present a lethal risk.
-<Box>Exceptions apply if there is a lethal threat and/or emergency, such as Nuclear Operatives, Blob, and/or Delta Alert.</Box>
+2. Le Gardien est autorisé à distribuer tout l'équipement de l'Armurerie. Les fusils à énergie et laser ne doivent être distribués qu'avec l'approbation du Capitaine et/ou du Chef de la Sécurité, car ils présentent un risque létal.
+<Box>Des exceptions s'appliquent s'il y a une menace létale et/ou une urgence, comme les Opératifs Nucléaires, le Blob, et/ou l'Alerte Delta.</Box>
 
-3. The Warden is permitted to place the portable flashes and deployable barriers inside the Brig at all times.
+3. Le Gardien est autorisé à placer les flashs portables et les barrières déployables à l'intérieur du Brig à tout moment.
 
-4. The Warden should still remain in the Security Department unless an emergency requires moving.
+4. Le Gardien doit toujours rester dans le Département de Sécurité sauf si une urgence nécessite de se déplacer.
 
-## Red Alert
-1. Guidelines 3, 5, 7, 10, and 12 are carried over from [color=#388c34]Green Alert[/color].
+## Alerte Rouge
+1. Les lignes directrices 3, 5, 7, 10, et 12 sont reportées de l'[color=#388c34]Alerte Verte[/color].
 
-2. Guidelines 2 and 3 are carried over from [color=#1b67a5]Blue Alert[/color]. In addition, the Warden may also carry any weapon from the Armory, but never more than one at a time.
+2. Les lignes directrices 2 et 3 sont reportées de l'[color=#1b67a5]Alerte Bleue[/color]. De plus, le Gardien peut également porter n'importe quelle arme de l'Armurerie, mais jamais plus d'une à la fois.
 
-3.The Warden is permitted to distribute any weapon or piece of equipment in the Armory. This includes whatever Research has provided.
+3.Le Gardien est autorisé à distribuer n'importe quelle arme ou pièce d'équipement dans l'Armurerie. Cela inclut tout ce que la Recherche a fourni.
 
-4. The Warden is permitted to carry out arrests freely.
+4. Le Gardien est autorisé à effectuer des arrestations librement.
 
-5. The Warden, with approval from Captain and/or Head of Security, may give one (1) lethal weapon to a Head of Staff.
-<Box>The lethal weapon must be returned when the alert is reduced.</Box>
+5. Le Gardien, avec l'approbation du Capitaine et/ou du Chef de la Sécurité, peut donner une (1) arme létale à un Chef de Département.
+<Box>L'arme létale doit être retournée lorsque l'alerte est réduite.</Box>
 
-6. The Warden should still remain in the Security Department unless an emergency requires moving.
+6. Le Gardien doit toujours rester dans le Département de Sécurité sauf si une urgence nécessite de se déplacer.
 
 </Document>

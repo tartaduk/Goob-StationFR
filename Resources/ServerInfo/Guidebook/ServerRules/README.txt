@@ -1,5 +1,5 @@
-﻿These files contain Goob Station server rules. Since they reference Goob Station, they should not be used
-by other servers without at least enough modification to not mislead players into thinking that they are
-playing on Goob Station.
+Ces fichiers contiennent les règles du serveur Goob Station. Puisqu'ils font référence à Goob Station, ils ne devraient pas être utilisés
+par d'autres serveurs sans au moins suffisamment de modifications pour ne pas induire les joueurs en erreur en leur faisant penser qu'ils sont
+en train de jouer sur Goob Station.
 
-The filenames used for the rules files are not themselves rules. Only the contents of the files are rules.
+Les noms de fichiers utilisés pour les fichiers de règles ne sont pas eux-mêmes des règles. Seul le contenu des fichiers sont des règles.

@@ -1,40 +1,40 @@
 <Document>
 
-  # Way of The Sleeping Carp
+  # La Voie de la Carpe Dormante
 
   <Box>
     <GuideEntityEmbed Entity="SleepingCarpScroll" Caption=""/>
   </Box>
 
-  The Way of The Sleeping Carp, or simply the Sleeping Carp, is an ancient [textlink="martial art" link="MartialArts"] learned through intense study and meditation.
-  It is modeled after the graceful movement, combat, and flow of Space Carp. Ancient masters of this art are rumored to have studied among great schools of space carp
-  and survived, some have even befriended the aggressive creatures. This art is often utilized by zealots and extremists especially among The Syndicate.
+  La Voie de la Carpe Dormante, ou simplement la Carpe Dormante, est un ancien [textlink="art martial" link="MartialArts"] appris à travers une étude intense et la méditation.
+  Il est modelé d'après le mouvement gracieux, le combat, et le flux de la Carpe de l'Espace. Les maîtres anciens de cet art sont réputés avoir étudié parmi de grandes écoles de carpes de l'espace
+  et ont survécu, certains ont même fait amitié avec les créatures agressives. Cet art est souvent utilisé par des zélotes et des extrémistes surtout parmi le Syndicat.
 
-  ## Special abilities
+  ## Capacités spéciales
 
-  Sleeping Carp users are better at Harm intent, as their unarmed attacks will deal extra damage to the opponent.
+  Les utilisateurs de la Carpe Dormante sont meilleurs à l'intention de Nuisance, car leurs attaques à mains nues infligeront des dégâts supplémentaires à l'adversaire.
 
-  ### Riptide Reflection
+  ### Réflexion de Rip-Tide
 
-  Due to the graceful nature of this martial art, Sleeping Carp users are able to completely deflect almost all incoming
-  projectiles. Whether ballistic or energy-based projectiles, hitscan shots or bolas, they effortlessly reflect them.
-  However, explosives, knives, and syringes remain outside their control, slipping through the serene flow of their defense.
+  En raison de la nature gracieuse de cet art martial, les utilisateurs de la Carpe Dormante sont capables de dévier complètement presque tous les
+  projectiles entrants. Qu'ils soient balistiques ou à base d'énergie, les tirs à balayage ou les bolas, ils les reflètent sans effort.
+  Cependant, les explosifs, les couteaux, et les seringues restent hors de leur contrôle, glissant à travers le flux serein de leur défense.
 
-  ### Fellow Fish
+  ### Poisson Compagnon
 
-  Users of the Sleeping Carp style move with the grace of the waters, in perfect harmony with Space Carp.
-  These creatures, sensing the peaceful bond, will more often than not treat them as allies, not attacking them.
-  This connection extends to other Carp-like beings, including Sharkminnows and even the mighty Space Dragons.
+  Les utilisateurs du style de la Carpe Dormante bougent avec la grâce des eaux, en harmonie parfaite avec la Carpe de l'Espace.
+  Ces créatures, sentant le lien pacifique, traiteront le plus souvent l'utilisateur comme des alliés, ne l'attaquant pas.
+  Cette connexion s'étend à d'autres êtres semblables à des Carpes, y compris les Requins-Minnows et même les puissants Dragons de l'Espace.
 
-  ### Gun Gainsay
+  ### Refus des Armes
 
-  Part of becoming a Master of Sleeping Carp is to take an oath to abstain from using guns. This includes regular guns
-  and firearms attached to equipment such as mechs. It isn't quite clear why, however, it is thought that it allows the
-  user to intensify their focus on perfect flow and deflection. Others believe that it is part of the drive of the master
-  to further emulate the way of the Carp, to completely focus on the attack of the Carp: its [bold] Bite [/bold]. This does not prevent
-  the practitioners of Sleeping Carp from throwing items, bolas, floor tiles, or even people, all useful ranged weapons.
+  Une partie de devenir un Maître de la Carpe Dormante est de prendre un serment de s'abstenir d'utiliser des armes. Cela inclut les armes régulières
+  et les armes à feu attachées à l'équipement comme les mechs. Ce n'est pas tout à fait clair pourquoi, cependant, on pense que cela permet à
+  l'utilisateur d'intensifier sa concentration sur le flux parfait et la déviation. D'autres croient que c'est une partie de la motivation du maître
+  pour émuler davantage la voie de la Carpe, pour se concentrer complètement sur l'attaque de la Carpe : sa [bold]Morsure[/bold]. Cela n'empêche pas
+  les praticiens de la Carpe Dormante de lancer des articles, des bolas, des dalles de sol, ou même des personnes, tous des armes à distance utiles.
 
-  ## Combo attacks
+  ## Attaques combinées
 
   ### Keelhaul
 
@@ -43,25 +43,25 @@
     <GuideEntityEmbed Entity="GuidebookGrab" Caption=""/>
   </Box>
 
-  Kicks an opponent in the head, knocking them down and dealing both Slash and Stamina damage to them,
-  unless they are already stunned. In that case, it will as well completely disarm the opponent.
+  Donne un coup de pied à la tête de l'adversaire, le faisant tomber et infligeant des dégâts de Coupure et d'Endurance,
+  sauf s'il est déjà étourdi. Dans ce cas, il désarmera également complètement l'adversaire.
 
-  ### Crashing Waves Kick
+  ### Coup de Pied des Vagues Écrasantes
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
     <GuideEntityEmbed Entity="GuidebookDisarm" Caption=""/>
   </Box>
 
-  Kicks the opponent square in the chest, sending them flying and dealing Slash damage. Only works on standing opponents.
+  Donne un coup de pied carré dans la poitrine de l'adversaire, l'envoyant voler et infligeant des dégâts de Coupure. Fonctionne seulement sur les adversaires debout.
 
-  ### Gnashing Teeth
+  ### Dents Grincants
 
   <Box>
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
     <GuideEntityEmbed Entity="GuidebookHarm" Caption=""/>
   </Box>
 
-  Deals extra Slash damage, and makes the user shout to strike fear into their opponent's heart.
+  Inflige des dégâts de Coupure supplémentaires, et fait crier l'utilisateur pour frapper la peur dans le cœur de son adversaire.
 
 </Document>

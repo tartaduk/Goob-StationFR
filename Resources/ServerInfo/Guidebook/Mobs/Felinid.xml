@@ -12,21 +12,21 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   <Box>
     <GuideEntityEmbed Entity="MobFelinid" Caption=""/>
   </Box>
-  
-  Felinids are a mutation of humans, sporting their signature ears and tail from your favourite japanese cartoons.
-  They have a keen sixth sense to landing and [color=#1e90ff]take 80% less damage from falling or high speed impacts.[/color]
-  They will also be slowed down less when injured
-  
-  They will slash with their claws instead of using their fists, dealing [color=#ec3a3a]Slashing[/color] and [color=#ec3a3a]Piercing[/color] damage.
-  
-  ## Ew, Hairballs
+
+  Les Felinids sont une mutation des humains, arborant leurs oreilles et queue caractéristiques de vos dessins animés japonais préférés.
+  Ils ont un sixième sens aiguisé pour l'atterrissage et [color=#1e90ff]subissent 80% moins de dégâts des chutes ou des impacts à haute vitesse.[/color]
+  Ils seront également ralentis moins lorsqu'ils sont blessés
+
+  Ils couperont avec leurs griffes au lieu d'utiliser leurs poings, infligeant des dégâts [color=#ec3a3a]de coupure[/color] et [color=#ec3a3a]perforants[/color].
+
+  ## Beurk, Boules de poils
   <Box>
     <GuideEntityEmbed Entity="Hairball" Caption=""/>
 	<GuideEntityEmbed Entity="MobMouse" Caption=""/>
   </Box>
-  
-  They are also capable of eating live rats, which will allow them to cough up a disgusting hairball.
-  Be careful when touching them, as they can [color=#ffa500]cause you to throwup when held.[/color]
-  Felinids will use this to their advantage to gross out adversaries
-  
+
+  Ils sont également capables de manger des rats vivants, ce qui leur permettra de cracher une boule de poils dégoûtante.
+  Soyez prudent lorsque vous les touchez, car ils peuvent [color=#ffa500]vous faire vomir lorsqu'ils sont tenus.[/color]
+  Les Felinids utiliseront cela à leur avantage pour dégoûter leurs adversaires
+
 </Document>

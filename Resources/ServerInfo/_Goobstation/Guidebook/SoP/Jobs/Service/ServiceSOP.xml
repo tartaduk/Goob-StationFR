@@ -6,19 +6,19 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-# Service Department SOP
-These are the list of SOPs that Service Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
+# SOP du Département Service
+Ce sont la liste des SOP que le Personnel de Service doit suivre. Ce sont, comme indiqué précédemment, [bold]pas des listes de contrôle[/bold] et doivent être traités comme des lignes directrices.
 
-Furthermore, these listings do not necessarily coincide with one another, and are separated by Job unless otherwise stated.
+De plus, ces listes ne coïncident pas nécessairement les unes avec les autres, et sont séparées par Emploi sauf indication contraire.
 
-The following jobs have entries in this Department, the [color=#1b67a5][bold]Head of Personnel[/bold][/color] being the Head of Staff:
-- [textlink="Head of Personnel" link="HeadOfPersonnelSOP"]
-- [textlink="Bartender" link="BartenderSOP"]
-- [textlink="Botanist" link="BotanistSOP"]
+Les emplois suivants ont des entrées dans ce Département, le [color=#1b67a5][bold]Chef du Personnel[/bold][/color] étant le Chef de Département :
+- [textlink="Chef du Personnel" link="HeadOfPersonnelSOP"]
+- [textlink="Barman" link="BartenderSOP"]
+- [textlink="Botaniste" link="BotanistSOP"]
 - [textlink="Chef" link="ChefSOP"]
 - [textlink="Clown" link="ClownSOP"]
-- [textlink="Janitor" link="JanitorSOP"]
-- [textlink="Librarian" link="LibrarianSOP"]
+- [textlink="Concierge" link="JanitorSOP"]
+- [textlink="Bibliothécaire" link="LibrarianSOP"]
 - [textlink="Mime" link="MimeSOP"]
 - [textlink="Reporter" link="ReporterSOP"]
 
