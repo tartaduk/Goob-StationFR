@@ -10,22 +10,22 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 reagent-name-nutriment = nutriment
-reagent-desc-nutriment = All the vitamins, minerals, and carbohydrates the body needs in pure form.
+reagent-desc-nutriment = Toutes les vitamines, tous les minéraux et tous les glucides dont l'organisme a besoin, sous leur forme la plus pure.
 
 reagent-name-glucose = glucose
-reagent-desc-glucose = A simple sugar found in many foods.
+reagent-desc-glucose = Un sucre simple présent dans de nombreux aliments.
 
-reagent-name-vitamin = vitamin
-reagent-desc-vitamin = Found in healthy, complete meals.
+reagent-name-vitamin = vitamine
+reagent-desc-vitamin = On les trouve dans des repas sains et équilibrés.
 
-reagent-name-protein = protein
-reagent-desc-protein = Found in certain meals, good for bodily health.
+reagent-name-protein = protéine
+reagent-desc-protein = On le trouve dans certains plats, bon pour la santé.
 
-reagent-name-cocoapowder = cocoa powder
-reagent-desc-cocoapowder = From the best varieties of cocoa beans
+reagent-name-cocoapowder = cacao en poudre
+reagent-desc-cocoapowder = Issu des meilleures variétés de fèves de cacao
 
-reagent-name-butter = butter
-reagent-desc-butter = You can believe it!
+reagent-name-butter = beurre
+reagent-desc-butter = Celui-ci n'est pas demi-sel.
 
-reagent-name-pumpkin-flesh = pumpkin flesh
-reagent-desc-pumpkin-flesh = The mushy, sweet remains of a pumpkin.
+reagent-name-pumpkin-flesh = chair de citrouille
+reagent-desc-pumpkin-flesh = La chair fondante et sucrée d'une citrouille.
