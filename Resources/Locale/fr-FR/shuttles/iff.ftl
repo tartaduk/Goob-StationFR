@@ -3,8 +3,8 @@
 #
 # SPDX-License-Identifier: MIT
 
-iff-console-window-title = IFF console
-iff-console-show-iff-label = Show IFF
-iff-console-show-vessel-label = Show vessel
-iff-console-on = On
-iff-console-off = Off
+iff-console-window-title = Console IFF
+iff-console-show-iff-label = Afficher l'IFF
+iff-console-show-vessel-label = Afficher le vaisseau
+iff-console-on = Activé
+iff-console-off = Désactivé

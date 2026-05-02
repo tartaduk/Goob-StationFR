@@ -7,11 +7,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-docking-component-dock = Dock
-docking-component-undock = Undock
-
-cmd-dock-desc = Attempts to dock 2 airlocks together. Doesn't check whether it is valid.
+docking-component-dock = Amarrer
+docking-component-undock = Désamarrer
+cmd-dock-desc = Tente d'amarrer 2 sas ensemble. Ne vérifie pas si l'opération est valide.
 cmd-dock-help = dock <airlock entityuid1> <airlock entityuid2>
-
-cmd-dock-success = Successfully docked
-cmd-dock-fail = Unable to dock
+cmd-dock-success = Amarrage réussi
+cmd-dock-fail = Impossible d'amarrer
