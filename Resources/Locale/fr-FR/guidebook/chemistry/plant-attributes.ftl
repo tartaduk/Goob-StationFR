@@ -5,13 +5,13 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-plant-attribute-growth = age
-plant-attribute-water = water level
-plant-attribute-potency = potency
-plant-attribute-weeds = weeds level
-plant-attribute-toxins = toxins level
-plant-attribute-nutrition = nutrition level
-plant-attribute-mutation-level = mutation level
-plant-attribute-pests = pests level
-plant-attribute-mutation-mod = mutation modifier
-plant-attribute-health = health
+plant-attribute-growth = âge
+plant-attribute-water = niveau d'eau
+plant-attribute-potency = puissance
+plant-attribute-weeds = niveau de mauvaises herbes
+plant-attribute-toxins = niveau de toxines
+plant-attribute-nutrition = niveau de nutrition
+plant-attribute-mutation-level = niveau de mutation
+plant-attribute-pests = niveau de nuisibles
+plant-attribute-mutation-mod = modificateur de mutation
+plant-attribute-health = santé

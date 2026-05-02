@@ -10,45 +10,34 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ui-vote-type-restart = Restart round
-ui-vote-type-gamemode = Next gamemode
-ui-vote-type-map = Next map
-ui-vote-type-votekick = Votekick
-
-# Votekick reasons
-ui-vote-votekick-type-raiding = Raiding
-ui-vote-votekick-type-cheating = Cheating
-ui-vote-votekick-type-spamming = Spamming
-
-# Window title of the vote create menu
-ui-vote-create-title = Call Vote
-
-# Submit button in the vote create button
-ui-vote-create-button = Call Vote
-
-# Follow button in the vote create menu
-ui-vote-follow-button = Follow User
-
-# Timeout text if a standard vote type is currently on timeout.
-ui-vote-type-timeout = This vote was called too recently ({$remaining})
-
-# Unavailable text if a vote type has been disabled manually.
-ui-vote-type-not-available = This vote type has been disabled
-
-# Vote option only available for specific users.
+ui-vote-type-restart = Redémarrer le round
+ui-vote-type-gamemode = Prochain mode de jeu
+ui-vote-type-map = Prochaine carte
+ui-vote-type-votekick = Vote d'expulsion
+# Raisons d'expulsion
+ui-vote-votekick-type-raiding = Raid
+ui-vote-votekick-type-cheating = Triche
+ui-vote-votekick-type-spamming = Spam
+# Titre de la fenêtre du menu de création de vote
+ui-vote-create-title = Lancer un vote
+# Bouton de confirmation dans le menu de création de vote
+ui-vote-create-button = Lancer un vote
+# Bouton de suivi dans le menu de création de vote
+ui-vote-follow-button = Suivre l'utilisateur
+# Texte de délai si un type de vote standard est actuellement en attente.
+ui-vote-type-timeout = Ce vote a été lancé trop récemment ({$remaining})
+# Texte d'indisponibilité si un type de vote a été désactivé manuellement.
+ui-vote-type-not-available = Ce type de vote a été désactivé
+# Option de vote disponible uniquement pour certains utilisateurs.
 ui-vote-trusted-users-notice =
-  This vote option is only available to players who have enough playtime or are whitelisted.
-  In addition, you must have been a ghost for { $timeReq } seconds.
-
-# Warning to not abuse a specific vote option.
+  Cette option de vote n'est disponible qu'aux joueurs ayant suffisamment de temps de jeu ou figurant sur la liste blanche.
+  De plus, vous devez avoir été un fantôme pendant { $timeReq } secondes.
+# Avertissement contre l'abus d'une option de vote spécifique.
 ui-vote-abuse-warning =
-  Warning!
-  Abuse of the votekick system may result in an indefinite ban!
-
+  Avertissement !
+  L'abus du système de vote d'expulsion peut entraîner un bannissement indéfini !
 # Hue hue hue
-ui-vote-fluff = Powered by Robust™ Anti-Tamper Technology
-
-## Vote menu command
-
-cmd-votemenu-desc = Opens the voting menu.
-cmd-votemenu-help = Usage: votemenu
+ui-vote-fluff = Propulsé par la Technologie Anti-Falsification Robust™
+## Commande du menu de vote
+cmd-votemenu-desc = Ouvre le menu de vote.
+cmd-votemenu-help = Utilisation : votemenu

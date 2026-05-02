@@ -3,11 +3,11 @@
 #
 # SPDX-License-Identifier: MIT
 
-zzzz-fmt-direction-North = North
-zzzz-fmt-direction-South = South
-zzzz-fmt-direction-East = East
-zzzz-fmt-direction-West = West
-zzzz-fmt-direction-NorthEast = NorthEast
-zzzz-fmt-direction-SouthEast = SouthEast
-zzzz-fmt-direction-NorthWest = NorthWest
-zzzz-fmt-direction-SouthWest = SouthWest
+zzzz-fmt-direction-North = Nord
+zzzz-fmt-direction-South = Sud
+zzzz-fmt-direction-East = Est
+zzzz-fmt-direction-West = Ouest
+zzzz-fmt-direction-NorthEast = Nord Est
+zzzz-fmt-direction-SouthEast = Sud Est
+zzzz-fmt-direction-NorthWest = Nord Ouest
+zzzz-fmt-direction-SouthWest = Sud Ouest

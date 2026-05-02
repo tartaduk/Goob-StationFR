@@ -12,14 +12,14 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 department-Cargo = Cargo
-department-Civilian = Civilian
-department-Command = Command
+department-Civilian = Civil
+department-Command = Commande
 department-CentralCommand = Central Command
-department-Engineering = Engineering
-department-Medical = Medical
-department-Security = Security
+department-Engineering = Ingénierie
+department-Medical = Médical
+department-Security = Sécurité
 department-Science = Science
-department-Silicon = Silicon
-department-Specific = Station specific
+department-Silicon = Silicone
+department-Specific = Spécifique à la station
 
-department-Unknown = Unknown
+department-Unknown = Inconnu
