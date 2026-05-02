@@ -6,8 +6,8 @@
 
 
 # Cargo pallet sale console
-cargo-pallet-console-menu-title = Cargo sale console
-cargo-pallet-menu-appraisal-label = Estimated Value:{" "}
-cargo-pallet-menu-count-label = Number of sale items:{" "}
-cargo-pallet-appraise-button = Appraise
-cargo-pallet-sell-button = Sell
+cargo-pallet-console-menu-title = Console de vente du cargo
+cargo-pallet-menu-appraisal-label = Valeur estimée :{" "}
+cargo-pallet-menu-count-label = Nombre d'articles à vendre :{" "}
+cargo-pallet-appraise-button = Estimer
+cargo-pallet-sell-button = Vendre
