@@ -15,6 +15,10 @@ damage-force-say-4 = AUGH!
 damage-force-say-5 = OW!
 damage-force-say-6 = URGH!
 damage-force-say-7 = HRNK!
+damage-force-say-8 = AÏÏE !
+damage-force-say-9 = AÏE !
+damage-force-say-10 = OUILLE !
+
 
 damage-force-say-sleep-1 = zzz...
 
@@ -23,3 +27,5 @@ damage-force-say-numb-2 = ow-
 damage-force-say-numb-3 = oof-
 damage-force-say-numb-4 = ah-
 damage-force-say-numb-5 = ugh-
+damage-force-say-numb-6 = aïe-
+damage-force-say-numb-7 = ouille-

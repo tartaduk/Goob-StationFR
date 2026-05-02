@@ -7,5 +7,5 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 melee-stamina = Not enough stamina
-slow-on-damage-modifier-examine = Slowness from injuries is reduced by [color=yellow]{$mod}%[/color]
-stamina-resistance-coefficient-value = - [color=lightyellow]Stamina[/color] damage reduced by [color=lightblue]{$value}%[/color].
+slow-on-damage-modifier-examine = La perte de vitesse due aux blessures est réduite par [color=yellow]{$mod}%[/color]
+stamina-resistance-coefficient-value = - Réduction des dégâts [color=lightyellow]d'endurance[/color] de [color=lightblue]{$value}%[/color].
