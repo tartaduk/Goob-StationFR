@@ -3,18 +3,14 @@
 #
 # SPDX-License-Identifier: MIT
 
-stethoscope-verb = Listen with stethoscope
-
-stethoscope-nothing = You don't hear anything.
-
-stethoscope-normal = You hear normal breathing.
-stethoscope-raggedy = You hear raggedy breathing.
-stethoscope-hyper = You hear hyperventilation.
-stethoscope-irregular = You hear hyperventilation with an irregular pattern.
-stethoscope-fucked = You hear twitchy, labored breathing interspersed with short gasps.
-
-stethoscope-delta-steady = It's steady.
-stethoscope-delta-improving = It's improving.
-stethoscope-delta-worsening = It's getting worse.
-
+stethoscope-verb = Écouter avec le stéthoscope
+stethoscope-nothing = Vous n'entendez rien.
+stethoscope-normal = Vous entendez une respiration normale.
+stethoscope-raggedy = Vous entendez une respiration saccadée.
+stethoscope-hyper = Vous entendez une hyperventilation.
+stethoscope-irregular = Vous entendez une hyperventilation avec un rythme irrégulier.
+stethoscope-fucked = Vous entendez une respiration laborieuse et convulsive, entrecoupée de courtes inspirations.
+stethoscope-delta-steady = Elle est stable.
+stethoscope-delta-improving = Elle s'améliore.
+stethoscope-delta-worsening = Elle empire.
 stethoscope-combined-status = {$absolute} {$delta}
