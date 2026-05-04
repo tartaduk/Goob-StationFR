@@ -306,7 +306,7 @@
   parent: [ClothingNeckBase, BaseCommandContraband]
   id: ClothingNeckEnsembleQuarterMaster
   name: ensemble du quartier-maître
-  description: Confectionné avec soin à partir des matériaux les plus premium achetables en spesos ; une cape qui représente véritablement l'Esprit de la Cargonie... et l'état de votre compte en banque.
+  description: Confectionné avec soin à partir des matériaux les plus premium achetables en spesos ; une cape qui représente véritablement l'Esprit de Cargonia... et l'état de votre compte en banque.
   suffix: NE PAS PLACER
   components:
   - type: Item
@@ -393,8 +393,8 @@
 - type: entity
   parent: [ClothingNeckBase, BaseCentcommCommandContraband]
   id: ClothingNeckEnsembleBlueshield
-  name: ensemble de l'officier bouclier bleu
-  description: Après avoir repoussé d'innombrables grève-tards en défense du commandement, Nanotrasen vous a finalement accordé la possibilité de mourir avec style. Allez protéger le soldat NTR !
+  name: ensemble de l'officier blueshield
+  description: Après avoir repoussé d'innombrables grève-tards en défense du commandement, Nanotrasen vous a finalement accordé la possibilité de mourir avec style. Allez sauver le soldat NTR !
   suffix: NE PAS PLACER
   components:
   - type: Item
