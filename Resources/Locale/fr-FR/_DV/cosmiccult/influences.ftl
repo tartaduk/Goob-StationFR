@@ -1,35 +1,35 @@
-influence-type-active = Active
-influence-type-passive = Passive
+influence-type-active = Actif
+influence-type-passive = Passif
 
 ## ACTIVE INFLUENCES
-influence-name-lapse = Aberrant Lapse
-influence-description-lapse = Lapse an individual's form, rendering them temporarily unable to move or act. Lapsed units are invulnerable tile obstructions.
+influence-name-lapse = Faille Aberrante
+influence-description-lapse = Effacer la forme d'un individu, le rendant temporairement incapable de bouger ou d'agir. Les unités effacées sont des obstacles de tuiles invulnérables.
 
-influence-name-glare = Null Glare
-influence-description-glare = Emit a horrific pulse of cosmic light, slowing and disorienting everyone around you.
+influence-name-glare = Regard Nul
+influence-description-glare = Émettre une impulsion horrible de lumière cosmique, ralentissant et désorientant tous ceux autour de vous.
 
-influence-name-shunt = Shunt Subjectivity
-influence-description-shunt = Shunt your target's mind out of their body and unto the cosmic dark, temporarily rendering their body mindless.
+influence-name-shunt = Déviation de Subjectivité
+influence-description-shunt = Dévier l'esprit de votre cible hors de son corps vers l'obscurité cosmique, rendant temporairement son corps sans esprit.
 
-influence-name-ingress = Force ingress
-influence-description-ingress = Use a concentrated effort of power to wrench an airlock - secure door - open.
+influence-name-ingress = Forcer l'entrée
+influence-description-ingress = Utiliser un effort concentré de puissance pour forcer l'ouverture d'un sas - porte sécurisée.
 
-influence-name-nova = Astral Nova
-influence-description-nova = Hurl a large and disruptive blast of astral energy that damages, paralyzes, and draws in everything in its path.
+influence-name-nova = Nova Astrale
+influence-description-nova = Lancer une grande et perturbatrice explosion d'énergie astrale qui endommage, paralyse et attire tout sur son passage.
 
-influence-name-imposition = Vacuous Imposition
-influence-description-imposition = For a short time, your corporeal form becomes a conduit of cosmic power - negating any incoming damage.
+influence-name-imposition = Imposition Vacillante
+influence-description-imposition = Pendant un court moment, votre forme corporelle devient un conduit de puissance cosmique - annulant tout dommage entrant.
 
 
 ## PASSIVE INFLUENCES
-influence-name-eschew = Eschew Metabolism
-influence-description-eschew = Your corporeal needs of hunger and thirst are sundered - you no longer need to eat or drink.
+influence-name-eschew = Échapper au Métabolisme
+influence-description-eschew = Vos besoins corporels de faim et de soif sont rompus - vous n'avez plus besoin de manger ou de boire.
 
-influence-name-step = Unbound Step
-influence-description-step = You move relative only to the starless black - your movement is no longer affected by gravity.
+influence-name-step = Pas Délié
+influence-description-step = Vous vous déplacez uniquement par rapport au noir sans étoiles - votre mouvement n'est plus affecté par la gravité.
 
-influence-name-stride = Astral Stride
-influence-description-stride = Astral energy invigorates your every move, subtly hastening your speed.
+influence-name-stride = Foulée Astrale
+influence-description-stride = L'énergie astrale revigore chacun de vos mouvements, accélérant subtilement votre vitesse.
 
-influence-name-vitality = Vacuous Vitality
-influence-description-vitality = The starless emptiness of The Monument overwhelms your mind and body. Your corporeal form slowly regenerates while in its presence.
+influence-name-vitality = Vitalité Vacillante
+influence-description-vitality = Le vide sans étoiles du Monument submerge votre esprit et votre corps. Votre forme corporelle se régénère lentement en sa présence.

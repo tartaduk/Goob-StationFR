@@ -1,3 +1,2 @@
-alerts-cosmiccult-entropy-name = Entropy
-alerts-cosmiccult-entropy-desc =
-    We can infuse Entropy into The Monument to gain Influences. Siphon people to gain more Entropy.
+alerts-cosmiccult-entropy-name = Entropie
+alerts-cosmiccult-entropy-desc =Nous pouvons infuser de l'Entropie dans Le Monument pour gagner des Influences. Siphonnez les gens pour gagner plus d'Entropie.

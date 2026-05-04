@@ -2,39 +2,37 @@
 
 cosmiccult-announcement-sender = ???
 
-cosmiccult-title = Cosmic Cult
-cosmiccult-description = Cultists lurk amongst the crew.
+cosmiccult-title = Culte Cosmique
+cosmiccult-description = Des cultistes se cachent parmi l'équipage.
 
-roles-antag-cosmiccult-name = Cosmic Cultist
-roles-antag-cosmiccult-description = Usher in the end of all things through subterfuge and sabotage, brainwashing those who would oppose you.
+roles-antag-cosmiccult-name = Cultiste Cosmique
+roles-antag-cosmiccult-description = Inaugurer la fin de toutes choses par la ruse et le sabotage, en lavant le cerveau de ceux qui vous s'opposeraient.
 
-cosmiccult-gamemode-title = The Cosmic Cult
-cosmiccult-gamemode-description = Scanners detect an anomalous increase in Λ-CDM. There is no additional data.
+cosmiccult-gamemode-title = Le Culte Cosmique
+cosmiccult-gamemode-description = Les scanners détectent une augmentation anormale du Λ-CDM. Il n'y a pas de données supplémentaires.
 
-cosmiccult-vote-steward-initiator = The Unknown
+cosmiccult-vote-steward-initiator = L'Inconnu
 
-cosmiccult-vote-steward-title = Cosmic Cult Stewardship
-cosmiccult-vote-steward-briefing =
-    You are the Cosmic Cult's Steward!
-    Ensure that The Monument is placed in a secure location, and organize the cult to ensure your collective victory.
-    You are not permitted to instruct cultists on how to use or spend their Entropy.
+cosmiccult-vote-steward-title = Intendance du Culte Cosmique
+cosmiccult-vote-steward-briefing =Vous êtes l'Intendant du Culte Cosmique !
+    Assurez-vous que Le Monument est placé dans un endroit sécurisé, et organisez le culte pour assurer votre victoire collective.
+    Vous n'êtes pas autorisé à instruire les cultistes sur la façon d'utiliser ou de dépenser leur Entropie.
 
-cosmiccult-vote-lone-steward-title = The Lone Cultist
-cosmiccult-vote-lone-steward-briefing =
-    You're completely alone. But your duty is not done.
-    Ensure that The Monument is placed in a secure location, and finish what the cult started.
+cosmiccult-vote-lone-steward-title = Le Cultiste Solitaire
+cosmiccult-vote-lone-steward-briefing =Vous êtes complètement seul. Mais votre devoir n'est pas accompli.
+    Assurez-vous que Le Monument est placé dans un endroit sécurisé, et terminez ce que le culte a commencé.
 
-cosmiccult-finale-autocall-briefing = The Monument activates {$minutesandseconds}! Gather yourselves, and prepare for the end.
-cosmiccult-finale-ready = A terrifying light surges forth from The Monument!
-cosmiccult-finale-speedup = The beckoning quickens! Energy surges through the surroundings...
+cosmiccult-finale-autocall-briefing = Le Monument s'active dans {$minutesandseconds} ! Rassemblez-vous et préparez-vous à la fin.
+cosmiccult-finale-ready = Une lumière terrifiante jaillit du Monument !
+cosmiccult-finale-speedup = L'appel s'accélère ! L'énergie déferle dans les environs...
 
-cosmiccult-finale-degen = You feel yourself unravelling!
-cosmiccult-finale-location = Scanners are detecting an enormous Λ-CDM spike {$location}!
-cosmiccult-finale-cancel-begin = Your mind's willpower begins to shatter the ritual...
-cosmiccult-finale-beckon-begin = The whispers in the back of your mind intensify...
-cosmiccult-finale-beckon-success = You beckon for the final curtain call.
+cosmiccult-finale-degen = Vous vous sentez se désagréger !
+cosmiccult-finale-location = Les scanners détectent un énorme pic de Λ-CDM {$location} !
+cosmiccult-finale-cancel-begin = La volonté de votre esprit commence à briser le rituel...
+cosmiccult-finale-beckon-begin = Les murmures au fond de votre esprit s'intensifient...
+cosmiccult-finale-beckon-success = Vous appelez le rideau final.
 
-cosmiccult-monument-powerdown = The Monument falls eerily silent.
+cosmiccult-monument-powerdown = Le Monument devient étrangement silencieux.
 
 ## ROUNDEND TEXT
 
@@ -42,8 +40,8 @@ cosmiccult-roundend-cultist-count = {$initialCount ->
     [1] There was {$initialCount} [color=#4cabb3]Cosmic Cultist[/color].
     *[other] There were {$initialCount} [color=#4cabb3]Cosmic Cultists[/color].
 }
-cosmiccult-roundend-entropy-count = The cult siphoned {$count} Entropy.
-cosmiccult-roundend-cultpop-count = Cultists made up {$count}% of the crew.
+cosmiccult-roundend-entropy-count = Le culte a siphonné {$count} Entropie.
+cosmiccult-roundend-cultpop-count = Les cultistes représentaient {$count}% de l'équipage.
 cosmiccult-roundend-monument-stage = {$stage ->
     [1] Alas, the Monument seems abandoned.
     [2] The Monument progressed, but completion was out of reach.
@@ -51,19 +49,19 @@ cosmiccult-roundend-monument-stage = {$stage ->
     *[other] [color=red]Something went REALLY wrong.[/color]
 }
 
-cosmiccult-roundend-cultcomplete = [color=#4cabb3]Cosmic Cult complete victory![/color]
-cosmiccult-roundend-cultmajor = [color=#4cabb3]Cosmic Cult major victory![/color]
-cosmiccult-roundend-cultminor = [color=#4cabb3]Cosmic Cult minor victory![/color]
-cosmiccult-roundend-neutral = [color=yellow]Neutral ending![/color]
-cosmiccult-roundend-crewminor = [color=green]Crew minor victory![/color]
-cosmiccult-roundend-crewmajor = [color=green]Crew major victory![/color]
-cosmiccult-roundend-crewcomplete = [color=green]Crew complete victory![/color]
+cosmiccult-roundend-cultcomplete = [color=#4cabb3]Victoire totale du Culte Cosmique ![/color]
+cosmiccult-roundend-cultmajor = [color=#4cabb3]Victoire majeure du Culte Cosmique ![/color]
+cosmiccult-roundend-cultminor = [color=#4cabb3]Victoire mineure du Culte Cosmique ![/color]
+cosmiccult-roundend-neutral = [color=yellow]Fin neutre ![/color]
+cosmiccult-roundend-crewminor = [color=green]Victoire mineure de l'équipage ![/color]
+cosmiccult-roundend-crewmajor = [color=green]Victoire majeure de l'équipage ![/color]
+cosmiccult-roundend-crewcomplete = [color=green]Victoire totale de l'équipage ![/color]
 
-cosmiccult-summary-cultcomplete = The cosmic cultists ushered in the end!
-cosmiccult-summary-cultmajor = The cosmic cultists' victory will be inevitable.
-cosmiccult-summary-cultminor = The Monument was completed, but not fully empowered.
-cosmiccult-summary-neutral = The cult will live to see another day.
-cosmiccult-summary-crewminor = The cult has been left stewardless.
+cosmiccult-summary-cultcomplete = Les cultistes cosmiques ont inauguré la fin !
+cosmiccult-summary-cultmajor = La victoire des cultistes cosmiques sera inévitable.
+cosmiccult-summary-cultminor = Le Monument a été complété, mais pas pleinement renforcé.
+cosmiccult-summary-neutral = Le culte vivra pour voir un autre jour.
+cosmiccult-summary-crewminor = Le culte s'est retrouvé sans intendant.
 cosmiccult-summary-crewmajor = All cosmic cultists were eliminated.
 cosmiccult-summary-crewcomplete = Every single cosmic cultist was deconverted!
 
@@ -131,7 +129,7 @@ cosmiccult-rift-purge = {$NAME} purges the malign rift from reality!
 
 cosmiccult-ui-deconverted-title = Deconverted
 cosmiccult-ui-converted-title = Converted
-cosmiccult-ui-roundstart-title = The Unknown
+cosmiccult-ui-roundstart-title = L'Inconnu
 
 cosmiccult-ui-converted-text-1 =
     You have been converted into a Cosmic Cultist.
@@ -157,7 +155,7 @@ cosmiccult-ui-popup-confirm = Confirm
 
 ## OBJECTIVES / CHARACTERMENU
 
-objective-issuer-cosmiccult = [bold][color=#cae8e8]The Unknown[/color][/bold]
+objective-issuer-cosmiccult = [bold][color=#cae8e8]L'Inconnu[/color][/bold]
 
 objective-cosmiccult-charactermenu = You must usher in the end of all things. Complete your tasks to advance the cult's progress.
 objective-cosmiccult-steward-charactermenu = You must direct the cult to usher in the end of all things. Oversee and ensure the cult's progress.
@@ -188,7 +186,7 @@ cosmiccult-announce-victory-summon = A FRACTION OF COSMIC POWER IS CALLED FORTH.
 
 cosmiccult-spire-entropy = A mote of entropy condenses from the surface of the spire.
 cosmiccult-entropy-inserted = You infuse {$count} entropy into The Monument.
-cosmiccult-entropy-unavailable = You can't do that right now.
+cosmiccult-entropy-unavailable = Vous ne pouvez pas faire ça maintenant.
 cosmiccult-astral-ascendant = {$name}, Ascendant
 cosmiccult-gear-pickup-rejection = The {$ITEM} resists {CAPITALIZE(THE($TARGET))}'s touch!
 cosmiccult-gear-pickup = You can feel yourself unravelling while you hold the {$ITEM}!

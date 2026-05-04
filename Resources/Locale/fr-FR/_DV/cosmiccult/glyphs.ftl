@@ -1,22 +1,22 @@
-cult-glyph-target-dead = The glyph's influence has no effect on the deceased.
-cult-glyph-target-rotting = The glyph's influence has no effect on the rotting.
-cult-glyph-not-enough-cultists = Not enough cultists present to invoke glyph!
-cult-glyph-conditions-not-met = No suitable targets within range of glyph!
-cult-glyph-too-many-targets = Too many targets present on glyph!
-cult-glyph-target-mindshield = Mental shielding prevents the glyph's influence from taking hold!
-cult-glyph-target-chaplain = A spark of divine power prevents the glyph's influence from taking hold!
+cult-glyph-target-dead = L'influence du glyphe n'a aucun effet sur les défunts.
+cult-glyph-target-rotting = L'influence du glyphe n'a aucun effet sur les pourris.
+cult-glyph-not-enough-cultists = Pas assez de cultistes présents pour invoquer le glyphe !
+cult-glyph-conditions-not-met = Aucune cible adaptée dans la portée du glyphe !
+cult-glyph-too-many-targets = Trop de cibles présentes sur le glyphe !
+cult-glyph-target-mindshield = Le bouclier mental empêche l'influence du glyphe de prendre prise !
+cult-glyph-target-chaplain = Une étincelle de puissance divine empêche l'influence du glyphe de prendre prise !
 
-cult-glyph-name-knowledge = Pact of Knowledge
-cult-glyph-description-knowledge = Knowledge. Instills the spark of indelible knowledge. Able to convert most to join our ranks.
-cult-glyph-name-projection = Pact of Projection
-cult-glyph-description-projection = Projection. Allows us to ascend in a temporary astral form to spy on those around us.
+cult-glyph-name-knowledge = Pacte de Connaissance
+cult-glyph-description-knowledge = Connaissance. Instille l'étincelle d'une connaissance indélébile. Capable de convertir la plupart pour rejoindre nos rangs.
+cult-glyph-name-projection = Pacte de Projection
+cult-glyph-description-projection = Projection. Nous permet de nous élever dans une forme astrale temporaire pour espionner ceux autour de nous.
 
-cult-glyph-name-warding = Communion of Warding
-cult-glyph-description-warding = Warding. Transmutes pressure-resistant clothing into entropic garb.
-cult-glyph-name-blades = Communion of Blades
-cult-glyph-description-blades = Blades. Transmutes and extrudes sharp objects into more lethal weaponry.
+cult-glyph-name-warding = Communion de Protection
+cult-glyph-description-warding = Protection. Transmue les vêtements résistants à la pression en tenue entropique.
+cult-glyph-name-blades = Communion des Lames
+cult-glyph-description-blades = Lames. Transmue et extrude des objets tranchants en armes plus létales.
 
-cult-glyph-name-cessation = Concord of Cessation
-cult-glyph-description-cessation = Cessation. Transmutes a portable atmospherics scrubber into a Vacuous Spire for our use.
-cult-glyph-name-truth = Concord of Truth
-cult-glyph-description-truth = Truth. Instills the pure, indelible truth. Able to convert absolutely anyone to join our ranks.
+cult-glyph-name-cessation = Concordat de Cessation
+cult-glyph-description-cessation = Cessation. Transmue un épurateur atmosphérique portable en Flèche Vacillante à notre usage.
+cult-glyph-name-truth = Concordat de Vérité
+cult-glyph-description-truth = Vérité. Instille la vérité pure et indélébile. Capable de convertir absolument n'importe qui pour rejoindre nos rangs.
