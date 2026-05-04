@@ -39,27 +39,27 @@ cmd-whitelistremove-arg-player = [player]
 cmd-kicknonwhitelisted-desc = Kicks all non-whitelisted players from the server.
 cmd-kicknonwhitelisted-help = Usage: kicknonwhitelisted
 
-ban-banned-permanent = This ban will only be removed via appeal.
-ban-banned-permanent-appeal = This ban will only be removed via appeal. You can appeal at {$link}
-ban-expires = This ban is for {$duration} minutes and will expire at {$time} UTC.
-ban-banned-1 = You, or another user of this computer or connection, are banned from playing here.
-ban-banned-2 = You were banned by: "{$adminName}"
-ban-banned-3 = The ban reason is: "{$reason}"
-ban-banned-4 = Attempts to circumvent this ban such as creating a new account will be logged.
+ban-banned-permanent = Ce bannissement ne sera levé que par appel.
+ban-banned-permanent-appeal = Ce bannissement ne sera levé que par appel. Vous pouvez faire appel sur {$link}
+ban-expires = Ce bannissement dure {$duration} minutes et expirera le {$time} UTC.
+ban-banned-1 = Vous, ou un autre utilisateur de cet ordinateur ou de cette connexion, êtes banni de jouer ici.
+ban-banned-2 = Vous avez été banni par : "{$adminName}"
+ban-banned-3 = La raison du bannissement est : "{$reason}"
+ban-banned-4 = Toute tentative de contournement de ce bannissement, comme la création d'un nouveau compte, sera enregistrée.
 
-soft-player-cap-full = The server is full!
-panic-bunker-account-denied = This server is in panic bunker mode, often enabled as a precaution against raids. New connections by accounts not meeting certain requirements are temporarily not accepted. Try again later
-panic-bunker-account-denied-reason = This server is in panic bunker mode, often enabled as a precaution against raids. New connections by accounts not meeting certain requirements are temporarily not accepted. Try again later. Reason: "{$reason}"
-panic-bunker-account-reason-account = Your Space Station 14 account is too new. It must be older than {$minutes} minutes
-panic-bunker-account-reason-overall = Your overall playtime on the server must be greater than {$minutes} $minutes
+soft-player-cap-full = Le serveur est plein !
+panic-bunker-account-denied = Ce serveur est en mode bunker anti-raid, souvent activé en prévention des raids. Les nouvelles connexions de comptes ne remplissant pas certaines conditions sont temporairement refusées. Réessayez plus tard.
+panic-bunker-account-denied-reason = Ce serveur est en mode bunker anti-raid, souvent activé en prévention des raids. Les nouvelles connexions de comptes ne remplissant pas certaines conditions sont temporairement refusées. Réessayez plus tard. Raison : "{$reason}"
+panic-bunker-account-reason-account = Votre compte Space Station 14 est trop récent. Il doit avoir plus de {$minutes} minutes.
+panic-bunker-account-reason-overall = Votre temps de jeu total sur le serveur doit être supérieur à {$minutes} $minutes.
 
-whitelist-playtime = You do not have enough playtime to join this server. You need at least {$minutes} minutes of playtime to join this server.
-whitelist-player-count = This server is currently not accepting players. Please try again later.
-whitelist-notes = You currently have too many admin notes to join this server. You can check your notes by typing /adminremarks in chat.
-whitelist-manual = You are not whitelisted on this server.
-whitelist-blacklisted = You are blacklisted from this server.
-whitelist-always-deny = You are not allowed to join this server.
-whitelist-fail-prefix = Not whitelisted: {$msg}
+whitelist-playtime = Vous n'avez pas suffisamment de temps de jeu pour rejoindre ce serveur. Vous avez besoin d'au moins {$minutes} minutes de jeu.
+whitelist-player-count = Ce serveur n'accepte pas de joueurs pour l'instant. Réessayez plus tard.
+whitelist-notes = Vous avez actuellement trop de notes d'administration pour rejoindre ce serveur. Vous pouvez consulter vos notes en tapant /adminremarks dans le chat.
+whitelist-manual = Vous n'êtes pas sur la liste blanche de ce serveur.
+whitelist-blacklisted = Vous êtes sur la liste noire de ce serveur.
+whitelist-always-deny = Vous n'êtes pas autorisé à rejoindre ce serveur.
+whitelist-fail-prefix = Non autorisé : {$msg}
 
 cmd-blacklistadd-desc = Adds the player with the given username to the server blacklist.
 cmd-blacklistadd-help = Usage: blacklistadd <username>
@@ -75,15 +75,15 @@ cmd-blacklistremove-removed = {$username} removed from the blacklist
 cmd-blacklistremove-not-found = Unable to find '{$username}'
 cmd-blacklistremove-arg-player = [player]
 
-baby-jail-account-denied = This server is a newbie server, intended for new players and those who want to help them. New connections by accounts that are too old or are not on a whitelist are not accepted. Check out some other servers and see everything Space Station 14 has to offer. Have fun!
-baby-jail-account-denied-reason = This server is a newbie server, intended for new players and those who want to help them. New connections by accounts that are too old or are not on a whitelist are not accepted. Check out some other servers and see everything Space Station 14 has to offer. Have fun! Reason: "{$reason}"
-baby-jail-account-reason-account = Your Space Station 14 account is too old. It must be younger than {$minutes} minutes
-baby-jail-account-reason-overall = Your overall playtime on the server must be younger than {$minutes} $minutes
+baby-jail-account-denied = Ce serveur est un serveur pour débutants, destiné aux nouveaux joueurs et à ceux qui veulent les aider. Les nouvelles connexions de comptes trop anciens ou non listés en liste blanche ne sont pas acceptées. Découvrez d'autres serveurs et tout ce que Space Station 14 a à offrir. Amusez-vous bien !
+baby-jail-account-denied-reason = Ce serveur est un serveur pour débutants, destiné aux nouveaux joueurs et à ceux qui veulent les aider. Les nouvelles connexions de comptes trop anciens ou non listés ne sont pas acceptées. Découvrez d'autres serveurs et tout ce que Space Station 14 a à offrir. Amusez-vous bien ! Raison : "{$reason}"
+baby-jail-account-reason-account = Votre compte Space Station 14 est trop ancien. Il doit avoir moins de {$minutes} minutes.
+baby-jail-account-reason-overall = Votre temps de jeu total sur le serveur doit être inférieur à {$minutes} $minutes.
 
-generic-misconfigured = The server is misconfigured and is not accepting players. Please contact the server owner and try again later.
+generic-misconfigured = Le serveur est mal configuré et n'accepte pas de joueurs. Veuillez contacter le propriétaire du serveur et réessayer plus tard.
 
-ipintel-server-ratelimited = This server uses a security system with external verification, which has reached its maximum verification limit. Please contact the administration team of the server for assistance and try again later.
-ipintel-unknown = This server uses a security system with external verification, but it encountered an error. Please contact the administration team of the server for assistance and try again later.
-ipintel-suspicious = You seem to be connecting through a datacenter or VPN. For administrative reasons we do not allow VPN connections to play. Please contact the administration team of the server for assistance if you believe this is false.
+ipintel-server-ratelimited = Ce serveur utilise un système de sécurité avec vérification externe, qui a atteint sa limite maximale de vérifications. Veuillez contacter l'équipe d'administration du serveur et réessayer plus tard.
+ipintel-unknown = Ce serveur utilise un système de sécurité avec vérification externe, mais une erreur s'est produite. Veuillez contacter l'équipe d'administration du serveur et réessayer plus tard.
+ipintel-suspicious = Vous semblez vous connecter via un datacenter ou un VPN. Pour des raisons administratives, les connexions VPN ne sont pas autorisées. Veuillez contacter l'équipe d'administration si vous pensez qu'il s'agit d'une erreur.
 
-hwid-required = Your client has refused to send a hardware id. Please contact the administration team for further assistance.
+hwid-required = Votre client a refusé d'envoyer un identifiant matériel. Veuillez contacter l'équipe d'administration pour obtenir de l'aide.

@@ -7,11 +7,11 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 entity-category-name-actions = Actions
-entity-category-name-game-rules = Game Rules
-entity-category-name-objectives = Objectives
-entity-category-name-roles = Mind Roles
-entity-category-name-mapping = Mapping
-entity-category-name-donotmap = Do not map
-entity-category-name-status-effects = Status Effects
+entity-category-name-game-rules = Règles de jeu
+entity-category-name-objectives = Objectifs
+entity-category-name-roles = Rôles d'esprit
+entity-category-name-mapping = Cartographie
+entity-category-name-donotmap = Ne pas cartographier
+entity-category-name-status-effects = Effets de statut
 
-entity-category-suffix-donotmap = DO NOT MAP
+entity-category-suffix-donotmap = NE PAS CARTOGRAPHIER

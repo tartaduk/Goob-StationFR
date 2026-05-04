@@ -12,18 +12,18 @@
 
 ### Generic, general words, which fit into multiple contexts
 
-generic-not-available-shorthand = N/A
-generic-article-a = a
-generic-article-an = an
+generic-not-available-shorthand = N/D
+generic-article-a = un
+generic-article-an = une
 
-generic-unknown = unknown
-generic-unknown-title = Unknown
-generic-error = error
-generic-invalid = invalid
+generic-unknown = inconnu
+generic-unknown-title = Inconnu
+generic-error = erreur
+generic-invalid = invalide
 
-generic-hours = hours
+generic-hours = heures
 generic-minutes = minutes
 
-generic-playtime-title = Playtime
+generic-playtime-title = Temps de jeu
 
-generic-confirm = Confirm
+generic-confirm = Confirmer
