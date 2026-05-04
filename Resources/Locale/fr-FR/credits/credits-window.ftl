@@ -10,8 +10,8 @@ credits-window-patrons-tab = Patrons
 credits-window-ss14contributorslist-tab = Credits
 credits-window-licenses-tab = Open Source Licenses
 credits-window-attributions-tab = Attributions
-credits-window-become-patron-button = Become a Patron
-credits-window-contributor-encouragement-label = Want to get on this list?
+credits-window-become-patron-button = Devenir Mécène
+credits-window-contributor-encouragement-label = Vous voulez figurer sur cette liste ?
 credits-window-contribute-button = Contribute!
 credits-window-contributors-section-title = Space Station 14 Contributors
 credits-window-codebases-section-title = Space Station 13 Codebases
@@ -23,4 +23,4 @@ credits-window-attributions-files = [color=white]Files:[/color] {$files}
 credits-window-attributions-copyright = [color=white]Copyright:[/color] {$copyright}
 credits-window-attributions-license = [color=white]License:[/color] {$license}
 credits-window-attributions-source = [color=white]Source:[/color] {$source}
-credits-window-attributions-failed = [color=red]Failed to read file:[/color] {$file}
+credits-window-attributions-failed = [color=red]Échec de lecture du fichier :[/color] {$file}

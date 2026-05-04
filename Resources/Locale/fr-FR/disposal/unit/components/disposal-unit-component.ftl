@@ -32,7 +32,7 @@ disposal-self-insert-verb-get-data-text = Jump inside
 disposal-eject-verb-get-data-text = Eject contents
 
 ## No hands
-disposal-unit-no-hands = You don't have hands!
+disposal-unit-no-hands = Vous n'avez pas de mains !
 
 # state
 disposal-unit-state-Ready = Ready
@@ -41,4 +41,4 @@ disposal-unit-state-Flushed = Pressurizing
 disposal-unit-state-Pressurizing = Pressurizing
 
 # putting people in
-disposal-unit-being-inserted = {CAPITALIZE($user)} is trying to force you into a disposal chute!
+disposal-unit-being-inserted = {CAPITALIZE($user)} essaie de vous forcer dans un conduit d'évacuation !

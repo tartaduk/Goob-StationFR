@@ -5,10 +5,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ensnare-component-try-free = You struggle to remove {$ensnare} that's ensnaring you!
-ensnare-component-try-free-complete = You successfully free yourself from the {$ensnare}!
-ensnare-component-try-free-fail = You fail to free yourself from the {$ensnare}!
+ensnare-component-try-free = Vous luttez pour enlever {$ensnare} qui vous piège !
+ensnare-component-try-free-complete = Vous vous libérez avec succès de la {$ensnare} !
+ensnare-component-try-free-fail = Vous ne parvenez pas à vous libérer de la {$ensnare} !
 
-ensnare-component-try-free-complete-other = You successfully free {$user} from the {$ensnare}!
-ensnare-component-try-free-fail-other = You fail to free {$user} from the {$ensnare}!
-ensnare-component-try-free-other = You start removing the {$ensnare} caught on {$user}!
+ensnare-component-try-free-complete-other = Vous libérez avec succès {$user} de la {$ensnare} !
+ensnare-component-try-free-fail-other = Vous ne parvenez pas à libérer {$user} de la {$ensnare} !
+ensnare-component-try-free-other = Vous commencez à enlever la {$ensnare} accrochée sur {$user} !

@@ -60,7 +60,7 @@ device-address-prefix-air-alarm = AIR-
 
 device-address-prefix-sensor-monitor = MON-
 
-device-address-examine-message = The device's address is {$address}.
+device-address-examine-message = L'adresse de l'appareil est {$address}.
 
 # Device net ID names
 device-net-id-private = Private

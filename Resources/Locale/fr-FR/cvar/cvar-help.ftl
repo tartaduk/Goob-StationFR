@@ -6,18 +6,18 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 changecvar-simple-debug_test_cvar = Does nothing.
-changecvar-full-debug_test_cvar = Just a simple testing cvar. Does nothing.
+changecvar-full-debug_test_cvar = Juste un cvar de test simple. Ne fait rien.
 
-changecvar-simple-events_enabled = Controls if the game should run station events.
-changecvar-full-events_enabled = Controls if the game should run station events.
+changecvar-simple-events_enabled = Contrôle si le jeu doit exécuter les événements de station.
+changecvar-full-events_enabled = Contrôle si le jeu doit exécuter les événements de station.
 
-changecvar-simple-shuttle_auto_call_time = Time after round start to auto-call the shuttle.
-changecvar-full-shuttle_auto_call_time = Time in minutes after round start to auto-call the shuttle. Set to zero to disable.
+changecvar-simple-shuttle_auto_call_time = Temps après le début du round pour appeler automatiquement la navette.
+changecvar-full-shuttle_auto_call_time = Temps en minutes après le début du round pour appeler automatiquement la navette. Mettre à zéro pour désactiver.
 
-changecvar-simple-playtest_all_damage_modifier = Multiplier for all damage dealt.
-changecvar-full-playtest_all_damage_modifier = Multiplier for all damage dealt.
-changecvar-simple-playtest_all_heal_modifier = Multiplier for all healing done.
-changecvar-full-playtest_all_heal_modifier = Multiplier for all healing done.
+changecvar-simple-playtest_all_damage_modifier = Multiplicateur pour tous les dégâts infligés.
+changecvar-full-playtest_all_damage_modifier = Multiplicateur pour tous les dégâts infligés.
+changecvar-simple-playtest_all_heal_modifier = Multiplicateur pour tous les soins effectués.
+changecvar-full-playtest_all_heal_modifier = Multiplicateur pour tous les soins effectués.
 changecvar-simple-playtest_melee_damage_modifier = Multiplier affecting melee weapon damage.
 changecvar-full-playtest_melee_damage_modifier = Multiplier affecting all damage dealt by melee attacks.
 changecvar-simple-playtest_projectile_damage_modifier = Multiplier affecting projectile damage.

@@ -15,16 +15,16 @@ crayon-drawing-label = Drawing: [color={$color}]{$state}[/color] {$infinite ->
     *[false] ({$charges}/{$capacity})
     [true] {""}
 }
-crayon-interact-not-enough-left-text = Not enough left.
-crayon-interact-used-up-text = The {$owner} got used up.
-crayon-interact-invalid-location = Can't reach there!
+crayon-interact-not-enough-left-text = Il n'en reste pas assez.
+crayon-interact-used-up-text = Le {$owner} a été utilisé.
+crayon-interact-invalid-location = Impossible d'atteindre là-bas !
 
 ## UI
 crayon-window-title = Crayon
-crayon-window-placeholder = Search, or queue a comma-separated list of names
-crayon-category-1-brushes = Brushes
-crayon-category-2-alphanum = Numbers and letters
-crayon-category-3-symbols = Symbols
-crayon-category-4-info = Signs
+crayon-window-placeholder = Rechercher, ou entrer une liste de noms séparés par des virgules
+crayon-category-1-brushes = Pinceaux
+crayon-category-2-alphanum = Chiffres et lettres
+crayon-category-3-symbols = Symboles
+crayon-category-4-info = Panneaux
 crayon-category-5-graffiti = Graffiti
-crayon-category-random = Random
+crayon-category-random = Aléatoire

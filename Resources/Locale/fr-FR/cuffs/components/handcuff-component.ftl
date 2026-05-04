@@ -12,20 +12,20 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-handcuff-component-target-self = You start restraining yourself.
-handcuff-component-cuffs-broken-error = The restraints are broken!
+handcuff-component-target-self = Vous commencez à vous entraver vous-même.
+handcuff-component-cuffs-broken-error = Les entraves sont cassées !
 handcuff-component-target-has-no-hands-error = {$targetName} has no hands!
 handcuff-component-target-has-no-free-hands-error = {$targetName} has no free hands!
-handcuff-component-too-far-away-error = You are too far away to use the restraints!
+handcuff-component-too-far-away-error = Vous êtes trop loin pour utiliser les entraves !
 handcuff-component-start-cuffing-observer = {$user} starts restraining {$target}!
 handcuff-component-start-cuffing-self-observer = {$user} starts restraining {REFLEXIVE($target)}.
-handcuff-component-start-cuffing-target-message = You start restraining {$targetName}.
-handcuff-component-start-cuffing-by-other-message = {$otherName} starts restraining you!
+handcuff-component-start-cuffing-target-message = Vous commencez à entraver {$targetName}.
+handcuff-component-start-cuffing-by-other-message = {$otherName} commence à vous entraver !
 handcuff-component-cuff-observer-success-message = {$user} restrains {$target}.
 handcuff-component-cuff-self-observer-success-message = {$user} restrains {REFLEXIVE($target)}.
-handcuff-component-cuff-other-success-message = You successfully restrain {$otherName}.
-handcuff-component-cuff-by-other-success-message = You have been restrained by {$otherName}!
-handcuff-component-cuff-self-success-message = You restrain yourself.
+handcuff-component-cuff-other-success-message = Vous entravez avec succès {$otherName}.
+handcuff-component-cuff-by-other-success-message = Vous avez été entravé par {$otherName} !
+handcuff-component-cuff-self-success-message = Vous vous entravez vous-même.
 handcuff-component-cuff-interrupt-message = You were interrupted while restraining {$targetName}!
 handcuff-component-cuff-interrupt-other-message = You interrupt {$otherName} while { SUBJECT($otherEnt) } { CONJUGATE-BE($otherEnt) } restraining you!
 handcuff-component-cuff-interrupt-self-message = You were interrupted while restraining yourself.

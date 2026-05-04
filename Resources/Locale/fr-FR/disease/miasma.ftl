@@ -23,10 +23,10 @@ perishable-3-nonmob = [color=red]{ CAPITALIZE(SUBJECT($target)) } doesn't look v
 
 ## Rotting
 
-rotting-rotting = [color=orange]{ CAPITALIZE(POSS-ADJ($target)) } corpse is rotting![/color]
-rotting-bloated = [color=orangered]{ CAPITALIZE(POSS-ADJ($target)) } corpse is bloated![/color]
-rotting-extremely-bloated = [color=red]{ CAPITALIZE(POSS-ADJ($target)) } corpse is extremely bloated![/color]
+rotting-rotting = [color=orange]Le cadavre de { CAPITALIZE(POSS-ADJ($target)) } est en train de pourrir ![/color]
+rotting-bloated = [color=orangered]Le cadavre de { CAPITALIZE(POSS-ADJ($target)) } est gonflé ![/color]
+rotting-extremely-bloated = [color=red]Le cadavre de { CAPITALIZE(POSS-ADJ($target)) } est extrêmement gonflé ![/color]
 
-rotting-rotting-nonmob = [color=orange]{ CAPITALIZE(SUBJECT($target)) } is rotting![/color]
-rotting-bloated-nonmob = [color=orangered]{ CAPITALIZE(SUBJECT($target)) } is bloated![/color]
-rotting-extremely-bloated-nonmob = [color=red]{ CAPITALIZE(SUBJECT($target)) } is extremely bloated![/color]
+rotting-rotting-nonmob = [color=orange]{ CAPITALIZE(SUBJECT($target)) } est en train de pourrir ![/color]
+rotting-bloated-nonmob = [color=orangered]{ CAPITALIZE(SUBJECT($target)) } est gonflé ![/color]
+rotting-extremely-bloated-nonmob = [color=red]{ CAPITALIZE(SUBJECT($target)) } est extrêmement gonflé ![/color]

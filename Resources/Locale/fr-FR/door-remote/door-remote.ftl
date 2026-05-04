@@ -8,17 +8,17 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 ## UI
-door-remote-open-close-text = Opens and Closes Doors
-door-remote-toggle-bolt-text = Toggles Bolts
-door-remote-emergency-access-text = Toggles Emergency Access
-door-remote-invalid-text = Invalid
-door-remote-mode-label = Mode: [color=white]{$modeString}[/color]
+door-remote-open-close-text = Ouvre et Ferme les Portes
+door-remote-toggle-bolt-text = Active/Désactive les Verrous
+door-remote-emergency-access-text = Active/Désactive l'Accès d'Urgence
+door-remote-invalid-text = Invalide
+door-remote-mode-label = Mode : [color=white]{$modeString}[/color]
 
 ## Entity
 
-door-remote-switch-state-open-close = You switch the remote to open and close doors
-door-remote-switch-state-toggle-bolts = You switch the remote to toggle bolts
-door-remote-switch-state-toggle-emergency-access = You switch the remote to toggle emergency access
-door-remote-no-power = The door is not powered
+door-remote-switch-state-open-close = Vous passez la télécommande en mode ouverture et fermeture des portes
+door-remote-switch-state-toggle-bolts = Vous passez la télécommande en mode activation des verrous
+door-remote-switch-state-toggle-emergency-access = Vous passez la télécommande en mode activation d'accès d'urgence
+door-remote-no-power = La porte n'est pas alimentée
 door-remote-denied = Access denied
 

@@ -12,12 +12,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-carp-rift-warning = A rift is causing an unnaturally large energy flux {$location}. Stop it at all costs!
-carp-rift-duplicate = Cannot have 2 charging rifts at the same time!
-carp-rift-examine = It is [color=yellow]{$percentage}%[/color] charged!
-carp-rift-max = You have reached your maximum amount of rifts
-carp-rift-anchor = Rifts require a stable surface to spawn.
-carp-rift-proximity = Too close to a nearby rift! Need to be at least {$proximity}m away.
-carp-rift-space-proximity = Too close to space! Need to be at least {$proximity}m away.
-carp-rift-weakened = You are unable to summon more rifts in your weakened state.
+carp-rift-warning = Une faille cause un flux d'énergie anormalement large {$location}. Arrêtez-la à tout prix !
+carp-rift-duplicate = Impossible d'avoir 2 failles en charge en même temps !
+carp-rift-examine = Il est chargé à [color=yellow]{$percentage}%[/color] !
+carp-rift-max = Vous avez atteint votre nombre maximum de failles
+carp-rift-anchor = Les failles nécessitent une surface stable pour apparaître.
+carp-rift-proximity = Trop proche d'une faille ! Doit être à au moins {$proximity}m.
+carp-rift-space-proximity = Trop proche de l'espace ! Doit être à au moins {$proximity}m.
+carp-rift-weakened = Vous êtes incapable d'invoquer plus de failles dans votre état affaibli.
 carp-rift-destroyed = A rift has been destroyed! You are now weakened temporarily.

@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-tube-connections-command-description = Shows all the directions that a tube can connect in.
+tube-connections-command-description = Affiche toutes les directions dans lesquelles un tube peut se connecter.
 tube-connections-command-help-text = Usage: {$command} <entityUid>

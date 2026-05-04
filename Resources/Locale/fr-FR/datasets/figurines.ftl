@@ -9,29 +9,29 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 figurines-hop-1 = Papers, please.
-figurines-hop-2 = You are fired.
+figurines-hop-2 = Vous êtes viré.
 figurines-hop-3 = BRB.
-figurines-hop-4 = You can get AA if you fill out the form.
-figurines-hop-5 = I was gone for two seconds...
+figurines-hop-4 = Vous pouvez obtenir un accès total si vous remplissez le formulaire.
+figurines-hop-5 = J'étais absent deux secondes...
 
 figurines-passenger-1 = Insuls please.
 figurines-passenger-2 = Call evac.
 figurines-passenger-3 = HELP MAINTS!!
 figurines-passenger-4 = I'm no tider.
-figurines-passenger-5 = How much for a toolbelt?
+figurines-passenger-5 = Combien pour une ceinture à outils ?
 
-figurines-greytider-1 = Man, this party stinks. I fucking hate these people.
+figurines-greytider-1 = Mec, cette fête pue. Je déteste vraiment ces gens.
 figurines-greytider-2 = Uh-oh, who's lost their stunbaton?
 figurines-greytider-3 = Robust.
-figurines-greytider-4 = I'm not me without a toolbox.
+figurines-greytider-4 = Je ne suis pas moi sans une boîte à outils.
 figurines-greytider-5 = Grey tide station wide!
 figurines-greytider-6 = Viva la revolution.
 
 figurines-clown-1 = Honk!
 figurines-clown-2 = Banana!
 figurines-clown-3 = Soap!
-figurines-clown-4 = HoP has one clown, HoS has the whole department.
-figurines-clown-5 = Do I annoy you?
+figurines-clown-4 = Le CDP a un clown, le CdS a tout le département.
+figurines-clown-5 = Est-ce que je vous ennuie ?
 figurines-clown-6 = Can I have AA? Please?
 figurines-clown-7 = I'm a clown, but you're the whole circus!
 

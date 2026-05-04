@@ -4,8 +4,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-discord-round-notifications-new = A new round is starting!
+discord-round-notifications-new = Un nouveau round commence !
 discord-round-notifications-started = Round #{$id} on map "{$map}" started.
-discord-round-notifications-end = Round #{$id} has ended. It lasted for {$hours} hours, {$minutes} minutes, and {$seconds} seconds.
-discord-round-notifications-end-ping = <@&{$roleId}>, the server will reboot shortly!
-discord-round-notifications-unknown-map = Unknown
+discord-round-notifications-end = Le round #{$id} est terminé. Il a duré {$hours} heures, {$minutes} minutes et {$seconds} secondes.
+discord-round-notifications-end-ping = <@&{$roleId}>, le serveur va redémarrer sous peu !
+discord-round-notifications-unknown-map = Inconnu

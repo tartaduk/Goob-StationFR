@@ -11,17 +11,17 @@
 
 # Popups
 
-network-configurator-device-saved = Successfully saved network device {$device} with address {$address}!
-network-configurator-device-failed = Failed to save network device {$device}! No address assigned!
-network-configurator-too-many-devices = Too many devices stored on this device!
+network-configurator-device-saved = Appareil réseau {$device} sauvegardé avec succès à l'adresse {$address} !
+network-configurator-device-failed = Échec de la sauvegarde de l'appareil réseau {$device} ! Aucune adresse assignée !
+network-configurator-too-many-devices = Trop d'appareils stockés sur cet appareil !
 network-configurator-update-ok = Device storage updated.
-network-configurator-device-already-saved = network device: {$device} is already saved.
+network-configurator-device-already-saved = L'appareil réseau : {$device} est déjà sauvegardé.
 network-configurator-device-access-denied = Access denied!
 network-configurator-link-mode-started = Started linking device: {$device}
 network-configurator-link-mode-stopped = Stopped linking.
 network-configurator-mode-link = Link
 network-configurator-mode-list = List
-network-configurator-switched-mode = Switched mode to: {$mode}
+network-configurator-switched-mode = Mode changé en : {$mode}
 
 # Verbs
 network-configurator-save-device = Save device
@@ -45,11 +45,11 @@ network-configurator-text-show = Show
 
 # tooltips
 network-configurator-tooltip-set = Sets targets device list
-network-configurator-tooltip-add = Adds to targets device list
+network-configurator-tooltip-add = Ajoute à la liste des appareils cibles
 network-configurator-tooltip-edit = Edit targets device list
 network-configurator-tooltip-clear = Clear targets device list
-network-configurator-tooltip-copy = Copy targets device list to held tool
-network-configurator-tooltip-show = Show a holographic visualization of targets device list
+network-configurator-tooltip-copy = Copier la liste des appareils cibles vers l'outil tenu
+network-configurator-tooltip-show = Afficher une visualisation holographique de la liste des appareils cibles
 
 # examine
 network-configurator-examine-mode-link = [color=red]Link[/color]
