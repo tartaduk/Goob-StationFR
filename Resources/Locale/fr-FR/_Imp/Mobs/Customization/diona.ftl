@@ -4,7 +4,7 @@ marking-DionaFirefly = Fireflies
 marking-DionaFirefly-firefly = Fireflies
 
 marking-DionaFlowersBody-flowers1 = Vine
-marking-DionaFlowersBody-flowers2 = Flowers
+marking-DionaFlowersBody-flowers2 = Fleurs
 
 marking-DionaLivingNymph = Living Nymphs
 marking-DionaLivingNymph-livingnymph = Living Nymphs
@@ -34,16 +34,16 @@ marking-DionaPollenDust = Pollen Cloud
 marking-DionaPollenDust-pollendust = Pollen Cloud
 
 marking-DionaFlowersHead-flowers1 = Stems
-marking-DionaFlowersHead-flowers2 = Flowers
+marking-DionaFlowersHead-flowers2 = Fleurs
 
 marking-DionaBloomHead-bloom1 = Stem
 marking-DionaBloomHead-bloom2 = Flower
 
-marking-DionaCornflowerHead-cornflower1 = Leaves
+marking-DionaCornflowerHead-cornflower1 = Feuilles
 marking-DionaCornflowerHead-cornflower2 = Flowers (Inner)
-marking-DionaCornflowerHead-cornflower3 = Flowers
+marking-DionaCornflowerHead-cornflower3 = Fleurs
 
-marking-DionaGarlandHead-garland1 = Leaves
+marking-DionaGarlandHead-garland1 = Feuilles
 marking-DionaGarlandHead-garland2 = Flowers (Inner)
 marking-DionaGarlandHead-garland3 = Flowers 1
 marking-DionaGarlandHead-garland4 = Flowers 2
@@ -62,14 +62,14 @@ marking-DionaRoseyHead-rosey1 = Bush
 marking-DionaRoseyHead-rosey2 = Flowers (Inner)
 marking-DionaRoseyHead-rosey3= Flowers
 
-marking-DionaSpinnerHeadSide-spinner1 = Roots
+marking-DionaSpinnerHeadSide-spinner1 = Racines
 marking-DionaSpinnerHeadSide-spinner2 = Eyes
 
 marking-DionaSproutHeadSide-sprout1= Primary
 marking-DionaSproutHeadSide-sprout2 = Secondary
 
 marking-DionaVineHeadTop-vine1 = Root
-marking-DionaVineHeadTop-vine2 = Vines
+marking-DionaVineHeadTop-vine2 = Vignes
 
 marking-DionaVinelHead-vinel1 = Primary
 marking-DionaVinelHead-vinel2 = Secondary
@@ -77,7 +77,7 @@ marking-DionaVinelHead-vinel2 = Secondary
 marking-DionaVinesHead-vines1 = Primary
 marking-DionaVinesHead-vines2 = Secondary
 
-marking-DionaWildflowerHead-wildflower1 = Leaves
+marking-DionaWildflowerHead-wildflower1 = Feuilles
 marking-DionaWildflowerHead-wildflower2 = Flowers (Inner)
 marking-DionaWildflowerHead-wildflower3= Flowers 1
 marking-DionaWildflowerHead-wildflower4 = Flowers 2

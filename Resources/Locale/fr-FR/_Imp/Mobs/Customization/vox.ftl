@@ -4,7 +4,7 @@ marking-ScarsVoxClawTorso = Claw Scar
 marking-ScarsVoxClawTorso-claw = Claw Scar
 
 marking-SpotsChest = Spotted Chest
-marking-SpotsChest-spots1 = Spots
+marking-SpotsChest-spots1 = Taches
 marking-SpotsChest-spots2 = Belly
 
 marking-VChest = Vee
@@ -186,20 +186,20 @@ marking-SmallWattle-smallwattle = Wattle (Small)
 marking-HairPadovana = Padovana
 marking-HairPadovana-padovana = Padovana
 
-marking-HijabSimpleVox = Hijab (Simple)
-marking-HijabSimpleVox-hijabsimple = Hijab (Simple)
+marking-HijabSimpleVox = Hijab (simple)
+marking-HijabSimpleVox-hijabsimple = Hijab (simple)
 
-marking-HijabFashionableVox = Hijab (Fashionable)
-marking-HijabFashionableVox-hijabchic = Hijab (Fashionable)
+marking-HijabFashionableVox = Hijab (tendance)
+marking-HijabFashionableVox-hijabchic = Hijab (tendance)
 
 marking-LargeComb = Comb (Large)
 marking-LargeComb-largecomb = Comb (Large)
 
-marking-TichelSimpleVox = Tichel (Simple)
-marking-TichelSimpleVox-tichelsimple = Tichel (Simple)
+marking-TichelSimpleVox = Tichel (simple)
+marking-TichelSimpleVox-tichelsimple = Tichel (simple)
 
-marking-TichelFashionableVox = Tichel (Fashionable)
-marking-TichelFashionableVox-tichelfashionable = Tichel (Fashionable)
+marking-TichelFashionableVox = Tichel (tendance)
+marking-TichelFashionableVox-tichelfashionable = Tichel (tendance)
 
 marking-VoxBald = Balding
 marking-VoxBald-balding = Balding
@@ -248,7 +248,7 @@ marking-VoxCocktail = Cocktail
 marking-VoxCocktail-cocktail1 = Feathers
 marking-VoxCocktail-cocktail2 = Feathers
 marking-VoxCocktail-cocktail3 = Feathers
-marking-VoxCocktail-cocktail4 = Tail
+marking-VoxCocktail-cocktail4 = Queue
 
 marking-VoxFootSpines = Leg Spines
 marking-VoxFootSpines-footspines = Leg Spines
@@ -267,17 +267,17 @@ marking-VoxTailLantern = Lantern
 marking-VoxTailLantern-lantern = Lantern
 
 marking-VoxTailNub = Nub
-marking-VoxTailNub-nub1 = Tail
-marking-VoxTailNub-nub2 = Scar
+marking-VoxTailNub-nub1 = Queue
+marking-VoxTailNub-nub2 = Cicatrice
 
 marking-VoxTailRaptor = Raptor
-marking-VoxTailRaptor-raptor = Tail
+marking-VoxTailRaptor-raptor = Queue
 
 marking-VoxTailShort1 = Short Down
-marking-VoxTailShort1-short = Tail
+marking-VoxTailShort1-short = Queue
 
 marking-VoxTailShort2 = Short Up
-marking-VoxTailShort2-short2 = Tail
+marking-VoxTailShort2-short2 = Queue
 
 marking-VoxTailSmallPlume = Small Plume
 marking-VoxTailSmallPlume-smallplume = Small Plume

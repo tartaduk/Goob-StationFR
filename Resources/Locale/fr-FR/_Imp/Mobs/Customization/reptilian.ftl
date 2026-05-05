@@ -23,16 +23,16 @@ marking-LizardBeard = Lizard Beard
 marking-LizardBeard-beard = Beard
 
 marking-LizardDroopySnout = Lizard Snout (Droopy)
-marking-LizardDroopySnout-droopy = Snout
+marking-LizardDroopySnout-droopy = Museau
 
 marking-LizardSnoutpiercings = Piercings
 marking-LizardSnoutpiercings-piercings1 = Piercings
 
 marking-LizardSnoutTall = Lizard Snout (Tall)
-marking-LizardSnoutTall-tall = Snout
+marking-LizardSnoutTall-tall = Museau
 
 marking-LizardUpperSnout = Lizard Snout (High Nostrils)
-marking-LizardUpperSnout-upper = Snout
+marking-LizardUpperSnout-upper = Museau
 
 # Eyes
 
@@ -69,11 +69,11 @@ marking-BadMoltLArm-badmolt = Scar (Bad Molt L)
 marking-BurqaSolidLizard = Burqa
 marking-BurqaSolidLizard-burqasolidlizard = Burqa
 
-marking-HijabFashionableLizard = Hijab (Fashionable)
-marking-HijabFashionableLizard-hijabchiclizard = Hijab (Fashionable)
+marking-HijabFashionableLizard = Hijab (tendance)
+marking-HijabFashionableLizard-hijabchiclizard = Hijab (tendance)
 
-marking-HijabSimpleLizard = Hijab (Simple)
-marking-HijabSimpleLizard-hijabsimplelizard = Hijab (Simple)
+marking-HijabSimpleLizard = Hijab (simple)
+marking-HijabSimpleLizard-hijabsimplelizard = Hijab (simple)
 
 marking-LizardKoboldEarsMid = Lizard Ears (Kobold Soft)
 marking-LizardKoboldEarsMid-koboldearsmid = Ears
@@ -84,11 +84,11 @@ marking-LizardKoboldEarsTall-koboldearstall = Ears
 marking-NiqabLizard = Niqab
 marking-NiqabLizard-niqablizard = Niqab
 
-marking-TichelSimpleLizard = Tichel (Simple)
-marking-TichelSimpleLizard-tichelsimplelizard = Tichel (Simple)
+marking-TichelSimpleLizard = Tichel (simple)
+marking-TichelSimpleLizard-tichelsimplelizard = Tichel (simple)
 
-marking-TichelFashionableLizard = Tichel (Fashionable)
-marking-TichelFashionableLizard-tichelfashionablelizard = Tichel (Fashionable)
+marking-TichelFashionableLizard = Tichel (tendance)
+marking-TichelFashionableLizard-tichelfashionablelizard = Tichel (tendance)
 
 # HeadTop
 
@@ -106,7 +106,7 @@ marking-LizardHornsNubby-nubby = Lizard Horns (Nubby)
 marking-LizardHornsNubby = Lizard Horns (Nubby)
 
 marking-LizardLittleHorns = Lizard Horns (Small)
-marking-LizardLittleHorns-small = Horns
+marking-LizardLittleHorns-small = Cornes
 
 
 # Tail
@@ -116,11 +116,11 @@ marking-TailDropped-dropped = Dropped Tail
 
 marking-TailGecko = Gecko Tail
 marking-TailGecko-gecko1 = Gecko Tail
-marking-TailGecko-gecko2 = Spots
+marking-TailGecko-gecko2 = Taches
 
 marking-TailSnailLizard = Snail Shell
 marking-TailSnailLizard-snizard1 = Shell
-marking-TailSnailLizard-snizard2 = Tail
+marking-TailSnailLizard-snizard2 = Queue
 marking-TailSnailLizard-snizard3 = Undertail
 
 # RArmExtension

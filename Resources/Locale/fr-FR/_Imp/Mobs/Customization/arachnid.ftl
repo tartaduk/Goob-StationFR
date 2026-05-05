@@ -14,7 +14,7 @@ marking-SpiderMirror-mirror = Mirror
 
 marking-ArachnidHeadSegments = Segmented Head
 marking-ArachnidHeadSegments-segments1 = Head
-marking-ArachnidHeadSegments-segments2 = Stripe
+marking-ArachnidHeadSegments-segments2 = Rayure
 
 # Snout
 
@@ -137,12 +137,12 @@ marking-ArachnidCheliceraeSmall-small = Chelicerae
 # Tail
 
 marking-AbdomenBasic = Abdomen (Basic)
-marking-AbdomenBasic-abdomenbasic1 = Legs
+marking-AbdomenBasic-abdomenbasic1 = Pattes
 marking-AbdomenBasic-abdomenbasic2 = Abdomen
 
 marking-AbdomenWidow = Abdomen (Widow)
 marking-AbdomenWidow-widow1 = Abdomen and Arms
-marking-AbdomenWidow-widow2 = Marking
+marking-AbdomenWidow-widow2 = Marquage
 
 marking-CreepyArms = Creepy Arms
 marking-CreepyArms-creepy = Creepy Arms

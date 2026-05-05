@@ -7,19 +7,19 @@ marking-ChestChimeraMaleMoth = Moth Chest (Chimera)
 marking-ChestChimeraMaleMoth-chimeram = Chimera
 
 marking-ChestTwistingLeftFemaleMoth = Scar (Twisted Scar Left)
-marking-ChestTwistingLeftFemaleMoth-twistingleftf = Twisted Scar (Left)
+marking-ChestTwistingLeftFemaleMoth-twistingleftf = Cicatrice torsadée (gauche)
 
 marking-ChestTwistingLeftMaleMoth = Scar (Twisted Scar Left)
-marking-ChestTwistingLeftMaleMoth-twistingleftm = Twisted Scar (Left)
+marking-ChestTwistingLeftMaleMoth-twistingleftm = Cicatrice torsadée (gauche)
 
 marking-ChestTwistingRightFemaleMoth = Scar (Twisted Scar Right)
-marking-ChestTwistingRightFemaleMoth-twistingrightf = Twisted Scar (Right)
+marking-ChestTwistingRightFemaleMoth-twistingrightf = Cicatrice torsadée (droite)
 
 marking-ChestTwistingRightMaleMoth = Scar (Twisted Scar Right)
-marking-ChestTwistingRightMaleMoth-twistingrightm = Twisted Scar (Right)
+marking-ChestTwistingRightMaleMoth-twistingrightm = Cicatrice torsadée (droite)
 
 marking-ChestStarMoth = Scar (Star)
-marking-ChestStarMoth-star = Star Scar
+marking-ChestStarMoth-star = Cicatrice étoile
 
 marking-MothBodyClaw = Scar (Claws)
 marking-MothBodyClaw-claw = Claw Scars
@@ -28,7 +28,7 @@ marking-MothChestGlow = Moth Bioluminescence (Chest)
 marking-MothChestGlow-glow = Glow
 
 marking-TorsoIncisionMoth = Scar (Incision)
-marking-TorsoIncisionMoth-incision = Torso Incision
+marking-TorsoIncisionMoth-incision = Incision thoracique
 
 # Head
 
@@ -36,13 +36,13 @@ marking-BadmoltMoth = Scar (Bad Molt)
 marking-BadmoltMoth-badmolt = Bad Molt
 
 marking-EyebagsMoth = Eye (Eyebags)
-marking-EyebagsMoth-eyebags = Eyebags
+marking-EyebagsMoth-eyebags = Cernes
 
 marking-HeadChimeraMoth = Moth Head (Chimera)
 marking-HeadChimeraMoth-chimera = Chimera
 
 marking-HeadTwistingMoth = Scar (Twisted)
-marking-HeadTwistingMoth-twisting = Twisted Scar
+marking-HeadTwistingMoth-twisting = Cicatrice torsadée
 
 marking-MothBurnLeft = Burn Scar (Left)
 marking-MothBurnLeft-burnleft = Burn Scar (Left)
@@ -84,19 +84,19 @@ marking-MothBiggerEyes-bigger = Bigger Eyes
 
 # RArm
 
-marking-ProstheticArmRightMoth = Prosthetic (Right Arm)
-marking-ProstheticArmRightMoth-prosthetic = Prosthetic (Right Arm)
+marking-ProstheticArmRightMoth = Prothèse (bras droit)
+marking-ProstheticArmRightMoth-prosthetic = Prothèse (bras droit)
 
 marking-TwistingArmRightMoth = Scar (Twisted Right Arm)
-marking-TwistingArmRightMoth-twisting = Twisted Scar (Right)
+marking-TwistingArmRightMoth-twisting = Cicatrice torsadée (droite)
 
 # LArm
 
 marking-ChimeraArmLeftMoth = Moth Left Arm (Chimera)
 marking-ChimeraArmLeftMoth-chimera = Chimera (Arm)
 
-marking-ProstheticArmLeftMoth = Prosthetic (Left Arm)
-marking-ProstheticArmLeftMoth-prosthetic = Prosthetic (Left Arm)
+marking-ProstheticArmLeftMoth = Prothèse (bras gauche)
+marking-ProstheticArmLeftMoth-prosthetic = Prothèse (bras gauche)
 
 marking-TwistingArmLeftMoth = Scar (Twisted Left Arm)
 marking-TwistingArmLeftMoth-twisting = Twisted Scar (Left Arm)
@@ -107,7 +107,7 @@ marking-LegProstheticRightMoth = Prosthetic (Right Leg)
 marking-LegProstheticRightMoth-prosthetic = Prosthetic (Right Leg)
 
 marking-LegTwistingRightMoth = Scar (Twisted Right Leg)
-marking-LegTwistingRightMoth-twisting = Twisted Scar (Right)
+marking-LegTwistingRightMoth-twisting = Cicatrice torsadée (droite)
 
 # LLeg
 
@@ -118,7 +118,7 @@ marking-LegProstheticLeftMoth = Prosthetic (Left Leg)
 marking-LegProstheticLeftMoth-prosthetic = Prosthetic (Left Leg)
 
 marking-LegTwistingLeftMoth = Scar (Twisted Left Leg)
-marking-LegTwistingLeftMoth-twisting = Twisted Scar (Left)
+marking-LegTwistingLeftMoth-twisting = Cicatrice torsadée (gauche)
 
 # UndergarmentBottom
 
@@ -142,19 +142,19 @@ marking-FootProstheticRightMoth-prosthetic = Prosthetic (Right Foot)
 marking-HandChimeraLeftMoth = Moth Left Hand (Chimera)
 marking-HandChimeraLeftMoth-chimera = Chimera (Hand)
 
-marking-HandProstheticLeftMoth = Prosthetic (Left Hand)
-marking-HandProstheticLeftMoth-prosthetic = Prosthetic (Left Hand)
+marking-HandProstheticLeftMoth = Prothèse (main gauche)
+marking-HandProstheticLeftMoth-prosthetic = Prothèse (main gauche)
 
 marking-HandTwistingLeftMoth = Scar (Twisted Left Hand)
-marking-HandTwistingLeftMoth-twisting = Twisted Scar (Left Hand)
+marking-HandTwistingLeftMoth-twisting = Cicatrice torsadée (main gauche)
 
 # RHand
 
-marking-HandProstheticRightMoth = Prosthetic (Right Hand)
+marking-HandProstheticRightMoth = Prothèse (main droite)
 marking-HandProstheticRightMoth-prosthetic = Prosthetic Hand (Right)
 
 marking-HandTwistingRightMoth = Scar (Twisted Right Hand)
-marking-HandTwistingRightMoth-twisting = Twisted Scar (Right Hand)
+marking-HandTwistingRightMoth-twisting = Cicatrice torsadée (main droite)
 
 # FacialHair
 
@@ -193,7 +193,7 @@ marking-AntennaShort-nub = Antennae
 
 marking-LunaWings = Wings (Luna Moth)
 marking-LunaWings-luna1 = Wings
-marking-LunaWings-luna2 = Spots
+marking-LunaWings-luna2 = Taches
 
 marking-MothBee = Wings (Bumblebee)
 marking-MothBee-bee1 = Outer stripes
@@ -214,7 +214,7 @@ marking-MothFireflyOverlay-firefly1 = Firefly (Overlay)
 marking-MothGlasswing = Wings (Glasswing)
 marking-MothGlasswing-glasswing1 = Outer
 marking-MothGlasswing-glasswing2 = Inner
-marking-MothGlasswing-glasswing3 = Stripe
+marking-MothGlasswing-glasswing3 = Rayure
 
 marking-MothRhinoBeetle = Wings (Rhino Beetle)
 marking-MothRhinoBeetle-rhinobeetle1 = Outline
@@ -226,7 +226,7 @@ marking-MothSnoth-snoth1 = Wings
 marking-MothSnoth-snoth2 = Shell
 
 marking-MothTrueButterfly = Wings (Rainbow)
-marking-MothTrueButterfly-truebutterfly1 = Stripes
+marking-MothTrueButterfly-truebutterfly1 = Rayures
 marking-MothTrueButterfly-truebutterfly2 = Dots
 marking-MothTrueButterfly-truebutterfly3 = Wings
 
@@ -236,12 +236,12 @@ marking-WingsBackstabbed-backstabbed = Wings
 marking-WingsFly = Wings (Fly)
 marking-WingsFly-fly1 = Neck
 marking-WingsFly-fly2 = Wings
-marking-WingsFly-fly3 = Tail
+marking-WingsFly-fly3 = Queue
 
 marking-WingsDragonfly = Wings (Dragonfly)
 marking-WingsDragonfly-dragonfly1 = Neck
 marking-WingsDragonfly-dragonfly2 = Wings
-marking-WingsDragonfly-dragonfly3 = Tail
+marking-WingsDragonfly-dragonfly3 = Queue
 
 marking-WingsLanternfly = Wings (Lanternfly)
 marking-WingsLanternfly-lanternfly = Wings

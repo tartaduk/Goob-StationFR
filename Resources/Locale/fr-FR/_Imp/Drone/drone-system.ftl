@@ -4,14 +4,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-drone-active = A maintenance drone. It seems totally unconcerned with you.
-drone-dormant = A dormant maintenance drone. Who knows when it will wake up?
-drone-activated = The drone whirrs to life!
-drone-too-close = Be aware of your proximity to {THE($being)}.
-drone-cant-use-nearby = This act could cause harm to {THE($being)}. Your programming prevents it.
-drone-cant-use = This act could cause harm to the station or its inhabitants. Your programming prevents it.
-drone-med-battery = Be aware that you will cease to function permanently when your battery runs out.
-drone-low-battery = Seek a charging station immediately. You are in existential danger.
+drone-active = Un drone de maintenance. Il semble totalement indifférent à votre présence.
+drone-dormant = Un drone de maintenance en veille. Qui sait quand il se réveillera ?
+drone-activated = Le drone ronronne et s'active !
+drone-too-close = Soyez conscient de votre proximité avec {THE($being)}.
+drone-cant-use-nearby = Cet acte pourrait nuire à {THE($being)}. Votre programmation vous en empêche.
+drone-cant-use = Cet acte pourrait nuire à la station ou à ses habitants. Votre programmation vous en empêche.
+drone-med-battery = Sachez que vous cesserez de fonctionner définitivement lorsque votre batterie sera épuisée.
+drone-low-battery = Cherchez une station de recharge immédiatement. Vous êtes en danger existentiel.
 
-alerts-drone-battery-name = Battery
-alerts-drone-battery-desc = If your battery depletes, you will self-destruct.
+alerts-drone-battery-name = Batterie
+alerts-drone-battery-desc = Si votre batterie se vide, vous vous autodétruirez.
