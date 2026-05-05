@@ -124,7 +124,7 @@
   parent: CrateSecgear
   id: CrateSecNonlethalThrowables
   name: caisse de projectiles non-létaux
-  description: Contient une boîte de chaque : grenades aveuglantes, stingers, grenades lacrymogènes, et quatre bolas. Nécessite l'accès à la sécurité pour l'ouvrir.
+  description: "Contient une boîte de chaque : grenades aveuglantes, stingers, grenades lacrymogènes, et quatre bolas. Nécessite l'accès à la sécurité pour l'ouvrir."
   components:
   - type: StorageFill
     contents:
