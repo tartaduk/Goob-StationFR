@@ -1,10 +1,10 @@
-popup-trauma-BoneDamage-Damaged = You feel some pain in your {$part}.
-popup-trauma-BoneDamage-Cracked = You feel a sharp pain in your {$part}!
-popup-trauma-BoneDamage-Broken = You hear a loud crack in your {$part}!!
-self-inspect-trauma-BoneDamage = hurts inside
-self-inspect-trauma-BoneDamage-Large = feels dislocated
-inspect-trauma-BoneDamage = looks dislocated
+popup-trauma-BoneDamage-Damaged = Vous ressentez une douleur dans votre {$part}.
+popup-trauma-BoneDamage-Cracked = Vous ressentez une douleur vive dans votre {$part} !
+popup-trauma-BoneDamage-Broken = Vous entendez un fort craquement dans votre {$part} !!
+self-inspect-trauma-BoneDamage = fait mal à l'intérieur
+self-inspect-trauma-BoneDamage-Large = semble disloqué
+inspect-trauma-BoneDamage = semble disloqué
 
-popup-trauma-OrganDamage-Damaged = Your {$part} feels very wrong...
-popup-trauma-OrganDamage-Destroyed = You feel a very sharp pain in your {$part}!
-self-inspect-trauma-OrganDamage = feels weird every time you breathe.
+popup-trauma-OrganDamage-Damaged = Votre {$part} semble vraiment anormal...
+popup-trauma-OrganDamage-Destroyed = Vous ressentez une douleur très vive dans votre {$part} !
+self-inspect-trauma-OrganDamage = semble bizarre à chaque respiration.

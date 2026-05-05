@@ -1,2 +1,2 @@
-alerts-augment-battery-name = Augment Battery
-alerts-augment-battery-desc = If your internal battery depletes, you will be unable to use your augments. Click this alert to check its charge and power usage.
+alerts-augment-battery-name = Batterie d'Augment
+alerts-augment-battery-desc = Si votre batterie interne se vide, vous ne pourrez plus utiliser vos augments. Cliquez sur cette alerte pour vérifier sa charge et sa consommation.

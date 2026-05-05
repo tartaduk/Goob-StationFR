@@ -1,73 +1,66 @@
-# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
-# SPDX-FileCopyrightText: 2025 Ilya246 <57039557+Ilya246@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Piras314 <p1r4s@proton.me>
-# SPDX-FileCopyrightText: 2025 Theodore Lukin <66275205+pheenty@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 gluesniffler <159397573+gluesniffler@users.noreply.github.com>
-#
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-abductors-ui-beacons = Beacons
-abductors-ui-teleport = Teleport
-abductors-ui-attract = Attract
+abductors-ui-beacons = Balises
+abductors-ui-teleport = Téléporter
+abductors-ui-attract = Attirer
 
-abductors-ui-experiment = Experiment
-abductors-ui-complete-experiment = Complete the experiment
+abductors-ui-experiment = Expérience
+abductors-ui-complete-experiment = Terminer l'expérience
 
-abductors-ui-gizmo-transferred = Target information transferred
+abductors-ui-gizmo-transferred = Informations de la cible transférées
 
-abductors-ui-armor-control = Armor Control
-abductors-ui-combat-mode = Combat Mode
-abductors-ui-stealth-mode = Stealth Mode
-abductors-ui-lock-armor = Lock Armor
-abductors-ui-unlock-armor = Unlock Armor
-abductors-ui-vest-linked = Vest linked
+abductors-ui-armor-control = Contrôle de l'armure
+abductors-ui-combat-mode = Mode Combat
+abductors-ui-stealth-mode = Mode Furtif
+abductors-ui-lock-armor = Verrouiller l'armure
+abductors-ui-unlock-armor = Déverrouiller l'armure
+abductors-ui-vest-linked = Gilet lié
 
-abductors-title = Abductors
-abductors-description = Abductors have targeted the station. Avoid getting kidnapped by them!
+abductors-title = Ravisseurs
+abductors-description = Des ravisseurs ont ciblé la station. Évitez de vous faire kidnapper !
 
-abductor-lone-ghost-role-name = Lone Abductor
-abductor-lone-ghost-role-desc = Kidnap people, and stuff them with experimental organs of dubious origin, all by yourself.
+abductor-lone-ghost-role-name = Ravisseur Solitaire
+abductor-lone-ghost-role-desc = Kidnappez des personnes et farcissez-les d'organes expérimentaux d'origine douteuse, tout seul.
 
-abductor-scientist-ghost-role-name = Abductor Scientist
-abductor-scientist-ghost-role-desc = Teleport people your partner kidnapped onto your ship and stuff them with experimental organs of dubious origin.
+abductor-scientist-ghost-role-name = Scientifique Ravisseur
+abductor-scientist-ghost-role-desc = Téléportez sur votre vaisseau les personnes kidnappées par votre partenaire et farcissez-les d'organes expérimentaux d'origine douteuse.
 
-abductor-agent-ghost-role-name = Abductor Agent
-abductor-agent-ghost-role-desc = Kidnap people for your partner to stuff them with experimental organs of dubious origin.
+abductor-agent-ghost-role-name = Agent Ravisseur
+abductor-agent-ghost-role-desc = Kidnappez des personnes pour que votre partenaire les farcisse d'organes expérimentaux d'origine douteuse.
 
-abductors-ghost-role-rules = You are an [color=red][bold]Abductor[/bold][/color].
-                            Your intentions are to abduct people from the station and replace their organs with various experimental devices,
-                            after which you return them back. You are not allowed to destroy the station or intentionally kill people.
-                            It is in your interest to return the test subjects alive and healthy for the purity of the experiment.
+abductors-ghost-role-rules = Vous êtes un [color=red][bold]Ravisseur[/bold][/color].
+                            Votre intention est d'enlever des personnes de la station et de remplacer leurs organes par divers dispositifs expérimentaux,
+                            après quoi vous les renvoyez. Vous n'êtes pas autorisé à détruire la station ou à tuer intentionnellement des personnes.
+                            Il est dans votre intérêt de renvoyer les sujets d'expérience vivants et en bonne santé pour la pureté de l'expérience.
 
-                            You don't remember any of your previous life, and you don't remember anything you learned as a ghost.
-                            You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc.
-                            You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
+                            Vous ne vous souvenez pas de votre vie précédente, ni de ce que vous avez appris en tant que fantôme.
+                            Vous êtes autorisé à vous souvenir de vos connaissances générales du jeu, comme cuisiner, utiliser des objets, etc.
+                            Vous n'êtes absolument [color=red]PAS[/color] autorisé à vous souvenir, par exemple, du nom, de l'apparence, etc. de votre personnage précédent.
 
-abductor-round-end-agent-name = abductor
+abductor-round-end-agent-name = ravisseur
 
-objective-issuer-abductors = [color=#FD0098]Mothership[/color]
+objective-issuer-abductors = [color=#FD0098]Vaisseau-Mère[/color]
 
-objective-condition-abduct-title = Abduct {$count} person.
-objective-condition-abduct-description = (use the Gizmo on a subdued victim, then use the Gizmo on the abductor console and select the attract action), then replace their heart with one of the glands, put them in the experimenter, and press complete experiment.
+objective-condition-abduct-title = Enlever {$count} personne.
+objective-condition-abduct-description = (utilisez le Gadget sur une victime soumise, puis utilisez le Gadget sur la console des ravisseurs et sélectionnez l'action d'attraction), puis remplacez son cœur par l'une des glandes, mettez-la dans l'expérimentateur et appuyez sur terminer l'expérience.
 
-abductor-role-greeting = You are a professional combat scientist of a high-tech race. Your task is to abduct humans, conduct experiments on them, and return them alive for the purity of the experiment. It is not in your interest to destroy the station, kill, or assist the crew.
-                        Use + or +a in chat to talk in the Glorpmind.
+abductor-role-greeting = Vous êtes un scientifique de combat professionnel d'une race de haute technologie. Votre mission est d'enlever des humains, de mener des expériences sur eux et de les renvoyer vivants pour la pureté de l'expérience. Il n'est pas dans votre intérêt de détruire la station, de tuer ou d'aider l'équipage.
+                        Utilisez + ou +a dans le chat pour parler en Glorpmind.
 
-roles-antag-abductor-objective = Kidnap station crew and perform your experiments on them!
+roles-antag-abductor-objective = Kidnappez l'équipage de la station et effectuez vos expériences sur eux !
 
-abductor-victim-role-greeting = You have seen things you shouldn't have. The world must know the truth.
-abductor-victim-role-name = Abductee
-abductor-victim-role-name-freeagent = Abductee (Free Agent)
-abductor-victim-role-desc = You have seen things you shouldn't have. The world must know the truth.
+abductor-victim-role-greeting = Vous avez vu des choses que vous n'auriez pas dû voir. Le monde doit connaître la vérité.
+abductor-victim-role-name = Enlevé
+abductor-victim-role-name-freeagent = Enlevé (Agent Libre)
+abductor-victim-role-desc = Vous avez vu des choses que vous n'auriez pas dû voir. Le monde doit connaître la vérité.
 
-objective-issuer-voices = [color=#FD0098]The Voices[/color]
-abductor-ui-pad-found = pad: [color=green]connected[/color]
-abductor-ui-pad-not-found = pad: [color=red]not found[/color]
-abductor-ui-target-none = target: [color=red]NONE[/color]
-abductor-ui-target-found = target: [color=green]{$target}[/color]
-abductor-ui-experimentator-connected = experimentator: [color=green]connected[/color]
-abductor-ui-experimentator-not-found = experimentator: [color=red]not found[/color]
-abductor-ui-victim-none = victim: [color=red]NONE[/color]
-abductor-ui-victim-found = victim: [color=green]{$victim}[/color]
-abductor-ui-armor-plug-in = [color=red][font size=16]You need to plug in abductor armor![/font][/color]
+objective-issuer-voices = [color=#FD0098]Les Voix[/color]
+abductor-ui-pad-found = pad : [color=green]connecté[/color]
+abductor-ui-pad-not-found = pad : [color=red]introuvable[/color]
+abductor-ui-target-none = cible : [color=red]AUCUNE[/color]
+abductor-ui-target-found = cible : [color=green]{$target}[/color]
+abductor-ui-experimentator-connected = expérimentateur : [color=green]connecté[/color]
+abductor-ui-experimentator-not-found = expérimentateur : [color=red]introuvable[/color]
+abductor-ui-victim-none = victime : [color=red]AUCUNE[/color]
+abductor-ui-victim-found = victime : [color=green]{$victim}[/color]
+abductor-ui-armor-plug-in = [color=red][font size=16]Vous devez brancher l'armure de ravisseur ![/font][/color]

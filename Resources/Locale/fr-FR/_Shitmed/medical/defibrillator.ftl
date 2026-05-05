@@ -1,0 +1,9 @@
+defibrillator-not-dead = {$target} n'est pas mort.
+defibrillator-no-soul = {$target} n'a pas d'âme à rappeler.
+defibrillator-success = Le défibrillateur redémarre le cœur de {$target}.
+defibrillator-fail = Le défibrillateur ne parvient pas à redémarrer le cœur de {$target}.
+defibrillator-charging = Le défibrillateur se charge...
+defibrillator-charged = Le défibrillateur est chargé !
+defibrillator-shock-user = Vous chargez le défibrillateur et appliquez les électrodes sur {$target}.
+defibrillator-shock-target = {$user} vous applique les électrodes d'un défibrillateur !
+defibrillator-shock-observers = {$user} applique les électrodes d'un défibrillateur sur {$target}.

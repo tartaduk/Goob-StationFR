@@ -1,7 +1,7 @@
-screams-and-flinches-pain = { $entity } screams and twitches in pain!
-screams-in-agony = { $entity } screams in pain and agonizes nerveously! 
-screams-and-falls-pain = { $entity } screams in pain and falls twitching to the floor.
-screams-in-pain = { $entity } screams in pain and twitches nerveously!
-passes-out-pain = { $entity } runs out of breath and faints!
+screams-and-flinches-pain = { $entity } crie et tressaute de douleur !
+screams-in-agony = { $entity } crie de douleur et s'agite nerveusement !
+screams-and-falls-pain = { $entity } crie de douleur et s'effondre en convulsant sur le sol.
+screams-in-pain = { $entity } crie de douleur et tressaute nerveusement !
+passes-out-pain = { $entity } est à bout de souffle et s'évanouit !
 
-woundable-dodged = { $entity } narrowly dodged!
+woundable-dodged = { $entity } a évité de justesse !

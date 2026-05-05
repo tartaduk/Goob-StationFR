@@ -1,0 +1,25 @@
+body-part-head = tête
+body-part-torso = torse
+body-part-left-arm = bras gauche
+body-part-right-arm = bras droit
+body-part-left-hand = main gauche
+body-part-right-hand = main droite
+body-part-left-leg = jambe gauche
+body-part-right-leg = jambe droite
+body-part-left-foot = pied gauche
+body-part-right-foot = pied droit
+body-part-tail = queue
+body-part-wing = aile
+
+body-part-head-plural = têtes
+body-part-torso-plural = torses
+body-part-left-arm-plural = bras gauches
+body-part-right-arm-plural = bras droits
+body-part-left-hand-plural = mains gauches
+body-part-right-hand-plural = mains droites
+body-part-left-leg-plural = jambes gauches
+body-part-right-leg-plural = jambes droites
+body-part-left-foot-plural = pieds gauches
+body-part-right-foot-plural = pieds droits
+body-part-tail-plural = queues
+body-part-wing-plural = ailes

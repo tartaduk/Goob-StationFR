@@ -1,0 +1,13 @@
+cpr-target-dead = {$target} est trop mort pour être réanimé par la RCP.
+cpr-target-not-critical = {$target} n'est pas dans un état critique.
+cpr-no-face = Vous ne trouvez pas le visage de {$target}.
+cpr-on-self = Vous ne pouvez pas vous faire une RCP.
+cpr-start-user = Vous commencez à faire une RCP sur {$target}.
+cpr-start-target = {$user} commence à vous faire une RCP.
+cpr-start-observers = {$user} commence à faire une RCP sur {$target}.
+cpr-success-user = Vous redémarrez avec succès le cœur de {$target}.
+cpr-success-target = {$user} redémarre votre cœur avec succès.
+cpr-success-observers = {$user} redémarre avec succès le cœur de {$target}.
+cpr-fail-user = Vous n'arrivez pas à relancer le cœur de {$target}.
+cpr-fail-target = {$user} n'arrive pas à relancer votre cœur.
+cpr-fail-observers = {$user} n'arrive pas à relancer le cœur de {$target}.

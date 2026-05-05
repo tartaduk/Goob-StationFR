@@ -1,2 +1,2 @@
-alerts-broken-bones-name = Broken Bones
-alerts-broken-bones-desc = You have one or more broken bones. Get medical attention as soon as possible.
+alerts-broken-bones-name = Os Cassés
+alerts-broken-bones-desc = Vous avez un ou plusieurs os cassés. Consultez un médecin dès que possible.

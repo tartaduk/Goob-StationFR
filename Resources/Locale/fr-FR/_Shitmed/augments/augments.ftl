@@ -1,8 +1,8 @@
-augments-no-power-cell-slot = You don't have a power cell slot installed
-augments-power-cell-info = Battery is at {$percent}% and drawing {$draw}W.
+augments-no-power-cell-slot = Vous n'avez pas d'emplacement de cellule d'énergie installé
+augments-power-cell-info = La batterie est à {$percent}% et consomme {$draw}W.
 
-augment-tool-panel-hand-full = There's something in your hand
-augment-tool-panel-cannot-pick-up = Your hand isn't capable of holding that
-augment-tool-panel-retracted = Your {$item} retracts back into your arm.
-augment-tool-panel-selected = {CAPITALIZE(THE($item))} emerges from your arm.
-augment-tool-panel-no-hand = Your hand is missing!
+augment-tool-panel-hand-full = Il y a quelque chose dans votre main
+augment-tool-panel-cannot-pick-up = Votre main n'est pas capable de tenir ça
+augment-tool-panel-retracted = Votre {$item} se rétracte dans votre bras.
+augment-tool-panel-selected = {CAPITALIZE(THE($item))} émerge de votre bras.
+augment-tool-panel-no-hand = Votre main est manquante !
