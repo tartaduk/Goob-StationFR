@@ -25,67 +25,67 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-humanoid-profile-editor-randomize-everything-button = Randomize everything
-humanoid-profile-editor-name-label = Name:
-humanoid-profile-editor-name-random-button = Randomize
-humanoid-profile-editor-appearance-tab = Appearance
-humanoid-profile-editor-clothing = Show clothing
-humanoid-profile-editor-clothing-show = Show
-humanoid-profile-editor-sex-label = Sex:
-humanoid-profile-editor-sex-male-text = Male
-humanoid-profile-editor-sex-female-text = Female
-humanoid-profile-editor-sex-unsexed-text = None
-humanoid-profile-editor-age-label = Age:
-humanoid-profile-editor-skin-color-label = Skin color:
-humanoid-profile-editor-species-label = Species:
-humanoid-profile-editor-pronouns-label = Pronouns:
-humanoid-profile-editor-pronouns-male-text = He / Him
-humanoid-profile-editor-pronouns-female-text = She / Her
-humanoid-profile-editor-pronouns-epicene-text = They / Them
-humanoid-profile-editor-pronouns-neuter-text = It / Its
-humanoid-profile-editor-import-button = Import
-humanoid-profile-editor-export-button = Export
-humanoid-profile-editor-export-image-button = Export image
-humanoid-profile-editor-open-image-button = Open images
-humanoid-profile-editor-save-button = Save
-humanoid-profile-editor-reset-button = Reset
-humanoid-profile-editor-spawn-priority-label = Spawn priority:
-humanoid-profile-editor-eyes-label = Eye color:
-humanoid-profile-editor-jobs-tab = Jobs
-humanoid-profile-editor-preference-unavailable-stay-in-lobby-button = Stay in lobby if preference unavailable.
-humanoid-profile-editor-preference-unavailable-spawn-as-overflow-button = Be {INDEFINITE($overflowJob)} {$overflowJob} if preference unavailable.
-humanoid-profile-editor-preference-jumpsuit = Jumpsuit
-humanoid-profile-editor-preference-jumpskirt = Jumpskirt
-humanoid-profile-editor-preference-backpack = Backpack
-humanoid-profile-editor-preference-satchel = Satchel
-humanoid-profile-editor-preference-duffelbag = Duffelbag
-humanoid-profile-editor-guidebook-button-tooltip = Click for more info
+humanoid-profile-editor-randomize-everything-button = Randomiser tout
+humanoid-profile-editor-name-label = Nom :
+humanoid-profile-editor-name-random-button = Randomiser
+humanoid-profile-editor-appearance-tab = Apparence
+humanoid-profile-editor-clothing = Afficher les vêtements
+humanoid-profile-editor-clothing-show = Afficher
+humanoid-profile-editor-sex-label = Sexe :
+humanoid-profile-editor-sex-male-text = Homme
+humanoid-profile-editor-sex-female-text = Hemme
+humanoid-profile-editor-sex-unsexed-text = Aucun
+humanoid-profile-editor-age-label = Âge :
+humanoid-profile-editor-skin-color-label = Couleur de peau :
+humanoid-profile-editor-species-label = Espèce :
+humanoid-profile-editor-pronouns-label = Pronoms :
+humanoid-profile-editor-pronouns-male-text = Il / Lui
+humanoid-profile-editor-pronouns-female-text = Elle / Elles
+humanoid-profile-editor-pronouns-epicene-text = Iel / Elleux
+humanoid-profile-editor-pronouns-neuter-text = Ça / Ce
+humanoid-profile-editor-import-button = Importer
+humanoid-profile-editor-export-button = Exporter
+humanoid-profile-editor-export-image-button = Exporter une image
+humanoid-profile-editor-open-image-button = Ouvrir les images
+humanoid-profile-editor-save-button = Sauvegarder
+humanoid-profile-editor-reset-button = Réinitialiser
+humanoid-profile-editor-spawn-priority-label = Priorité d'apparition :
+humanoid-profile-editor-eyes-label = Couleur des yeux :
+humanoid-profile-editor-jobs-tab = Postes
+humanoid-profile-editor-preference-unavailable-stay-in-lobby-button = Rester dans le lobby si mes préférences ne sont pas disponibles.
+humanoid-profile-editor-preference-unavailable-spawn-as-overflow-button =  Être {INDEFINITE($overflowJob)} {$overflowJob} si mes préférences ne sont pas disponibles.
+humanoid-profile-editor-preference-jumpsuit = Uniforme
+humanoid-profile-editor-preference-jumpskirt = Unijupe
+humanoid-profile-editor-preference-backpack = Sac à dos
+humanoid-profile-editor-preference-satchel = Sacoche
+humanoid-profile-editor-preference-duffelbag = Sac de sport
+humanoid-profile-editor-guidebook-button-tooltip = Cliquez pour plus d'infos
 
 # Spawn priority
 humanoid-profile-editor-preference-spawn-priority-none = None
 humanoid-profile-editor-preference-spawn-priority-arrivals = Arrivals
 humanoid-profile-editor-preference-spawn-priority-cryosleep = Cryosleep
 
-humanoid-profile-editor-jobs-amount-in-department-tooltip = Jobs in the {$departmentName} department
-humanoid-profile-editor-department-jobs-label = {$departmentName} jobs
+humanoid-profile-editor-jobs-amount-in-department-tooltip = Métiers dans le département {$departmentName}
+humanoid-profile-editor-department-jobs-label = Métiers {$departmentName}
 humanoid-profile-editor-antags-tab = Antags
-humanoid-profile-editor-antag-preference-yes-button = Yes
-humanoid-profile-editor-antag-preference-no-button = No
+humanoid-profile-editor-antag-preference-yes-button = Oui
+humanoid-profile-editor-antag-preference-no-button = Non
 
-humanoid-profile-editor-job-priority-high-button = High
-humanoid-profile-editor-job-priority-medium-button = Medium
-humanoid-profile-editor-job-priority-low-button = Low
-humanoid-profile-editor-job-priority-never-button = Never
-humanoid-profile-editor-naming-rules-warning = Warning: Offensive or LRP IC names and descriptions will lead to admin intervention on this server. Read our \[Rules\] for more.
-humanoid-profile-editor-markings-tab = Markings
+humanoid-profile-editor-job-priority-high-button = Haut
+humanoid-profile-editor-job-priority-medium-button = Moyen
+humanoid-profile-editor-job-priority-low-button = Bas
+humanoid-profile-editor-job-priority-never-button = Jamais
+humanoid-profile-editor-naming-rules-warning = Attention : Les noms et descriptions IC ou OOC offensants entraîneront une intervention des admins sur le serveur. Lisez nos \[Règles\] pour plus d'infos.
+humanoid-profile-editor-markings-tab = Marquages
 humanoid-profile-editor-flavortext-tab = Description
 
 # Traits
 humanoid-profile-editor-traits-tab = Traits
-humanoid-profile-editor-no-traits = No traits available
+humanoid-profile-editor-no-traits = Pas de traits disponibles
 
-humanoid-profile-editor-trait-count-hint = Points available: [{$current}/{$max}]
+humanoid-profile-editor-trait-count-hint = Points disponibles : [{$current}/{$max}]
 
-trait-category-disabilities = Disabilities
-trait-category-speech = Speech traits
-trait-category-quirks = Quirks
+trait-category-disabilities = Handicaps
+trait-category-speech = Particularités de la parole
+trait-category-quirks = Particularités
