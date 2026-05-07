@@ -41,129 +41,129 @@ ghost-role-information-blobbernaut-name = Blobbernaut
 ghost-role-information-blobbernaut-description = Vous êtes un Blobbernaut. Vous devez défendre le noyau du blob. Utilisez + ou +e dans le chat pour parler dans l'Esprit-blob.
 
 ghost-role-information-blob-name = Blob
-ghost-role-information-blob-description = Vous êtes l'Infection blob. Consumez la station.
+ghost-role-information-blob-description = Vous êtes l'infection blob. Consumez la station.
 
 roles-antag-blob-name = Blob
-roles-antag-blob-objective = Reach critical mass.
+roles-antag-blob-objective = Atteindre une masse critique.
 
 guide-entry-blob = Blob
 
 # Popups
-blob-target-normal-blob-invalid = Wrong blob type, select a normal blob.
-blob-target-factory-blob-invalid = Wrong blob type, select a factory blob.
-blob-target-node-blob-invalid = Wrong blob type, select a node blob.
-blob-target-close-to-resource = Too close to another resource blob.
-blob-target-nearby-not-node = No node or resource blob nearby.
-blob-target-close-to-node = Too close to another node.
-blob-target-already-produce-blobbernaut = This factory has already produced a blobbernaut.
-blob-cant-split = You can not split the blob core.
-blob-not-have-nodes = You have no nodes.
-blob-not-enough-resources = Not enough resources.
-blob-help = Only God can help you.
-blob-swap-chem = In development.
-blob-mob-attack-blob = You can not attack a blob.
+blob-target-normal-blob-invalid = Mauvais type de blob, sélectionnez un blob normal.
+blob-target-factory-blob-invalid = Mauvais type de blob, sélectionnez un blob usine.
+blob-target-node-blob-invalid = Mauvais type de blob, sélectionnez un blob nœud.
+blob-target-close-to-resource = Trop proche d'un autre blob de ressources.
+blob-target-nearby-not-node = Aucun nœud ou blob de ressources à proximité.
+blob-target-close-to-node = Trop proche d'un autre nœud.
+blob-target-already-produce-blobbernaut = Cette usine a déjà produit un Blobbernaut.
+blob-cant-split = Vous ne pouvez pas diviser le noyau du blob.
+blob-not-have-nodes = Vous n'avez pas de nœuds.
+blob-not-enough-resources = Pas assez de ressources.
+blob-help = Seul Dieu peut vous aider.
+blob-swap-chem = En développement.
+blob-mob-attack-blob = Vous ne pouvez pas attaquer un blob.
 blob-get-resource = +{ $point }
 blob-spent-resource = -{ $point }
-blobberaut-not-on-blob-tile = You are dying while not on blob tiles.
-carrier-blob-alert = You have { $second } seconds left before transformation.
+blobberaut-not-on-blob-tile = Vous mourez en étant hors des dalles blob.
+carrier-blob-alert = Il vous reste { $second } secondes avant la transformation.
 
-blob-mob-zombify-second-start = { $pod } starts turning you into a zombie.
-blob-mob-zombify-third-start = { $pod } starts turning { $target } into a zombie.
+blob-mob-zombify-second-start = { $pod } commence à vous transformer en zombie.
+blob-mob-zombify-third-start = { $pod } commence à transformer { $target } en zombie.
 
-blob-mob-zombify-second-end = { $pod } turns you into a zombie.
-blob-mob-zombify-third-end = { $pod } turns { $target } into a zombie.
+blob-mob-zombify-second-end = { $pod } vous transforme en zombie.
+blob-mob-zombify-third-end = { $pod } transforme { $target } en zombie.
 
-blobberaut-factory-destroy = factory destroy
-blob-target-already-connected = already connected
+blobberaut-factory-destroy = usine détruite
+blob-target-already-connected = déjà connecté
 
 
 # UI
-blob-chem-swap-ui-window-name = Swap chemicals
-blob-chem-reactivespines-info = Reactive Spines
-                                Deals 25 brute damage.
-blob-chem-blazingoil-info = Blazing Oil
-                            Deals 15 burn damage and lights targets on fire.
-                            Makes you vulnerable to water.
-blob-chem-regenerativemateria-info = Regenerative Materia
-                                    Deals 6 brute damage and 15 toxin damage.
-                                    The blob core regenerates health 10 times faster than normal and generates 1 extra resource.
-blob-chem-explosivelattice-info = Explosive Lattice
-                                    Deals 5 burn damage and explodes the target, dealing 10 brute damage.
-                                    Spores explode on death.
-                                    You become immune to explosions.
-                                    You take 50% more damage from burns and electrical shock.
-blob-chem-electromagneticweb-info = Electromagnetic Web
-                                    Deals 20 burn damage, 20% chance to cause an EMP pulse when attacking.
-                                    Blob tiles cause an EMP pulse when destroyed.
-                                    You take 25% more brute and heat damage.
+blob-chem-swap-ui-window-name = Changer de produit chimique
+blob-chem-reactivespines-info = Épines Réactives
+                                Inflige 25 dégâts contondants.
+blob-chem-blazingoil-info = Huile Embrasée
+                            Inflige 15 dégâts de brûlure et enflamme les cibles.
+                            Vous rend vulnérable à l'eau.
+blob-chem-regenerativemateria-info = Materia Régénératrice
+                                    Inflige 6 dégâts contondants et 15 dégâts de toxines.
+                                    Le noyau blob régénère sa santé 10 fois plus vite que la normale et génère 1 ressource supplémentaire.
+blob-chem-explosivelattice-info = Réseau Explosif
+                                    Inflige 5 dégâts de brûlure et fait exploser la cible, infligeant 10 dégâts contondants.
+                                    Les spores explosent à la mort.
+                                    Vous devenez immunisé aux explosions.
+                                    Vous subissez 50% de dégâts supplémentaires des brûlures et des chocs électriques.
+blob-chem-electromagneticweb-info = Toile Électromagnétique
+                                    Inflige 20 dégâts de brûlure, 20% de chances de déclencher une impulsion IEM lors d'une attaque.
+                                    Les dalles blob déclenchent une impulsion IEM lorsqu'elles sont détruites.
+                                    Vous subissez 25% de dégâts contondants et thermiques supplémentaires.
 
-blob-alert-out-off-station = The blob was removed because it was found outside the station!
+blob-alert-out-off-station = Le blob a été retiré car il était en dehors de la station !
 
 # Announcment
-blob-alert-recall-shuttle = The emergency shuttle can not be sent while there is a level 5 biohazard present on the station.
-blob-alert-detect = Confirmed outbreak of level 5 biohazard aboard the station. All personnel must contain the outbreak.
-blob-alert-critical = Biohazard level critical, nuclear authentication codes have been sent to the station. Central Command orders any remaining personnel to activate the self-destruction mechanism.
-blob-alert-critical-NoNukeCode = Biohazard level critical. Central Command orders any remaining personnel to seek shelter, and await resque.
-blob-alert-shuttle-arrived = Biohazard detected on board. All personnel must evacuate immediately.
+blob-alert-recall-shuttle = La navette d'urgence ne peut pas être envoyée tant qu'un biohazard de niveau 5 est présent sur la station.
+blob-alert-detect = Épidémie confirmée de biohazard de niveau 5 à bord de la station. Tout le personnel doit contenir l'épidémie.
+blob-alert-critical = Niveau de biohazard critique, les codes d'authentification nucléaire ont été envoyés à la station. Le Commandement Central ordonne au personnel restant d'activer le mécanisme d'autodestruction.
+blob-alert-critical-NoNukeCode = Niveau de biohazard critique. Le Commandement Central ordonne au personnel restant de se mettre à l'abri et d'attendre les secours.
+blob-alert-shuttle-arrived = Biohazard détecté à bord. Tout le personnel doit évacuer immédiatement.
 
 # Actions
-blob-teleport-to-node-action-name = Jump to Node (0)
-blob-teleport-to-node-action-desc = Teleports you to a random blob node.
-blob-help-action-name = Help
-blob-help-action-desc = Get basic information about playing as blob.
+blob-teleport-to-node-action-name = Sauter vers un Nœud (0)
+blob-teleport-to-node-action-desc = Vous téléporte vers un nœud blob aléatoire.
+blob-help-action-name = Aide
+blob-help-action-desc = Obtenir des informations de base sur le jeu en tant que blob.
 
 # Ghost role
-blob-carrier-role-name = Blob carrier
-blob-carrier-role-desc =  A blob-infected creature.
-blob-carrier-role-rules = You are an antagonist. You have 10 minutes before you transform into a blob.
-                        Use this time to find a safe spot on the station. Keep in mind that you will be very weak right after the transformation.
-blob-carrier-role-greeting = You are a carrier of Blob. Find a secluded place at the station and transform into a Blob. Turn the station into a mass and its inhabitants into your servants. We are all Blobs.
+blob-carrier-role-name = Porteur de blob
+blob-carrier-role-desc = Une créature infectée par un blob.
+blob-carrier-role-rules = Vous êtes un antagoniste. Vous avez 10 minutes avant de vous transformer en blob.
+                        Profitez de ce temps pour trouver un endroit sûr sur la station. Gardez à l'esprit que vous serez très faible juste après la transformation.
+blob-carrier-role-greeting = Vous êtes porteur du Blob. Trouvez un endroit isolé sur la station et transformez-vous en Blob. Transformez la station en masse et ses habitants en vos serviteurs. Nous sommes tous des Blobs.
 
 # Verbs
-blob-pod-verb-zombify = Zombify
-blob-verb-upgrade-to-strong = Upgrade to Strong Blob
-blob-verb-upgrade-to-reflective = Upgrade to Reflective Blob
-blob-verb-remove-blob-tile = Remove Blob
+blob-pod-verb-zombify = Zombifier
+blob-verb-upgrade-to-strong = Améliorer en Blob Renforcé
+blob-verb-upgrade-to-reflective = Améliorer en Blob Réfléchissant
+blob-verb-remove-blob-tile = Retirer la dalle blob
 
 # Alerts
-blob-resource-alert-name = Core Resources
-blob-resource-alert-desc = Your resources produced by the core and resource blobs. Use them to expand and create special blobs.
-blob-health-alert-name = Core Health
-blob-health-alert-desc = Your core's health. You will die if it reaches zero.
+blob-resource-alert-name = Ressources du Noyau
+blob-resource-alert-desc = Vos ressources produites par le noyau et les blobs de ressources. Utilisez-les pour vous étendre et créer des blobs spéciaux.
+blob-health-alert-name = Santé du Noyau
+blob-health-alert-desc = La santé de votre noyau. Vous mourrez si elle atteint zéro.
 
 # Greeting
 blob-role-greeting =
-    You are blob - a parasitic space creature capable of destroying entire stations.
-        Your goal is to survive and grow as large as possible.
-        You are almost invulnerable to physical damage, but heat can still hurt you.
-        Use Alt+LMB to upgrade normal blob tiles to strong blob and strong blob to reflective blob.
-        Make sure to place resource blobs to generate resources.
-        Keep in mind that resource blobs and factories will only work when next to node blobs or cores.
-        You may use + or +e in chat to use the Blobmind to talk to your minions.
-blob-zombie-greeting = You were infected and raised by a blob spore. Now you must help the blob take over the station. Use +e in chat to talk in the Blobmind.
+    Vous êtes un blob — une créature spatiale parasite capable de détruire des stations entières.
+        Votre objectif est de survivre et de vous développer le plus possible.
+        Vous êtes presque invulnérable aux dégâts physiques, mais la chaleur peut encore vous blesser.
+        Utilisez Alt+Clic gauche pour améliorer les dalles blob normales en dalles renforcées, et les renforcées en réfléchissantes.
+        Pensez à placer des blobs de ressources pour générer des ressources.
+        Gardez à l'esprit que les blobs de ressources et les usines ne fonctionneront qu'à proximité des nœuds blob ou des noyaux.
+        Vous pouvez utiliser + ou +e dans le chat pour utiliser l'Esprit-blob afin de parler à vos sbires.
+blob-zombie-greeting = Vous avez été infecté et ressuscité par une spore blob. Vous devez maintenant aider le blob à prendre le contrôle de la station. Utilisez +e dans le chat pour parler dans l'Esprit-blob.
 
 # End round
 blob-round-end-result =
     { $blobCount ->
-        [one] There was one blob infection.
-        *[other] There were {$blobCount} blobs.
+        [one] Il y avait une infection blob.
+        *[other] Il y avait {$blobCount} blobs.
     }
 
-blob-user-was-a-blob = [color=gray]{$user}[/color] was a blob.
-blob-user-was-a-blob-named = [color=White]{$name}[/color] ([color=gray]{$user}[/color]) was a blob.
-blob-was-a-blob-named = [color=White]{$name}[/color] was a blob.
+blob-user-was-a-blob = [color=gray]{$user}[/color] était un blob.
+blob-user-was-a-blob-named = [color=White]{$name}[/color] ([color=gray]{$user}[/color]) était un blob.
+blob-was-a-blob-named = [color=White]{$name}[/color] était un blob.
 
 preset-blob-objective-issuer-blob = [color=#33cc00]Blob[/color]
 
-blob-user-was-a-blob-with-objectives = [color=gray]{$user}[/color] was a blob who had the following objectives:
-blob-user-was-a-blob-with-objectives-named = [color=White]{$name}[/color] ([color=gray]{$user}[/color]) was a blob who had the following objectives:
-blob-was-a-blob-with-objectives-named = [color=White]{$name}[/color] was a blob who had the following objectives:
+blob-user-was-a-blob-with-objectives = [color=gray]{$user}[/color] était un blob qui avait les objectifs suivants :
+blob-user-was-a-blob-with-objectives-named = [color=White]{$name}[/color] ([color=gray]{$user}[/color]) était un blob qui avait les objectifs suivants :
+blob-was-a-blob-with-objectives-named = [color=White]{$name}[/color] était un blob qui avait les objectifs suivants :
 
 # Objectivies
-objective-condition-blob-capture-title = Take over the station
-objective-condition-blob-capture-description = Your only goal is to take over the whole station. You need to have at least {$count} blob tiles.
-objective-condition-success = { $condition } | [color={ $markupColor }]Success![/color]
-objective-condition-fail = { $condition } | [color={ $markupColor }]Failure![/color] ({ $progress }%)
+objective-condition-blob-capture-title = Prendre le contrôle de la station
+objective-condition-blob-capture-description = Votre seul objectif est de prendre le contrôle de toute la station. Vous devez avoir au moins {$count} dalles blob.
+objective-condition-success = { $condition } | [color={ $markupColor }]Réussi ![/color]
+objective-condition-fail = { $condition } | [color={ $markupColor }]Échoué ![/color] ({ $progress }%)
 
 # Admin Verbs
 
@@ -173,4 +173,4 @@ admin-verb-text-make-blob = Make Blob Carrier
 # Language
 language-Blob-name = Blob
 chat-language-Blob-name = Blob
-language-Blob-description = Bleeb bob! Blob blob!
+language-Blob-description = Bleeb bob ! Blob blob !
