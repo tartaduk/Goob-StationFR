@@ -71,7 +71,7 @@ chatsan-replacement-19 = nevermind
 chatsan-word-20 = imo
 chatsan-replacement-20 = in my opinion
 
-chatsan-word-21 = pls
+# chatsan-word-21 = pls // French translation : à voir selon les usages, mais PLS c'est aussi la position latérale de sécurité, "j'suis en PLS"
 chatsan-word-22 = plz
 chatsan-word-23 = plox
 chatsan-replacement-please = please
@@ -219,3 +219,176 @@ chatsan-replacement-70 = shut your bitch ass up
 chatsan-word-71 = icl
 chatsan-replacement-71 = i can't lie
 # goob end
+
+# french translation start
+chatsan-word-72 = svp
+chatsan-replacement-72 = s'il vous plaît
+
+chatsan-word-73 = stp
+chatsan-replacement-73 = s'il te plaît
+
+chatsan-word-74 = slt
+chatsan-replacement-74 = salut
+
+chatsan-word-75 = nn
+chatsan-replacement-75 = non
+
+chatsan-word-76 = mdp
+chatsan-replacement-76 = mot de passe
+
+chatsan-word-77 = pq
+chatsan-word-78 = pk
+chatsan-replacement-pourquoi = pourquoi
+
+chatsan-word-79 = pcq
+chatsan-replacement-79 = parce que
+
+chatsan-word-80 = mrc
+chatsan-replacement-80 = merci
+
+chatsan-word-81 = cc
+chatsan-replacement-81 = coucou
+
+chatsan-word-82 = nrv
+chatsan-replacement-82 = énervé
+
+chatsan-word-83 = pb
+chatsan-replacement-83 = problème
+
+chatsan-word-84 = bjr
+chatsan-replacement-84 = bonjour
+
+chatsan-word-85 = bsr
+chatsan-replacement-85 = bonsoir
+
+chatsan-word-86 = tkt
+chatsan-word-87 = tqt
+chatsan-replacement-tinquietes = t'inquiètes
+
+chatsan-word-88 = qqn
+chatsan-word-89 = qq1
+chatsan-replacement-quelquun = quelqu'un
+
+chatsan-word-90 = qqch
+chatsan-replacement-90 = quelque chose
+
+chatsan-word-91 = a+
+chatsan-replacement-91 = à plus
+
+chatsan-word-92 = att
+chatsan-replacement-92 = attends
+
+chatsan-word-93 = tt
+chatsan-replacement-93 = tout
+
+chatsan-word-94 = tte
+chatsan-replacement-94 = toute
+
+chatsan-word-95 = ptn
+chatsan-replacement-95 = putain
+
+chatsan-word-96 = cv
+chatsan-replacement-96 = ça va
+
+# pas sûr des remplacement d'une seule lettre, à tester
+chatsan-word-97 = c
+chatsan-replacement-97 = c'est
+
+chatsan-word-98 = g
+chatsan-replacement-98 = j'ai
+
+chatsan-word-128 = t
+chatsan-replacement-128 = t'es
+
+chatsan-word-99 = mnt
+chatsan-replacement-99 = maintenant
+
+chatsan-word-100 = dsl
+chatsan-replacement-100 = désolé
+
+chatsan-word-101 = tjrs
+chatsan-word-102 = tjs
+chatsan-word-103 = tjr
+chatsan-word-104 = tj
+chatsan-replacement-toujours = toujours
+
+chatsan-word-105 = rdv
+chatsan-replacement-105 = rendez-vous
+
+chatsan-word-106 = bg
+chatsan-replacement-106 = beau gosse
+
+chatsan-word-107 = dac
+chatsan-word-129 = dak
+chatsan-replacement-daccord = d'accord
+
+chatsan-word-108 = bi1
+chatsan-replacement-108 = bien
+
+chatsan-word-109 = gt
+chatsan-replacement-109 = j'étais
+
+chatsan-word-110 = tfk
+chatsan-replacement-110 = tu fais quoi
+
+chatsan-word-111 = tg
+chatsan-replacement-111 = ta gueule
+
+chatsan-word-112 = ftg
+chatsan-replacement-112 = ferme ta gueule
+
+chatsan-word-113 = ntm
+chatsan-replacement-113 = nique ta mère
+
+chatsan-word-114 = nsm
+chatsan-replacement-114 = nique sa mère
+
+chatsan-word-115 = keske
+chatsan-replacement-115 = qu'est-ce que
+
+chatsan-word-116 = koi
+chatsan-replacement-116 = quoi
+
+chatsan-word-117 = wsh
+chatsan-replacement-117 = wesh
+
+chatsan-word-118 = msk
+chatsan-replacement-118 = miskine
+
+chatsan-word-119 = jtm
+chatsan-replacement-119 = je t'aime
+
+chatsan-word-120 = dtc
+chatsan-replacement-120 = dans ton cul
+
+chatsan-word-121 = blc
+chatsan-replacement-121 = bas les couilles
+
+chatsan-word-122 = ama
+chatsan-replacement-122 = à mon avis
+
+chatsan-word-123 = vz
+chatsan-word-124 = vzy
+chatsan-word-125 = az
+chatsan-word-126 = azy
+chatsan-replacement-vasy = vas-y
+
+chatsan-word-127 = bcp
+chatsan-replacement-127 = beaucoup
+
+chatsan-word-128 = ki
+chatsan-replacement-128 = qui
+
+chatsan-word-130 = cv
+chatsan-replacement-130 = ça va
+
+chatsan-word-130 = clv
+chatsan-replacement-130 = c'est la vie
+
+chatsan-word-130 = lv
+chatsan-replacement-130 = la vie
+
+chatsan-word-130 = mv
+chatsan-replacement-130 = ma vie
+
+# french translation end
