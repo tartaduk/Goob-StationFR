@@ -297,8 +297,8 @@ chatsan-replacement-97 = c'est
 chatsan-word-98 = g
 chatsan-replacement-98 = j'ai
 
-chatsan-word-128 = t
-chatsan-replacement-128 = t'es
+chatsan-word-134 = t
+chatsan-replacement-134 = t'es
 
 chatsan-word-99 = mnt
 chatsan-replacement-99 = maintenant
@@ -382,13 +382,13 @@ chatsan-replacement-128 = qui
 chatsan-word-130 = cv
 chatsan-replacement-130 = ça va
 
-chatsan-word-130 = clv
-chatsan-replacement-130 = c'est la vie
+chatsan-word-131 = clv
+chatsan-replacement-131 = c'est la vie
 
-chatsan-word-130 = lv
-chatsan-replacement-130 = la vie
+chatsan-word-132 = lv
+chatsan-replacement-132 = la vie
 
-chatsan-word-130 = mv
-chatsan-replacement-130 = ma vie
+chatsan-word-133 = mv
+chatsan-replacement-133 = ma vie
 
 # french translation end
