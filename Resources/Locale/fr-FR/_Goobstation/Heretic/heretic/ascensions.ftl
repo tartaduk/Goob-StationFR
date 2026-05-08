@@ -38,9 +38,9 @@ heretic-ascension-rust =
     Je suis la décomposition incarnée. INÉVITABLE COMME UNE ÉTOILE MOURANTE ; IMPASSIBLE COMME LES EAUX. SOYEZ TÉMOIN DE MON ASCENSION !
 
 heretic-ascension-cosmos =
-    The Beast held out its hand, I grabbed hold and they pulled me to them. Their body was towering, but it seemed so small and feeble after all their tales compiled in my head.
-    I clung on to them, they would protect me, and I would protect it.
-    I closed my eyes with my head laid against their form. I was safe.
-    WITNESS MY ASCENSION!
+    La Bête tendit la main, je la saisis et elle m'attira vers elle. Son corps était imposant, mais semblait si petit et fragile après toutes les histoires accumulées dans ma tête.
+    Je m'accrochai à elle, elle me protégerait, et je la protégerais.
+    Je fermai les yeux, la tête posée contre sa forme. J'étais en sécurité.
+    SOYEZ TÉMOIN DE MON ASCENSION !
 
 heretic-ascension-bingle = bungle

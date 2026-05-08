@@ -10,7 +10,7 @@ carving-knife-comp-runes-count = [color=yellow][bold]{$count} / 3[/bold] gravure
 carving-knife-comp-runes-deleted = Toutes les gravures ont été détruites !
 
 alert-carving-trigger-message =
-    "{$victim}" has stepped foot on the alert rune near "{$location}"!
-    {" "}[button label="Teleport" timer={$timer} id="{$id}" uid={$uid} coords ="{$coords}"]
+    "{$victim}" a foulé du pied la rune d'alerte proche de "{$location}"!
+    {" "}[button label="Téléporter" timer={$timer} id="{$id}" uid={$uid} coords ="{$coords}"]
     {" "}
 alert-carving-trigger-message-coords = {$uid}, {$x}, {$y}

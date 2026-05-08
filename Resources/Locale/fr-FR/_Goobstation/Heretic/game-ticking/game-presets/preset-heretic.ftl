@@ -19,48 +19,49 @@ heretic-gamemode-description =
     Anomalie dimensionnelle détectée au sein de la station. Aucune donnée supplémentaire disponible.
 
 heretic-role-greeting-fluff =
-    Another day at a meaningless job. You feel a shimmer around you, as a realization of something strange in the air unfolds. You look inwards and discover something that will change your life.
-
-    The Gates of Mansus open up to your mind.
+    Encore une journée dans un travail sans sens. Vous sentez un frémissement autour de vous, alors qu'une réalisation de quelque chose d'étrange dans l'air se dévoile. Vous regardez en vous-même et découvrez quelque chose qui va changer votre vie.
+    
+    Les Portes du Mansus s'ouvrent à votre esprit.
 
 heretic-role-greeting =
-    You are the Heretic!
+    Vous êtes l'Hérétique !
 
-    Read more about your role in the guidebook entry.
+    Consultez l'entrée du guide pour en savoir plus sur votre rôle.
 
 heretic-role-greeting-short =
     Vous êtes l'Hérétique !
+
     Pour apprendre le Rituel Final et Ascensionner, vous devez accomplir vos tâches.
 
 ## ghoul
 heretic-ghoul-greeting =
     Vous avez été invoqué dans ce monde par {CAPITALIZE(THE($ent))} !
     Vous devez les aider dans leur voyage vers l'ascension et les protéger à tout prix.
-    You may follow other heretics if your master is beyond resurrection.
+    Vous pouvez suivre d'autres hérétiques si votre maître est au-delà de toute résurrection.
 heretic-ghoul-greeting-noname =
-    You have been summoned into this world by eldritch forces.
-    Obey the orders of your masters no matter what.
+    Vous avez été invoqué dans ce monde par des forces eldritch.
+    Obéissez aux ordres de vos maîtres quoi qu'il arrive.
 heretic-ghoul-briefing-start =
-    You have been summoned into this world by {CAPITALIZE(THE($ent))}!
+    Vous avez été invoqué dans ce monde par {CAPITALIZE(THE($ent))} !
 heretic-ghoul-briefing-start-noname =
-    You have been summoned into this world by eldritch forces.
+    Vous avez été invoqué dans ce monde par des forces eldritch.
 heretic-ghoul-briefing-end =
-    Obey the orders of your masters no matter what.
+    Obéissez aux ordres de vos maîtres quoi qu'il arrive.
 
-    use +m key in chat to access mansus link.
+    Utilisez la touche +m dans le chat pour accéder au lien du Mansus.
 
-ghostrole-ghoul-name = Ghoul
-ghostrole-flesh-mimic-name = Flesh Mimic
-ghostrole-prophet-name = Raw Prophet
-ghostrole-stalker-name = Flesh Stalker
-ghostrole-fire-shark-name = Fire Shark
-ghostrole-rustwalker-name = Rust Walker
-ghostrole-stargazer-name = Star Gazer
-ghostrole-ghoul-desc = Aid your summoner in achieving ascension.
-ghostrole-flesh-mimic-desc = Aid your summoner in achieving ascension. Be aware that you die over time.
-ghostrole-prophet-desc = Aid your summoner in achieving ascension. Connect other believers to the Mansus Link. Passively heal heretics and eldritch creatures.
-ghostrole-stalker-desc = Aid your summoner in achieving ascension. Jaunt and sabotage crew's lighting.
-ghostrole-fire-shark-desc = Aid your summoner in achieving ascension. Burn your victims.
-ghostrole-rustwalker-desc = Aid your summoner in achieving ascension. Spread rust everywhere.
-ghostrole-stargazer-desc = Aid your summoner in wreaking havoc everywhere.
-ghostrole-ghoul-rules = You are a [color=red][bold]Team Antagonist[/bold][/color] with the one who summoned you and other eldritch beings.
+ghostrole-ghoul-name = Goule
+ghostrole-flesh-mimic-name = Mimic de Chair
+ghostrole-prophet-name = Prophète Brut
+ghostrole-stalker-name = Traqueur de Chair
+ghostrole-fire-shark-name = Requin de Feu
+ghostrole-rustwalker-name = Marcheur de Rouille
+ghostrole-stargazer-name = Contemplateur d'Étoiles
+ghostrole-ghoul-desc = Aidez votre invocateur à accomplir son ascension.
+ghostrole-flesh-mimic-desc = Aidez votre invocateur à accomplir son ascension. Sachez que vous mourez avec le temps.
+ghostrole-prophet-desc = Aidez votre invocateur à accomplir son ascension. Connectez d'autres croyants au Lien du Mansus. Soignez passivement les hérétiques et les créatures eldritch.
+ghostrole-stalker-desc = Aidez votre invocateur à accomplir son ascension. Bondissez et sabotez l'éclairage de l'équipage.
+ghostrole-fire-shark-desc = Aidez votre invocateur à accomplir son ascension. Brûlez vos victimes.
+ghostrole-rustwalker-desc = Aidez votre invocateur à accomplir son ascension. Répandez la rouille partout.
+ghostrole-stargazer-desc = Aidez votre invocateur à semer le chaos partout.
+ghostrole-ghoul-rules = Vous êtes un [color=red][bold]Antagoniste d'Équipe[/bold][/color] avec celui qui vous a invoqué et les autres êtres eldritch.
