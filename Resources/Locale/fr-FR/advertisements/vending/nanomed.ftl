@@ -5,12 +5,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-nanomed-1 = Go save some lives!
-advertisement-nanomed-2 = The best stuff for your medbay.
-advertisement-nanomed-3 = Only the finest tools.
-advertisement-nanomed-4 = Natural chemicals!
-advertisement-nanomed-5 = This stuff saves lives.
-advertisement-nanomed-6 = Don't you want some?
-advertisement-nanomed-7 = Ping!
-advertisement-nanomed-8 = Make sure not to overdose people!
-advertisement-nanomed-9 = Go overdose people!
+advertisement-nanomed-1 = Allez sauver des vies !
+advertisement-nanomed-2 = Le meilleur pour votre medbay.
+advertisement-nanomed-3 = Que les meilleurs outils.
+advertisement-nanomed-4 = Des produits chimiques naturels !
+advertisement-nanomed-5 = Ces trucs sauvent des vies.
+advertisement-nanomed-6 = Vous n'en voulez pas ?
+advertisement-nanomed-7 = Ding !
+advertisement-nanomed-8 = Veillez à ne pas surdoser les gens !
+advertisement-nanomed-9 = Allez surdoser des gens !

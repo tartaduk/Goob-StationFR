@@ -7,8 +7,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-janidrobe-1 = Come and get your janitorial clothing, now endorsed by lizard janitors everywhere!
-advertisement-janidrobe-2 = Here to keep you clean as you clean up non-clean things!
-advertisement-janidrobe-3 = Stylishly yellow!
-advertisement-janidrobe-4 = Polish your appearance with JaniDrobe!
-advertisement-janidrobe-5 = Shine like a shiny floor!
+advertisement-janidrobe-1 = Venez découvrir nos tenues de nettoyage, désormais plébiscitées par les concierges lézards du monde entier !
+advertisement-janidrobe-2 = Pour que vous restiez propre tout en nettoyant ce qui ne l'est pas !
+advertisement-janidrobe-3 = Élégamment jaune !
+advertisement-janidrobe-4 = Polissez votre apparence avec JaniDrobe !
+advertisement-janidrobe-5 = Brillez comme un sol brillant !

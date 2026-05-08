@@ -5,6 +5,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-detdrobe-1 = Apply your brilliant deductive methods in style!
-advertisement-detdrobe-2 = Come here and dress up like Sherlock Holmes!
-advertisement-detdrobe-3 = Our outfits are very conservative!
+advertisement-detdrobe-1 = Appliquez vos brillantes méthodes déductives avec style !
+advertisement-detdrobe-2 = Venez vous habiller comme Sherlock Holmes !
+advertisement-detdrobe-3 = Nos tenues sont très conservatrices !

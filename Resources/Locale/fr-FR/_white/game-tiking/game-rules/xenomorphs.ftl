@@ -1,27 +1,27 @@
 xenomorphs-announcement = Warning: Hostile bio-signatures detected. Unknown entities are moving through the station’s vents and maintenance shafts. All personnel, initiate lockdown protocols and avoid isolated areas.
-xenomorphs-no-more-threat-announcement = According to data from our long-range sensors, all xenomorphs have been eliminated.
+xenomorphs-no-more-threat-announcement = Selon les données de nos capteurs longue portée, tous les xénomorphes ont été éliminés.
 xenomorphs-win-announcement-shuttle-call =
-    ALERT: The station has been consumed by the Black Swarm. All remaining personnel are ordered to arm the nuclear fission explosive and proceed to the evacuation shuttle immediately.
+    ALERTE : La station a été consumée par l'Essaim Noir. Tout le personnel restant est ordonné d'armer l'explosif à fission nucléaire et de se diriger immédiatement vers la navette d'évacuation.
 
-    Colonial Marines have been contacted and will arrive within two weeks.
+    Les Marines coloniaux ont été contactés et arriveront dans deux semaines.
 
-    The evacuation shuttle will arrive in {$time} {$units}.
+    La navette d'évacuation arrivera dans {$time} {$units}.
 xenomorphs-win-announcement =
-    ALERT: The station has been consumed by the Black Swarm. All remaining personnel are ordered to arm the nuclear fission explosive and proceed to the evacuation shuttle immediately.
+    ALERTE : La station a été consumée par l'Essaim Noir. Tout le personnel restant est ordonné d'armer l'explosif à fission nucléaire et de se diriger immédiatement vers la navette d'évacuation.
 
-    Colonial Marines have been contacted and will arrive within two weeks.
+    Les Marines coloniaux ont été contactés et arriveront dans deux semaines.
 
-    An emergency shuttle is on its way.
+    Une navette d'urgence est en route.
 
-xenomorphs-xenomajor = Major xenomorph victory!
-xenomorphs-xenominor = Minor xenomorph victory!
-xenomorphs-neutral = Stalemate!
-xenomorphs-crewminor = Minor crew victory!
-xenomorphs-crewmajor = Decisive crew victory!
+xenomorphs-xenomajor = Victoire majeure des xénomorphes !
+xenomorphs-xenominor = Victoire mineure des xénomorphes !
+xenomorphs-neutral = Match nul !
+xenomorphs-crewminor = Victoire mineure de l'équipage !
+xenomorphs-crewmajor = Victoire décisive de l'équipage !
 
-xenomorphs-cond-nukeexplodedonstation = The crew destroyed the xenomorphs with the nuclear fission explosive.
-xenomorphs-cond-nukeactiveinstation = The crew left the armed nuclear fission explosive on the station.
-xenomorphs-cond-xenotakeoverstation = The xenomorphs managed to take over the station.
-xenomorphs-cond-xenoinfiltratedoncentcom = Xenomorphs infiltrated the Central Command station.
-xenomorphs-cond-allreproducexenodead = The crew eliminated all Xenomorphs capable of reproduction.
-xenomorphs-cond-allcrewdead = All crew members have died.
+xenomorphs-cond-nukeexplodedonstation = L'équipage a détruit les xénomorphes avec l'explosif à fission nucléaire.
+xenomorphs-cond-nukeactiveinstation = L'équipage a laissé l'explosif à fission nucléaire armé sur la station.
+xenomorphs-cond-xenotakeoverstation = Les xénomorphes ont réussi à prendre le contrôle de la station.
+xenomorphs-cond-xenoinfiltratedoncentcom = Des xénomorphes ont infiltré la station du Commandement Central.
+xenomorphs-cond-allreproducexenodead = L'équipage a éliminé tous les xénomorphes capables de se reproduire.
+xenomorphs-cond-allcrewdead = Tous les membres d'équipage sont morts.

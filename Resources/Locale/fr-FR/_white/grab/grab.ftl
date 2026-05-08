@@ -4,25 +4,25 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-popup-grab-soft-target = {CAPITALIZE($puller)} grabbed you softly.
-popup-grab-hard-target = {CAPITALIZE($puller)} grabbed you firmly.
-popup-grab-suffocate-target = {CAPITALIZE($puller)} started to choke you!
-popup-grab-no-target = {CAPITALIZE($puller)} stopped grabbing you.
-popup-grab-soft-self = You grabbed {CAPITALIZE($target)} softly.
-popup-grab-hard-self = You grabbed {CAPITALIZE($target)} firmly.
-popup-grab-suffocate-self = You started to choke {CAPITALIZE($target)}.
-popup-grab-no-self = You stopped grabbing {CAPITALIZE($target)}.
-popup-grab-soft-others = {CAPITALIZE($puller)} grabbed {CAPITALIZE($target)} softly.
-popup-grab-hard-others = {CAPITALIZE($puller)} grabbed {CAPITALIZE($target)} firmly.
-popup-grab-suffocate-others = {CAPITALIZE($puller)} started to choke {CAPITALIZE($target)}!
-popup-grab-no-others = {CAPITALIZE($puller)} stopped grabbing {CAPITALIZE($target)}.
-popup-grab-release-too-soon = You are still tired after the previous attempt.
-popup-grab-release-fail-self = You are trying to escape.
-popup-grab-release-success-self = You escaped from grab!
-popup-grab-release-success-puller = {CAPITALIZE($target)} escaped!
-popup-grab-retake-fail = {CAPITALIZE($puller)} is not letting you to pull {CAPITALIZE($pulled)}!
-popup-grab-retake-fail-puller = {CAPITALIZE($puller)} is trying to release {CAPITALIZE($pulled)}!
-popup-grab-retake-success = You released {CAPITALIZE($pulled)} from {CAPITALIZE($puller)}'s grab!
-popup-grab-retake-success-puller = {CAPITALIZE($puller)} released {CAPITALIZE($pulled)} from your grab!
-popup-grabbed-cant-speak = You can't breathe!
-popup-grab-need-hand = You need a free hand!
+popup-grab-soft-target = {CAPITALIZE($puller)} vous a saisi doucement.
+popup-grab-hard-target = {CAPITALIZE($puller)} vous a saisi fermement.
+popup-grab-suffocate-target = {CAPITALIZE($puller)} a commencé à vous étrangler !
+popup-grab-no-target = {CAPITALIZE($puller)} a arrêté de vous tenir.
+popup-grab-soft-self = Vous avez saisi {CAPITALIZE($target)} doucement.
+popup-grab-hard-self = Vous avez saisi {CAPITALIZE($target)} fermement.
+popup-grab-suffocate-self = Vous avez commencé à étrangler {CAPITALIZE($target)}.
+popup-grab-no-self = Vous avez arrêté de tenir {CAPITALIZE($target)}.
+popup-grab-soft-others = {CAPITALIZE($puller)} a saisi {CAPITALIZE($target)} doucement.
+popup-grab-hard-others = {CAPITALIZE($puller)} a saisi {CAPITALIZE($target)} fermement.
+popup-grab-suffocate-others = {CAPITALIZE($puller)} a commencé à étrangler {CAPITALIZE($target)} !
+popup-grab-no-others = {CAPITALIZE($puller)} a arrêté de tenir {CAPITALIZE($target)}.
+popup-grab-release-too-soon = Vous êtes encore fatigué après la tentative précédente.
+popup-grab-release-fail-self = Vous essayez de vous échapper.
+popup-grab-release-success-self = Vous vous êtes échappé de la prise !
+popup-grab-release-success-puller = {CAPITALIZE($target)} s'est échappé !
+popup-grab-retake-fail = {CAPITALIZE($puller)} ne vous laisse pas tirer {CAPITALIZE($pulled)} !
+popup-grab-retake-fail-puller = {CAPITALIZE($puller)} essaie de libérer {CAPITALIZE($pulled)} !
+popup-grab-retake-success = Vous avez libéré {CAPITALIZE($pulled)} de la prise de {CAPITALIZE($puller)} !
+popup-grab-retake-success-puller = {CAPITALIZE($puller)} a libéré {CAPITALIZE($pulled)} de votre prise !
+popup-grabbed-cant-speak = Vous ne pouvez pas respirer !
+popup-grab-need-hand = Vous avez besoin d'une main libre !

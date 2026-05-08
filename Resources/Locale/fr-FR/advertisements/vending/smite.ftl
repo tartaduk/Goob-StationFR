@@ -4,15 +4,15 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-smite-1 = SMITE! Ban your thirst!
-advertisement-smite-2 = An eldritch blast of lemon and lime!
-advertisement-smite-3 = Over 1 million drinks sold!
-advertisement-smite-4 = SMITE! Roll 2d8 for FLAVOR.
-advertisement-smite-5 = SMITE! Let's get that paperwork done!
-advertisement-smite-6 = The janitor has it in for you!
-advertisement-smite-7 = SMITE! It won't get you hammered.
-advertisement-smite-8 = It's lemon-lime time!
-thankyou-smite-1 = Smite makes right!
-thankyou-smite-2 = You DEFINITELY wanted lemon-lime!
-thankyou-smite-3 = The office won't know what hit them.
-thankyou-smite-4 = Banish your thirst.
+advertisement-smite-1 = SMITE ! Bannissez votre soif !
+advertisement-smite-2 = Une décharge occulte de citron et de citron vert !
+advertisement-smite-3 = Plus d'un million de boissons vendues !
+advertisement-smite-4 = SMITE ! Lancez 2d8 pour déterminer la SAVEUR.
+advertisement-smite-5 = SMITE ! Finissons-en avec cette paperasse !
+advertisement-smite-6 = Le concierge vous en veut !
+advertisement-smite-7 = SMITE ! Ça ne vous rendra pas ivre.
+advertisement-smite-8 = C'est l'heure du citron-citron vert !
+thankyou-smite-1 = Smite a raison !
+thankyou-smite-2 = Vous vouliez ABSOLUMENT du citron-citron vert !
+thankyou-smite-3 = Le bureau ne saura pas ce qui lui est tombé dessus.
+thankyou-smite-4 = Bannissez votre soif.

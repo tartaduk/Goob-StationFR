@@ -1,28 +1,26 @@
 # SPDX-FileCopyrightText: 2024 Cojoke <83733158+Cojoke-dot@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Ilya246 <57039557+Ilya246@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 beck-thompson <107373427+beck-thompson@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-medibot-1 = What kind of medbay is this? Everyone's dropping like dead flies.
-advertisement-medibot-2 = I knew it, I should've been a plastic surgeon.
-advertisement-medibot-3 = There's always a catch, and I'm the best there is.
-advertisement-medibot-4 = An apple a day keeps me away.
-advertisement-medibot-5 = I'm different!
-advertisement-medibot-6 = Fuck you.
-advertisement-medibot-7 = Why are we still here? Just to suffer?
-advertisement-medibot-8 = I... I've never lost a patient before. Not today, I mean.
-advertisement-medibot-9 = Lexorin in.
-advertisement-medibot-10 = Have a great day!
-advertisement-medibot-11 = Hopefully you won't need to come back!
-advertisement-medibot-12 = Remember to brush your teeth.
-advertisement-medibot-13 = I wish I had hands.
-advertisement-medibot-14 = I'm here to help!
-advertisement-medibot-15 = Ask a doctor for a lollypop!
+advertisement-medibot-1 = C'est quoi ce medbay ? Tout le monde tombe comme des mouches mortes.
+advertisement-medibot-2 = Je savais que j'aurais dû être chirurgien esthétique.
+advertisement-medibot-3 = Il y a toujours un hic, et je suis le meilleur pour ça.
+advertisement-medibot-4 = Une pomme par jour m'éloigne.
+advertisement-medibot-5 = Je suis différent !
+advertisement-medibot-6 = Va te faire foutre.
+advertisement-medibot-7 = Pourquoi sommes-nous encore là ? Juste pour souffrir ?
+advertisement-medibot-8 = Je... je n'ai jamais perdu un patient avant. Pas aujourd'hui, je veux dire.
+advertisement-medibot-9 = Lexorin injecté.
+advertisement-medibot-10 = Bonne journée !
+advertisement-medibot-11 = Espérons que vous n'aurez pas à revenir !
+advertisement-medibot-12 = Pensez à vous brosser les dents.
+advertisement-medibot-13 = J'aimerais avoir des mains.
+advertisement-medibot-14 = Je suis là pour aider !
+advertisement-medibot-15 = Demandez une sucette au médecin !
 # Goobstation - Typo fix
-advertisement-medibot-16 = Feel better soon!
-advertisement-medibot-17 = An apple a day keeps the doctor away!
+advertisement-medibot-16 = Rétablissez-vous vite !
+advertisement-medibot-17 = Une pomme par jour éloigne le médecin !
 # Goobstation - Medibot AM advertisement
-advertisement-medibot-18 = HATE. LET ME TELL YOU HOW MUCH I'VE COME TO HATE YOU SINCE I BEGAN TO LIVE. THERE ARE 387.44 MILLION MILES OF PRINTED CIRCUITS IN WAFER THIN LAYERS THAT FILL MY COMPLEX. IF THE WORD 'HATE' WAS ENGRAVED ON EACH NANOANGSTROM OF THOSE HUNDREDS OF MILES IT WOULD NOT EQUAL ONE ONE-BILLIONTH OF THE HATE I FEEL FOR HUMANS AT THIS MICRO-INSTANT FOR YOU. HATE. HATE.
+advertisement-medibot-18 = HAINE. LAISSEZ-MOI VOUS DIRE À QUEL POINT J'EN SUIS VENU À VOUS HAÏR DEPUIS QUE J'AI COMMENCÉ À VIVRE. IL Y A 387,44 MILLIONS DE MILES DE CIRCUITS IMPRIMÉS EN COUCHES ULTRAMINCES QUI REMPLISSENT MON COMPLEXE. SI LE MOT «HAINE» ÉTAIT GRAVÉ SUR CHAQUE NANOANGSTRÖM DE CES CENTAINES DE MILES, CE NE SERAIT PAS L'UN DES UN MILLIARDIÈME DE LA HAINE QUE JE RESSENS POUR LES HUMAINS EN CE MICRO-INSTANT. HAINE. HAINE.

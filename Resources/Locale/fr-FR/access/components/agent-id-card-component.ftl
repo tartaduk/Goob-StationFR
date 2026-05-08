@@ -6,12 +6,12 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 agent-id-new = { $number ->
-    [0] Didn't gain any new accesses from {THE($card)}.
-    [one] Gained one new access from {THE($card)}.
-   *[other] Gained {$number} new accesses from {THE($card)}.
+    [0] Aucun nouvel accès obtenu depuis {THE($card)}.
+    [one] Un nouvel accès obtenu depuis {THE($card)}.
+   *[other] {$number} nouveaux accès obtenus depuis {THE($card)}.
 }
 
-agent-id-card-current-name = Name:
-agent-id-card-current-job = Job:
-agent-id-card-job-icon-label = Job icon:
-agent-id-menu-title = Agent ID Card
+agent-id-card-current-name = Nom :
+agent-id-card-current-job = Poste :
+agent-id-card-job-icon-label = Icône de poste :
+agent-id-menu-title = Carte d'identité d'agent

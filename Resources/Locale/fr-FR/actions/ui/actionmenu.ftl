@@ -6,19 +6,19 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-## Action menu stuff (left panel, with hotbars etc)
+Action menu stuff (left panel, with hotbars etc)
 
 ui-actionmenu-title = Actions
-ui-actionmenu-filter-label = Filters: {$selectedLabels}
-ui-actionmenu-filter-button = Filter
-ui-actionmenu-search-bar-placeholder-text = Search
-ui-actionmenu-clear-button = Clear
+ui-actionmenu-filter-label = Filtres : {$selectedLabels}
+ui-actionmenu-filter-button = Filtrer
+ui-actionmenu-search-bar-placeholder-text = Rechercher
+ui-actionmenu-clear-button = Effacer
 
-ui-actionsui-function-lock-action-slots = (Un)lock dragging and clearing action slots
-ui-actionsui-function-open-abilities-menu = Open action menu
+ui-actionsui-function-lock-action-slots = (Dé)verrouiller le glisser-déposer et la suppression des emplacements d'action
+ui-actionsui-function-open-abilities-menu = Ouvrir le menu d'actions
 
-ui-actionmenu-enabled = Enabled
-ui-actionmenu-item = Item
-ui-actionmenu-innate = Innate
-ui-actionmenu-instant = Instant
-ui-actionmenu-targeted = Targeted
+ui-actionmenu-enabled = Activé
+ui-actionmenu-item = Objet
+ui-actionmenu-innate = Inné
+ui-actionmenu-instant = Instantané
+ui-actionmenu-targeted = Ciblé

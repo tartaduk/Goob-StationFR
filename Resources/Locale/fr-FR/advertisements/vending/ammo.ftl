@@ -6,14 +6,14 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-ammo-1 = Liberation Station: Your one-stop shop for all things second amendment!
-advertisement-ammo-2 = Be a patriot today, pick up a gun!
-advertisement-ammo-3 = Quality weapons for cheap prices!
-advertisement-ammo-4 = Better dead than red!
-advertisement-ammo-5 = Float like an astronaut, sting like a bullet!
-advertisement-ammo-6 = Express your second amendment today!
-advertisement-ammo-7 = Guns don't kill people, but you can!
-advertisement-ammo-8 = Who needs responsibilities when you have guns?
-advertisement-ammo-9 = Murdering people is fun!
-advertisement-ammo-10 = Go shoot 'em up!
+advertisement-ammo-1 = Liberation Station : votre guichet unique pour tout ce qui concerne le deuxième amendement !
+advertisement-ammo-2 = Soyez un patriote aujourd'hui, prenez une arme !
+advertisement-ammo-3 = Des armes de qualité à prix réduits !
+advertisement-ammo-4 = Mieux vaut être mort que rouge !
+advertisement-ammo-5 = Flotte comme un astronaute, pique comme une balle !
+advertisement-ammo-6 = Exprimez votre droit au deuxième amendement dès aujourd’hui !
+advertisement-ammo-7 = Les armes ne tuent pas, mais vous, oui !
+advertisement-ammo-8 = Qui a besoin de responsabilités quand on a des armes ?
+advertisement-ammo-9 = Tuer des gens, c’est marrant !
+advertisement-ammo-10 = Allez les descendre !
 

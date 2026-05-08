@@ -7,12 +7,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-action-name-internals-toggle-on = Toggle Internals On
-action-description-internals-toggle-on = Breathe from the equipped gas tank. Also requires equipped breath mask.
-action-name-internals-toggle-off = Toggle Internals Off
-action-description-internals-toggle-off = Breathe from the environment.
+action-name-internals-toggle-on = Activer les internals
+action-description-internals-toggle-on = Respirez depuis la bouteille de gaz équipée. Nécessite également un masque respiratoire équipé.
+action-name-internals-toggle-off = Désactiver les internals
+action-description-internals-toggle-off = Respirez depuis l'environnement.
 
-internals-self-no-breath-tool = You are not wearing a breathing tool
-internals-other-no-breath-tool = {$ent} is not wearing a breathing tool
-internals-self-no-tank = You are not wearing a gas tank
-internals-other-no-tank = {$ent} is not wearing a gas tank
+internals-self-no-breath-tool = Vous ne portez pas d'outil respiratoire
+internals-other-no-breath-tool = {$ent} ne porte pas d'outil respiratoire
+internals-self-no-tank = Vous ne portez pas de bouteille de gaz
+internals-other-no-tank = {$ent} ne porte pas de bouteille de gaz

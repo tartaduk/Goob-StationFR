@@ -1,28 +1,28 @@
-genpop-prisoner-id-expire = You have served your sentence! You may now exit prison through the turnstiles and collect your belongings.
-genpop-prisoner-id-popup-not-served = Sentence not yet served!
+genpop-prisoner-id-expire = Vous avez purgé votre peine ! Vous pouvez désormais sortir de prison par les tourniquets et récupérer vos affaires.
+genpop-prisoner-id-popup-not-served = Peine non encore purgée !
 
-genpop-prisoner-id-crime-default = [Redacted]
-genpop-prisoner-id-examine-wait = You have served {$minutes} {$minutes ->
+genpop-prisoner-id-crime-default = [Censuré]
+genpop-prisoner-id-examine-wait = Vous avez purgé {$minutes} {$minutes ->
     [1] minute
     *[other] minutes
 } {$seconds} {$seconds ->
-    [1] second
-    *[other] seconds
-} of your {$sentence} minute sentence for {$crime}.
-genpop-prisoner-id-examine-wait-perm = You are serving a permanent sentence for {$crime}.
-genpop-prisoner-id-examine-served = You have served your sentence for {$crime}.
+    [1] seconde
+    *[other] secondes
+} de votre peine de {$sentence} minutes pour {$crime}.
+genpop-prisoner-id-examine-wait-perm = Vous purgez une peine permanente pour {$crime}.
+genpop-prisoner-id-examine-served = Vous avez purgé votre peine pour {$crime}.
 
-genpop-locker-name-default = prisoner closet
-genpop-locker-desc-default = It's a secure locker for an inmate's personal belongings during their time in prison.
+genpop-locker-name-default = placard de prisonnier
+genpop-locker-desc-default = Un casier sécurisé pour les effets personnels d'un détenu pendant son séjour en prison.
 
-genpop-locker-name-used = prisoner closet ({$name})
-genpop-locker-desc-used = It's a secure locker for an inmate's personal belongings during their time in prison. It contains the personal effects of {$name}.
+genpop-locker-name-used = placard de prisonnier ({$name})
+genpop-locker-desc-used = Un casier sécurisé pour les effets personnels d'un détenu pendant son séjour en prison. Il contient les affaires personnelles de {$name}.
 
-genpop-locker-ui-label-name = [bold]Convict Name:[/bold]
-genpop-locker-ui-label-sentence = [bold]Sentence length in minutes:[/bold] [color=gray](0 for perma)[/color]
-genpop-locker-ui-label-crime = [bold]Crime:[/bold]
-genpop-locket-ui-button-done = Done
+genpop-locker-ui-label-name = [bold]Nom du détenu :[/bold]
+genpop-locker-ui-label-sentence = [bold]Durée de la peine en minutes :[/bold] [color=gray](0 pour permanente)[/color]
+genpop-locker-ui-label-crime = [bold]Crime :[/bold]
+genpop-locket-ui-button-done = Confirmer
 
-genpop-locker-action-end-early = End Sentence Early
-genpop-locker-action-clear-id = Clear ID
-genpop-locker-action-reset-sentence = Reset Sentence ({NATURALFIXED($percent, 0)}% served)
+genpop-locker-action-end-early = Terminer la peine prématurément
+genpop-locker-action-clear-id = Effacer l'ID
+genpop-locker-action-reset-sentence = Réinitialiser la peine ({NATURALFIXED($percent, 0)}% purgée)

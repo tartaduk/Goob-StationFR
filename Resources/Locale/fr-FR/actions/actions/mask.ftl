@@ -6,5 +6,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-action-mask-pull-up-popup-message = You pull up your {$mask}.
-action-mask-pull-down-popup-message = You pull down your {$mask}.
+action-mask-pull-up-popup-message = Vous relevez votre {$mask}.
+action-mask-pull-down-popup-message = Vous abaissez votre {$mask}.

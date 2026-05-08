@@ -6,12 +6,12 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-nutrimax-1 = We like plants!
-advertisement-nutrimax-2 = Don't you want some?
-advertisement-nutrimax-3 = The greenest thumbs ever.
-advertisement-nutrimax-4 = We like big plants.
-advertisement-nutrimax-5 = Soft soil...
-advertisement-nutrimax-6 = Buckets now included!
-advertisement-nutrimax-7 = The bigger the plant, the better!
-thankyou-nutrimax-1 = Get planting!
-thankyou-nutrimax-2 = Mess with some soil!
+advertisement-nutrimax-1 = Nous aimons les plantes !
+advertisement-nutrimax-2 = Vous n'en voulez pas ?
+advertisement-nutrimax-3 = Les pouces les plus verts qui soient.
+advertisement-nutrimax-4 = Nous aimons les grandes plantes.
+advertisement-nutrimax-5 = Douce terre...
+advertisement-nutrimax-6 = Seaux maintenant inclus !
+advertisement-nutrimax-7 = Plus la plante est grande, mieux c'est !
+thankyou-nutrimax-1 = Allez planter !
+thankyou-nutrimax-2 = Mettez-vous les mains dans la terre !
