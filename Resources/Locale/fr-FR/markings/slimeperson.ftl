@@ -7,26 +7,26 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-SlimeGradientLeftArm-gradient_l_arm = Slime Left Arm (Gradient)
-marking-SlimeGradientLeftArm = Slime Left Arm (Gradient)
+marking-SlimeGradientLeftArm-gradient_l_arm = Slime Bras Gauche (Dégradé)
+marking-SlimeGradientLeftArm = Slime Bras Gauche (Dégradé)
 
-marking-SlimeGradientRightArm-gradient_r_arm = Slime Right Arm (Gradient)
-marking-SlimeGradientRightArm = Slime Right Arm (Gradient)
+marking-SlimeGradientRightArm-gradient_r_arm = Slime Bras Droit (Dégradé)
+marking-SlimeGradientRightArm = Slime Bras Droit (Dégradé)
 
-marking-SlimeGradientLeftFoot-gradient_l_foot = Slime Left Foot (Gradient)
-marking-SlimeGradientLeftFoot = Slime Left Foot (Gradient)
+marking-SlimeGradientLeftFoot-gradient_l_foot = Slime Pied Gauche (Dégradé)
+marking-SlimeGradientLeftFoot = Slime Pied Gauche (Dégradé)
 
-marking-SlimeGradientRightFoot-gradient_r_foot = Slime Right Foot (Gradient)
-marking-SlimeGradientRightFoot = Slime Right Foot (Gradient)
+marking-SlimeGradientRightFoot-gradient_r_foot = Slime Pied Droit (Dégradé)
+marking-SlimeGradientRightFoot = Slime Pied Droit (Dégradé)
 
-marking-SlimeGradientLeftLeg-gradient_l_leg = Slime Left Leg (Gradient)
-marking-SlimeGradientLeftLeg = Slime Left Leg (Gradient)
+marking-SlimeGradientLeftLeg-gradient_l_leg = Slime Jambe Gauche (Dégradé)
+marking-SlimeGradientLeftLeg = Slime Jambe Gauche (Dégradé)
 
-marking-SlimeGradientRightLeg-gradient_r_leg = Slime Right Leg (Gradient)
-marking-SlimeGradientRightLeg = Slime Right Leg (Gradient)
+marking-SlimeGradientRightLeg-gradient_r_leg = Slime Jambe Droite (Dégradé)
+marking-SlimeGradientRightLeg = Slime Jambe Droite (Dégradé)
 
-marking-SlimeGradientLeftHand-gradient_l_hand = Slime Left Hand (Gradient)
-marking-SlimeGradientLeftHand = Slime Left Hand (Gradient)
+marking-SlimeGradientLeftHand-gradient_l_hand = Slime Main Gauche (Dégradé)
+marking-SlimeGradientLeftHand = Slime Main Gauche (Dégradé)
 
-marking-SlimeGradientRightHand-gradient_r_hand = Slime Right Hand (Gradient)
-marking-SlimeGradientRightHand = Slime Right Hand (Gradient)
+marking-SlimeGradientRightHand-gradient_r_hand = Slime Main Droite (Dégradé)
+marking-SlimeGradientRightHand = Slime Main Droite (Dégradé)

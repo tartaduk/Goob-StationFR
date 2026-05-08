@@ -1,2 +1,2 @@
-roles-antag-slaughter-demon-name = Slaughter Demon
-roles-antag-slaughter-demon-objective = First, kill the one who summoned you. Second, kill everyone else.
+roles-antag-slaughter-demon-name = Démon du massacre
+roles-antag-slaughter-demon-objective = Premièrement, tuez celui qui vous a invoqué. Deuxièmement, tuez tous les autres.

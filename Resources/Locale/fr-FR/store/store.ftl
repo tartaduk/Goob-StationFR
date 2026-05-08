@@ -11,21 +11,21 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-store-ui-default-title = Store
-store-ui-default-withdraw-text = Withdraw
-store-ui-refund-text = Refund
-store-ui-balance-display = {$currency}: {$amount}
+store-ui-default-title = Boutique
+store-ui-default-withdraw-text = Retirer
+store-ui-refund-text = Rembourser
+store-ui-balance-display = {$currency} : {$amount}
 store-ui-price-display = {$amount} {$currency}
-store-ui-discount-display-with-currency =  {$amount} off on {$currency}
-store-ui-discount-display =  ({$amount} off!)
+store-ui-discount-display-with-currency =  {$amount} de réduction sur {$currency}
+store-ui-discount-display =  ({$amount} de réduction !)
 store-ui-traitor-flavor = Copyright (C) NT -30643
-store-ui-traitor-warning = Operatives must lock their uplinks after use to avoid detection.
+store-ui-traitor-warning = Les agents doivent verrouiller leurs liens après utilisation pour éviter d'être détectés.
 
-store-withdraw-button-ui = Withdraw {$currency}
-store-ui-button-out-of-stock = {""} (Out of Stock)
-store-not-account-owner = This {$store} is not bound to you!
+store-withdraw-button-ui = Retirer {$currency}
+store-ui-button-out-of-stock = {""} (Rupture de stock)
+store-not-account-owner = Ce {$store} ne vous appartient pas !
 
-store-preset-name-uplink = Uplink
-store-preset-name-uplink-ghost = Contravend Uplink
-store-preset-name-spellbook = Spellbook
-store-preset-name-spellbook-ghost = Ghostly Spellshop
+store-preset-name-uplink = Lien
+store-preset-name-uplink-ghost = Lien Contravend
+store-preset-name-spellbook = Grimoire
+store-preset-name-spellbook-ghost = Boutique de sorts fantomatique

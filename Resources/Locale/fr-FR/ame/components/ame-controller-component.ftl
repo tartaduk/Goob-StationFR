@@ -8,24 +8,24 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-ame-controller-component-fuel-slot-fail-whitelist = You can't put that in the controller...
-ame-controller-component-fuel-slot-fail-locked = Power down the AME before manipulating its fuel.
-ame-controller-component-fuel-slot-success-insert = You insert the jar into the fuel slot.
+ame-controller-component-fuel-slot-fail-whitelist = Vous ne pouvez pas insérer cela dans le contrôleur...
+ame-controller-component-fuel-slot-fail-locked = Éteignez l'AME avant de manipuler son réservoir de carburant.
+ame-controller-component-fuel-slot-success-insert = Vous avez inséré le récipient dans le compartiment à carburant.
 
 ## UI
 
-ame-window-title = Antimatter Control Unit
-ame-window-engine-status-label = Engine Status:
-ame-window-engine-injection-status-not-injecting-label = Not Injecting
-ame-window-engine-injection-status-injecting-label = Injecting...
-ame-window-toggle-injection-button = Toggle Injection
-ame-window-fuel-status-label = Fuel Status:
-ame-window-fuel-not-inserted-text = No fuel inserted
-ame-window-injection-amount-label = Injection amount:
-ame-window-refresh-parts-button = Refresh Parts
-ame-window-core-count-label = Core count:
-ame-window-power-currentsupply-label = Current power supply:
-ame-window-power-targetsupply-label = Targeted power supply:
-ame-window-eject-button = Eject
-ame-window-increase-fuel-button = Increase
-ame-window-decrease-fuel-button = Decrease
+ame-window-title = Unité de contrôle de l'antimatière
+ame-window-engine-status-label = État du moteur :
+ame-window-engine-injection-status-not-injecting-label = Pas d'injection
+ame-window-engine-injection-status-injecting-label = Injection en cours...
+ame-window-toggle-injection-button = Activer/désactiver l'injection
+ame-window-fuel-status-label = État du carburant :
+ame-window-fuel-not-inserted-text = Aucun carburant inséré
+ame-window-injection-amount-label = Quantité injectée :
+ame-window-refresh-parts-button = Actualiser les pièces
+ame-window-core-count-label = Nombre de cœurs :
+ame-window-power-currentsupply-label = Alimentation actuelle :
+ame-window-power-targetsupply-label = Alimentation cible :
+ame-window-eject-button = Éjecter
+ame-window-increase-fuel-button = Augmenter
+ame-window-decrease-fuel-button = Diminuer

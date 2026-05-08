@@ -1,17 +1,17 @@
-ghost-role-information-slaughter-demon-name = Slaughter Demon
-ghost-role-information-slaughter-demon-description = WHAT A TIME TO BE ALIVE! LET THOSE PUNY MORTALS FACE MY TRUE WRATH!
+ghost-role-information-slaughter-demon-name = Démon du massacre
+ghost-role-information-slaughter-demon-description = QUEL PLAISIR D’ÊTRE EN VIE ! LAISSEZ DONC CES MISÉRABLES MORTELS GOÛTER À MA VÉRITABLE FUREUR !
 ghost-role-information-slaughter-demon-rules =
-    JUST SIT BACK AND ENJOY THE KILLING BECAUSE NOBODY ELSE WILL. HERE'S A COUPLE THINGS TO KEEP IN MIND THOUGH, DEMON TO DEMON.
-        HIERARCHY:
-        IT GOES LIKE THIS
+    INSTALLEZ-VOUS ET PROFITEZ DU CARNAGE, PARCE QUE PERSONNE D’AUTRE NE LE FERA. MAIS GARDEZ QUAND MÊME DEUX OU TROIS CHOSES EN TÊTE, DE DÉMON À DÉMON.
+        HIÉRARCHIE :
+        ÇA SE PASSE COMME ÇA
             SATAN
-            DEVILS
-            DEMON KING, BUBBLEGUM
-            DEMONS
-            IMPS
-            STUPID GOOBALLS WE CALL HUMANS
-    MY FELLOW DEMONS, PLEASE [color=red] DO NOT KILL DEVILS[/color] BECAUSE SATAN WILL SMITE YOU REAL FAST AS SOON AS THE DEVIL SNITCHES ON YOU IN THE UNDERWORLD
+            LES DIABLES
+            LE ROI DÉMON, BUBBLEGUM
+            LES DÉMONS
+            LES DIABLOTINS
+            LES BOULES DE CHAIR QU’ON APPELLE HUMAINS
+    MES CHERS DÉMONS, [color=red]NE TUEZ PAS LES DIABLES[/color], SINON SATAN VOUS FOUDROIERA EN UN INSTANT DÈS QU’UN DIABLE IRA VOUS DÉNONCER DANS LES ENFERS
 
 
-ghost-role-information-laughter-demon-name = Laughter Demon
-ghost-role-information-laughter-demon-description = WHAT A TIME TO BE ALIVE! YOU BETTER HUG EVERYONE YOU SEE, AND SHOW THEM WHAT TRUE LOVE FEELS LIKE!
+ghost-role-information-laughter-demon-name = Démon du rire
+ghost-role-information-laughter-demon-description = QUEL PLAISIR D’ÊTRE EN VIE ! VOUS FERIEZ MIEUX DE SERRER DANS VOS BRAS TOUT LE MONDE QUE VOUS CROISEZ ET DE LEUR MONTRER CE QUE SIGNIFIE LE VÉRITABLE AMOUR !

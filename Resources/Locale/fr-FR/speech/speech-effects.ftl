@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-speech-muted = You can't speak right now!
-fake-death-muted = You can't fake your death without a voice!
+speech-muted = Vous ne pouvez pas parler en ce moment !
+fake-death-muted = Vous ne pouvez pas simuler votre mort sans voix !

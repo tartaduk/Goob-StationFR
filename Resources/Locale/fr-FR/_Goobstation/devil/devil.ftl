@@ -1,42 +1,42 @@
-devil-roundend-name = Devil
-objective-issuer-devil = Devil
+devil-roundend-name = Diable
+objective-issuer-devil = Diable
 
-roundend-prepend-devil-contracts = Someone has made [color=red]{$number}[/color] successful contracts.
-roundend-prepend-devil-contracts-named = [color=white]{$name}[/color] has made [color=red]{$number}[/color] successful contracts.
+roundend-prepend-devil-contracts = Quelqu'un a conclu [color=red]{$number}[/color] contrat(s) réussi(s).
+roundend-prepend-devil-contracts-named = [color=white]{$name}[/color] a conclu [color=red]{$number}[/color] contrat(s) réussi(s).
 
-devil-component-examined = [color=darkred]{CAPITALIZE(POSS-ADJ($target))} eyes glow a faint red.[/color]
-condemned-component-examined = [color=chartreuse]{CAPITALIZE($target)}'s eyes are hollow and soulless.[/color]
+devil-component-examined = [color=darkred]Les yeux de {CAPITALIZE(POSS-ADJ($target))} luisent d'un rouge pâle.[/color]
+condemned-component-examined = [color=chartreuse]Les yeux de {CAPITALIZE($target)} sont creux et sans âme.[/color]
 
-devil-role-greeting = You are a devil from the depths of hell,
-  who has possessed the body of {$playerName}
-  Corrupt mortals and collect souls through the use of contracts.
-  It is not in your interest to do tasks unrelated to your deals, they are beneath you.
-  Your true name is {$trueName} - Try to keep it a secret, will you?
+devil-role-greeting = Vous êtes un diable venu des profondeurs de l'enfer
+  qui a possédé le corps de {$playerName}
+  Corrompez les mortels et collectez des âmes par le biais de contrats.
+  Il n'est pas dans votre intérêt d'accomplir des tâches sans rapport avec vos accords, elles sont indignes de vous.
+  Votre vrai nom est {$trueName} - Essayez de le garder secret.
 
-devil-true-name-heard = The act of {$speaker} commanding {$target}'s true name compels {POSS-ADJ($target)} to stop.
-devil-true-name-heard-chaplain = The act of {$speaker}'s holy words commanding their true name burns away at {$target}'s very soul.
+devil-true-name-heard = Le fait que {$speaker} prononce le vrai nom de {$target} le/la contraint à s'arrêter.
+devil-true-name-heard-chaplain = Les mots sacrés de {$speaker} prononçant son vrai nom brûlent l'âme même de {$target}.
 
-objective-condition-contract-title = Collect Souls
-objective-condition-contract-description = Collect as many souls as possible.
+objective-condition-contract-title = Collecter des âmes
+objective-condition-contract-description = Collectez autant d'âmes que possible.
 
-objective-condition-weight-title = Make profitable deals.
-objective-condition-weight-description = Ensure the deals benefit you as much as possible.
+objective-condition-weight-title = Conclure des accords profitables.
+objective-condition-weight-description = Assurez-vous que les accords vous profitent au maximum.
 
-hand-shake-prompt-verb = Offer handshake to {$target}
-hand-shake-accept-verb = Shake {$target}'s hand
+hand-shake-prompt-verb = Proposer une poignée de main à {$target}
+hand-shake-accept-verb = Serrer la main de {$target}
 
-handshake-success = You feel slightly lighter as you shake {$user}'s hand.
-handshake-fail =  You shake {POSS-ADJ($user)} hand, but nothing happens!
+handshake-success = Vous vous sentez légèrement plus léger en serrant la main de {$user}.
+handshake-fail = Vous serrez la main de {POSS-ADJ($user)}, mais rien ne se passe !
 
-handshake-offer-popup = {$user} offers {POSS-ADJ($user)} hand to you, a sly grin on {POSS-ADJ($user)} face.
-handshake-offer-popup-self = You outstretch your hand to {$target}, a sly grin on your face.
+handshake-offer-popup = {$user} vous tend sa main, un sourire rusé sur le visage.
+handshake-offer-popup-self = Vous tendez votre main vers {$target}, un sourire rusé sur le visage.
 
-weaktoholy-component-bible-sizzle = {$target}'s skin is singed with the {$item}!
-devil-banish-begin = {$user} begins to perform an exorcism on {$target}!
-devil-exorcised = The ground cracks and splinters beneath {$target} as they are forcefully returned to hell!
+weaktoholy-component-bible-sizzle = La peau de {$target} grésille au contact de {$item} !
+devil-banish-begin = {$user} commence à effectuer un exorcisme sur {$target} !
+devil-exorcised = Le sol se fissure et se fragmente sous {$target} alors qu'il est renvoyé de force en enfer !
 
-invalid-possession-target = You cannot possess this target!
+invalid-possession-target = Vous ne pouvez pas posséder cette cible !
 
-devil-power-level-increase-weak = Bits of flame flare out from your fingertips. Your connection with hell has strengthened.
-devil-power-level-increase-moderate = You feel your power surge. Your connection with hell has strengthened.
-devil-power-level-increase-powerful = You've almost completed your tasks here. Just a few more souls.
+devil-power-level-increase-weak = Des flammes jaillissent du bout de vos doigts. Votre connexion avec l'enfer s'est renforcé.
+devil-power-level-increase-moderate = Vous sentez votre puissance s'intensifier. Votre lien avec les enfers s'est renforcé.
+devil-power-level-increase-powerful = Vous avez presque terminé votre mission ici. Plus que quelques âmes.

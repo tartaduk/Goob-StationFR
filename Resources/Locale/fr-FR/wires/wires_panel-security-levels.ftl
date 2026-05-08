@@ -7,10 +7,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Examination for different levels of wiring protection
-wires-panel-component-on-examine-security-level1 = There is a steel plate preventing access to the internal wiring. Use a [color=cyan]Crowbar[/color] to remove it.
-wires-panel-component-on-examine-security-level2 = A steel plate has been welded to the inside of the [color=lightgray]maintenance panel[/color]. Use a [color=cyan]Welder[/color] to free it.
-wires-panel-component-on-examine-security-level3 = There is a plasteel plate preventing access to the internal wiring. Use a [color=cyan]Crowbar[/color] to remove it.
-wires-panel-component-on-examine-security-level4 = A plasteel plate has been welded to the inside of the [color=lightgray]maintenance panel[/color]. Use a [color=cyan]Welder[/color] to free it.
-wires-panel-component-on-examine-security-level5 = The inside of the [color=lightgray]maintenance panel[/color] is protected by a security grille. Use [color=cyan]Wirecutters[/color] to remove  it.
-wires-panel-component-on-examine-security-level6 = A plasteel plate sits within the interior of the [color=lightgray]maintenance panel[/color]. Use a [color=cyan]Crowbar[/color] to remove it.
-wires-panel-component-on-examine-security-level7 = A welded plasteel plate protects the interior of the [color=lightgray]maintenance panel[/color]. Use a [color=cyan]Welder[/color] to free it.
+wires-panel-component-on-examine-security-level1 = Une plaque d'acier bloque l'accès au câblage interne. Utilisez un [color=cyan]pied-de-biche[/color] pour la retirer.
+wires-panel-component-on-examine-security-level2 = Une plaque d'acier a été soudée à l'intérieur du [color=lightgray]panneau de maintenance[/color]. Utilisez un [color=cyan]chalumeau[/color] pour la libérer.
+wires-panel-component-on-examine-security-level3 = Une plaque de plastacier bloque l'accès au câblage interne. Utilisez un [color=cyan]pied-de-biche[/color] pour la retirer.
+wires-panel-component-on-examine-security-level4 = Une plaque de plastacier a été soudée à l'intérieur du [color=lightgray]panneau de maintenance[/color]. Utilisez un [color=cyan]chalumeau[/color] pour la libérer.
+wires-panel-component-on-examine-security-level5 = L'intérieur du [color=lightgray]panneau de maintenance[/color] est protégé par une grille de sécurité. Utilisez des [color=cyan]pinces coupantes[/color] pour la retirer.
+wires-panel-component-on-examine-security-level6 = Une plaque de plastacier se trouve à l'intérieur du [color=lightgray]panneau de maintenance[/color]. Utilisez un [color=cyan]pied-de-biche[/color] pour la retirer.
+wires-panel-component-on-examine-security-level7 = Une plaque de plastacier soudée protège l'intérieur du [color=lightgray]panneau de maintenance[/color]. Utilisez un [color=cyan]chalumeau[/color] pour la libérer.

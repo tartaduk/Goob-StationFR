@@ -9,17 +9,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-lawdrobe-1 = OBJECTION! Get the rule of law for yourself!
-advertisement-lawdrobe-2 = Go pester security until they abide by your own rules!
-advertisement-lawdrobe-3 = A new case just came in? Go get them out of jail!
-advertisement-lawdrobe-4 = A dougnut a day keeps security away!
-advertisement-lawdrobe-5 = No one is above the law!
-advertisement-lawdrobe-6 = No officer, I do not consent to a search!
-advertisement-lawdrobe-7 = Injecting space drugs leaves no evidence!
-advertisement-lawdrobe-8 = You or a loved one hurt by Nanotrasen? Too bad!
-advertisement-lawdrobe-9 = Case closed! Defendant has too much drip!
-thankyou-lawdrobe-1 = You can win any case in that outfit!
-thankyou-lawdrobe-2 = Get one for your client as well!
-thankyou-lawdrobe-3 = Win or lose, you get paid either way!
-thankyou-lawdrobe-4 = Remember: It's only illegal if you get caught!
-thankyou-lawdrobe-5 = OBJECTION! That outfit is too cool for court!
+advertisement-lawdrobe-1 = OBJECTION ! Faites régner la loi à votre façon !
+advertisement-lawdrobe-2 = Allez harceler la sécurité jusqu'à ce qu'elle respecte vos règles !
+advertisement-lawdrobe-3 = Une nouvelle affaire vient d'arriver ? Allez les sortir de prison !
+advertisement-lawdrobe-4 = Un donut par jour éloigne la sécurité !
+advertisement-lawdrobe-5 = Personne n'est au-dessus des lois !
+advertisement-lawdrobe-6 = Non, officier, je ne consens pas à une fouille !
+advertisement-lawdrobe-7 = Injecter des drogues spatiales ne laisse aucune preuve !
+advertisement-lawdrobe-8 = Vous ou un proche blessé par Nanotrasen ? Tant pis !
+advertisement-lawdrobe-9 = Affaire classée ! L'accusé a trop de style !
+thankyou-lawdrobe-1 = Vous pouvez gagner n'importe quelle affaire dans cette tenue !
+thankyou-lawdrobe-2 = Prenez-en une pour votre client aussi !
+thankyou-lawdrobe-3 = Gagnez ou perdez, vous êtes payé dans les deux cas !
+thankyou-lawdrobe-4 = Souvenez-vous : c'est illégal seulement si vous vous faites prendre !
+thankyou-lawdrobe-5 = OBJECTION ! Cette tenue est trop cool pour le tribunal !

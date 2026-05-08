@@ -1,12 +1,12 @@
-trigger-on-voice-examine = The display reads: "{$keyphrase}"
-trigger-on-voice-uninitialized = The display reads: Uninitialized...
+trigger-on-voice-examine = L'écran affiche : "{$keyphrase}"
+trigger-on-voice-uninitialized = L'écran affiche : Non initialisé...
 
-trigger-on-voice-record = Record
-trigger-on-voice-stop = Stop
-trigger-on-voice-clear = Clear recording
+trigger-on-voice-record = Enregistrer
+trigger-on-voice-stop = Arrêter
+trigger-on-voice-clear = Effacer l'enregistrement
 
-trigger-on-voice-start-recording = Started recording.
-trigger-on-voice-stop-recording = Stopped recording.
-trigger-on-voice-record-failed-too-long = Message too long, try again.
-trigger-on-voice-record-failed-too-short = Message too short, try again.
-trigger-on-voice-recorded = Recorded successfully!
+trigger-on-voice-start-recording = Enregistrement démarré.
+trigger-on-voice-stop-recording = Enregistrement arrêté.
+trigger-on-voice-record-failed-too-long = Message trop long, réessayez.
+trigger-on-voice-record-failed-too-short = Message trop court, réessayez.
+trigger-on-voice-recorded = Enregistrement réussi !

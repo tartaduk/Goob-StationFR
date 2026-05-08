@@ -5,21 +5,21 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-coffee-1 = Have a drink!
-advertisement-coffee-2 = Drink up!
-advertisement-coffee-3 = It's good for you!
-advertisement-coffee-4 = Would you like a hot joe?
-advertisement-coffee-5 = I'd kill for some coffee!
-advertisement-coffee-6 = The best beans in the galaxy.
-advertisement-coffee-7 = Only the finest brew for you.
-advertisement-coffee-8 = Mmmm. Nothing like a coffee.
-advertisement-coffee-9 = I like coffee, don't you?
-advertisement-coffee-10 = Coffee helps you work!
-advertisement-coffee-11 = Try some tea.
-advertisement-coffee-12 = We hope you like the best!
-advertisement-coffee-13 = Try our new chocolate!
-advertisement-coffee-14 = Hot beverages! Come get yours now!
-thankyou-coffee-1 = Enjoy your beverage!
-thankyou-coffee-2 = Get it while it's hot!
-thankyou-coffee-3 = Beverage completed.
-thankyou-coffee-4 = Beverage dispensed.
+advertisement-coffee-1 = Prenez une boisson !
+advertisement-coffee-2 = Buvez !
+advertisement-coffee-3 = C'est bon pour vous !
+advertisement-coffee-4 = Vous voulez un café chaud ?
+advertisement-coffee-5 = Je tuerais pour un café !
+advertisement-coffee-6 = Les meilleures grains de la galaxie.
+advertisement-coffee-7 = Que la meilleure boisson pour vous.
+advertisement-coffee-8 = Mmmm. Rien de tel qu'un café.
+advertisement-coffee-9 = J'aime le café, et vous ?
+advertisement-coffee-10 = Le café vous aide à travailler !
+advertisement-coffee-11 = Essayez du thé.
+advertisement-coffee-12 = Nous espérons que vous aimez le meilleur !
+advertisement-coffee-13 = Essayez notre nouveau chocolat !
+advertisement-coffee-14 = Boissons chaudes ! Venez chercher la vôtre maintenant !
+thankyou-coffee-1 = Profitez de votre boisson !
+thankyou-coffee-2 = Prenez-la pendant qu'elle est chaude !
+thankyou-coffee-3 = Boisson prête.
+thankyou-coffee-4 = Boisson distribuée.

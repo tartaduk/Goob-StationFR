@@ -8,82 +8,82 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Spells
-spellbook-fireball-name = Fireball
+spellbook-fireball-name = Boule de feu
 spellbook-fireball-desc =
-    Fires an explosive fireball at a target. Considered a classic among all wizards.
-    Doesn't require wizard's robe and hat to cast.
+    Tire une boule de feu explosive sur une cible. Considéré comme un classique parmi tous les mages.
+    Ne nécessite pas la robe et le chapeau du mage pour être lancé.
 
-spellbook-blink-name = Blink
+spellbook-blink-name = Clignotement
 spellbook-blink-desc =
-    This spell randomly teleports you a short distance.
-    Requires wizard's robe and hat to cast.
+    Ce sort vous téléporte aléatoirement sur une courte distance.
+    Nécessite la robe et le chapeau du mage pour être lancé.
 
-spellbook-force-wall-name = Force Wall
+spellbook-force-wall-name = Mur de force
 spellbook-force-wall-desc =
-    Make three walls of pure force that you can pass through, but others can't.
-    Doesn't require wizard's robe and hat to cast.
+    Crée trois murs de force pure que vous pouvez traverser, mais pas les autres.
+    Ne nécessite pas la robe et le chapeau du mage pour être lancé.
 
-spellbook-polymoprh-spider-name = Spider Polymoprh
-spellbook-polymorph-spider-desc = Transforms you into a spider, man!
+spellbook-polymoprh-spider-name = Polymorphisme araignée
+spellbook-polymorph-spider-desc = Vous transforme en araignée, l'ami !
 
-spellbook-polymorph-rod-name = Rod Form
+spellbook-polymorph-rod-name = Forme baguette
 spellbook-polymorph-rod-desc =
-    Take on the form of an immovable rod, destroying everything in your path. Upgrading this spell will also increase the rod's damage and travel range.
-    Requires wizard's robe and hat to cast.
+    Prenez la forme d'une baguette inamovible, détruisant tout sur votre passage. Améliorer ce sort augmente également les dégâts et la portée de la baguette.
+    Nécessite la robe et le chapeau du mage pour être lancé.
 
 spellbook-charge-name = Charge
 spellbook-charge-desc =
-    This spell can be used to recharge a variety of things in your hands, from magical artifacts to electrical components. A creative wizard can even use it to grant magical power to a fellow magic user.
-    Doesn't require wizard's robe and hat to cast.
+    Ce sort peut être utilisé pour recharger une variété d'objets dans vos mains, des artefacts magiques aux composants électriques. Un mage créatif peut même l'utiliser pour accorder un pouvoir magique à un autre utilisateur de magie.
+    Ne nécessite pas la robe et le chapeau du mage pour être lancé.
 
-spellbook-ethereal-jaunt-name = Ethereal Jaunt
+spellbook-ethereal-jaunt-name = Escapade éthérée
 spellbook-ethereal-jaunt-description =
-    This spell turns your form ethereal, temporarily making you invisible and able to pass through walls.
-    Requires wizard's robe and hat to cast.
+    Ce sort rend votre forme éthérée, vous rendant temporairement invisible et capable de traverser les murs.
+    Nécessite la robe et le chapeau du mage pour être lancé.
 
-spellbook-mind-swap-name = Mind Swap
+spellbook-mind-swap-name = Échange d'esprits
 spellbook-mind-swap-description =
-    Allows you to switch bodies with a target next to you. You will both be knocked down when this happens, and it will be quite obvious that you are the target's body if someone watches you do it.
-    Doesn't work on changelings, heretics, ghouls, ghosts and temporary creatures.
-    Doesn't require discord's robe and hat to cast.
+    Vous permet d'échanger votre corps avec celui d'une cible se trouvant à proximité. Vous serez tous deux projetés au sol lors de l'échange, et il sera évident que vous occupez le corps de la cible si quelqu'un vous observe.
+    Ne fonctionne pas sur les changelings, les hérétiques, les goules, les fantômes et les créatures temporaires.
+    Ne nécessite pas la robe et le chapeau de Discord pour être lancé.
 
-spellbook-tile-toggle-name = Tile Movement
-spellbook-tile-toggle-description = The assistants will not like this.
-spellbook-curse-of-byond-name = Curse of Byond
-spellbook-curse-of-byond-description = Condemn your target to an eternity of suffering.
+spellbook-tile-toggle-name = Activation/désactivation des tuiles
+spellbook-tile-toggle-description = Les assistants ne vont pas apprécier ça.
+spellbook-curse-of-byond-name = Malédiction du Byond
+spellbook-curse-of-byond-description = Condamnez votre cible à une éternité de souffrance.
 
 # Equipment
 
-spellbook-wand-polymorph-door-name = Staff of Door Creation
+spellbook-wand-polymorph-door-name = Bâton de création de portes
 spellbook-wand-polymorph-door-description =
-    A particular staff that can mold solid walls into ornate doors. Useful for getting around in the absence of other transportation. Does not work on glass.
-    Automatically recharges once every 2 seconds.
+    Un bâton particulier capable de transformer des murs solides en portes ornées. Utile pour se déplacer en l'absence d'autres moyens de transport. Ne fonctionne pas sur le verre.
+    Se recharge automatiquement toutes les 2 secondes.
 
-spellbook-wand-polymorph-carp-name = Wand of Carp Polymorph
-spellbook-wand-polymorph-carp-description = For when you need a carp filet quick and the clown is looking juicy.
+spellbook-wand-polymorph-carp-name = Baguette de métamorphose en carpe
+spellbook-wand-polymorph-carp-description = Pour quand tu as besoin d'un filet de carpe rapidement et que le clown a l'air juteux.
 
-spellbook-wand-locker-name = Staff of the Locker
+spellbook-wand-locker-name = Sceptre du casier
 spellbook-wand-locker-description =
-    Shoot cursed lockers at your enemies and lock em away!
-    Automatically recharges once every 4 seconds.
+    Lancez des casiers maudits sur vos ennemis et enfermez-les !
+    Se recharge automatiquement toutes les 4 secondes.
 
 # Events
 
-spellbook-event-summon-ghosts-name = Summon Ghosts
+spellbook-event-summon-ghosts-name = Invoquer des fantômes
 spellbook-event-summon-ghosts-description =
-    Spook the crew out by making them see dead people. Be warned, ghosts are capricious and occasionally vindicative, and some will use their incredibly minor abilities to frustrate you.
-    This spell goes into effect immediately the moment you buy it.
-    Cannot be refunded.
+    Effrayez l'équipe en leur faisant voir des morts. Attention, les fantômes sont capricieux et parfois vindicatifs, et certains utiliseront leurs capacités incroyablement insignifiantes pour vous contrarier.
+    Ce sort prend effet immédiatement dès que vous l'achetez.
+    Non remboursable.
 
-spellbook-event-summon-guns-name = Summon Guns
-spellbook-event-summon-guns-description = AK47s for everyone! Places a random gun in front of everybody. Disables refunds when bought!
+spellbook-event-summon-guns-name = Invoquer des armes
+spellbook-event-summon-guns-description = Des AK-47 pour tout le monde ! Place une arme aléatoire devant chaque joueur. Les remboursements sont désactivés une fois acheté !
 
-spellbook-event-summon-magic-name = Summon Magic
-spellbook-event-summon-magic-description = Places a random magical item in front of everybody. Nothing could go wrong! Disables refunds when bought!
+spellbook-event-summon-magic-name = Invoquer de la magie
+spellbook-event-summon-magic-description = Place un objet magique aléatoire devant tout le monde. Tout va bien se passer ! Les remboursements sont désactivés une fois acheté !
 
-# Upgrades
-spellbook-upgrade-fireball-name = Fireball Upgrade
-spellbook-upgrade-fireball-description = Upgrades Fireball to a maximum of level 3!
+# Améliorations
+spellbook-upgrade-fireball-name = Amélioration de Boule de feu
+spellbook-upgrade-fireball-description = Améliore Boule de feu jusqu'au niveau 3 maximum !
 
-spellbook-upgrade-jaunt-name = Ethereal Jaunt Upgrade
-spellbook-upgrade-jaunt-description = Upgrades Jaunt to a maximum of level 3!
+spellbook-upgrade-jaunt-name = Amélioration de Téléportation éthérée
+spellbook-upgrade-jaunt-description = Améliore Téléportation éthérée jusqu'au niveau 3 maximum !

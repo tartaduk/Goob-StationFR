@@ -6,9 +6,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-stunnable-component-disarm-success-others = {CAPITALIZE(THE($source))} pushes {THE($target)}!
-stunnable-component-disarm-success = You push {THE($target)}!
-knockdown-component-pushup-failure = You're too exhausted to push yourself up!
-knockdown-component-pushup-success = With a burst of energy you push yourself up!
-knockdown-component-stand-no-room = You try to push yourself to stand up but there's not enough room!
-worm-component-stand-attempt = You try to stand up but you cannot!
+stunnable-component-disarm-success-others = {CAPITALIZE(THE($source))} repousse {THE($target)} !
+stunnable-component-disarm-success = Vous repoussez {THE($target)} !
+knockdown-component-pushup-failure = Vous êtes trop épuisé pour vous relever !
+knockdown-component-pushup-success = Dans un regain d'énergie, vous vous relevez !
+knockdown-component-stand-no-room = Vous essayez de vous lever mais il n'y a pas assez de place !
+worm-component-stand-attempt = Vous essayez de vous lever mais vous n'y arrivez pas !

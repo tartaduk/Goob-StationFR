@@ -14,23 +14,23 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-delete-verb-get-data-text = Delete
-edit-solutions-verb-get-data-text = Edit Solutions
-explode-verb-get-data-text = Explode
+delete-verb-get-data-text = Supprimer
+edit-solutions-verb-get-data-text = Modifier les solutions
+explode-verb-get-data-text = Faire exploser
 ahelp-verb-get-data-text = Message
-admin-verbs-admin-logs-entity = Entity Logs
-admin-verbs-teleport-to = Teleport To
-admin-verbs-teleport-here = Teleport Here
-admin-verbs-freeze = Freeze
-admin-verbs-freeze-and-mute = Freeze And Mute
-admin-verbs-unfreeze = Unfreeze
-admin-verbs-camera = Open Camera
-admin-verbs-camera-description = Open a camera window that follows the selected entity.
-admin-verbs-erase = Erase
-admin-verbs-erase-description = Removes the player from the round and crew manifest and deletes their chat messages.
-    Their items are dropped on the ground.
-    Players are shown a popup indicating them to play as if they never existed.
-toolshed-verb-mark = Mark
-toolshed-verb-mark-description = Places this entity into the $marked variable, a list of entities, replacing its prior value.
+admin-verbs-admin-logs-entity = Journaux de l'entité
+admin-verbs-teleport-to = Téléporter vers
+admin-verbs-teleport-here = Téléporter ici
+admin-verbs-freeze = Geler
+admin-verbs-freeze-and-mute = Geler et rendre muet
+admin-verbs-unfreeze = Dégeler
+admin-verbs-camera = Ouvrir la caméra
+admin-verbs-camera-description = Ouvre une fenêtre de caméra qui suit l'entité sélectionnée.
+admin-verbs-erase = Effacer
+admin-verbs-erase-description = Retire le joueur du round et du manifeste d'équipage et supprime ses messages de chat.
+    Ses objets sont déposés au sol.
+    Un message pop-up est affiché aux joueurs leur indiquant de jouer comme si cette personne n'avait jamais existé.
+toolshed-verb-mark = Marquer
+toolshed-verb-mark-description = Place cette entité dans la variable $marked, une liste d'entités, en remplaçant la valeur précédente.
 
-export-entity-verb-get-data-text = Export sprite
+export-entity-verb-get-data-text = Exporter le sprite

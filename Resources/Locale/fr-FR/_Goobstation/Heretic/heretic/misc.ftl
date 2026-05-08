@@ -7,27 +7,27 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-heretic-influence-start = Draining influence...
+heretic-influence-start = Drainage de l'influence...
 
-heretic-ritualrune-examine = Current selected ritual: [color=yellow]{$rit}[/color]
+heretic-ritualrune-examine = Rituel actuellement sélectionné : [color=yellow]{$rit}[/color]
 
-heretic-knowledge-gain = You've learned something
-heretic-knowledge-loss = You're forgotten something
+heretic-knowledge-gain = Vous avez appris quelque chose
+heretic-knowledge-loss = Vous avez oublié quelque chose
 
-heretic-clothing-component-fail = Cannot wear this!
+heretic-clothing-component-fail = Impossible de porter ceci !
 
-heretic-protective-blade-component-no-targets = No targets!
+heretic-protective-blade-component-no-targets = Aucune cible !
 
-rust-corruption-silicon-damage = You are being corrupted by the rust!
+rust-corruption-silicon-damage = Vous êtes corrompu par la rouille !
 
-disgust-effect-warning = You feel kind of iffy...
+disgust-effect-warning = Vous vous sentez un peu bizarre...
 
-cosmic-field-component-bomb-defused-message = {$bomb} suddenly shuts off!
+cosmic-field-component-bomb-defused-message = {$bomb} s'éteint soudainement !
 
-chat-speech-verb-name-hiss = Hiss
+chat-speech-verb-name-hiss = Sifflement
 
-void-ascend-begin = A snowstorm suddenly appears from outside the windows. An overwhelming sense of dread looms...
-void-ascend-end = The snowstorm begins to fade away...
-void-ascend-restart = The snowstorm suddenly appears again...
+void-ascend-begin = Une tempête de neige surgit soudainement de l'extérieur des fenêtres. Un sentiment accablant d'effroi se profile...
+void-ascend-end = La tempête de neige commence à se dissiper...
+void-ascend-restart = La tempête de neige réapparaît soudainement...
 
-ghoul-weapon-comp-examine = [color=red]This weapon seems extremely fragile. On further inspection it appears to be made of flesh and blood. It belongs to one of the creatures of the mansus and will disappear when the creature dies.[/color]
+ghoul-weapon-comp-examine = [color=red]Cette arme semble extrêmement fragile. En l'examinant de plus près, elle semble être faite de chair et de sang. Elle appartient à l'une des créatures du mansus et disparaîtra à la mort de la créature.[/color]

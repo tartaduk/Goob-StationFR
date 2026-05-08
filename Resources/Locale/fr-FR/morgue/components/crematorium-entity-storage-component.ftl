@@ -5,12 +5,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-crematorium-entity-storage-component-on-examine-details-is-burning = The {$owner} is [color=red]active[/color]!
-crematorium-entity-storage-component-on-examine-details-has-contents =  The content light is [color=green]on[/color], there's something in here.
-crematorium-entity-storage-component-on-examine-details-empty = The content light is off, there's nothing in here.
-crematorium-entity-storage-component-is-cooking-safety-message = Safety first, not while it's active!
-crematorium-entity-storage-component-suicide-message = You cremate yourself!
-crematorium-entity-storage-component-suicide-message-others = {$victim} is cremating {$victim}!
+crematorium-entity-storage-component-on-examine-details-is-burning = Le {$owner} est [color=red]actif[/color] !
+crematorium-entity-storage-component-on-examine-details-has-contents = Le voyant de contenu est [color=green]allumé[/color], il y a quelque chose à l'intérieur.
+crematorium-entity-storage-component-on-examine-details-empty = Le voyant de contenu est éteint, il n'y a rien l'intérieur.
+crematorium-entity-storage-component-is-cooking-safety-message = La sécurité avant tout, pas pendant qu'il est actif !
+crematorium-entity-storage-component-suicide-message = Vous vous incinérez !
+crematorium-entity-storage-component-suicide-message-others = {$victim} s'incinère !
 
 # CremateVerb
-cremate-verb-get-data-text = Cremate
+cremate-verb-get-data-text = Incinérer

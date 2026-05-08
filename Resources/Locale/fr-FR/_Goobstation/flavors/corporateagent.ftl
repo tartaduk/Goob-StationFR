@@ -1,13 +1,13 @@
 
-traitor-nanotrasen-intro = You are an elite agent.
-traitor-nanotrasen-goal = Nanotrasen has sent you down to do a task. Do it without getting caught or raising suspicion.
-traitor-nanotrasen-allies = Death to the Syndicate.
-traitor-nanotrasen-uplink = Nanotrasen has given you connections to the blackmarket. Your uplink is located in your PDA. Do not let anyone find out. If you get caught you're on your own.
-traitor-nanotrasen-roundend = [color=yellow]a corporate agent.[/color]
+traitor-nanotrasen-intro = Vous êtes un agent d'élite.
+traitor-nanotrasen-goal = Nanotrasen vous a envoyé pour accomplir une tâche. Faites-la sans vous faire prendre ni éveiller les soupçons.
+traitor-nanotrasen-allies = Mort au Syndicat.
+traitor-nanotrasen-uplink = Nanotrasen vous a octroyé des connexions au marché noir. Votre lien est dans votre PDA. Ne laissez personne le découvrir. Si vous vous faites prendre, vous êtes seul.
+traitor-nanotrasen-roundend = [color=yellow]un agent corpo.[/color]
 
 
-traitor-centralcommand-intro = You are a Central Officer
-traitor-centralcommand-goal = Central Command has sent you down to do a task. Do it without getting caught or raising suspicion.
-traitor-centralcommand-allies = Death to the Syndicate.
-traitor-centralcommand-uplink = Central Command has given you connections to the blackmarket. Your uplink is located in your PDA. Do not let anyone find out. If you get caught you're on your own.
-traitor-centralcommand-roundend = [color=yellow]a corporate agent.[/color]
+traitor-centralcommand-intro = Vous êtes un officier du Commandement Central.
+traitor-centralcommand-goal = Le Commandement Central vous a envoyé pour accomplir une tâche. Faites-la sans vous faire prendre ni éveiller les soupçons.
+traitor-centralcommand-allies = Mort au Syndicat.
+traitor-centralcommand-uplink = Le Commandement Central vous a octroyé des connexions au marché noir. Votre uplink se trouve dans votre PDA. Ne laissez personne le découvrir. Si vous vous faites prendre, vous serez tout seul.
+traitor-centralcommand-roundend = [color=yellow]un agent corpo.[/color]

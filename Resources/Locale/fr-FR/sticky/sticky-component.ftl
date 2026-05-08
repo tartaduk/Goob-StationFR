@@ -6,10 +6,10 @@
 
 # Bomb planting strings
 
-comp-sticky-start-stick-bomb = You start planting the bomb...
-comp-sticky-success-stick-bomb = You planted the bomb
-comp-sticky-start-unstick-bomb = You start carefully removing the bomb...
-comp-sticky-success-unstick-bomb = You removed the bomb
+comp-sticky-start-stick-bomb = Vous commencez à poser la bombe...
+comp-sticky-success-stick-bomb = Vous avez posé la bombe
+comp-sticky-start-unstick-bomb = Vous commencez à retirer soigneusement la bombe...
+comp-sticky-success-unstick-bomb = Vous avez retiré la bombe
 
 # General strings
-comp-sticky-unstick-verb-text = Unstick
+comp-sticky-unstick-verb-text = Décoller

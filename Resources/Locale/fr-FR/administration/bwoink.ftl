@@ -15,37 +15,37 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-bwoink-user-title = Admin Message
+bwoink-user-title = Message admin
 
-bwoink-system-starmute-message-no-other-users = *System: Nobody is available to receive your message. Try pinging Game Admins on Discord.
+bwoink-system-starmute-message-no-other-users = *Système : Personne n'est disponible pour recevoir votre message. Essayez de contacter les admins sur Discord.
 
 bwoink-system-messages-being-relayed-to-discord =
-    All messages are relayed to game administrators via Discord.
-    Issues may be handled without a response.
+    Tous les messages sont relayés aux administrateurs de jeu via Discord.
+    Les problèmes peuvent être traités sans réponse.
 
 bwoink-system-introductory-message =
-    Please describe the issue that you have encountered in detail. Assume that the game administrator who is resolving the problem does not have first-hand knowledge of what has occurred.
-    Please do not ask for special events or punishments for other players.
-    Any bugs and other related issues should be reported through Discord or Github.
-    Misuse of this message system may result in disciplinary action.
+    Décrivez en détail le problème que vous avez rencontré. Supposez que l'administrateur qui résout le problème n'a pas de connaissance directe de ce qui s'est passé.
+    Veuillez ne pas demander d'événements spéciaux ni de sanctions contre d'autres joueurs.
+    Les bugs et autres problèmes connexes doivent être signalés via Discord ou Github.
+    L'utilisation abusive de ce système de messagerie peut entraîner des mesures disciplinaires.
 
 bwoink-system-typing-indicator = {$players} {$count ->
-[one] is
-*[other] are
-} typing...
+[one] est
+*[other] sont
+} en train d'écrire...
 
-admin-ahelp-admin-only = Admin Only
-admin-ahelp-admin-only-tooltip = If checked, then the message won't be visible for the player,
-    but will be visible for other admins and still will be Discord relayed.
+admin-ahelp-admin-only = Admin seulement
+admin-ahelp-admin-only-tooltip = Si coché, le message ne sera pas visible pour le joueur,
+    mais sera visible pour les autres admins et sera quand même relayé sur Discord.
 
-admin-bwoink-play-sound = Bwoink?
+admin-bwoink-play-sound = Bwoink ?
 
-bwoink-title-none-selected = None selected
+bwoink-title-none-selected = Aucun sélectionné
 
-bwoink-system-rate-limited = System: you are sending messages too quickly.
-bwoink-system-player-disconnecting = has disconnected.
-bwoink-system-player-reconnecting = has reconnected.
-bwoink-system-player-banned = has been banned for: {$banReason}
+bwoink-system-rate-limited = Système : vous envoyez des messages trop rapidement.
+bwoink-system-player-disconnecting = s'est déconnecté.
+bwoink-system-player-reconnecting = s'est reconnecté.
+bwoink-system-player-banned = a été banni pour : {$banReason}
 
-bwoink-message-admin-only = (Admin Only)
+bwoink-message-admin-only = (Admin seulement)
 bwoink-message-silent = (S)

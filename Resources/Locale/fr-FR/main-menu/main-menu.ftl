@@ -6,16 +6,16 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-main-menu-invalid-username-with-reason = Invalid username:
+main-menu-invalid-username-with-reason = Nom d'utilisateur invalide :
                                          {$invalidReason}
-main-menu-invalid-username = Invalid username
-main-menu-failed-to-connect = Failed to connect:
+main-menu-invalid-username = Nom d'utilisateur invalide
+main-menu-failed-to-connect = Échec de la connexion :
                               {$reason}
-main-menu-username-label = Username:
-main-menu-username-text = Username
-main-menu-address-label = Server Address:
-main-menu-join-public-server-button = Join Public Server
-main-menu-join-public-server-button-tooltip = Cannot connect to public server with a debug build.
-main-menu-direct-connect-button = Direct Connect
+main-menu-username-label = Nom d'utilisateur :
+main-menu-username-text = Nom d'utilisateur
+main-menu-address-label = Adresse du serveur :
+main-menu-join-public-server-button = Rejoindre un serveur public
+main-menu-join-public-server-button-tooltip = Impossible de se connecter à un serveur public avec un build de débogage.
+main-menu-direct-connect-button = Connexion directe
 main-menu-options-button = Options
-main-menu-quit-button = Quit
+main-menu-quit-button = Quitter

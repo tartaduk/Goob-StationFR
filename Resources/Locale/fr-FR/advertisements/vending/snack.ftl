@@ -5,24 +5,24 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-snack-1 = Try our new nougat bar!
-advertisement-snack-2 = Twice the calories for half the price!
-advertisement-snack-3 = The healthiest!
-advertisement-snack-4 = Award-winning chocolate bars!
-advertisement-snack-5 = Mmm! So good!
-advertisement-snack-6 = Oh my god it's so juicy!
-advertisement-snack-7 = Have a snack.
-advertisement-snack-8 = Snacks are good for you!
-advertisement-snack-9 = Have some more Getmore!
-advertisement-snack-10 = Best quality snacks straight from mars.
-advertisement-snack-11 = We love chocolate!
-advertisement-snack-12 = Try our new jerky!
-advertisement-snack-13 = Our suspicious jerky is totally not going to get you ejected into space!
-advertisement-snack-14 = Available to eat for most species!
-advertisement-snack-15 = Perfect for when you're on the verge of starvation!
-thankyou-snack-1 = Eat up!
-thankyou-snack-2 = Enjoy your product!
-thankyou-snack-3 = Have a nice snack.
-thankyou-snack-4 = Delicious!
-thankyou-snack-5 = Yummy!
-thankyou-snack-6 = Thank you for purchasing our snacks!
+advertisement-snack-1 = Essayez notre nouvelle barre nougat !
+advertisement-snack-2 = Deux fois les calories pour moitié moins cher !
+advertisement-snack-3 = Le plus sain !
+advertisement-snack-4 = Barres chocolatées primées !
+advertisement-snack-5 = Miam ! Si bon !
+advertisement-snack-6 = Oh mon dieu c'est tellement juteux !
+advertisement-snack-7 = Prenez un snack.
+advertisement-snack-8 = Les snacks c'est bon pour vous !
+advertisement-snack-9 = Reprenez du Getmore !
+advertisement-snack-10 = Les meilleurs snacks directement de Mars.
+advertisement-snack-11 = On adore le chocolat !
+advertisement-snack-12 = Essayez notre nouveau jerky !
+advertisement-snack-13 = Notre jerky suspect ne va ABSOLUMENT PAS vous faire éjecter dans l'espace !
+advertisement-snack-14 = Comestible pour la plupart des espèces !
+advertisement-snack-15 = Parfait pour quand vous êtes au bord de la famine !
+thankyou-snack-1 = Mangez !
+thankyou-snack-2 = Profitez de votre produit !
+thankyou-snack-3 = Bon snack.
+thankyou-snack-4 = Délicieux !
+thankyou-snack-5 = Miam !
+thankyou-snack-6 = Merci d'avoir acheté nos snacks !

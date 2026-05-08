@@ -6,9 +6,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-mime-cant-speak = Your vow of silence prevents you from speaking.
-mime-invisible-wall-popup-self = You brush up against an invisible wall!
-mime-invisible-wall-popup-others = {CAPITALIZE(THE($mime))} brushes up against an invisible wall!
-mime-invisible-wall-failed = You can't create an invisible wall there.
-mime-not-ready-repent = You aren't ready to repent for your broken vow yet.
-mime-ready-to-repent = You feel ready to take your vows again.
+mime-cant-speak = Votre vœu de silence vous empêche de parler.
+mime-invisible-wall-popup-self = Vous heurtez un mur invisible !
+mime-invisible-wall-popup-others = {CAPITALIZE(THE($mime))} heurte un mur invisible !
+mime-invisible-wall-failed = Vous ne pouvez pas créer de mur invisible ici.
+mime-not-ready-repent = Vous n'êtes pas encore prêt à vous repentir de votre vœu brisé.
+mime-ready-to-repent = Vous vous sentez prêt à reprendre vos vœux.

@@ -4,9 +4,9 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-HumanLongEars = Long Ears Standard
-marking-LongEarsWide = Long Ears Wide
-marking-LongEarsSmall = Long Ears Small
-marking-LongEarsUpwards = Long Ears Upwards
-marking-LongEarsTall = Long Ears Tall
-marking-LongEarsThin = Long Ears Thin
+marking-HumanLongEars = Grandes Oreilles Standard
+marking-LongEarsWide = Grandes Oreilles Larges
+marking-LongEarsSmall = Grandes Oreilles Petites
+marking-LongEarsUpwards = Grandes Oreilles Dressées
+marking-LongEarsTall = Grandes Oreilles Hautes
+marking-LongEarsThin = Grandes Oreilles Fines

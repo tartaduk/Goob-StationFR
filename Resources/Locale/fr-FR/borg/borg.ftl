@@ -7,67 +7,67 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-borg-player-not-allowed = The brain doesn't fit!
-borg-player-not-allowed-eject = The brain was expelled from the chassis!
+borg-player-not-allowed = Le cerveau ne rentre pas !
+borg-player-not-allowed-eject = Le cerveau a été éjecté du châssis !
 
-borg-panel-not-open = The cyborg's panel isn't open...
+borg-panel-not-open = Le panneau du cyborg n'est pas ouvert...
 
-borg-mind-added = {CAPITALIZE($name)} powered on!
-borg-mind-removed = {CAPITALIZE($name)} shut off!
+borg-mind-added = {CAPITALIZE($name)} activé !
+borg-mind-removed = {CAPITALIZE($name)} éteint !
 
-borg-module-too-many = There's not enough room for another module...
-borg-module-duplicate = This module is already installed in this cyborg.
-borg-module-whitelist-deny = This module doesn't fit in this type of cyborg...
+borg-module-too-many = Il n'y a pas assez de place pour un autre module...
+borg-module-duplicate = Ce module est déjà installé dans ce cyborg.
+borg-module-whitelist-deny = Ce module ne convient pas à ce type de cyborg...
 
-borg-construction-guide-string = The cyborg limbs and torso must be attached to the endoskeleton.
+borg-construction-guide-string = Les membres et le torse du cyborg doivent être fixés à l'endosquelette.
 
-borg-ui-menu-title = Cyborg Interface
-borg-ui-charge-label = Charge: {$charge}%
-borg-ui-no-brain = No brain present
-borg-ui-remove-battery = Remove
-borg-ui-modules-label = Modules:
+borg-ui-menu-title = Interface du cyborg
+borg-ui-charge-label = Charge : {$charge} %
+borg-ui-no-brain = Aucun cerveau présent
+borg-ui-remove-battery = Retirer
+borg-ui-modules-label = Modules :
 borg-ui-module-counter = {$actual}/{$max}
 
 # Transponder
-borg-transponder-disabled-popup = A brain shoots out the top of {$name}!
-borg-transponder-disabling-popup = Your transponder begins to lock you out of the chassis!
-borg-transponder-destroying-popup = The self destruct of {$name} starts beeping!
-borg-transponder-emagged-disabled-popup = Your transponder's lights go out!
-borg-transponder-emagged-destroyed-popup = Your transponder's fuse blows!
+borg-transponder-disabled-popup = Un cerveau jaillit du sommet de {$name} !
+borg-transponder-disabling-popup = Votre transpondeur commence à vous bloquer l'accès au châssis !
+borg-transponder-destroying-popup = L'autodestruction de {$name} se met à biper !
+borg-transponder-emagged-disabled-popup = Les lumières de votre transpondeur s'éteignent !
+borg-transponder-emagged-destroyed-popup = Le fusible de votre transpondeur a sauté !
 
 ## Borg type selection UI.
-borg-select-type-menu-title = Select Chassis Type
-borg-select-type-menu-bottom-text = Chassis selection is irreversible
-borg-select-type-menu-available = Available types
-borg-select-type-menu-information = Information
-borg-select-type-menu-select-type = Select type to view information
-borg-select-type-menu-confirm = Confirm selection
-borg-select-type-menu-guidebook = Guidebook
+borg-select-type-menu-title = Sélectionner le type de châssis
+borg-select-type-menu-bottom-text = La sélection du châssis est irréversible
+borg-select-type-menu-available = Types disponibles
+borg-select-type-menu-information = Informations
+borg-select-type-menu-select-type = Sélectionnez un type pour afficher les informations
+borg-select-type-menu-confirm = Confirmer la sélection
+borg-select-type-menu-guidebook = Guide
 
 ## Borg type information
 
-borg-type-generic-name = Generic
-borg-type-generic-desc = Jack of all trades, master of none. Do various random station tasks, or maybe help out the science department that built you.
-borg-type-generic-transponder = generic cyborg
+borg-type-generic-name = Générique
+borg-type-generic-desc = Bon à tout faire, mais maître en rien. Effectuez diverses tâches aléatoires au sein de la station, ou aidez peut-être le département scientifique qui vous a construit.
+borg-type-generic-transponder = cyborg générique
 
-borg-type-engineering-name = Engineering
-borg-type-engineering-desc = Assist the engineering team in station construction, repairing damage, or fixing electrical and atmospheric issues.
-borg-type-engineering-transponder = engineering cyborg
+borg-type-engineering-name = Ingénierie
+borg-type-engineering-desc = Aide l'équipe d'ingénierie à construire la station, à réparer les dégâts ou à résoudre les problèmes électriques et atmosphériques.
+borg-type-engineering-transponder = cyborg d'ingénierie
 
-borg-type-mining-name = Salvage
-borg-type-mining-desc = Join salvage and help them mine for materials, scavenge wrecks, and fight off hostile wildlife.
-borg-type-mining-transponder = salvage cyborg
+borg-type-mining-name = Récupération
+borg-type-mining-desc = Rejoins l'équipe de récupération et aide-la à extraire des matériaux, à fouiller les épaves et à repousser la faune hostile.
+borg-type-mining-transponder = cyborg de récupération
 
-borg-type-janitor-name = Janitor
-borg-type-janitor-desc = Keep the station nice and tidy, clean up spills, collect and properly dispose of trash left around by lazy crewmembers.
-borg-type-janitor-transponder = janitor cyborg
+borg-type-janitor-name = Concierge
+borg-type-janitor-desc = Maintenir la station propre et bien rangée, nettoyer les déversements, ramasser et éliminer correctement les déchets laissés par les membres d'équipage paresseux.
+borg-type-janitor-transponder = cyborg concierge
 
-borg-type-medical-name = Medical
-borg-type-medical-desc = Provide medical attention to crew who need it, either in medbay or in hazardous areas conventional paramedics cannot reach.
-borg-type-medical-transponder = medical cyborg
+borg-type-medical-name = Médical
+borg-type-medical-desc = Fournir des soins médicaux aux membres d'équipage qui en ont besoin, que ce soit à l'infirmerie ou dans des zones dangereuses inaccessibles aux ambulanciers conventionnels.
+borg-type-medical-transponder = cyborg médical
 
 borg-type-service-name = Service
-borg-type-service-desc = Help out with a wide range of crew services, ranging from serving snacks and drinks to botany to entertainment.
-borg-type-service-transponder = service cyborg
+borg-type-service-desc = Aider à fournir un large éventail de services à l'équipage, allant du service de collations et de boissons à la botanique en passant par les divertissements.
+borg-type-service-transponder = cyborg de service
 
 

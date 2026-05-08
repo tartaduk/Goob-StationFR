@@ -6,25 +6,25 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-alerts-changeling-chemicals-name = Chemicals
-alerts-changeling-chemicals-desc = Spend chemicals to use your abilities. Slowly regenerates.
+alerts-changeling-chemicals-name = Produits chimiques
+alerts-changeling-chemicals-desc = Dépensez des produits chimiques pour utiliser vos capacités. Se régénère lentement.
 
-alerts-changeling-biomass-name = Biomass
+alerts-changeling-biomass-name = Biomasse
 alerts-changeling-biomass-desc =
-    This is your health. If it reaches 0 - it's [color=red]game over[/color]. Absorb humanoids to recover some of it.
+    C'est votre santé. Si elle atteint 0 - c'est [color=red]game over[/color]. Absorbez des humanoïdes pour en récupérer.
 
-alerts-changeling-fleshmend-name = Fleshmend
+alerts-changeling-fleshmend-name = Régénération charnelle
 alerts-changeling-fleshmend-desc =
-    Brute damage is being rapidly healed! Burn and asphyxiation damage is healed at a lower amount. [color=red]Effects will cease while on fire or dead.[/color]
+    Les dégâts contondants sont rapidement soignés ! Les brûlures et les dégâts par asphyxie sont soignés en moindre quantité. [color=red]Les effets cesseront en cas d'incendie ou de mort.[/color]
 
-alerts-changeling-adrenaline-name = Adrenaline Reserves
+alerts-changeling-adrenaline-name = Réserves d'adrénaline
 alerts-changeling-adrenaline-desc =
-    Stuns, knockdowns and most incapacitation methods have zero effect!
+    Les étourdissements, les mises à terre et la plupart des méthodes d'incapacitation n'ont aucun effet !
 
-alerts-changeling-panacea-name = Anatomic Panacea
+alerts-changeling-panacea-name = Panacée anatomique
 alerts-changeling-panacea-desc =
-    Non-physical damage is being healed! Illness, chemicals and the influence of drugs are being cleansed. [color=red]Effects will cease while on fire or dead.[/color]
+    Les dégâts non physiques sont soignés ! Les maladies, les produits chimiques et l'influence des drogues sont éliminés. [color=red]Les effets cesseront en cas d'incendie ou de mort.[/color]
 
-alerts-changeling-voidadapt-name = Void Adaption
+alerts-changeling-voidadapt-name = Adaptation au vide
 alerts-changeling-voidadapt-desc =
-    The low extremes are being adapted to. [color=yellow]Chemical regeneration is halted[/color]. [color=red]Effects will cease while on fire.[/color]
+    Adaptation aux extrêmes froids en cours. [color=yellow]La régénération chimique est suspendue[/color]. [color=red]Les effets cesseront en cas d'incendie.[/color]

@@ -1,3 +1,3 @@
-disease-effect-popup-default = You feel unwell.
-disease-effect-popup-headache = You feel your head ache.
-disease-effect-popup-cough = {THE($source)} coughs
+disease-effect-popup-default = Vous vous sentez mal.
+disease-effect-popup-headache = Vous sentez votre tête vous faire mal.
+disease-effect-popup-cough = {THE($source)} tousse

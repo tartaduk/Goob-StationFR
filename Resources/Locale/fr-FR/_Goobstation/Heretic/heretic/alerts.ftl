@@ -1,2 +1,2 @@
-alerts-shadow-cloak-name = Cloak of Shadow
-alerts-shadow-cloak-desc = Your identity is concealed, you also move faster but interact slower.
+alerts-shadow-cloak-name = Manteau d'ombre
+alerts-shadow-cloak-desc = Votre identité est dissimulée, vous vous déplacez plus vite mais interagissez plus lentement.

@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-suicide-prevented = You tried to suicide, but only your spirit escapes.
+suicide-prevented = Vous avez tenté de vous suicider, mais seul votre esprit s'échappe.

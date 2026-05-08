@@ -6,7 +6,7 @@
 #
 # SPDX-License-Identifier: MIT
 
-defibrillator-not-on = The defibrillator isn't turned on.
-defibrillator-no-mind = No intelligence pattern can be detected in patient's brain. Further attempts futile.
-defibrillator-rotten = Body decomposition detected: resuscitation failed.
-defibrillator-unrevivable = This patient is unable to be revived due to a unique body composition.
+defibrillator-not-on = Le défibrillateur n'est pas allumé.
+defibrillator-no-mind = Aucun schéma d'intelligence détectable dans le cerveau du patient. Toute tentative est futile.
+defibrillator-rotten = Décomposition corporelle détectée : réanimation échouée.
+defibrillator-unrevivable = Ce patient ne peut pas être réanimé en raison d'une composition corporelle unique.

@@ -7,20 +7,20 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-signal-linker-component-saved = Successfully saved link to {$machine}!
-signal-linker-component-linked-port = Successfully linked {$machine1}:{$port1} to {$machine2}:{$port2}!
-signal-linker-component-unlinked-port = Successfully unlinked {$machine1}:{$port1} from {$machine2}:{$port2}!
-signal-linker-component-connection-refused = {$machine} refused the connection!
-signal-linker-component-max-connections-receiver = Maximum connections reached on the receiver!
-signal-linker-component-max-connections-transmitter = Maximum connections reached on the transmitter!
+signal-linker-component-saved = Lien vers {$machine} enregistré avec succès !
+signal-linker-component-linked-port = {$machine1}:{$port1} lié à {$machine2}:{$port2} avec succès !
+signal-linker-component-unlinked-port = {$machine1}:{$port1} délié de {$machine2}:{$port2} avec succès !
+signal-linker-component-connection-refused = {$machine} a refusé la connexion !
+signal-linker-component-max-connections-receiver = Nombre maximum de connexions atteint sur le récepteur !
+signal-linker-component-max-connections-transmitter = Nombre maximum de connexions atteint sur l'émetteur !
 
-signal-linker-component-type-mismatch = The port's type does not match the type of the saved port!
+signal-linker-component-type-mismatch = Le type du port ne correspond pas au type du port enregistré !
 
-signal-linker-component-out-of-range = Connection is out of range!
+signal-linker-component-out-of-range = La connexion est hors de portée !
 
 # Verbs
-signal-linking-verb-text-link-default = Link default ports
-signal-linking-verb-success = Connected all default {$machine} links.
-signal-linking-verb-fail = Failed to connect all default {$machine} links.
-signal-linking-verb-disabled-no-transmitter = First interact with a transmitter, then link default ports.
-signal-linking-verb-disabled-no-receiver = First interact with a receiver, then link default ports.
+signal-linking-verb-text-link-default = Lier les ports par défaut
+signal-linking-verb-success = Tous les liens {$machine} par défaut connectés.
+signal-linking-verb-fail = Échec de la connexion de tous les liens {$machine} par défaut.
+signal-linking-verb-disabled-no-transmitter = Interagissez d'abord avec un émetteur, puis liez les ports par défaut.
+signal-linking-verb-disabled-no-receiver = Interagissez d'abord avec un récepteur, puis liez les ports par défaut.

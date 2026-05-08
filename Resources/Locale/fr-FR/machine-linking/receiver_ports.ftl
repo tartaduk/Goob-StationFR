@@ -17,94 +17,94 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-signal-port-name-autoclose = Autoclose
-signal-port-description-autoclose = Toggles whether the device should automatically close.
+signal-port-name-autoclose = Fermeture auto
+signal-port-description-autoclose = Bascule la fermeture automatique de l'appareil.
 
-signal-port-name-toggle = Toggle
-signal-port-description-toggle = Toggles the state of a device.
+signal-port-name-toggle = Basculer
+signal-port-description-toggle = Bascule l'état d'un appareil.
 
-signal-port-name-on-receiver = On
-signal-port-description-on-receiver = Turns a device on.
+signal-port-name-on-receiver = Allumer
+signal-port-description-on-receiver = Allume un appareil.
 
-signal-port-name-off-receiver = Off
-signal-port-description-off-receiver = Turns a device off.
+signal-port-name-off-receiver = Éteindre
+signal-port-description-off-receiver = Éteint un appareil.
 
-signal-port-name-forward = Forward
-signal-port-description-forward = Makes a device (e.g. conveyor) operate in the normal direction.
+signal-port-name-forward = Avant
+signal-port-description-forward = Fait fonctionner un appareil (ex. convoyeur) en sens normal.
 
-signal-port-name-reverse = Reverse
-signal-port-description-reverse = Makes a device (e.g. conveyor) operate in the reverse direction.
+signal-port-name-reverse = Arrière
+signal-port-description-reverse = Fait fonctionner un appareil (ex. convoyeur) en sens inverse.
 
-signal-port-name-open = Open
-signal-port-description-open = Opens a device.
+signal-port-name-open = Ouvrir
+signal-port-description-open = Ouvre un appareil.
 
-signal-port-name-close = Close
-signal-port-description-close = Closes a device.
+signal-port-name-close = Fermer
+signal-port-description-close = Ferme un appareil.
 
-signal-port-name-doorbolt = Door bolt
-signal-port-description-doorbolt = Bolts door when HIGH.
+signal-port-name-doorbolt = Verrou de porte
+signal-port-description-doorbolt = Verrouille la porte quand HIGH.
 
-signal-port-name-trigger-receiver = Trigger
-signal-port-description-trigger-receiver = Triggers some mechanism on the device.
+signal-port-name-trigger-receiver = Déclencher
+signal-port-description-trigger-receiver = Déclenche un mécanisme sur l'appareil.
 
-signal-port-name-order-sender = Order sender
-signal-port-description-order-sender = Cargo console order sender
+signal-port-name-order-sender = Émetteur de commande
+signal-port-description-order-sender = Émetteur de commande de la console de fret
 
-signal-port-name-order-receiver = Order receiver
-signal-port-description-order-receiver = Cargo console order receiver
+signal-port-name-order-receiver = Récepteur de commande
+signal-port-description-order-receiver = Récepteur de commande de la console de fret
 
-signal-port-name-pressurize = Pressurize
-signal-port-description-pressurize = Causes the device to starts releasing air until some target pressure is reached.
+signal-port-name-pressurize = Pressuriser
+signal-port-description-pressurize = Fait commencer à l'appareil à libérer de l'air jusqu'à une pression cible.
 
-signal-port-name-depressurize = Depressurize
-signal-port-description-depressurize = Causes the device to starts siphoning air until some target pressure is reached.
+signal-port-name-depressurize = Dépressuriser
+signal-port-description-depressurize = Fait commencer à l'appareil à aspirer l'air jusqu'à une pression cible.
 
-signal-port-name-pod-sender = Cloning pod
-signal-port-description-pod-sender = Cloning pod signal sender
+signal-port-name-pod-sender = Capsule de clonage
+signal-port-description-pod-sender = Émetteur de signal de la capsule de clonage
 
-signal-port-name-pod-receiver = Cloning pod
-signal-port-description-pod-receiver = Cloning pod signal receiver
+signal-port-name-pod-receiver = Capsule de clonage
+signal-port-description-pod-receiver = Récepteur de signal de la capsule de clonage
 
-signal-port-name-med-scanner-sender = Medical scanner
-signal-port-description-med-scanner-sender = Medical scanner signal sender
+signal-port-name-med-scanner-sender = Scanner médical
+signal-port-description-med-scanner-sender = Émetteur de signal du scanner médical
 
-signal-port-name-med-scanner-receiver = Medical scanner
-signal-port-description-med-scanner-receiver = Medical scanner signal receiver
+signal-port-name-med-scanner-receiver = Scanner médical
+signal-port-description-med-scanner-receiver = Récepteur de signal du scanner médical
 
-signal-port-name-hold-open = Hold
-signal-port-description-hold-open = Turns off automatic closing.
+signal-port-name-hold-open = Maintenir
+signal-port-description-hold-open = Désactive la fermeture automatique.
 
 signal-port-name-artifact-analyzer-sender = Console
-signal-port-description-artifact-analyzer-sender = Analysis console signal sender
+signal-port-description-artifact-analyzer-sender = Émetteur de signal de la console d'analyse
 
-signal-port-name-artifact-analyzer-receiver = Pad
-signal-port-description-artifact-analyzer-receiver = Artifact analyzer signal receiver
+signal-port-name-artifact-analyzer-receiver = Plateau
+signal-port-description-artifact-analyzer-receiver = Récepteur de signal de l'analyseur d'artéfacts
 
-signal-port-name-set-particle-delta = Set particle type: delta
-signal-port-description-set-particle-delta = Sets the type of particle this device emits to delta.
+signal-port-name-set-particle-delta = Définir le type de particule : delta
+signal-port-description-set-particle-delta = Définit le type de particule émis par cet appareil sur delta.
 
-signal-port-name-set-particle-epsilon = Set particle type: epsilon
-signal-port-description-set-particle-epsilon = Sets the type of particle this device emits to epsilon.
+signal-port-name-set-particle-epsilon = Définir le type de particule : epsilon
+signal-port-description-set-particle-epsilon = Définit le type de particule émis par cet appareil sur epsilon.
 
-signal-port-name-set-particle-zeta = Set particle type: zeta
-signal-port-description-set-particle-zeta = Sets the type of particle this device emits to zeta.
+signal-port-name-set-particle-zeta = Définir le type de particule : zeta
+signal-port-description-set-particle-zeta = Définit le type de particule émis par cet appareil sur zeta.
 
-signal-port-name-set-particle-sigma = Set particle type: sigma
-signal-port-description-set-particle-sigma = Sets the type of particle this device emits to sigma.
+signal-port-name-set-particle-sigma = Définir le type de particule : sigma
+signal-port-description-set-particle-sigma = Définit le type de particule émis par cet appareil sur sigma.
 
-signal-port-name-logic-input-a = Input A
-signal-port-description-logic-input-a = First input of a logic gate.
+signal-port-name-logic-input-a = Entrée A
+signal-port-description-logic-input-a = Première entrée d'une porte logique.
 
-signal-port-name-logic-input-b = Input B
-signal-port-description-logic-input-b = Second input of a logic gate.
+signal-port-name-logic-input-b = Entrée B
+signal-port-description-logic-input-b = Deuxième entrée d'une porte logique.
 
-signal-port-name-logic-input = Input
-signal-port-description-logic-input = Input to the edge detector, cannot be a pulse signal.
+signal-port-name-logic-input = Entrée
+signal-port-description-logic-input = Entrée du détecteur de fronts, ne peut pas être un signal impulsionnel.
 
-signal-port-description-logic-memory-input = Signal to load into the memory cell, when enabled.
+signal-port-description-logic-memory-input = Signal à charger dans la cellule mémoire, lorsqu'activé.
 
-signal-port-name-logic-enable = Enable
-signal-port-description-logic-enable = Only loads the input signal into the memory cell when HIGH.
+signal-port-name-logic-enable = Activer
+signal-port-description-logic-enable = Ne charge le signal d'entrée dans la cellule mémoire que lorsque HIGH.
 
-signal-port-name-logic-random-input = Input Signal
-signal-port-description-logic-random-input = Receives any signal to trigger a random output.
+signal-port-name-logic-random-input = Signal d'entrée
+signal-port-description-logic-random-input = Reçoit n'importe quel signal pour déclencher une sortie aléatoire.

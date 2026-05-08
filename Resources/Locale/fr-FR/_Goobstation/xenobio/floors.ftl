@@ -1,2 +1,2 @@
-tiles-xeno-bluespace = bluespace
-tiles-xeno-sepia = sepia
+tiles-xeno-bluespace = espace bleu
+tiles-xeno-sepia = sépia

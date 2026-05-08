@@ -8,8 +8,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-rat-king-domain-popup = A cloud of ammonia is released into the air!
+rat-king-domain-popup = Un nuage d'ammoniac se répand dans l'air !
 
-rat-king-too-hungry = You are too hungry to use this ability!
+rat-king-too-hungry = Vous avez trop faim pour utiliser cette capacité !
 
-rat-king-rummage-text = Rummage
+rat-king-rummage-text = Fouiller

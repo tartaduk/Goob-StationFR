@@ -6,5 +6,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-stunned-component-disarm-success = You push {THE($target)} down!
-stunned-component-disarm-success-others = {CAPITALIZE(THE($source))} pushes {THE($target)} down!
+stunned-component-disarm-success = Vous repoussez {THE($target)} au sol !
+stunned-component-disarm-success-others = {CAPITALIZE(THE($source))} repousse {THE($target)} au sol !

@@ -9,27 +9,27 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-strippable-component-not-holding-anything = You aren't holding anything!
-strippable-component-cannot-drop = You can't drop that!
-strippable-component-item-slot-occupied-message = {CAPITALIZE(THE($owner))} already has something there!
-strippable-component-cannot-equip-message = {CAPITALIZE(THE($owner))} cannot equip that there!
-strippable-component-cannot-put-message = {CAPITALIZE(THE($owner))} cannot put that there!
-strippable-component-item-slot-free-message = {CAPITALIZE(THE($owner))} has nothing there!
-strippable-component-cannot-unequip-message = {CAPITALIZE(THE($owner))} cannot unequip that!
-strippable-component-cannot-drop-message = {CAPITALIZE(THE($owner))} cannot drop that!
-strippable-component-alert-owner = {CAPITALIZE(THE($user))} is removing your {$item}!
-strippable-component-alert-owner-hidden = You feel someone fumbling in your {$slot}!
-strippable-component-alert-owner-insert = {CAPITALIZE(THE($user))} is putting {INDEFINITE($item)} {$item} on you!
-strippable-component-alert-owner-insert-hand = {CAPITALIZE(THE($user))} is putting {INDEFINITE($item)} {$item} in your hand!
+strippable-component-not-holding-anything = Vous ne tenez rien !
+strippable-component-cannot-drop = Vous ne pouvez pas lâcher ça !
+strippable-component-item-slot-occupied-message = {CAPITALIZE(THE($owner))} a déjà quelque chose là !
+strippable-component-cannot-equip-message = {CAPITALIZE(THE($owner))} ne peut pas équiper ça là !
+strippable-component-cannot-put-message = {CAPITALIZE(THE($owner))} ne peut pas mettre ça là !
+strippable-component-item-slot-free-message = {CAPITALIZE(THE($owner))} n'a rien là !
+strippable-component-cannot-unequip-message = {CAPITALIZE(THE($owner))} ne peut pas retirer ça !
+strippable-component-cannot-drop-message = {CAPITALIZE(THE($owner))} ne peut pas lâcher ça !
+strippable-component-alert-owner = {CAPITALIZE(THE($user))} retire votre {$item} !
+strippable-component-alert-owner-hidden = Vous sentez quelqu'un fouiller dans votre {$slot} !
+strippable-component-alert-owner-insert = {CAPITALIZE(THE($user))} est en train de vous mettre {INDEFINITE($item)} {$item} !
+strippable-component-alert-owner-insert-hand = {CAPITALIZE(THE($user))} met {INDEFINITE($item)} {$item} dans votre main !
 
 # generic warning for when a user interacts with your equipped items.
-strippable-component-alert-owner-interact = {CAPITALIZE(THE($user))} is fumbling around with your {$item}!
+strippable-component-alert-owner-interact = {CAPITALIZE(THE($user))} farfouille avec votre {$item} !
 
 # StripVerb
-strip-verb-get-data-text = Strip
-strip-all-verb-get-data-text = Strip All
+strip-verb-get-data-text = Déshabiller
+strip-all-verb-get-data-text = Tout déshabiller
 
 ## UI
 
-strippable-bound-user-interface-stripping-menu-title = {CAPITALIZE($ownerName)}'s inventory
-strippable-bound-user-interface-stripping-menu-ensnare-button = Remove Leg Restraints
+strippable-bound-user-interface-stripping-menu-title = Inventaire de {CAPITALIZE($ownerName)}
+strippable-bound-user-interface-stripping-menu-ensnare-button = Retirer les entraves

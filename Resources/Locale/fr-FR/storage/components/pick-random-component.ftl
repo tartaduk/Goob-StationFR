@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-comp-pick-random-empty = {CAPITALIZE(THE($storage))} is empty!
-comp-pick-random-verb-text = Pick item
+comp-pick-random-empty = {CAPITALIZE(THE($storage))} est vide !
+comp-pick-random-verb-text = Prendre un objet

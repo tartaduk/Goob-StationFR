@@ -3,6 +3,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-anchorable-anchored = Anchored
-anchorable-unanchored = Unanchored
-anchorable-occupied = Tile occupied
+anchorable-anchored = Ancré
+anchorable-unanchored = Non ancré
+anchorable-occupied = Case occupée

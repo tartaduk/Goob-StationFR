@@ -12,24 +12,24 @@
 
 ### Locale for wielding items; i.e. two-handing them
 
-wieldable-verb-text-wield = Wield
-wieldable-verb-text-unwield = Unwield
+wieldable-verb-text-wield = Manier à deux mains
+wieldable-verb-text-unwield = Ranger
 
-wieldable-component-successful-wield = You wield { THE($item) }.
-wieldable-component-failed-wield = You unwield { THE($item) }.
-wieldable-component-successful-wield-other = { CAPITALIZE(THE($user)) } wields { THE($item) }.
-wieldable-component-failed-wield-other = { CAPITALIZE(THE($user)) } unwields { THE($item) }.
-wieldable-component-blocked-wield = { CAPITALIZE(THE($blocker)) } blocks you from wielding { THE($item) }.
+wieldable-component-successful-wield = Vous maniez { THE($item) } à deux mains.
+wieldable-component-failed-wield = Vous rangez { THE($item) }.
+wieldable-component-successful-wield-other = { CAPITALIZE(THE($user)) } manie { THE($item) } à deux mains.
+wieldable-component-failed-wield-other = { CAPITALIZE(THE($user)) } range { THE($item) }.
+wieldable-component-blocked-wield = { CAPITALIZE(THE($blocker)) } vous empêche de manier { THE($item) } à deux mains.
 
-wieldable-component-no-hands = You don't have enough hands!
+wieldable-component-no-hands = Vous n'avez pas assez de mains !
 wieldable-component-not-enough-free-hands = {$number ->
-    [one] You need a free hand to wield { THE($item) }.
-    *[other] You need { $number } free hands to wield { THE($item) }.
+    [one] Vous avez besoin d'une main libre pour manier { THE($item) } à deux mains.
+    *[other] Vous avez besoin de { $number } mains libres pour manier { THE($item) } à deux mains.
 }
-wieldable-component-not-in-hands = { CAPITALIZE(THE($item)) } isn't in your hands!
+wieldable-component-not-in-hands = { CAPITALIZE(THE($item)) } n'est pas dans vos mains !
 
-wieldable-component-requires = { CAPITALIZE(THE($item))} must be wielded!
+wieldable-component-requires = { CAPITALIZE(THE($item))} doit être maniée à deux mains !
 
-gunwieldbonus-component-examine = This weapon has improved accuracy when wielded.
+gunwieldbonus-component-examine = Cette arme a une meilleure précision lorsqu'elle est maniée à deux mains.
 
-gunrequireswield-component-examine = This weapon can only be fired when wielded.
+gunrequireswield-component-examine = Cette arme ne peut être tirée que lorsqu'elle est maniée à deux mains.

@@ -7,16 +7,16 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-chefvend-1 = At least sixty percent of our eggs un-broken, guranteed!
-advertisement-chefvend-2 = Rice, rice, baby.
-advertisement-chefvend-3 = Slap some butter on it!
-advertisement-chefvend-4 = Are you worth your salt? We are.
-advertisement-chefvend-5 = Mmm, meat.
-advertisement-chefvend-6 = Harness the power of flour.
-advertisement-chefvend-7 = Show your customers who's the best chef around with our galaxy famous, award winning BBQ sauce.
-advertisement-chefvend-8 = I love myself some food ol' raw eggs.
-advertisement-chefvend-9 = Enjoy some good ol' raw eggs!
-thankyou-chefvend-1 = Time to get cooking!
-thankyou-chefvend-2 = Thanks for trusting our quality ingredients!
-thankyou-chefvend-3 = That should give them what they're craving!
-thankyou-chefvend-4 = Go make those burgers!
+advertisement-chefvend-1 = Au moins soixante pour cent de nos œufs sont non cassés, garanti !
+advertisement-chefvend-2 = Du riz, du riz, bébé.
+advertisement-chefvend-3 = Mettez-y du beurre !
+advertisement-chefvend-4 = Valent-ils leur sel ? Nous, oui.
+advertisement-chefvend-5 = Miam, de la viande.
+advertisement-chefvend-6 = Exploitez la puissance de la farine.
+advertisement-chefvend-7 = Montrez à vos clients qui est le meilleur chef avec notre sauce BBQ primée, célèbre dans la galaxie.
+advertisement-chefvend-8 = J'adore les bons vieux œufs crus.
+advertisement-chefvend-9 = Profitez des bons vieux œufs crus !
+thankyou-chefvend-1 = C'est l'heure de cuisiner !
+thankyou-chefvend-2 = Merci de faire confiance à nos ingrédients de qualité !
+thankyou-chefvend-3 = Ça devrait leur donner ce dont ils ont envie !
+thankyou-chefvend-4 = Allez faire ces burgers !

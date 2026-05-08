@@ -1,48 +1,48 @@
-devil-contract-contractee = contractee
-devil-contract-contractor = contractor
+devil-contract-contractee = contractant
+devil-contract-contractor = contracteur
 
-devil-contract-early-sign-failed = The contractor must wait for the contractee to sign first!
-devil-contract-no-soul-sign-failed = You do not have a soul to sell!
-devil-sign-invalid-user = You do not have the power to fulfill this contract!
-devil-contract-mind-shielded-failed = A voice comes from your Nanotrasen™ mindshield. "Nice try."
+devil-contract-early-sign-failed = Le contracteur doit attendre que le contractant signe d'abord !
+devil-contract-no-soul-sign-failed = Vous n'avez pas d'âme à vendre !
+devil-sign-invalid-user = Vous n'avez pas le pouvoir de remplir ce contrat !
+devil-contract-mind-shielded-failed = Une voix provient de votre bouclier mental Nanotrasen™. « Bien essayé. »
 
-contract-summon-flavor = {$name}'s hand bursts into flames before revealing a black roll of parchment...
-burn-contract-prompt = Burn contract.
-burn-contract-popup-success = The contract bursts into flames! It seems someones fate has been sealed...
-burn-contract-popup-fail = You cannot burn a contract during a deal!
+contract-summon-flavor = La main de {$name} s'embrase avant de révéler un rouleau de parchemin noir...
+burn-contract-prompt = Brûler le contrat.
+burn-contract-popup-success = Le contrat s'embrase ! Il semble que le destin de quelqu'un soit scellé...
+burn-contract-popup-fail = Vous ne pouvez pas brûler un contrat pendant un accord !
 
 
-contract-victim-signed = A chill runs down your spine as you lift the pen...
-contract-devil-signed = The contract pulses with dark energy...
-contract-soul-added = You gain another soul in your possession...
-contract-uneven-odds = These odds aren't fair. You need {$number} more contract weight.
-devil-contract-examined = This contract has a weight of: {$weight}.
+contract-victim-signed = Un frisson vous parcourt le dos tandis que vous soulevez le stylo...
+contract-devil-signed = Le contrat pulse d'une énergie sombre...
+contract-soul-added = Vous gagnez une âme supplémentaire en votre possession...
+contract-uneven-odds = Ces conditions ne sont pas équitables. Vous avez besoin de {$number} points de poids supplémentaires.
+devil-contract-examined = Ce contrat a un poids de : {$weight}.
 
-devil-deal-time-ran-out = Your vision goes black as your muscles fail you. You've run out of time.
+devil-deal-time-ran-out = Votre vision s'assombrit tandis que vos muscles vous lâchent. Votre temps est écoulé.
 
-revival-contract-accepted = You feel your connection to your body strengthen...
-revival-contract-rejected = You reject the unholy offer.
-revival-contract-expired = Times up.
-revival-contract-prompt = {$offerer} offers to restore your life for a price... Do you accept?
-revival-contract-use-success = You offer {$target} a deal no man could refuse...
-revival-contract-use-failed = You cannot offer {$target} this deal.
+revival-contract-accepted = Vous sentez votre connexion à votre corps se renforcer...
+revival-contract-rejected = Vous rejetez l'offre impie.
+revival-contract-expired = Le temps est écoulé.
+revival-contract-prompt = {$offerer} propose de restaurer votre vie contre un prix... Acceptez-vous ?
+revival-contract-use-success = Vous offrez à {$target} un accord qu'aucun homme ne pourrait refuser...
+revival-contract-use-failed = Vous ne pouvez pas offrir cet accord à {$target}.
 
-revival-contract-prompt-reject = Reject Offer
-revival-contract-prompt-accept = Accept Offer
+revival-contract-prompt-reject = Rejeter l'offre
+revival-contract-prompt-accept = Accepter l'offre
 
-revival-contract-menu-title = Contract From the Depths
-revival-contract-menu-prompt = Sell your soul for a second chance?
+revival-contract-menu-title = Contrat des profondeurs
+revival-contract-menu-prompt = Vendez votre âme pour une deuxième chance ?
 
-default-contract-content = This binding contract made this day between:
+default-contract-content = Le présent contrat, conclu en ce jour entre :
 
-            - The Infernal Party (Hereinafter "Contractor")
-            - The Mortal Party (Hereinafter "Contractee")
+            - La partie infernale (ci-après dénommée « le prestataire »)
+            - La partie mortelle (ci-après dénommée « le client »)
 
-            {"["}bold]Clauses of Binding:{"["}/bold]
-            {"["}italic]The following parties give up the following possessions{"["}/italic{"]"}
+            {"["}bold]Clauses contraignantes :{"["}/bold]
+            {"["}italic]Les parties suivantes renoncent aux biens suivants{"["}/italic{"]"}
 
-            Contractee: Soul Ownership
-            Contractee: Death
+            Le client: Propriété de l'âme
+            Le client: Mort
 
-            {"["}italic]All clauses come into effect upon signing of this paper by both parties.{"["}/italic]
-            {"["}italic]{"["}color=#ac3a0d]Clauses may not be broken. Ever.{"["}/color]{"["}/italic]
+            {"["}italic]Toutes les clauses entrent en vigueur dès la signature du présent document par les deux parties.{"["}/italic]
+            {"["}italic]{"["}color=#ac3a0d]Les clauses ne peuvent être violées. Jamais.{"["}/color]{"["}/italic]

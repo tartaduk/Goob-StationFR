@@ -3,5 +3,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-mousetrap-on-activate = The mousetrap was activated.
-mousetrap-on-deactivate = The mousetrap was deactivated.
+mousetrap-on-activate = Le piège à souris s'est déclenché.
+mousetrap-on-deactivate = Le piège à souris a été désactivé.

@@ -4,24 +4,24 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-changeling-roundend-name = a changeling
+changeling-roundend-name = un changeling
 
-objective-issuer-hivemind = [color=orange]The Hive[/color]
-objective-issuer-tiger = [color=crimson]Tiger Cooperative[/color]
+objective-issuer-hivemind = [color=orange]La Ruche[/color]
+objective-issuer-tiger = [color=crimson]Coopérative Tiger[/color]
 
-roundend-prepend-changeling-absorbed-named = [color=white]{$name}[/color] has absorbed a total of [color=red]{$number}[/color] organics.
-roundend-prepend-changeling-stolen-named = [color=white]{$name}[/color] has extracted a total of [color=orange]{$number}[/color] DNA samples.
-roundend-prepend-changeling-absorbed = Someone has absorbed a total of [color=red]{$number}[/color] organics.
-roundend-prepend-changeling-stolen = Someone had extracted a total of [color=orange]{$number}[/color] DNA samples.
+roundend-prepend-changeling-absorbed-named = [color=white]{$name}[/color] a absorbé un total de [color=red]{$number}[/color] organismes.
+roundend-prepend-changeling-stolen-named = [color=white]{$name}[/color] a extrait un total de [color=orange]{$number}[/color] échantillons d'ADN.
+roundend-prepend-changeling-absorbed = Quelqu'un a absorbé un total de [color=red]{$number}[/color] organismes.
+roundend-prepend-changeling-stolen = Quelqu'un a extrait un total de [color=orange]{$number}[/color] échantillons d'ADN.
 
 changeling-gamemode-title = Changelings
 changeling-gamemode-description =
-    The changeling hive has boarded the station, ready to take anything it desires - be it your equipment, your faces, or your lives!
+    La ruche des changelings a envahi la station, prête à prendre tout ce qu'elle désire — que ce soit votre équipement, vos visages ou vos vies !
 
 changeling-role-greeting =
-    You are a changeling who has absorbed and taken the form of {$name}!
-    Your objectives are listed in the character menu.
-    Absorb, shapeshift and evolve to complete them!
+    Vous êtes un changeling qui a absorbé et pris la forme de {$name} !
+    Vos objectifs sont listés dans le menu du personnage.
+    Absorbez, métamorphosez-vous et évoluez pour les accomplir !
 
 changeling-role-greeting-short =
-    You are a changeling who has absorbed and taken the initial form of {$name}.
+    Vous êtes un changeling qui a absorbé et pris la forme initiale de {$name}.

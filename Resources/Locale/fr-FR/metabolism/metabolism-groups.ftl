@@ -5,10 +5,10 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 metabolism-group-poison = Poison
-metabolism-group-medicine = Medicine
-metabolism-group-narcotic = Narcotic
-metabolism-group-alcohol = Alcohol
-metabolism-group-food = Food
-metabolism-group-drink = Drink
-metabolism-group-gas = Gas
-metabolism-group-plant-metabolisms = Plant Metabolism
+metabolism-group-medicine = Médicament
+metabolism-group-narcotic = Narcotique
+metabolism-group-alcohol = Alcool
+metabolism-group-food = Nourriture
+metabolism-group-drink = Boisson
+metabolism-group-gas = Gaz
+metabolism-group-plant-metabolisms = Métabolisme Végétal

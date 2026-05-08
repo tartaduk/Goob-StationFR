@@ -15,57 +15,57 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 
-gun-selected-mode-examine = Current selected fire mode is [color={$color}]{$mode}[/color].
-gun-fire-rate-examine = Fire rate is [color={$color}]{$fireRate}[/color] per second.
-gun-selector-verb = Change to {$mode}
-gun-selected-mode = Selected {$mode}
-gun-disabled = You can't use guns!
-gun-set-fire-mode = Set to {$mode}
-gun-magazine-whitelist-fail = That won't fit into the gun!
-gun-magazine-fired-empty = No ammo left!
+gun-selected-mode-examine = Le mode de tir sélectionné est [color={$color}]{$mode}[/color].
+gun-fire-rate-examine = La cadence de tir est de [color={$color}]{$fireRate}[/color] par seconde.
+gun-selector-verb = Passer à {$mode}
+gun-selected-mode = {$mode} sélectionné
+gun-disabled = Vous ne pouvez pas utiliser d'armes à feu !
+gun-set-fire-mode = Réglé sur {$mode}
+gun-magazine-whitelist-fail = Ça ne rentre pas dans l'arme !
+gun-magazine-fired-empty = Plus de munitions !
 
 # SelectiveFire
 gun-SemiAuto = semi-auto
-gun-Burst = burst
+gun-Burst = rafale
 gun-FullAuto = full-auto
 
 # BallisticAmmoProvider
-gun-ballistic-cycle = Cycle
-gun-ballistic-cycled = Cycled
-gun-ballistic-cycled-empty = Cycled (empty)
-gun-ballistic-transfer-invalid = {CAPITALIZE(THE($ammoEntity))} won't fit inside {THE($targetEntity)}!
-gun-ballistic-transfer-empty = {CAPITALIZE(THE($entity))} is empty.
-gun-ballistic-transfer-target-full = {CAPITALIZE(THE($entity))} is already fully loaded.
+gun-ballistic-cycle = Éjecter
+gun-ballistic-cycled = Éjecté
+gun-ballistic-cycled-empty = Éjecté (vide)
+gun-ballistic-transfer-invalid = {CAPITALIZE(THE($ammoEntity))} ne rentre pas dans {THE($targetEntity)} !
+gun-ballistic-transfer-empty = {CAPITALIZE(THE($entity))} est vide.
+gun-ballistic-transfer-target-full = {CAPITALIZE(THE($entity))} est déjà pleinement chargé.
 
 # CartridgeAmmo
-gun-cartridge-spent = It is [color=red]spent[/color].
-gun-cartridge-unspent = It is [color=lime]not spent[/color].
+gun-cartridge-spent = Il est [color=red]usé[/color].
+gun-cartridge-unspent = Il est [color=lime]neuf[/color].
 
 # BatteryAmmoProvider
-gun-battery-examine = It has enough charge for [color={$color}]{$count}[/color] shots.
+gun-battery-examine = Il a assez de charge pour [color={$color}]{$count}[/color] tir(s).
 
 # CartridgeAmmoProvider
-gun-chamber-bolt-ammo = Gun not bolted
-gun-chamber-bolt = The bolt is [color={$color}]{$bolt}[/color].
-gun-chamber-bolt-closed = Closed bolt
-gun-chamber-bolt-opened = Opened bolt
-gun-chamber-bolt-close = Close bolt
-gun-chamber-bolt-open = Open bolt
-gun-chamber-bolt-closed-state = open
-gun-chamber-bolt-open-state = closed
-gun-chamber-rack = Rack
+gun-chamber-bolt-ammo = Arme non verouillée
+gun-chamber-bolt = La culasse est [color={$color}]{$bolt}[/color].
+gun-chamber-bolt-closed = Culasse fermée
+gun-chamber-bolt-opened = Culasse ouverte
+gun-chamber-bolt-close = Fermer la culasse
+gun-chamber-bolt-open = Ouvrir la culasse
+gun-chamber-bolt-closed-state = ouverte
+gun-chamber-bolt-open-state = fermée
+gun-chamber-rack = Armer
 
 # MagazineAmmoProvider
-gun-magazine-examine = It has [color={$color}]{$count}[/color] shots remaining.
+gun-magazine-examine = Il reste [color={$color}]{$count}[/color] tir(s).
 
 # RevolverAmmoProvider
-gun-revolver-empty = Empty revolver
-gun-revolver-full = Revolver full
-gun-revolver-insert = Inserted
-gun-revolver-spin = Spin revolver
-gun-revolver-spun = Spun
-gun-speedloader-empty = Speedloader empty
+gun-revolver-empty = Revolver vide
+gun-revolver-full = Revolver plein
+gun-revolver-insert = Inséré
+gun-revolver-spin = Faire tourner le revolver
+gun-revolver-spun = Tourné
+gun-speedloader-empty = Chargeur rapide vide
 
 # GunSpreadModifier
-examine-gun-spread-modifier-reduction = The spread has been reduced by [color=yellow]{$percentage}%[/color].
-examine-gun-spread-modifier-increase = The spread has been increased by [color=yellow]{$percentage}%[/color].
+examine-gun-spread-modifier-reduction = La dispersion a été réduite de [color=yellow]{$percentage}%[/color].
+examine-gun-spread-modifier-increase = La dispersion a été augmentée de [color=yellow]{$percentage}%[/color].

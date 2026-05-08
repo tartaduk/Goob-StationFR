@@ -7,6 +7,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-cargodrobe-1 = Upgraded Passenger Style! Pick yours today!
-advertisement-cargodrobe-2 = These shorts are comfy and easy to wear, get yours now!
-advertisement-cargodrobe-3 = Made for comfort, and cheap too!
+advertisement-cargodrobe-1 = Style passager amélioré ! Choisissez le vôtre aujourd'hui !
+advertisement-cargodrobe-2 = Ces shorts sont confortables et faciles à porter, prenez les vôtres maintenant !
+advertisement-cargodrobe-3 = Conçus pour le confort, et pas chers en plus !

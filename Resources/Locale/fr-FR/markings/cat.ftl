@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-marking-CatEars = Cat Ears
-marking-CatTail = Cat Tail
+marking-CatEars = Oreilles de chat
+marking-CatTail = Queue de chat

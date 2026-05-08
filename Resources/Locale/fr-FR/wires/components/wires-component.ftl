@@ -10,21 +10,21 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-wires-component-ui-on-receive-message-no-hands = You have no hands.
-wires-component-ui-on-receive-message-cannot-reach = You can't reach there!
-wires-component-ui-on-receive-message-need-wirecutters = You need to hold a wirecutter in your hand!
-wires-component-ui-on-receive-message-need-multitool = You need to hold a multitool in your hand!
-wires-component-ui-on-receive-message-cannot-pulse-cut-wire = You can't pulse a wire that's been cut!
-wires-component-ui-on-receive-message-cannot-cut-cut-wire = You can't cut a wire that's been cut!
-wires-component-ui-on-receive-message-cannot-mend-uncut-wire = You can't mend a wire that's been mended!
+wires-component-ui-on-receive-message-no-hands = Vous n'avez pas de mains.
+wires-component-ui-on-receive-message-cannot-reach = Vous ne pouvez pas atteindre là !
+wires-component-ui-on-receive-message-need-wirecutters = Vous devez tenir des pinces coupantes dans votre main !
+wires-component-ui-on-receive-message-need-multitool = Vous devez tenir un multioutil dans votre main !
+wires-component-ui-on-receive-message-cannot-pulse-cut-wire = Vous ne pouvez pas envoyer d'impulsion dans un câble coupé !
+wires-component-ui-on-receive-message-cannot-cut-cut-wire = Vous ne pouvez pas couper un câble déjà coupé !
+wires-component-ui-on-receive-message-cannot-mend-uncut-wire = Vous ne pouvez pas réparer un câble déjà réparé !
 
 ## UI
 
-wires-menu-name-label = Wires
+wires-menu-name-label = Câbles
 wires-menu-dead-beef-text = DEAD-BEEF
 wires-menu-help-popup =
-    Click on the gold contacts with a multitool in hand to pulse their wire.
-    Click on the wires with a pair of wirecutters in hand to cut/mend them.
+    Cliquez sur les contacts dorés avec un multioutil en main pour envoyer une impulsion dans le câble.
+    Cliquez sur les câbles avec des pinces coupantes en main pour les couper/réparer.
 
-    The lights at the top show the state of the machine, messing with wires will probably do stuff to them.
-    Wire layouts are different each round, but consistent between machines of the same type.
+    Les lumières en haut indiquent l'état de la machine, jouer avec les câbles aura probablement des effets.
+    Les dispositions de câblage changent chaque ronde, mais sont cohérentes entre les machines du même type.

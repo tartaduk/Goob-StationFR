@@ -4,12 +4,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-access-overrider-window-privileged-id = Privileged ID:
-access-overrider-window-eject-button = Eject
-access-overrider-window-insert-button = Insert
-access-overrider-window-target-label = Connected device:
-access-overrider-window-no-target = No connected device
-access-overrider-window-missing-privileges = Access to this device cannot be modified. The inserted ID is missing the following privileges:
-access-overrider-cannot-modify-access = You do not have sufficient privileges to modify this device!
-access-overrider-out-of-range = The connected device is too far away
+access-overrider-window-privileged-id = ID privilégié :
+access-overrider-window-eject-button = Éjecter
+access-overrider-window-insert-button = Insérer
+access-overrider-window-target-label = Appareil connecté :
+access-overrider-window-no-target = Aucun appareil connecté
+access-overrider-window-missing-privileges = L'accès à cet appareil ne peut pas être modifié. L'ID inséré ne possède pas les privilèges suivants :
+access-overrider-cannot-modify-access = Vous n'avez pas les privilèges suffisants pour modifier cet appareil !
+access-overrider-out-of-range = L'appareil connecté est trop éloigné
 

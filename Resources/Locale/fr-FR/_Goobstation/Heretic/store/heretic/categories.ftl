@@ -5,11 +5,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-store-heretic-path-ash = Ashen Path
-store-heretic-path-lock = Path of Lock
-store-heretic-path-flesh = Path of Flesh
-store-heretic-path-void = Path of Void
-store-heretic-path-rust = Rusted Path
-store-heretic-path-blade = Path of Blade
-store-heretic-path-cosmos = Path of Cosmos
-store-heretic-path-side = Side Knowledge
+store-heretic-path-ash = Voie des Cendres
+store-heretic-path-lock = Voie du Verrou
+store-heretic-path-flesh = Voie de la Chair
+store-heretic-path-void = Voie du Vide
+store-heretic-path-rust = Voie de la Rouille
+store-heretic-path-blade = Voie de la Lame
+store-heretic-path-cosmos = Voie du Cosmos
+store-heretic-path-side = Connaissance annexe

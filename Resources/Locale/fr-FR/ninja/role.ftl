@@ -8,9 +8,9 @@
 
 ninja-round-end-agent-name = ninja
 
-objective-issuer-spiderclan = [color=#33cc00]Spider Clan[/color]
+objective-issuer-spiderclan = [color=#33cc00]Clan de l'araignée[/color]
 
 ninja-role-greeting =
-    I am an elite mercenary of the mighty Spider Clan!
-    Surprise is my weapon. Shadows are my armor. Without them, I am nothing.
-    Use your pinpointer to find the station. Good luck!
+    Je suis un mercenaire d'élite du puissant Clan de l'araignée !
+    La surprise est mon arme. Les ombres sont mon armure. Sans elles, je ne suis rien.
+    Utilisez votre repéreur pour trouver la station. Bonne chance !

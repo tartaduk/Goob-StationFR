@@ -3,22 +3,22 @@
 #
 # SPDX-License-Identifier: MIT
 
-wires-panel-component-on-examine-open = The [color=lightgray]maintenance panel[/color] is [color=red]open[/color].
-wires-panel-component-on-examine-closed = The [color=lightgray]maintenance panel[/color] is [color=darkgreen]closed[/color].
+wires-panel-component-on-examine-open = Le panneau de [color=lightgray]maintenance[/color] est [color=red]ouvert[/color].
+wires-panel-component-on-examine-closed = Le panneau de [color=lightgray]maintenance[/color] est [color=darkgreen]fermé[/color].
 
 # wire colors
 
-wire-name-color-red = Red
-wire-name-color-blue = Blue
-wire-name-color-green = Green
+wire-name-color-red = Rouge
+wire-name-color-blue = Bleu
+wire-name-color-green = Vert
 wire-name-color-orange = Orange
-wire-name-color-brown = Brown
-wire-name-color-gold = Gold
-wire-name-color-gray = Gray
+wire-name-color-brown = Marron
+wire-name-color-gold = Or
+wire-name-color-gray = Gris
 wire-name-color-cyan = Cyan
-wire-name-color-navy = Navy
-wire-name-color-purple = Purple
-wire-name-color-pink = Pink
+wire-name-color-navy = Marine
+wire-name-color-purple = Violet
+wire-name-color-pink = Rose
 wire-name-color-fuchsia = Fuchsia
 
 # letter names

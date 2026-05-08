@@ -4,8 +4,8 @@
 # SPDX-License-Identifier: MIT
 
 spacevillain-menu-title = Space Villain
-spacevillain-menu-label-player = Player
-spacevillain-menu-button-attack = ATTACK
-spacevillain-menu-button-heal = HEAL
-spacevillain-menu-button-recharge = RECHARGE
-spacevillain-menu-button-new-game = New Game
+spacevillain-menu-label-player = Joueur
+spacevillain-menu-button-attack = ATTAQUE
+spacevillain-menu-button-heal = SOIGNER
+spacevillain-menu-button-recharge = RECHARGER
+spacevillain-menu-button-new-game = Nouvelle partie

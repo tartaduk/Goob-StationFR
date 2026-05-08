@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-traitor-codes-message-singular = syndicate codeword:
-traitor-codes-message-plural = syndicate codewords:
-traitor-codes-none = no known codewords
+traitor-codes-message-singular = nom de code du Syndicat :
+traitor-codes-message-plural = noms de code du Syndicat :
+traitor-codes-none = pas de noms de code connus

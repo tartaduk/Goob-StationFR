@@ -3,11 +3,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-reagent-name-eldritch = eldritch essence
-reagent-desc-eldritch = A strange liquid that defies the laws of physics. It re-energizes and heals those who can see beyond this fragile reality, but is incredibly harmful to the closed-minded.
+reagent-name-eldritch = essence indicible
+reagent-desc-eldritch = Un liquide étrange qui défie les lois de la physique. Il revigore et soigne ceux qui peuvent voir au-delà de cette réalité fragile, mais est incroyablement nocif pour les esprits fermés.
 
-reagent-comp-condition-heretic-or-ghoul = heretic or ghoul
+reagent-comp-condition-heretic-or-ghoul = hérétique ou ghoule
 
-reagent-physical-desc-eldritch = eldritch
+reagent-physical-desc-eldritch = indicible
 
 flavor-complex-eldritch = Ag'hsj'saje'sh

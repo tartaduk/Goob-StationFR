@@ -7,32 +7,32 @@
 
 # Navy
 
-job-description-navy-officer-undercover = Complete your assigned tasks, Terminate the given targets. Good luck.
-job-description-navy-captain = Classified.
-job-description-navy-officer = Answer faxes and radio communications directed at Central Command. Perform investigations on the station and it's crew.
-job-description-diplomat = Represent Central Command, managing relationships with other factions aboard the station. Cleanup the issues the captain has likely caused.
-job-description-navy-special-operations-officer = Send, brief, and direct emergency response teams or other Nanotrasen forces. Release the nuclear codes, or don't.
-job-description-outercommander = An external observer who audits Central Command and applies bureaucratic pressure without direct authority.
+job-description-navy-officer-undercover = Accomplissez vos tâches assignées. Éliminez les cibles désignées. Bonne chance.
+job-description-navy-captain = Classifié.
+job-description-navy-officer = Répondez aux fax et communications radio destinés au Commandement Central. Effectuez des enquêtes sur la station et son équipage.
+job-description-diplomat = Représentez le Commandement Central, gérez les relations avec les autres factions à bord de la station. Réglez les problèmes que le capitaine a probablement causés.
+job-description-navy-special-operations-officer = Envoyez, informez et dirigez les équipes d'intervention d'urgence ou d'autres forces Nanotrasen. Divulguez les codes nucléaires, ou pas.
+job-description-outercommander = Un observateur externe qui audite le Commandement Central et applique une pression bureaucratique sans autorité directe.
 
 # Generic Nanotrasen
 
-job-description-nct = Teach the newbies how to perform their company assigned tasks properly, and stay out of trouble.
+job-description-nct = Apprenez aux nouveaux à accomplir correctement leurs tâches assignées par l'entreprise, et restez hors des ennuis.
 
 # Syndicate
 
-job-description-highcommander = You are an elite, high-ranking official within the Spinward Syndicate. It doesn't matter which faction, you're important to them all.
+job-description-highcommander = Vous êtes un officiel d'élite et de haut rang au sein du Syndicat Spinward. Peu importe la faction, vous êtes important pour tous.
 
 # Half Life
 
-job-description-governmentman = Well, well, isn't this just like old times.
-job-description-hecu = Fufill the orders of your supervisor, no matter the morales.
+job-description-governmentman = Eh bien, eh bien, comme au bon vieux temps.
+job-description-hecu = Exécutez les ordres de votre superviseur, quelles que soient les considérations morales.
 
 # Misc
 
-job-description-conquest = Stand ready for my arrival, worm.
-job-description-mercenarycaptain = Order other mercs around. Act as muscle for the highest bidder. Just because it's NT now, doesn't mean it won't change later.
-job-description-roboticist = Build and maintain borgs and mechs. Keep the AI in check.
-job-description-radiohost = Host the stations local radio station, play vinyls, interview the crew, take faxes and run ads to make the best radio show on the station.
+job-description-conquest = Soyez prêt pour mon arrivée, vermisseau.
+job-description-mercenarycaptain = Donnez des ordres aux autres mercenaires. Servez de muscle au plus offrant. Ce n'est pas parce que c'est NT maintenant que ça ne changera pas plus tard.
+job-description-roboticist = Construisez et maintenez les borgs et les mechs. Gardez l'IA sous contrôle.
+job-description-radiohost = Animez la station radio locale, passez des vinyles, interviewez l'équipage, recevez des fax et diffusez des publicités pour créer la meilleure émission radio de la station.
 
 # Viro
-job-description-virologist = Study spreading viruses, produce cures for ailing crewmembers, experiment in creating beneficial viruses. Make sure pandemics don't spread.
+job-description-virologist = Étudiez les virus qui se propagent, produisez des remèdes pour les membres d'équipage malades, expérimentez la création de virus bénéfiques. Assurez-vous que les pandémies ne se propagent pas.

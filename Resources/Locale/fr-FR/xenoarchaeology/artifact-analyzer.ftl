@@ -10,43 +10,43 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-analysis-console-menu-title = Broad-Spectrum Mark 3 Analysis Console
-analysis-console-server-list-button = Server
-analysis-console-extract-button = Extract points
+analysis-console-menu-title = Console d'analyse Marque 3 large spectre
+analysis-console-server-list-button = Serveur
+analysis-console-extract-button = Extraire les points
 
-analysis-console-info-no-scanner = No analyzer connected! Please connect one using a multitool.
-analysis-console-info-no-artifact = No artifact present! Place one on the pad to view node information.
-analysis-console-info-ready = Systems operational. Ready to scan.
+analysis-console-info-no-scanner = Aucun analyseur connecté ! Veuillez en connecter un avec un multioutil.
+analysis-console-info-no-artifact = Aucun artefact présent ! Placez-en un sur le pad pour voir les informations des nœuds.
+analysis-console-info-ready = Systèmes opérationnels. Prêt à scanner.
 
-analysis-console-no-node = Select node to view
-analysis-console-info-id = [font="Monospace" size=11]ID:[/font]
+analysis-console-no-node = Sélectionner un nœud à afficher
+analysis-console-info-id = [font="Monospace" size=11]ID :[/font]
 analysis-console-info-id-value = [font="Monospace" size=11][color=yellow]{$id}[/color][/font]
-analysis-console-info-class = [font="Monospace" size=11]Class:[/font]
+analysis-console-info-class = [font="Monospace" size=11]Classe :[/font]
 analysis-console-info-class-value = [font="Monospace" size=11]{$class}[/font]
-analysis-console-info-locked = [font="Monospace" size=11]Status:[/font]
+analysis-console-info-locked = [font="Monospace" size=11]Statut :[/font]
 analysis-console-info-locked-value = [font="Monospace" size=11][color={ $state ->
-    [0] red]Locked
-    [1] lime]Unlocked
+    [0] red]Verrouillé
+    [1] lime]Déverrouillé
     *[2] plum]Active
 }[/color][/font]
-analysis-console-info-durability = [font="Monospace" size=11]Durability:[/font]
+analysis-console-info-durability = [font="Monospace" size=11]Durabilité :[/font]
 analysis-console-info-durability-value = [font="Monospace" size=11][color={$color}]{$current}/{$max}[/color][/font]
-analysis-console-info-effect = [font="Monospace" size=11]Effect:[/font]
+analysis-console-info-effect = [font="Monospace" size=11]Effet :[/font]
 analysis-console-info-effect-value = [font="Monospace" size=11][color=gray]{ $state ->
     [true] {$info}
-    *[false] Unlock nodes to gain info
+    *[false] Déverrouillez les nœuds pour obtenir des informations
 }[/color][/font]
-analysis-console-info-trigger = [font="Monospace" size=11]Triggers:[/font]
+analysis-console-info-trigger = [font="Monospace" size=11]Déclencheurs :[/font]
 analysis-console-info-triggered-value = [font="Monospace" size=11][color=gray]{$triggers}[/color][/font]
-analysis-console-info-scanner = Scanning...
-analysis-console-info-scanner-paused = Paused.
+analysis-console-info-scanner = Scan en cours...
+analysis-console-info-scanner-paused = En pause.
 analysis-console-progress-text = {$seconds ->
-    [one] T-{$seconds} second
-    *[other] T-{$seconds} seconds
+    [one] T-{$seconds} seconde
+    *[other] T-{$seconds} secondes
 }
 
-analysis-console-extract-value = [font="Monospace" size=11][color=orange]Node {$id} (+{$value})[/color][/font]
-analysis-console-extract-none = [font="Monospace" size=11][color=orange] No unlocked nodes have any points left to extract [/color][/font]
-analysis-console-extract-sum = [font="Monospace" size=11][color=orange]Total Research: {$value}[/color][/font]
+analysis-console-extract-value = [font="Monospace" size=11][color=orange]Nœud {$id} (+{$value})[/color][/font]
+analysis-console-extract-none = [font="Monospace" size=11][color=orange] Aucun nœud déverrouillé n'a de points à extraire [/color][/font]
+analysis-console-extract-sum = [font="Monospace" size=11][color=orange]Recherche totale : {$value}[/color][/font]
 
-analyzer-artifact-extract-popup = Energy shimmers on the artifact's surface!
+analyzer-artifact-extract-popup = De l'énergie scintille à la surface de l'artefact !

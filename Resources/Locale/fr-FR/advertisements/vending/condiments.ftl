@@ -6,10 +6,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-condiment-1 = Tired of dry meat? Squirt some flavor-packed condiments on it!
-advertisement-condiment-2 = Child-safe utensils. Forks, spoons, and knives that won't cut a thing.
-advertisement-condiment-3 = Corn oil!
-advertisement-condiment-4 = Sweeten up your day with Astrotame! Eight out of ten doctors agree, it probably won't cause cancer.
-advertisement-condiment-5 = Hot Sauce! Barbecue Sauce! Cold Sauce! Ketchup! Soy Sauce! Horseradish Sauce! We got all the sauce!
-advertisement-condiment-6 = Make sure to put ketchup and mustard on your burgers! The chefs often forget.
+advertisement-condiment-1 = Vous en avez assez de la viande sans saveur ? Ajoutez-y un peu de ces condiments pleins de goût !
+advertisement-condiment-2 = Couverts sans danger pour les enfants. Des fourchettes, cuillères et couteaux qui ne coupent pas.
+advertisement-condiment-3 = Huile de maïs !
+advertisement-condiment-4 = Adoucissez votre journée avec Astrotame ! Huit médecins sur dix s'accordent à dire que cela ne provoquera probablement pas de cancer.
+advertisement-condiment-5 = Sauce piquante ! Sauce barbecue ! Sauce froide ! Ketchup ! Sauce soja ! Sauce au raifort ! Nous avons toutes les sauces !
+advertisement-condiment-6 = N'oubliez pas de mettre du ketchup et de la moutarde sur vos hamburgers ! Les chefs l'oublient souvent.
 

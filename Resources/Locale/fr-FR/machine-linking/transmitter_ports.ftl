@@ -11,80 +11,80 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-signal-port-name-pressed = Pressed
-signal-port-description-pressed = This port is invoked whenever the transmitter is activated.
+signal-port-name-pressed = Appuyé
+signal-port-description-pressed = Ce port est invoqué chaque fois que l'émetteur est activé.
 
-signal-port-name-on-transmitter = On
-signal-port-description-on-transmitter = This port is invoked whenever the transmitter is turned on.
+signal-port-name-on-transmitter = Allumé
+signal-port-description-on-transmitter = Ce port est invoqué chaque fois que l'émetteur est allumé.
 
-signal-port-name-off-transmitter = Off
-signal-port-description-off-transmitter = This port is invoked whenever the transmitter is turned off.
+signal-port-name-off-transmitter = Éteint
+signal-port-description-off-transmitter = Ce port est invoqué chaque fois que l'émetteur est éteint.
 
-signal-port-name-status-transmitter = Status
-signal-port-description-status-transmitter = This port is invoked with HIGH or LOW depending on the transmitter status.
+signal-port-name-status-transmitter = Statut
+signal-port-description-status-transmitter = Ce port est invoqué avec HIGH ou LOW selon le statut de l'émetteur.
 
-signal-port-name-left = Left
-signal-port-description-left = This port is invoked whenever the lever is moved to the leftmost position.
+signal-port-name-left = Gauche
+signal-port-description-left = Ce port est invoqué chaque fois que le levier est déplacé vers la position la plus à gauche.
 
-signal-port-name-right = Right
-signal-port-description-right = This port is invoked whenever the lever is moved to the rightmost position.
+signal-port-name-right = Droite
+signal-port-description-right = Ce port est invoqué chaque fois que le levier est déplacé vers la position la plus à droite.
 
-signal-port-name-doorstatus = Door status
-signal-port-description-doorstatus = This port is invoked with HIGH when the door opens and LOW when the door finishes closing.
+signal-port-name-doorstatus = Statut de la porte
+signal-port-description-doorstatus = Ce port est invoqué avec HIGH quand la porte s'ouvre et LOW quand la porte finit de se fermer.
 
-signal-port-name-dockstatus = Dock status
-signal-port-description-dockstatus = This port is invoked with HIGH when docked and LOW when undocked.
+signal-port-name-dockstatus = Statut d'amarrage
+signal-port-description-dockstatus = Ce port est invoqué avec HIGH quand amarré et LOW quand non amarré.
 
-signal-port-name-middle = Middle
-signal-port-description-middle = This port is invoked whenever the lever is moved to the neutral position.
+signal-port-name-middle = Milieu
+signal-port-description-middle = Ce port est invoqué chaque fois que le levier est déplacé vers la position neutre.
 
-signal-port-name-trigger-sender = Trigger
-signal-port-description-trigger-sender = This port is invoked whenever the device triggers.
+signal-port-name-trigger-sender = Déclencheur
+signal-port-description-trigger-sender = Ce port est invoqué chaque fois que l'appareil se déclenche.
 
-signal-port-name-timer-trigger = Timer
-signal-port-description-timer-trigger = This port is invoked whenever the timer is up.
+signal-port-name-timer-trigger = Minuterie
+signal-port-description-timer-trigger = Ce port est invoqué chaque fois que la minuterie arrive à zéro.
 
-signal-port-name-timer-start = Timer Start
-signal-port-description-timer-start = This port is invoked whenever the timer starts.
+signal-port-name-timer-start = Démarrage de la minuterie
+signal-port-description-timer-start = Ce port est invoqué chaque fois que la minuterie démarre.
 
-signal-port-name-logic-output = Output
-signal-port-description-logic-output = This port is invoked with HIGH or LOW depending on the selected gate and inputs.
+signal-port-name-logic-output = Sortie
+signal-port-description-logic-output = Ce port est invoqué avec HIGH ou LOW selon la porte logique sélectionnée et les entrées.
 
-signal-port-name-logic-output-high = High Output
-signal-port-description-logic-output-high = This port is invoked whenever the input has a rising edge.
+signal-port-name-logic-output-high = Sortie Haute
+signal-port-description-logic-output-high = Ce port est invoqué chaque fois que l'entrée présente un front montant.
 
-signal-port-name-logic-output-low = Low Output
-signal-port-description-logic-output-low = This port is invoked whenever the input has a falling edge.
+signal-port-name-logic-output-low = Sortie Basse
+signal-port-description-logic-output-low = Ce port est invoqué chaque fois que l'entrée présente un front descendant.
 
 signal-port-name-air-danger = Danger
-signal-port-description-air-danger = This port is invoked with HIGH when in danger mode and LOW when not.
+signal-port-description-air-danger = Ce port est invoqué avec HIGH en mode danger et LOW sinon.
 
-signal-port-name-air-warning = Warning
-signal-port-description-air-warning = This port is invoked with HIGH when in warning mode and LOW when not.
+signal-port-name-air-warning = Avertissement
+signal-port-description-air-warning = Ce port est invoqué avec HIGH en mode avertissement et LOW sinon.
 
 signal-port-name-air-normal = Normal
-signal-port-description-air-normal = This port is invoked with HIGH when in normal mode and LOW when not.
+signal-port-description-air-normal = Ce port est invoqué avec HIGH en mode normal et LOW sinon.
 
-signal-port-name-decaying = Decaying
-signal-port-description-decaying = This port is invoked when a bound anomaly starts to decay.
+signal-port-name-decaying = Décroissance
+signal-port-description-decaying = Ce port est invoqué quand une anomalie liée commence à décroître.
 
-signal-port-name-stabilize = Stabilize
-signal-port-description-stabilize = This port is invoked when a bound anomaly is normalized.
+signal-port-name-stabilize = Stabilisation
+signal-port-description-stabilize = Ce port est invoqué quand une anomalie liée se normalise.
 
-signal-port-name-growing = Growing
-signal-port-description-growing = This port is invoked when a bound anomaly starts to grow.
+signal-port-name-growing = Croissance
+signal-port-description-growing = Ce port est invoqué quand une anomalie liée commence à croître.
 
-signal-port-name-pulse = Pulse
-signal-port-description-pulse = This port is invoked when a bound anomaly is pulsing.
+signal-port-name-pulse = Impulsion
+signal-port-description-pulse = Ce port est invoqué quand une anomalie liée émet une impulsion.
 
-signal-port-name-supercrit = Supercritical
-signal-port-description-supercrit = This port is invoked when a bound anomaly explode after supercrit state.
+signal-port-name-supercrit = Supercritique
+signal-port-description-supercrit = Ce port est invoqué quand une anomalie liée explose après l'état supercritique.
 
-signal-port-name-power-charging = Charging
-signal-port-description-power-charging = This port is invoked with HIGH when the battery is gaining charge and LOW when not.
+signal-port-name-power-charging = Charge
+signal-port-description-power-charging = Ce port est invoqué avec HIGH quand la batterie se charge et LOW sinon.
 
-signal-port-name-power-discharging = Discharging
-signal-port-description-power-discharging = This port is invoked with HIGH when the battery is losing charge and LOW when not.
+signal-port-name-power-discharging = Décharge
+signal-port-description-power-discharging = Ce port est invoqué avec HIGH quand la batterie se décharge et LOW sinon.
 
-signal-port-name-item-detected = Detected
-signal-port-description-item-detected = This port is invoked whenever the transmitter detects an item.
+signal-port-name-item-detected = Détecté
+signal-port-description-item-detected = Ce port est invoqué chaque fois que l'émetteur détecte un objet.

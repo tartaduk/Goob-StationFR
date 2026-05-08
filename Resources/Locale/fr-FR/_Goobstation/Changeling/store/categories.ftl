@@ -6,5 +6,5 @@
 
 # Changeling
 store-ling-category-combat = Combat
-store-ling-category-sting = Stings
-store-ling-category-utility = Utility
+store-ling-category-sting = Piqûres
+store-ling-category-utility = Utilitaire

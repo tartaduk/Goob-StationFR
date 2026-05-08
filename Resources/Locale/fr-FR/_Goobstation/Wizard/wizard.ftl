@@ -4,36 +4,36 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-roles-antag-wizard-name = Wizard
-roles-antag-wizard-description = Cause havoc and destruction to the station.
+roles-antag-wizard-name = Mage
+roles-antag-wizard-description = Semez le chaos et la destruction sur la station.
 
-roles-antag-apprentice-name = Apprentice
-roles-antag-apprentice-description = Aid the wizard who has summoned you and keep them alive.
+roles-antag-apprentice-name = Apprenti
+roles-antag-apprentice-description = Aidez le mage qui vous a invoqué et gardez-le en vie.
 
-wizard-roundend-name = wizard
-apprentice-roundend-name = apprentice
+wizard-roundend-name = mage
+apprentice-roundend-name = apprenti
 
-roles-wizard-name = Wizard
-roles-wizard-objective = Cause havoc and destruction to the station.
+roles-wizard-name = Mage
+roles-wizard-objective = Semez le chaos et la destruction sur la station.
 
-dynamic-gamerule-wizard-title = [color=cyan]Wizard[/color]
+dynamic-gamerule-wizard-title = [color=cyan]Mage[/color]
 
-objective-issuer-wizard-federation = [color=cyan]Space Wizard Federation[/color]
+objective-issuer-wizard-federation = [color=cyan]Fédération des Mages Spatiaux[/color]
 
 wizard-role-greeting =
-    You are a powerful space wizard. Your goal is to cause as much chaos as possible on {$station}, and survive. Space Wizard Federation provided you with magical wizard grimoire which you can use to learn devastating spells.
+    Vous êtes un puissant mage spatial. Votre objectif est de semer autant de chaos que possible sur {$station}, et de survivre. La Fédération des Mages Spatiaux vous a fourni un grimoire magique que vous pouvez utiliser pour apprendre des sorts dévastateurs.
 
-wizard-role-briefing = You are a space wizard. Survive and wreak havoc on the simpletons.
-apprentice-role-briefing = You are a space wizard apprentice. Keep whoever summoned you alive.
+wizard-role-briefing = Vous êtes un mage spatial. Survivez et semez le chaos parmi les ignorants.
+apprentice-role-briefing = Vous êtes un apprenti mage spatial. Gardez en vie celui qui vous a invoqué.
 
-admin-verb-make-wizard = Make the target into a wizard.
-admin-verb-text-make-wizard = Make Wizard
+admin-verb-make-wizard = Transformer la cible en mage.
+admin-verb-text-make-wizard = Rendre mage
 
-wizard-title = Wizard
-wizard-description = A powerful space wizard is visiting the station. Embrace the chaos.
+wizard-title = Mage
+wizard-description = Un puissant mage spatial visite la station. Embrassez le chaos.
 
 lich-greeting =
-    With a hideous feeling of emptiness you watch in horrified fascination as skin sloughs off bone! Blood boils, nerves disintegrate, eyes boil in their sockets! As your organs crumble to dust in your fleshless chest you come to terms with your choice.
-    You're a lich.
+    Avec un horrible sentiment de vide, vous regardez avec une fascination horrifiée votre peau glisser de vos os ! Le sang bout, les nerfs se désintègrent, les yeux bouillent dans leurs orbites ! Tandis que vos organes s'effritent en poussière dans votre poitrine sans chair, vous acceptez votre choix.
+    Vous êtes un liche.
 
-objective-condition-wizard-alive-title = Ensure wizard {$targetName} stays alive.
+objective-condition-wizard-alive-title = Assurer la survie du mage {$targetName}.

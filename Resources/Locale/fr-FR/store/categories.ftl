@@ -17,29 +17,29 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 # Uplink
-store-category-debug = debug category
-store-category-debug2 = debug category 2
-store-category-weapons = Weaponry
-store-category-ammo = Ammo
-store-category-explosives = Explosives
-store-category-chemicals = Chemicals
-store-category-deception = Deception
-store-category-disruption = Disruption
+store-category-debug = catégorie de débug
+store-category-debug2 = catégorie de débuge 2
+store-category-weapons = Armement
+store-category-ammo = Munitions
+store-category-explosives = Explosifs
+store-category-chemicals = Produits chimiques
+store-category-deception = Tromperie
+store-category-disruption = Perturbation
 store-category-implants = Implants
-store-category-allies = Allies
-store-category-job = Job
-store-category-wearables = Wearables
-store-category-contractor = Contractor
-store-category-pointless = Pointless
-store-discounted-items = Discounts
+store-category-allies = Alliés
+store-category-job = Poste
+store-category-wearables = Vêtements
+store-category-contractor = Contractant
+store-category-pointless = Inutile
+store-discounted-items = Réductions
 
 # Revenant
-store-category-abilities = Abilities
+store-category-abilities = Capacités
 
 # Wizard
-store-caregory-spellbook-offensive = Offensive Spells
-store-caregory-spellbook-defensive = Defensive Spells
-store-caregory-spellbook-utility = Utility Spells
-store-caregory-spellbook-equipment = Wizard Equipment
-store-caregory-spellbook-events = Event Spells
+store-caregory-spellbook-offensive = Sorts offensifs
+store-caregory-spellbook-defensive = Sorts défensifs
+store-caregory-spellbook-utility = Sorts utilitaires
+store-caregory-spellbook-equipment = Équipement de mage
+store-caregory-spellbook-events = Sorts d'événement
 

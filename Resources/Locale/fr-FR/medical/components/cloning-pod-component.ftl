@@ -8,6 +8,6 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-cloning-pod-biomass = It currently has [color=red]{$number}[/color] units of biomass.
+cloning-pod-biomass = Elle contient actuellement [color=red]{$number}[/color] unités de biomasse.
 
-cloning-pod-component-upgrade-emag-requirement = The card zaps something inside the cloning pod.
+cloning-pod-component-upgrade-emag-requirement = La carte fait grésiller quelque chose à l'intérieur de la capsule de clonage.

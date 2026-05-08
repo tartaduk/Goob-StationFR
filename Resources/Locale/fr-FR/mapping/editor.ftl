@@ -4,10 +4,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-mapping-entities = Entities
-mapping-tiles = Tiles
-mapping-decals = Decals
+mapping-entities = Entités
+mapping-tiles = Tuiles
+mapping-decals = Décals
 
-mapping-replace = Replace
-mapping-erase-entity = Erase Entity
-mapping-erase-decal = Erase Decal
+mapping-replace = Remplacer
+mapping-erase-entity = Effacer l'entité
+mapping-erase-decal = Effacer le décal

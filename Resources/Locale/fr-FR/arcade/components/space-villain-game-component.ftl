@@ -8,15 +8,15 @@
 
 ## SpaceVillainGame
 
-space-villain-game-player-attack-message = You attack {$enemyName} for {$attackAmount}!
-space-villain-game-player-heal-message = You use {$magicPointAmount} magic to heal for {$healAmount} damage!
-space-villain-game-player-recharge-message = You regain {$regainedPoints} points
-space-villain-game-player-wins-message = You won!
-space-villain-game-enemy-dies-message = {$enemyName} dies.
-space-villain-game-player-loses-message = You lost!
-space-villain-game-enemy-cheers-message = {$enemyName} cheers.
-space-villain-game-enemy-dies-with-player-message = {$enemyName} dies, but takes you with him.
-space-villain-game-enemy-throws-bomb-message = {$enemyName} throws a bomb, exploding you for {$damageReceived} damage!
-space-villain-game-enemy-steals-player-power-message = {$enemyName} steals {$stolenAmount} of your power!
-space-villain-game-enemy-heals-message = {$enemyName} heals for {$healedAmount} health!
-space-villain-game-enemy-attacks-message = {$enemyName} attacks you for {$damageDealt} damage!
+space-villain-game-player-attack-message = Vous attaquez {$enemyName} et infligez {$attackAmount} points de dégâts !
+space-villain-game-player-heal-message = Vous utilisez {$magicPointAmount} points de magie pour soigner {$healAmount} points de dégâts !
+space-villain-game-player-recharge-message = Vous regagnez {$regainedPoints} points
+space-villain-game-player-wins-message = Vous avez gagné !
+space-villain-game-enemy-dies-message = {$enemyName} meurt.
+space-villain-game-player-loses-message = Vous avez perdu !
+space-villain-game-enemy-cheers-message = {$enemyName} se réjouit.
+space-villain-game-enemy-dies-with-player-message = {$enemyName} meurt, mais vous emporte avec lui.
+space-villain-game-enemy-throws-bomb-message = {$enemyName} lance une bombe qui vous fait exploser et vous inflige {$damageReceived} points de dégâts !
+space-villain-game-enemy-steals-player-power-message = {$enemyName} vous vole {$stolenAmount} de votre puissance !
+space-villain-game-enemy-heals-message = {$enemyName} se soigne et regagne {$healedAmount} points de vie !
+space-villain-game-enemy-attacks-message = {$enemyName} t'attaque et t'inflige {$damageDealt} points de dégâts !

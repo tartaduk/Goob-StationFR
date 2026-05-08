@@ -4,11 +4,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-thief-fulton-set = Delivery coordinates are set.
-thief-fulton-clear = Delivery coordinates cleared.
+thief-fulton-set = Coordonnées de livraison définies.
+thief-fulton-clear = Coordonnées de livraison effacées.
 
-thief-fulton-examined-set = Coordinates entered. Bluespace teleportation of the nearest objects will be performed when the evacuation shuttle departs.
-thief-fulton-examined-unset = Beacon coordinates are not set.
+thief-fulton-examined-set = Coordonnées saisies. La téléportation par l'hyperespace des objets proches sera effectuée au départ de la navette d'évacuation.
+thief-fulton-examined-unset = Les coordonnées de la balise ne sont pas définies.
 
-thief-fulton-verb-text = Set coordinates
-thief-fulton-verb-message = Set the coordinates of your thief's hideout, where all nearby items will be sent at the end of the round.
+thief-fulton-verb-text = Définir les coordonnées
+thief-fulton-verb-message = Définissez les coordonnées de la planque du voleur, où tous les objets proches seront envoyés en fin de ronde.

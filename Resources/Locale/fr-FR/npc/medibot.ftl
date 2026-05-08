@@ -7,10 +7,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-medibot-start-inject = Hold still, please.
-medibot-finish-inject = All done.
+medibot-start-inject = Restez tranquille, s'il vous plaît.
+medibot-finish-inject = C'est terminé.
 
-medibot-target-dead = The patient is dead.
-medibot-target-healthy = The patient is already healthy.
-medibot-target-injected = The patient was injected.
-medibot-recently-injected = The patient was recently injected.
+medibot-target-dead = Le patient est mort.
+medibot-target-healthy = Le patient est déjà en bonne santé.
+medibot-target-injected = Le patient a reçu son injection.
+medibot-recently-injected = Le patient a récemment reçu une injection.

@@ -1,12 +1,12 @@
-ghost-role-information-wraith-name = Wraith
-ghost-role-information-wraith-description = You are a wraith! Taken from your home in a better sector of space, your astral powers enable you to survive one banishment. Beware of salt. Absorb corpses to evolve into a much more powerful being.
-ghost-role-information-wraith-rules =  You are a [color=red]Solo Antagonist[/color] capable of summoning minions to your aid. You should generally aim to cause as much death as possible, through any means necessary. You are capable of speaking with ghosts, and may use any information they have to your advantage.
+ghost-role-information-wraith-name = Spectre
+ghost-role-information-wraith-description = Vous êtes un spectre ! Arraché de votre foyer dans un meilleur secteur de l'espace, vos pouvoirs astraux vous permettent de survivre à un bannissement. Méfiez-vous du sel. Absorbez des cadavres pour évoluer en un être bien plus puissant.
+ghost-role-information-wraith-rules =  Vous êtes un [color=red]antagoniste solo[/color] capable d'invoquer des sbires à votre aide. Vous devriez généralement chercher à causer autant de morts que possible, par tous les moyens nécessaires. Vous êtes capable de parler aux fantômes et pouvez utiliser toute information qu'ils ont à votre avantage.
 
-wraith-round-end-agent-name = Wraith
+wraith-round-end-agent-name = Spectre
 
 wraith-role-greeting =
-    You are the [color=red]Wraith[/color], a vengeful spirit taken from the Void. Angry and confused, killing is the only thing you remember how to do.
-    Your actions permit you to turn their own station against them. Possess objects, haunt the crew, and use their corpses as fuel for your soul to evolve into an even stronger spirit.
-    Your weakness is [color=white]salt[/color]. Walking over any form of salt will [color=darkred]cause you to become corporeal and unable to use your powers[/color]. Being caught in such a state will surely lead to your swift demise.
-    As a spirit, however, you are capable of surviving banishment once. It will leave you severely weakened, but will allow you to slowly regain your forces to enact your revenge.
-    Fear the chaplain, as they are immune to most of your actions, and can even purge the effects of your powers from others. Absorbing their corpse would surely be satisfying...
+    Vous êtes le [color=red]Spectre[/color], un esprit vengeur arraché du Vide. En colère et confus, tuer est la seule chose dont vous vous souvenez.
+    Vos actions vous permettent de retourner leur propre station contre eux. Possédez des objets, hantez l'équipage et utilisez leurs cadavres comme carburant pour que votre âme évolue en un esprit encore plus puissant.
+    Votre faiblesse est le [color=white]sel[/color]. Marcher sur du sel sous quelque forme que ce soit vous [color=darkred]rendra corporel et incapable d'utiliser vos pouvoirs[/color]. Être pris dans cet état mènera sûrement à votre rapide perte.
+    En tant qu'esprit, cependant, vous êtes capable de survivre à un bannissement. Cela vous laissera sévèrement affaibli, mais vous permettra de regagner lentement vos forces pour exercer votre vengeance.
+    Craignez l'aumônier, car il est immunisé contre la plupart de vos actions et peut même purger les effets de vos pouvoirs sur les autres. Absorber son cadavre serait sûrement satisfaisant...

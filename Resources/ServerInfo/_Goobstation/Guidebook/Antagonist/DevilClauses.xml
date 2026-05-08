@@ -11,7 +11,7 @@
     [color=#999999][italic]-35 Poids[/italic][/color]
   </Box>
 
-  - Réduit de moitié tous les dégâts subis par le contracté.
+  - Réduit de moitié tous les dégâts subis par le client.
   - Augmente les dégâts sacrés subis.
 
 <!-- Disabled, Used by shitters  ## Avarice
@@ -19,7 +19,7 @@
     [color=#999999][italic]-30 Poids[/italic][/color]
   </Box>
 
-  - Permet au contracté d'avaler des choses entières, comme un dragon.
+  - Permet au client d'avaler des choses entières, comme un dragon.
   -->
 
   ## Peur de la mort
@@ -27,14 +27,14 @@
     [color=#999999][italic]-25 Poids[/italic][/color]
   </Box>
 
-  - Fait en sorte que le contracté n'ait pas d'état critique. On tient debout, ou on meurt.
+  - Fait en sorte que le client n'ait pas d'état critique. On tient debout, ou on meurt.
 
   ## Mort
   <Box>
     [color=#999999][italic]-25 Poids[/italic][/color]
   </Box>
 
-  - Permet au contracté de se ranimer exactement une fois à sa mort.
+  - Permet au client de se ranimer exactement une fois à sa mort.
   - Présente par défaut sur chaque contrat.
 
   ## Ombres
@@ -42,77 +42,77 @@
     [color=#999999][italic]-25 Poids[/italic][/color]
   </Box>
 
-  - Rend le contracté invisible.
+  - Rend le client invisible.
 
   ## Richesse
   <Box>
     [color=#999999][italic]-20 Poids[/italic][/color]
   </Box>
 
-  - Octroie au contracté une paire de baskets de compèt', signées par Michael Jordan lui-même.
+  - Octroie au client une paire de baskets de compèt', signées par Michael Jordan lui-même.
 
   ## Peur du feu
   <Box>
     [color=#999999][italic]-20 Poids[/italic][/color]
   </Box>
 
-  - Rend le contracté immunisé au feu et à la mise à feu.
+  - Rend le client immunisé au feu et à la mise à feu.
 
   ## Chance
   <Box>
     [color=#999999][italic]-15 Poids[/italic][/color]
   </Box>
 
-  - Octroie au contracté une clause entièrement aléatoire. Prêt à tenter votre chance ?
+  - Octroie au client une clause entièrement aléatoire. Prêt à tenter votre chance ?
 
   ## Peur de la mumière
   <Box>
     [color=#999999][italic]-15 Poids[/italic][/color]
   </Box>
 
-  - Rend le contracté immunisé aux flashs.
+  - Rend le client immunisé aux flashs.
 
   ## Peur de l'électricité
   <Box>
     [color=#999999][italic]-15 Poids[/italic][/color]
   </Box>
 
-  - Rend le contracté immunisé aux chocs électriques.
+  - Rend le client immunisé aux chocs électriques.
 
   ## Gloutonnerie
   <Box>
     [color=#999999][italic]-10 Poids[/italic][/color]
   </Box>
 
-  - Supprime le besoin de nourriture et d'eau du contracté.
+  - Supprime le besoin de nourriture et d'eau du client.
 
   ## Peur de la noyade
   <Box>
     [color=#999999][italic]-10 Poids[/italic][/color]
   </Box>
 
-  - Supprime le besoin de respirer du contracté.
+  - Supprime le besoin de respirer du client.
 
   ## Peur des clowns
   <Box>
     [color=#999999][italic]-10 Poids[/italic][/color]
   </Box>
 
-  - Empêche le contracté de glisser.
+  - Empêche le client de glisser.
 
   ## Peur d'être écrasé
   <Box>
     [color=#999999][italic]-10 Poids[/italic][/color]
   </Box>
 
-  - Rend le contracté immunisé aux dégâts de pression.
+  - Rend le client immunisé aux dégâts de pression.
 
   ## Peur du Gel
   <Box>
     [color=#999999][italic]-10 Poids[/italic][/color]
   </Box>
 
-  - Rend le contracté immunisé aux basses températures.
+  - Rend le client immunisé aux basses températures.
 
   ## Cupidité
   <Box>
@@ -126,7 +126,7 @@
     [color=#999999][italic]-5 Poids[/italic][/color]
   </Box>
 
-  - Le contracté ne ressent plus la douleur et n'en subit plus les effets négatifs.
+  - Le client ne ressent plus la douleur et n'en subit plus les effets négatifs.
 
   ## Paix intérieure
   <Box>
@@ -140,28 +140,28 @@
     [color=#999999][italic]20 Poids[/italic][/color]
   </Box>
 
-  - Rend le contracté muet de façon permanente.
+  - Rend le client muet de façon permanente.
 
   ## Une main
   <Box>
     [color=#999999][italic]20 Poids[/italic][/color]
   </Box>
 
-  - Tranche immédiatement l'une des mains du contracté.
+  - Tranche immédiatement l'une des mains du client.
 
   ## Une jambe
   <Box>
     [color=#999999][italic]20 Poids[/italic][/color]
   </Box>
 
-  - Tranche immédiatement l'une des jambes du contracté.
+  - Tranche immédiatement l'une des jambes du client.
 
   ## Propriété de l'âme
   <Box>
     [color=#999999][italic]25 Poids[/italic][/color]
   </Box>
 
-  - Transfère la propriété d'une âme au contractant.
+  - Transfère la propriété d'une âme au prestataire.
   - Présente par défaut sur chaque contrat.
 
   ## Force
@@ -169,14 +169,14 @@
     [color=#999999][italic]30 Poids[/italic][/color]
   </Box>
 
-  - Le contracté subit le double des dégâts.
+  - Le client subit le double des dégâts.
 
   ## Cohérence
   <Box>
     [color=#999999][italic]30 Poids[/italic][/color]
   </Box>
 
-  - Rend le contracté maladroit et perturbe son élocution.
+  - Rend le client maladroit et perturbe son élocution.
 
   ## Éveil
   <Box>
@@ -190,7 +190,7 @@
     [color=#999999][italic]30 Poids[/italic][/color]
   </Box>
 
-  - Fait tomber l'un des organes du contracté par terre.
+  - Fait tomber l'un des organes du client par terre.
   - Il s'agit très probablement du cœur.
 
   ## Les jambes
@@ -198,28 +198,28 @@
     [color=#999999][italic]40 Poids[/italic][/color]
   </Box>
 
-  - Paralyse définitivement les deux jambes du contracté.
+  - Paralyse définitivement les deux jambes du client.
 
   ## La vue
   <Box>
     [color=#999999][italic]60 Poids[/italic][/color]
   </Box>
 
-  - Aveugle définitivement le contracté.
+  - Aveugle définitivement le client.
 
   ## La volonté de se battre
   <Box>
     [color=#999999][italic]60 Poids[/italic][/color]
   </Box>
 
-  - Pacifie définitivement le contracté.
+  - Pacifie définitivement le client.
 
   ## Humanité
   <Box>
     [color=#999999][italic]80 Poids[/italic][/color]
   </Box>
 
-  - Transforme le contracté en grenouille.
+  - Transforme le client en grenouille.
   - C'est permanent.
 
   ## Le temps
@@ -227,5 +227,5 @@
     [color=#999999][italic]150 Poids[/italic][/color]
   </Box>
 
-  - Tue le contracté au bout de cinq minutes.
+  - Tue le client au bout de cinq minutes.
 </Document>

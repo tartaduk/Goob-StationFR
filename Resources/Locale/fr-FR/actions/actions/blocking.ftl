@@ -7,12 +7,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-action-popup-blocking-user = You raise your {$shield}!
-action-popup-blocking-disabling-user = You lower your {$shield}!
+action-popup-blocking-user = Vous levez votre {$shield} !
+action-popup-blocking-disabling-user = Vous baissez votre {$shield} !
 
-action-popup-blocking-other = {CAPITALIZE(THE($blockerName))} raises {POSS-ADJ($blockerName)} {$shield}!
-action-popup-blocking-disabling-other = {CAPITALIZE(THE($blockerName))} lowers {POSS-ADJ($blockerName)} {$shield}!
+action-popup-blocking-other = {CAPITALIZE(THE($blockerName))} lève {POSS-ADJ($blockerName)} {$shield} !
+action-popup-blocking-disabling-other = {CAPITALIZE(THE($blockerName))} baisse {POSS-ADJ($blockerName)} {$shield} !
 
-action-popup-blocking-user-cant-block = You tried to raise your shield, but it was no use.
-action-popup-blocking-user-too-close = There's no room here to block. Try moving a bit!
+action-popup-blocking-user-cant-block = Vous avez essayé de lever votre bouclier, mais en vain.
+action-popup-blocking-user-too-close = Pas assez de place ici pour bloquer. Essayez de vous déplacer un peu !
 

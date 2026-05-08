@@ -3,4 +3,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-spell-fail-no-hands = You don't have hands!
+spell-fail-no-hands = Vous n'avez pas de mains !

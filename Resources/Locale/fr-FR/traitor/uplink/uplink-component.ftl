@@ -5,17 +5,17 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-uplink-bound-user-interface-insufficient-funds-popup = Insufficient funds!
+uplink-bound-user-interface-insufficient-funds-popup = Fonds insuffisants !
 
-uplink-bound-user-interface-tc-balance-popup = TC Balance: [color={$weightedColor}]{$balance}[/color]
+uplink-bound-user-interface-tc-balance-popup = Solde TC : [color={$weightedColor}]{$balance}[/color]
 
-uplink-user-interface-title = Uplink
+uplink-user-interface-title = Liaison
 
-uplink-user-interface-search-label = Search
+uplink-user-interface-search-label = Rechercher
 
 # Withdraw UI
 
-uplink-user-interface-withdraw-button = Withdraw TC
-uplink-user-interface-withdraw-title = Withdraw TC
-uplink-user-interface-withdraw-withdraw-button = Withdraw
-uplink-user-interface-withdraw-cancel-button = Cancel
+uplink-user-interface-withdraw-button = Retirer des TC
+uplink-user-interface-withdraw-title = Retirer des TC
+uplink-user-interface-withdraw-withdraw-button = Retirer
+uplink-user-interface-withdraw-cancel-button = Annuler

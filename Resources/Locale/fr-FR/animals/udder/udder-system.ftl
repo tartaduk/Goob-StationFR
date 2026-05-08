@@ -8,8 +8,8 @@
 
 ### Udder system
 
-udder-system-already-milking = The udder is already being milked.
-udder-system-success = You fill {THE($target)} with {$amount}u from the udder.
-udder-system-dry = The udder is dry.
+udder-system-already-milking = Le pis est déjà en train d'être trait.
+udder-system-success = Tu remplis {THE($target)} avec {$amount}u provenant du pis.
+udder-system-dry = Le pis est à sec.
 
-udder-system-verb-milk = Milk
+udder-system-verb-milk = Traire

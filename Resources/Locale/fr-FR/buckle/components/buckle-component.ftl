@@ -6,10 +6,10 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-buckle-component-no-hands-message = You don't have hands!
-buckle-component-already-buckled-message = You are already buckled in!
-buckle-component-other-already-buckled-message = {$owner} is already buckled in!
-buckle-component-cannot-buckle-message = You can't buckle yourself there!
-buckle-component-other-cannot-buckle-message = You can't buckle {$owner} there!
-buckle-component-cannot-fit-message = You can't fit there!
-buckle-component-other-cannot-fit-message = {$owner} can't fit there!
+buckle-component-no-hands-message = Vous n'avez pas de mains !
+buckle-component-already-buckled-message = Vous êtes déjà attaché !
+buckle-component-other-already-buckled-message = {$owner} est déjà attaché !
+buckle-component-cannot-buckle-message = Vous ne pouvez pas vous attacher à cet endroit !
+buckle-component-other-cannot-buckle-message = Vous ne pouvez pas attacher {$owner} à cet endroit !
+buckle-component-cannot-fit-message = Vous ne pouvez pas vous installer là !
+buckle-component-other-cannot-fit-message = {$owner} ne peut pas s'installer là !

@@ -24,17 +24,17 @@
   Les contrats sont indestructibles une fois signés ; il n'y a pas de retour en arrière une fois que la plume touche le parchemin.
 
   L'effet particulier d'un contrat change selon les [bold] clauses [/bold] qui y sont inscrites.
-  Les effets peuvent s'appliquer au Contractant (le Diable) ou au Contracté (le signataire).
+  Les effets peuvent s'appliquer au Prestataire (le Diable) ou au Client (le signataire).
 
-  Préfixer une [bold]Clause[/bold] avec « Contracté : » ou « Contractant : » déterminera à qui elle s'applique.
+  Préfixer une [bold]Clause[/bold] avec « Client : » ou « Prestataire : » déterminera à qui elle s'applique.
 
   Une [bold]Clause[/bold] est un concept ou une chose que l'une des parties abandonne, soit à l'autre partie, soit en la détruisant entièrement.
 
   Exemple :
-    Contracté : Faiblesse
-    Contracté : Âme
+    Le client : Faiblesse
+    Le client : Propriété de son âme
 
-  Dans le contrat ci-dessus, le contracté abandonne sa faiblesse et les droits sur son âme.
+  Dans le contrat ci-dessus, le client abandonne sa faiblesse et les droits sur son âme.
   Abandonner sa faiblesse vous accordera une résistance massive à tous les types de dégâts, mais abandonner votre âme pourrait avoir des conséquences imprévues.
 
   ## Poids du Contrat
@@ -43,7 +43,7 @@
   Les contrats dont le poids est déséquilibré (inférieur à zéro) ne peuvent pas être signés.
 
   Chaque clause a sa propre valeur de poids.
-  En règle générale, plus une clause est avantageuse pour le contracté, plus son poids sera élevé.
+  En règle générale, plus une clause est avantageuse pour le client, plus son poids sera élevé.
 
   Cela signifie concrètement que vous devez équilibrer les bonnes clauses avec les mauvaises.
   [italic] Il est important de noter qu'il n'y a pas de limite au nombre de mauvaises clauses que vous pouvez mettre dans un seul contrat — lisez toujours les petits caractères ! [/italic]
@@ -53,7 +53,7 @@
   Vendre son âme est une chose délicate, et c'est généralement ce que recherchent la plupart des diables.
   En tant que diable, votre objectif principal est de collecter autant d'âmes que possible. Plus vous en gagnez, plus vous devenez puissant.
 
-  En tant que contracté, vendre votre âme a des conséquences.
+  En tant que client, vendre votre âme a des conséquences.
   - Sans âme, vous irez [bold][color=red]DIRECTEMENT[/color][/bold] en enfer à votre mort. Plus de deuxièmes chances.
   - Vous ne pouvez plus conclure aucun pacte après avoir vendu votre âme.
   - Vous serez marqué comme « Damné », ce qui pourrait avoir d'autres conséquences.
@@ -117,7 +117,7 @@
 
   ## La ruse fonctionne dans les deux sens !
 
-  Le contracté n'est pas la seule personne qui peut être trompée.
+  Le client n'est pas la seule personne qui peut être trompée.
   Le poids du contrat est appliqué [bold] peu importe à qui l'effet s'applique [/bold]
 
   Cela signifie que si vous pouvez amener un diable à signer un document lui portant préjudice, vous pouvez obtenir des clauses positives gratuitement !

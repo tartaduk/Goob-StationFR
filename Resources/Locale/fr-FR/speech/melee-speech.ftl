@@ -5,5 +5,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-melee-speech-current-battlecry = Battlecry:
-melee-speech-menu-title = Set Battlecry
+melee-speech-current-battlecry = Cri de guerre :
+melee-speech-menu-title = Définir le cri de guerre

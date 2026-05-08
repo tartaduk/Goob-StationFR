@@ -7,54 +7,54 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-job-name-futureagent = Future Agent
-job-name-salvagediver = Salvage Diver
-job-name-ntr = Nanotrasen Representative
-job-name-bs = Blueshield
-job-name-overall = Overall
-job-name-tider = Tider
+job-name-futureagent = Agent futur
+job-name-salvagediver = Plongeur de récupération
+job-name-ntr = Représentant Nanotrasen
+job-name-bs = Bouclier bleu
+job-name-overall = Général
+job-name-tider = Fauteur de trouble
 
-job-name-exec = Executive Access
+job-name-exec = Accès exécutif
 
 # Navy Stuff
 
-job-name-navy-officer = Navy Officer
-job-name-navy-officer-undercover = Undercover Navy Officer
-job-name-navy-captain = Navy Captain
-job-name-diplomat = Diplomat
-job-name-inspector = Central Command Auditor
-job-name-nct = Nanotrasen Career Trainer
-job-name-outercommander = Outer Commander
+job-name-navy-officer = Officier de marine
+job-name-navy-officer-undercover = Officier de marine en couverture
+job-name-navy-captain = Capitaine de marine
+job-name-diplomat = Diplomate
+job-name-inspector = Auditeur du Commandement Central
+job-name-nct = Formateur de carrière Nanotrasen
+job-name-outercommander = Commandant extérieur
 
 # Syndicate
 
-job-name-highcommander = High Commander
+job-name-highcommander = Haut commandant
 
 # Half Life
 
-job-name-hecu = HECU Operative
-job-name-governmentman = The G-Man
+job-name-hecu = Opérateur HECU
+job-name-governmentman = Le G-Man
 
 # Misc
 
-job-name-conquest = Conquest
-job-name-mercenarycaptain = Mercenary Captain
-job-name-radiohost = Radio Host
+job-name-conquest = Conquête
+job-name-mercenarycaptain = Capitaine mercenaire
+job-name-radiohost = Animateur radio
 
 # Role timers - Make these alphabetical or I cut you (dont listen to upstream, i copied and pasted this, make it very un-alphabetical :godo:)
 
-JobBlueshieldOfficer = Blueshield Officer
-JobNanotrasenRepresentative = Nanotrasen Representative
-JobNanotrasenCareerTrainer = Nanotrasen Career Trainer
-JobHecuOperative = HECU Operative
-JobNavyOfficer = Navy Officer
-JobNavyOfficerUndercover = Undercover Navy Officer
-JobNavyCaptain = Navy Captain
-JobDiplomat = Diplomat
-JobGovernmentMan = The G-Man
-JobConquest = Conquest
-JobInspector = Central Command Auditor
-JobMercenaryCaptain = Mercenary Captain
-JobRoboticist = Roboticist
-JobRadioHost = Radio Host
-JobVirologist = Virologist
+JobBlueshieldOfficer = Officier Blueshield
+JobNanotrasenRepresentative = Représentant Nanotrasen
+JobNanotrasenCareerTrainer = Formateur de carrière Nanotrasen
+JobHecuOperative = Opérateur HECU
+JobNavyOfficer = Officier de marine
+JobNavyOfficerUndercover = Officier de marine en couverture
+JobNavyCaptain = Capitaine de marine
+JobDiplomat = Diplomate
+JobGovernmentMan = Le G-Man
+JobConquest = Conquête
+JobInspector = Auditeur du Commandement Central
+JobMercenaryCaptain = Capitaine mercenaire
+JobRoboticist = Roboticien
+JobRadioHost = Animateur radio
+JobVirologist = Virologiste

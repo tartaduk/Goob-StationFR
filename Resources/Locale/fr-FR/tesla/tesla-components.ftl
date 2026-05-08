@@ -4,8 +4,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-tesla-coil-on = The tesla coil turns on.
-tesla-coil-off = The tesla coil turns off.
+tesla-coil-on = La bobine Tesla s'allume.
+tesla-coil-off = La bobine Tesla s'éteint.
 
-tesla-grounding-on = The grounding rod turns on.
-tesla-grounding-off = The grounding rod turns off.
+tesla-grounding-on = La tige de mise à la terre s'allume.
+tesla-grounding-off = La tige de mise à la terre s'éteint.

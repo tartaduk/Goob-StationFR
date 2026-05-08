@@ -4,5 +4,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-advertisement-bardrobe-1 = Guaranteed to prevent stains from spilled drinks!
-advertisement-bardrobe-2 = Classy and stylish!
+advertisement-bardrobe-1 = Garantit de protéger contre les taches de boissons renversées !
+advertisement-bardrobe-2 = Classe et élégant !

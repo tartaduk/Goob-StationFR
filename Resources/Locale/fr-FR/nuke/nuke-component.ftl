@@ -16,37 +16,37 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-nuke-component-cant-anchor-floor = The anchoring bolts fail to lock into the floor!
-nuke-component-cant-anchor-toggle = The nuclear authentication disk is required to toggle the floor bolts!
-nuke-component-announcement-sender = Nuclear Fission Explosive
-nuke-component-announcement-armed = Attention! The station's self-destruct mechanism has been engaged {$location}. {$time} seconds until detonation. If this was made in error, the mechanism may still be disarmed.
-nuke-component-announcement-unarmed = The station's self-destruct was deactivated! Have a nice day!
-nuke-component-announcement-send-codes = Attention! Self-destruction codes have been sent to designated fax machines.
-nuke-component-doafter-warning = You start fiddling with wires and knobs in order to disarm the nuke.. This may take a while.
+nuke-component-cant-anchor-floor = Les boulons d'ancrage ne parviennent pas à se verrouiller dans le plancher !
+nuke-component-cant-anchor-toggle = Le disque d'authentification nucléaire est requis pour basculer les boulons de plancher !
+nuke-component-announcement-sender = Explosif à Fission Nucléaire
+nuke-component-announcement-armed = Attention ! Le mécanisme d'autodestruction de la station a été enclenché {$location}. {$time} secondes avant détonation. Si c'est une erreur, le mécanisme peut encore être désarmé.
+nuke-component-announcement-unarmed = L'autodestruction de la station a été désactivée ! Bonne journée !
+nuke-component-announcement-send-codes = Attention ! Les codes d'autodestruction ont été envoyés aux télécopieurs désignés.
+nuke-component-doafter-warning = Vous commencez à bidouiller les fils et les boutons pour désarmer la nuke... Cela peut prendre un moment.
 
-nuke-disk-component-microwave = The disk sparks and fizzles a bit, but seems mostly unharmed?
+nuke-disk-component-microwave = Le disque crépite et grésille un peu, mais semble globalement intact ?
 
 # Nuke UI
-nuke-user-interface-title = Nuclear Fission Explosive
-nuke-user-interface-arm-button = ARM
-nuke-user-interface-disarm-button = DISARM
-nuke-user-interface-anchor-button = ANCHOR
-nuke-user-interface-eject-button = EJECT
+nuke-user-interface-title = Explosif à Fission Nucléaire
+nuke-user-interface-arm-button = ARMER
+nuke-user-interface-disarm-button = DÉSARMER
+nuke-user-interface-anchor-button = ANCRER
+nuke-user-interface-eject-button = ÉJECTER
 
 ## Upper status
-nuke-user-interface-first-status-device-locked = DEVICE LOCKED
-nuke-user-interface-first-status-input-code = INPUT CODE
-nuke-user-interface-first-status-input-time = INPUT TIME
-nuke-user-interface-first-status-device-ready = DEVICE READY
-nuke-user-interface-first-status-device-armed = DEVICE ARMED
-nuke-user-interface-first-status-device-cooldown = DEACTIVATED
-nuke-user-interface-status-error = ERROR
+nuke-user-interface-first-status-device-locked = APPAREIL VERROUILLÉ
+nuke-user-interface-first-status-input-code = ENTRER LE CODE
+nuke-user-interface-first-status-input-time = ENTRER LE TEMPS
+nuke-user-interface-first-status-device-ready = APPAREIL PRÊT
+nuke-user-interface-first-status-device-armed = APPAREIL ARMÉ
+nuke-user-interface-first-status-device-cooldown = DÉSACTIVÉ
+nuke-user-interface-status-error = ERREUR
 
 ## Lower status
-nuke-user-interface-second-status-await-disk = AWAIT DISK
-nuke-user-interface-second-status-time = TIME: {$time}
-nuke-user-interface-second-status-current-code = CODE: {$code}
-nuke-user-interface-second-status-cooldown-time = WAIT: {$time}
+nuke-user-interface-second-status-await-disk = ATTENTE DISQUE
+nuke-user-interface-second-status-time = TEMPS : {$time}
+nuke-user-interface-second-status-current-code = CODE : {$code}
+nuke-user-interface-second-status-cooldown-time = ATTENTE : {$time}
 
 ## Nuke labels
 nuke-label-nanotrasen = NT-{$serial}
@@ -56,13 +56,13 @@ nuke-label-nanotrasen = NT-{$serial}
 nuke-label-syndicate = SYN-{$serial}
 
 # Codes
-nuke-codes-message = [color=red]TOP SECRET![/color]
-nuke-codes-list = {$name} code: {$code}
-nuke-codes-fax-paper-name = nuclear authentication codes
+nuke-codes-message = [color=red]ULTRA SECRET ![/color]
+nuke-codes-list = Code {$name} : {$code}
+nuke-codes-fax-paper-name = codes d'authentification nucléaire
 
 # Nuke disk slot
-nuke-slot-component-slot-name-disk = Disk
+nuke-slot-component-slot-name-disk = Disque
 
 ## Examine
-nuke-examine-armed = Hey uh, why's that [color=red]red light[/color] blinking?
-nuke-examine-exploding = Yeah... I think it's too late buddy.
+nuke-examine-armed = Hé euh, pourquoi ce [color=red]voyant rouge[/color] clignote ?
+nuke-examine-exploding = Ouais... Je pense qu'il est trop tard.

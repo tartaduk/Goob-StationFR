@@ -6,5 +6,5 @@
 
 # Action menu stuff (left panel, with hotbars etc)
 
-ui-actionmenu-function-lock-action-slots = (Un)lock dragging and clearing action slots
-ui-actionmenu-function-open-abilities-menu = Open action menu
+ui-actionmenu-function-lock-action-slots = (Dé)verrouiller le glissement et l'effacement des slots d'action
+ui-actionmenu-function-open-abilities-menu = Ouvrir le menu d'actions

@@ -7,15 +7,15 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-objective-condition-absorb-title = Absorb {$count} humanoids.
-objective-condition-absorb-description = We must absorb {$count} humanoids. It is necessary for our survival and further evolution.
+objective-condition-absorb-title = Absorber {$count} humanoïdes.
+objective-condition-absorb-description = Nous devons absorber {$count} humanoïdes. C'est nécessaire à notre survie et à notre évolution.
 
-objective-condition-absorb-other-title = Absorb {$count} other changeling(s).
-objective-condition-absorb-other-description = In order to attain true power, we must absorb changelings. {$count} will suffice.
+objective-condition-absorb-other-title = Absorber {$count} autre(s) changeling(s).
+objective-condition-absorb-other-description = Pour atteindre le vrai pouvoir, nous devons absorber des changelings. {$count} suffiront.
 
-objective-condition-stealdna-title = Extract {$count} compatible, unique genomes.
-objective-condition-stealdna-description = We must extract {$count} unique genomes.
+objective-condition-stealdna-title = Extraire {$count} génomes compatibles et uniques.
+objective-condition-stealdna-description = Nous devons extraire {$count} génomes uniques.
 
-objective-condition-escape-identity-title = Escape on the evacuation shuttle alive and unrestrained while being {$targetName}, {CAPITALIZE($job)}.
+objective-condition-escape-identity-title = Échapper sur la navette d'évacuation vivant et non retenu en étant {$targetName}, {CAPITALIZE($job)}.
 
-objective-condition-changelingsteal-description = Our worshippers want us to retrieve it. The reason doesn't concern us.
+objective-condition-changelingsteal-description = Nos fidèles veulent que nous le récupérions. La raison ne nous concerne pas.

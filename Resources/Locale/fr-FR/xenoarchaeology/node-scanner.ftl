@@ -5,12 +5,12 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-node-scan-tooltip = Scan active nodes
-node-scan-no-data = No active node data found
-node-scan-display-title = Node scanner
+node-scan-tooltip = Scanner les nœuds actifs
+node-scan-no-data = Aucune donnée de nœud actif trouvée
+node-scan-display-title = Scanner de nœuds
 
-node-scanner-artifact-state-ready = Artifact is ready for interaction
-node-scanner-artifact-state-unlocking = Artifact is resonating with your actions
-node-scanner-artifact-state-cooldown = Artifact is resting
-node-scanner-artifact-connected = Scanning artifact
-node-scanner-artifact-non-connected = Artifact not found or out of range
+node-scanner-artifact-state-ready = L'artefact est prêt pour l'interaction
+node-scanner-artifact-state-unlocking = L'artefact résonne avec vos actions
+node-scanner-artifact-state-cooldown = L'artefact se repose
+node-scanner-artifact-connected = Scan de l'artefact en cours
+node-scanner-artifact-non-connected = Artefact non trouvé ou hors de portée

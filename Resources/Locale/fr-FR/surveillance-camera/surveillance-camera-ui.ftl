@@ -4,16 +4,16 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-surveillance-camera-monitor-ui-window = Camera monitor
-surveillance-camera-monitor-ui-refresh-cameras = Refresh cameras
-surveillance-camera-monitor-ui-refresh-subnets = Refresh subnets
-surveillance-camera-monitor-ui-disconnect = Disconnect
+surveillance-camera-monitor-ui-window = Moniteur de caméra
+surveillance-camera-monitor-ui-refresh-cameras = Actualiser les caméras
+surveillance-camera-monitor-ui-refresh-subnets = Actualiser les sous-réseaux
+surveillance-camera-monitor-ui-disconnect = Déconnecter
 surveillance-camera-monitor-ui-status = {$status} {$address}
-surveillance-camera-monitor-ui-status-connecting = Connecting:
-surveillance-camera-monitor-ui-status-connected = Connected:
-surveillance-camera-monitor-ui-status-disconnected = Disconnected
-surveillance-camera-monitor-ui-no-subnets = No Subnets
+surveillance-camera-monitor-ui-status-connecting = Connexion en cours :
+surveillance-camera-monitor-ui-status-connected = Connecté :
+surveillance-camera-monitor-ui-status-disconnected = Déconnecté
+surveillance-camera-monitor-ui-no-subnets = Aucun sous-réseau
 
-surveillance-camera-setup = Setup
-surveillance-camera-setup-ui-set = Set
+surveillance-camera-setup = Configuration
+surveillance-camera-setup-ui-set = Définir
 

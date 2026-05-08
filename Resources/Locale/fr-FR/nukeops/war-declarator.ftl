@@ -6,18 +6,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-war-declarator-not-working = The device makes beeping noises, but nothing happens...
-war-declarator-ui-header = Declaration of War
-war-declarator-ui-war-button = DECLARE WAR!
-war-declarator-ui-try-war-button = Try to declare war
-war-declarator-conditions-small-crew = There are not enough nuclear operatives to declare war!
-war-declarator-conditions-left-outpost = Shuttle left the syndicate outpost
-war-declarator-conditions-time-out = War declaration time passed
-war-declarator-conditions-ready = Shuttle can leave the outpost!
-war-declarator-conditions-unknown = Unknown
-war-declarator-boost-possible = Able to declare war
-war-declarator-boost-impossible = Unable to declare war
-war-declarator-boost-declared = War declared! Shuttle may be disabled for...
-war-declarator-boost-timer = Time left: {$time} minutes.
-war-declarator-default-message = A syndicate fringe group has declared their intent to utterly destroy station with a nuclear device, and dares the crew to try and stop them.
-war-declarator-message-placeholder = Write a custom declaration of war here...
+war-declarator-not-working = L'appareil émet des bips, mais rien ne se passe...
+war-declarator-ui-header = Déclaration de Guerre
+war-declarator-ui-war-button = DÉCLARER LA GUERRE !
+war-declarator-ui-try-war-button = Tenter de déclarer la guerre
+war-declarator-conditions-small-crew = Il n'y a pas assez d'opérateurs nucléaires pour déclarer la guerre !
+war-declarator-conditions-left-outpost = La navette a quitté l'avant-poste syndicat
+war-declarator-conditions-time-out = Le délai de déclaration de guerre est dépassé
+war-declarator-conditions-ready = La navette peut quitter l'avant-poste !
+war-declarator-conditions-unknown = Inconnu
+war-declarator-boost-possible = Possibilité de déclarer la guerre
+war-declarator-boost-impossible = Impossible de déclarer la guerre
+war-declarator-boost-declared = Guerre déclarée ! La navette peut être désactivée pendant...
+war-declarator-boost-timer = Temps restant : {$time} minutes.
+war-declarator-default-message = Un groupe marginal syndicaliste a déclaré son intention de détruire totalement la station avec un engin nucléaire, et défie l'équipage d'essayer de les en empêcher.
+war-declarator-message-placeholder = Écrivez ici une déclaration de guerre personnalisée...

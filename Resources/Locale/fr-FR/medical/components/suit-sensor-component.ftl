@@ -7,22 +7,22 @@
 
 ## Modes
 
-suit-sensor-mode-off = Off
-suit-sensor-mode-binary = Binary
-suit-sensor-mode-vitals = Vitals
-suit-sensor-mode-cords = Coordinates
+suit-sensor-mode-off = Éteint
+suit-sensor-mode-binary = Binaire
+suit-sensor-mode-vitals = Signes vitaux
+suit-sensor-mode-cords = Coordonnées
 
 ## Popups
-suit-sensor-mode-state = Suit sensors: {$mode}
+suit-sensor-mode-state = Capteurs de combinaison : {$mode}
 
 ## Components
 
-suit-sensor-component-unknown-name = Unknown
-suit-sensor-component-unknown-job = No job
+suit-sensor-component-unknown-name = Inconnu
+suit-sensor-component-unknown-job = Sans poste
 
 ## Examine
 
-suit-sensor-examine-off = Its sensors appear to be [color=darkred]disabled[/color].
-suit-sensor-examine-binary = Its binary life sensors appear to be enabled.
-suit-sensor-examine-vitals = Its vital tracker appears to be enabled.
-suit-sensor-examine-cords = Its vital tracker and tracking beacon appear to be enabled.
+suit-sensor-examine-off = Ses capteurs semblent être [color=darkred]désactivés[/color].
+suit-sensor-examine-binary = Ses capteurs de vie binaires semblent être activés.
+suit-sensor-examine-vitals = Son tracker de signes vitaux semble être activé.
+suit-sensor-examine-cords = Son tracker de signes vitaux et sa balise de localisation semblent être activés.

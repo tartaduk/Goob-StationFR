@@ -1,25 +1,25 @@
 ﻿loneop-welcome =
-    You are a nuclear operative. Your goal is to blow up {$station}, and ensure that it is nothing but a pile of rubble. Your bosses, the Syndicate, have provided you with the tools you'll need for the task, besides a team.
-    Operation {$name} is a go! Good luck!
-loneop-briefing = Your objectives are simple. Deliver the payload and make sure it detonates. Begin mission.
+    Vous êtes un opérateur nucléaire. Votre objectif est de faire sauter {$station} et de vous assurer qu'il n'en reste qu'un tas de décombres. Vos supérieurs, le Syndicat, vous ont fourni les outils nécessaires pour la tâche, sans équipe.
+    Opération {$name} en marche ! Bonne chance !
+loneop-briefing = Vos objectifs sont simples. Livrez la charge et assurez-vous qu'elle explose. Début de la mission.
 
-loneop-opsmajor = [color=crimson]Syndicate major victory![/color]
-loneop-opsminor = [color=crimson]Syndicate minor victory![/color]
-loneop-neutral = [color=yellow]Neutral outcome![/color]
-loneop-crewminor = [color=green]Crew minor victory![/color]
-loneop-crewmajor = [color=green]Crew major victory![/color]
+loneop-opsmajor = [color=crimson]Victoire majeure du Syndicat ![/color]
+loneop-opsminor = [color=crimson]Victoire mineure du Syndicat ![/color]
+loneop-neutral = [color=yellow]Issue neutre ![/color]
+loneop-crewminor = [color=green]Victoire mineure de l'équipage ![/color]
+loneop-crewmajor = [color=green]Victoire majeure de l'équipage ![/color]
 
-loneop-cond-nukeexplodedoncorrectstation = The lone operative managed to blow up the station.
-loneop-cond-nukeexplodedonincorrectlocation = The nuclear bomb was detonated off-station.
-loneop-cond-nukeactiveinstation = The nuclear bomb was left armed on-station.
-loneop-cond-nukeactiveatcentcom = The lone operative delivered the nuclear bomb to Central Command! Holy shit!
-loneop-cond-nukediskoncentcom = The crew escaped with the nuclear authentication disk.
-loneop-cond-nukedisknotoncentcom = The crew left the nuclear authentication disk behind.
-loneop-cond-nukiesabandoned = The Nuclear operatives were abandoned.
-loneop-cond-allnukiesdead = The lone operative died.
-loneop-cond-allnukiesalive = The lone operative survived.
+loneop-cond-nukeexplodedoncorrectstation = L'opérateur solitaire a réussi à faire sauter la station.
+loneop-cond-nukeexplodedonincorrectlocation = La bombe nucléaire a été détonée hors de la station.
+loneop-cond-nukeactiveinstation = La bombe nucléaire a été laissée armée sur la station.
+loneop-cond-nukeactiveatcentcom = L'opérateur solitaire a livré la bombe nucléaire au Commandement Central ! Bon sang !
+loneop-cond-nukediskoncentcom = L'équipage s'est échappé avec le disque d'authentification nucléaire.
+loneop-cond-nukedisknotoncentcom = L'équipage a laissé le disque d'authentification nucléaire derrière.
+loneop-cond-nukiesabandoned = Les opérateurs nucléaires ont été abandonnés.
+loneop-cond-allnukiesdead = L'opérateur solitaire est mort.
+loneop-cond-allnukiesalive = L'opérateur solitaire a survécu.
 
-loneop-list-start = The lone operatives were:
+loneop-list-start = Les opérateurs solitaires étaient :
 loneop-list-name = - [color=White]{$name}[/color]
 loneop-list-name-user = - [color=White]{$name}[/color] ([color=gray]{$user}[/color])
 

@@ -1,3 +1,3 @@
-entity-category-name-enchants = Enchants
+entity-category-name-enchants = Enchantements
 
-entity-category-name-diseases = Diseases
+entity-category-name-diseases = Maladies

@@ -4,6 +4,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-id-examinable-component-verb-text = ID Card
-id-examinable-component-verb-disabled = Read an ID card in close range.
-id-examinable-component-verb-no-id = No ID card visible.
+id-examinable-component-verb-text = Carte d'identité
+id-examinable-component-verb-disabled = Lisez une carte d'identité à courte portée.
+id-examinable-component-verb-no-id = Aucune carte d'identité visible.

@@ -6,26 +6,26 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-boozeomat-1 = I hope nobody asks me for a bloody cup o' tea...
-advertisement-boozeomat-2 = Alcohol is humanity's friend. Would you abandon a friend?
-advertisement-boozeomat-3 = Quite delighted to serve you!
-advertisement-boozeomat-4 = Is nobody thirsty on this station?
-advertisement-boozeomat-5 = Drink up!
-advertisement-boozeomat-6 = Booze is good for you!
-advertisement-boozeomat-7 = Alcohol is humanity's best friend.
-advertisement-boozeomat-8 = Care for a nice, cold beer?
-advertisement-boozeomat-9 = Nothing cures you like booze!
-advertisement-boozeomat-10 = Have a sip!
-advertisement-boozeomat-11 = Have a drink!
-advertisement-boozeomat-12 = Have a beer!
-advertisement-boozeomat-13 = Beer is good for you!
-advertisement-boozeomat-14 = Only the finest alcohol!
-advertisement-boozeomat-15 = Best quality booze since 2053!
-advertisement-boozeomat-16 = Award-winning wine!
-advertisement-boozeomat-17 = Maximum alcohol!
-advertisement-boozeomat-18 = Man loves beer.
-advertisement-boozeomat-19 = A toast for progress!
-thankyou-boozeomat-1 = Please drink responsibly!
-thankyou-boozeomat-2 = Please drink un-responsibly!
-thankyou-boozeomat-3 = Please enjoy your drink!
+advertisement-boozeomat-1 = J'espère que personne ne me demande une foutue tasse de thé...
+advertisement-boozeomat-2 = L'alcool est l'ami de l'humanité. Abandonneriez-vous un ami ?
+advertisement-boozeomat-3 = Ravi de vous servir !
+advertisement-boozeomat-4 = Personne n'a soif sur cette station ?
+advertisement-boozeomat-5 = Buvez !
+advertisement-boozeomat-6 = L'alcool c'est bon pour vous !
+advertisement-boozeomat-7 = L'alcool est le meilleur ami de l'humanité.
+advertisement-boozeomat-8 = Envie d'une bonne bière bien fraîche ?
+advertisement-boozeomat-9 = Rien ne guérit mieux que l'alcool !
+advertisement-boozeomat-10 = Prenez une gorgée !
+advertisement-boozeomat-11 = Prenez un verre !
+advertisement-boozeomat-12 = Prenez une bière !
+advertisement-boozeomat-13 = La bière c'est bon pour vous !
+advertisement-boozeomat-14 = Que les meilleurs alcools !
+advertisement-boozeomat-15 = Le meilleur alcool depuis 2053 !
+advertisement-boozeomat-16 = Vin récompensé !
+advertisement-boozeomat-17 = Alcool maximum !
+advertisement-boozeomat-18 = L'homme aime la bière.
+advertisement-boozeomat-19 = À la santé du progrès !
+thankyou-boozeomat-1 = Buvez responsablement !
+thankyou-boozeomat-2 = Buvez irresponsablement !
+thankyou-boozeomat-3 = Profitez bien de votre boisson !
 

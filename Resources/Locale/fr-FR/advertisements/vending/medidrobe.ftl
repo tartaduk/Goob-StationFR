@@ -7,7 +7,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-advertisement-medidrobe-1 = Make those blood stains look fashionable!!
-advertisement-medidrobe-2 = Clean and hygienic! Don't get too many bloodstains on yourself!
-advertisement-medidrobe-3 = With these outfits, you'll look like a professional doctor now!
-advertisement-medidrobe-4 = Jumpsuit, check. Coat, check. Someone who will wear this? Check!
+advertisement-medidrobe-1 = Rendez ces taches de sang à la mode !!
+advertisement-medidrobe-2 = Propre et hygiénique ! N'ayez pas trop de taches de sang sur vous !
+advertisement-medidrobe-3 = Avec ces tenues, vous ressemblerez désormais à un médecin professionnel !
+advertisement-medidrobe-4 = Combinaison, coché. Manteau, coché. Quelqu'un qui va porter ça ? Coché !

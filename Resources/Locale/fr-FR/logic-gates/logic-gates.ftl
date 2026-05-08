@@ -5,18 +5,18 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-logic-gate-examine = It is currently {INDEFINITE($gate)} {$gate} gate.
+logic-gate-examine = Il s'agit actuellement d'une porte {INDEFINITE($gate)} {$gate}.
 
-logic-gate-cycle = Switched to {INDEFINITE($gate)} {$gate} gate
+logic-gate-cycle = Basculé sur une porte {INDEFINITE($gate)} {$gate}
 
-power-sensor-examine = It is currently checking the network's {$output ->
-    [true] output
-    *[false] input
-} battery.
-power-sensor-voltage-examine = It is checking the {$voltage} power network.
+power-sensor-examine = Il vérifie actuellement la batterie { $output ->
+    [true] de sortie
+    *[false] d'entrée
+} du réseau.
+power-sensor-voltage-examine = Il surveille le réseau d'alimentation {$voltage}.
 
-power-sensor-switch = Switched to checking the network's {$output ->
-    [true] output
-    *[false] input
-} battery.
-power-sensor-voltage-switch = Switched network to {$voltage}!
+power-sensor-switch = Basculé sur la vérification de la batterie { $output ->
+    [true] de sortie
+    *[false] d'entrée
+} du réseau.
+power-sensor-voltage-switch = Réseau basculé sur {$voltage} !

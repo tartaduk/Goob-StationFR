@@ -14,4 +14,6 @@ cmd-set-motd-hint-head = [ message... ]
 cmd-set-motd-hint-cont = [ ...message... ]
 cmd-set-motd-cleared-motd-message = Cleared the Message of the Day.
 cmd-set-motd-set-motd-message = Set the Message Of The Day to "{$motd}".
-motd-wrap-message = Message of the Day: {$motd}
+motd-wrap-message = Message du jour : {$motd}
+
+# Note traduction : les admins préfèrent avoir les commandes non traduites

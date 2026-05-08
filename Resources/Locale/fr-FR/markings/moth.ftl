@@ -8,400 +8,400 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-marking-MothAntennasDefault-default = Antennae
-marking-MothAntennasDefault = Antennae (Default)
+marking-MothAntennasDefault-default = Antennes
+marking-MothAntennasDefault = Antennes (Par défaut)
 
-marking-MothAntennasCharred-charred = Antennae
-marking-MothAntennasCharred = Antennae (Charred)
+marking-MothAntennasCharred-charred = Antennes
+marking-MothAntennasCharred = Antennes (Calcinées)
 
-marking-MothAntennasDbushy-dbushy = Antennae
-marking-MothAntennasDbushy = Antennae (Bushy)
+marking-MothAntennasDbushy-dbushy = Antennes
+marking-MothAntennasDbushy = Antennes (Touffues)
 
-marking-MothAntennasDcurvy-dcurvy = Antennae
-marking-MothAntennasDcurvy = Antennae (Curvy)
+marking-MothAntennasDcurvy-dcurvy = Antennes
+marking-MothAntennasDcurvy = Antennes (Courbées)
 
-marking-MothAntennasDfan-dfan = Antennae
-marking-MothAntennasDfan = Antennae (Fan)
+marking-MothAntennasDfan-dfan = Antennes
+marking-MothAntennasDfan = Antennes (En éventail)
 
-marking-MothAntennasDpointy-dpointy = Antennae
-marking-MothAntennasDpointy = Antennae (Pointy)
+marking-MothAntennasDpointy-dpointy = Antennes
+marking-MothAntennasDpointy = Antennes (Pointues)
 
-marking-MothAntennasFeathery-feathery = Antennae
-marking-MothAntennasFeathery = Antennae (Feathery)
+marking-MothAntennasFeathery-feathery = Antennes
+marking-MothAntennasFeathery = Antennes (Plumées)
 
-marking-MothAntennasFirewatch-firewatch = Antennae
-marking-MothAntennasFirewatch = Antennae (Firewatch)
+marking-MothAntennasFirewatch-firewatch = Antennes
+marking-MothAntennasFirewatch = Antennes (Garde-feu)
 
-marking-MothAntennasGray-gray = Antennae
-marking-MothAntennasGray = Antennae (Gray)
+marking-MothAntennasGray-gray = Antennes
+marking-MothAntennasGray = Antennes (Grises)
 
-marking-MothAntennasJungle-jungle = Antennae
-marking-MothAntennasJungle = Antennae (Jungle)
+marking-MothAntennasJungle-jungle = Antennes
+marking-MothAntennasJungle = Antennes (Jungle)
 
-marking-MothAntennasMaple-maple = Antennae
-marking-MothAntennasMaple = Antennae (Maple)
+marking-MothAntennasMaple-maple = Antennes
+marking-MothAntennasMaple = Antennes (Érable)
 
-marking-MothAntennasMoffra-moffra = Antennae
-marking-MothAntennasMoffra = Antennae (Moffra)
+marking-MothAntennasMoffra-moffra = Antennes
+marking-MothAntennasMoffra = Antennes (Moffra)
 
-marking-MothAntennasOakworm-oakworm = Antennae
-marking-MothAntennasOakworm = Antennae (Oak Worm)
+marking-MothAntennasOakworm-oakworm = Antennes
+marking-MothAntennasOakworm = Antennes (Ver de chêne)
 
-marking-MothAntennasPlasmafire-plasmafire = Antennae
-marking-MothAntennasPlasmafire = Antennae (Plasmafire)
+marking-MothAntennasPlasmafire-plasmafire = Antennes
+marking-MothAntennasPlasmafire = Antennes (Plasma)
 
-marking-MothAntennasRoyal-royal = Antennae
-marking-MothAntennasRoyal = Antennae (Royal)
+marking-MothAntennasRoyal-royal = Antennes
+marking-MothAntennasRoyal = Antennes (Royales)
 
-marking-MothAntennasStriped-striped = Antennae
-marking-MothAntennasStriped = Antennae (Striped)
+marking-MothAntennasStriped-striped = Antennes
+marking-MothAntennasStriped = Antennes (Rayées)
 
-marking-MothAntennasWhitefly-whitefly = Antennae
-marking-MothAntennasWhitefly = Antennae (White Fly)
+marking-MothAntennasWhitefly-whitefly = Antennes
+marking-MothAntennasWhitefly = Antennes (Mouche blanche)
 
-marking-MothAntennasWitchwing-witchwing = Antennae
-marking-MothAntennasWitchwing = Antennae (Witch Wing)
+marking-MothAntennasWitchwing-witchwing = Antennes
+marking-MothAntennasWitchwing = Antennes (Aile de sorcière)
 
-marking-MothAntennasUnderwing-underwing_primary = Primary
-marking-MothAntennasUnderwing-underwing_secondary = Secondary
-marking-MothAntennasUnderwing = Antennae (Underwing)
+marking-MothAntennasUnderwing-underwing_primary = Primaire
+marking-MothAntennasUnderwing-underwing_secondary = Secondaire
+marking-MothAntennasUnderwing = Antennes (Sous-aile)
 
 
 
-marking-MothWingsDefault-default = Wing
-marking-MothWingsDefault = Wings (Default)
+marking-MothWingsDefault-default = Aile
+marking-MothWingsDefault = Ailes (Par défaut)
 
-marking-MothWingsCharred-charred = Wing
-marking-MothWingsCharred = Wings (Charred)
+marking-MothWingsCharred-charred = Aile
+marking-MothWingsCharred = Ailes (Calcinées)
 
-marking-MothWingsDbushy-dbushy_primary = Primary
-marking-MothWingsDbushy-dbushy_secondary = Secondary
-marking-MothWingsDbushy = Wings (Dark & Bushy)
+marking-MothWingsDbushy-dbushy_primary = Primaire
+marking-MothWingsDbushy-dbushy_secondary = Secondaire
+marking-MothWingsDbushy = Ailes (Sombres & Touffues)
 
-marking-MothWingsDeathhead-deathhead_primary = Primary
-marking-MothWingsDeathhead-deathhead_secondary = Secondary
-marking-MothWingsDeathhead = Wings (Death's-Head)
+marking-MothWingsDeathhead-deathhead_primary = Primaire
+marking-MothWingsDeathhead-deathhead_secondary = Secondaire
+marking-MothWingsDeathhead = Ailes (Tête-de-mort)
 
-marking-MothWingsFan-fan = Wing
-marking-MothWingsFan = Wings (Fan)
+marking-MothWingsFan-fan = Aile
+marking-MothWingsFan = Ailes (En éventail)
 
-marking-MothWingsDfan-dfan = Wing
-marking-MothWingsDfan = Wings (Dark & Fan)
+marking-MothWingsDfan-dfan = Aile
+marking-MothWingsDfan = Ailes (Sombres & Éventail)
 
-marking-MothWingsFeathery-feathery = Wing
-marking-MothWingsFeathery = Wings (Feathery)
+marking-MothWingsFeathery-feathery = Aile
+marking-MothWingsFeathery = Ailes (Plumées)
 
-marking-MothWingsFirewatch-firewatch_primary = Primary
-marking-MothWingsFirewatch-firewatch_secondary = Secondary
-marking-MothWingsFirewatch = Wings (Firewatch)
+marking-MothWingsFirewatch-firewatch_primary = Primaire
+marking-MothWingsFirewatch-firewatch_secondary = Secondaire
+marking-MothWingsFirewatch = Ailes (Garde-feu)
 
-marking-MothWingsGothic-gothic = Wing
-marking-MothWingsGothic = Wings (Gothic)
+marking-MothWingsGothic-gothic = Aile
+marking-MothWingsGothic = Ailes (Gothiques)
 
-marking-MothWingsJungle-jungle = Wing
-marking-MothWingsJungle = Wings (Jungle)
+marking-MothWingsJungle-jungle = Aile
+marking-MothWingsJungle = Ailes (Jungle)
 
-marking-MothWingsLadybug-ladybug = Wing
-marking-MothWingsLadybug = Wings (Ladybug)
+marking-MothWingsLadybug-ladybug = Aile
+marking-MothWingsLadybug = Ailes (Coccinelle)
 
-marking-MothWingsMaple-maple_primary = Primary
-marking-MothWingsMaple-maple_secondary = Secondary
-marking-MothWingsMaple = Wings (Maple)
+marking-MothWingsMaple-maple_primary = Primaire
+marking-MothWingsMaple-maple_secondary = Secondaire
+marking-MothWingsMaple = Ailes (Érable)
 
-marking-MothWingsMoffra-moffra_primary = Primary
-marking-MothWingsMoffra-moffra_secondary = Secondary
-marking-MothWingsMoffra = Wings (Moffra)
+marking-MothWingsMoffra-moffra_primary = Primaire
+marking-MothWingsMoffra-moffra_secondary = Secondaire
+marking-MothWingsMoffra = Ailes (Moffra)
 
-marking-MothWingsOakworm-oakworm = Wing
-marking-MothWingsOakworm = Wings (Oak Worm)
+marking-MothWingsOakworm-oakworm = Aile
+marking-MothWingsOakworm = Ailes (Ver de chêne)
 
-marking-MothWingsPlasmafire-plasmafire_primary = Primary
-marking-MothWingsPlasmafire-plasmafire_secondary = Secondary
-marking-MothWingsPlasmafire = Wings (Plasmafire)
+marking-MothWingsPlasmafire-plasmafire_primary = Primaire
+marking-MothWingsPlasmafire-plasmafire_secondary = Secondaire
+marking-MothWingsPlasmafire = Ailes (Plasma)
 
-marking-MothWingsPointy-pointy = Wing
-marking-MothWingsPointy = Wings (Pointy)
+marking-MothWingsPointy-pointy = Aile
+marking-MothWingsPointy = Ailes (Pointues)
 
-marking-MothWingsRoyal-royal_primary = Primary
-marking-MothWingsRoyal-royal_secondary = Secondary
-marking-MothWingsRoyal = Wings (Royal)
+marking-MothWingsRoyal-royal_primary = Primaire
+marking-MothWingsRoyal-royal_secondary = Secondaire
+marking-MothWingsRoyal = Ailes (Royales)
 
-marking-MothWingsStellar-stellar = Wing
-marking-MothWingsStellar = Wings (Stellar)
+marking-MothWingsStellar-stellar = Aile
+marking-MothWingsStellar = Ailes (Stellaires)
 
-marking-MothWingsStriped-striped = Wing
-marking-MothWingsStriped = Wings (Striped)
+marking-MothWingsStriped-striped = Aile
+marking-MothWingsStriped = Ailes (Rayées)
 
-marking-MothWingsSwirly-swirly = Wing
-marking-MothWingsSwirly = Wings (Swirly)
+marking-MothWingsSwirly-swirly = Aile
+marking-MothWingsSwirly = Ailes (Tourbillonnantes)
 
-marking-MothWingsWhitefly-whitefly = Wing
-marking-MothWingsWhitefly = Wings (White Fly)
+marking-MothWingsWhitefly-whitefly = Aile
+marking-MothWingsWhitefly = Ailes (Mouche blanche)
 
-marking-MothWingsWitchwing-witchwing = Wing
-marking-MothWingsWitchwing = Wings (Witch Wing)
+marking-MothWingsWitchwing-witchwing = Aile
+marking-MothWingsWitchwing = Ailes (Aile de sorcière)
 
-marking-MothWingsUnderwing-underwing_primary = Primary
-marking-MothWingsUnderwing-underwing_secondary = Secondary
-marking-MothWingsUnderwing = Wings (Underwing)
+marking-MothWingsUnderwing-underwing_primary = Primaire
+marking-MothWingsUnderwing-underwing_secondary = Secondaire
+marking-MothWingsUnderwing = Ailes (Sous-aile)
 
 
 
 
-marking-MothChestCharred-charred_chest = Chest
-marking-MothChestCharred = Moth Chest (Charred)
+marking-MothChestCharred-charred_chest = Torse
+marking-MothChestCharred = Mite Torse (Calciné)
 
-marking-MothHeadCharred-charred_head = Head
-marking-MothHeadCharred = Moth Head (Charred)
+marking-MothHeadCharred-charred_head = Tête
+marking-MothHeadCharred = Mite Tête (Calcinée)
 
-marking-MothLLegCharred-charred_l_leg =  Left Leg
-marking-MothLLegCharred = Moth Left Leg (Charred)
+marking-MothLLegCharred-charred_l_leg = Jambe Gauche
+marking-MothLLegCharred = Mite Jambe Gauche (Calcinée)
 
-marking-MothRLegCharred-charred_r_leg = Right Leg
-marking-MothRLegCharred = Moth Right Leg (Charred)
+marking-MothRLegCharred-charred_r_leg = Jambe Droite
+marking-MothRLegCharred = Mite Jambe Droite (Calcinée)
 
-marking-MothLArmCharred-charred_l_arm = Left Arm
-marking-MothLArmCharred = Moth Left Arm (Charred)
+marking-MothLArmCharred-charred_l_arm = Bras Gauche
+marking-MothLArmCharred = Mite Bras Gauche (Calciné)
 
-marking-MothRArmCharred-charred_r_arm = Right Arm
-marking-MothRArmCharred = Moth Right Arm (Charred)
+marking-MothRArmCharred-charred_r_arm = Bras Droit
+marking-MothRArmCharred = Mite Bras Droit (Calciné)
 
 
 
-marking-MothChestDeathhead-deathhead_chest = Chest
-marking-MothChestDeathhead = Moth Chest (Death's-Head)
+marking-MothChestDeathhead-deathhead_chest = Torse
+marking-MothChestDeathhead = Mite Torse (Tête-de-mort)
 
-marking-MothHeadDeathhead-deathhead_head = Head
-marking-MothHeadDeathhead = Moth Head (Death's-Head)
+marking-MothHeadDeathhead-deathhead_head = Tête
+marking-MothHeadDeathhead = Mite Tête (Tête-de-mort)
 
-marking-MothLLegDeathhead-deathhead_l_leg = Left Leg
-marking-MothLLegDeathhead = Moth Left Leg (Death's-Head)
+marking-MothLLegDeathhead-deathhead_l_leg = Jambe Gauche
+marking-MothLLegDeathhead = Mite Jambe Gauche (Tête-de-mort)
 
-marking-MothRLegDeathhead-deathhead_r_leg = Right Leg
-marking-MothRLegDeathhead = Moth Right Leg (Death's-Head)
+marking-MothRLegDeathhead-deathhead_r_leg = Jambe Droite
+marking-MothRLegDeathhead = Mite Jambe Droite (Tête-de-mort)
 
-marking-MothLArmDeathhead-deathhead_l_arm = Left Arm
-marking-MothLArmDeathhead = Moth Left Arm (Death's-Head)
+marking-MothLArmDeathhead-deathhead_l_arm = Bras Gauche
+marking-MothLArmDeathhead = Mite Bras Gauche (Tête-de-mort)
 
-marking-MothRArmDeathhead-deathhead_r_arm = Right Arm
-marking-MothRArmDeathhead = Moth Right Arm (Death's-Head)
+marking-MothRArmDeathhead-deathhead_r_arm = Bras Droit
+marking-MothRArmDeathhead = Mite Bras Droit (Tête-de-mort)
 
 
 
-marking-MothChestFan-fan_chest = Chest
-marking-MothChestFan = Moth Chest (Fan)
+marking-MothChestFan-fan_chest = Torse
+marking-MothChestFan = Mite Torse (Éventail)
 
-marking-MothHeadFan-fan_head = Head
-marking-MothHeadFan = Moth Head (Fan)
+marking-MothHeadFan-fan_head = Tête
+marking-MothHeadFan = Mite Tête (Éventail)
 
-marking-MothLLegFan-fan_l_leg = Left Leg
-marking-MothLLegFan = Moth Left Leg (Fan)
+marking-MothLLegFan-fan_l_leg = Jambe Gauche
+marking-MothLLegFan = Mite Jambe Gauche (Éventail)
 
-marking-MothRLegFan-fan_r_leg = Right Leg
-marking-MothRLegFan = Moth Right Leg (Fan)
+marking-MothRLegFan-fan_r_leg = Jambe Droite
+marking-MothRLegFan = Mite Jambe Droite (Éventail)
 
-marking-MothLArmFan-fan_l_arm = Left Arm
-marking-MothLArmFan = Moth Left Arm (Fan)
+marking-MothLArmFan-fan_l_arm = Bras Gauche
+marking-MothLArmFan = Mite Bras Gauche (Éventail)
 
-marking-MothRArmFan-fan_r_arm = Right Arm
-marking-MothRArmFan = Moth Right Arm (Fan)
+marking-MothRArmFan-fan_r_arm = Bras Droit
+marking-MothRArmFan = Mite Bras Droit (Éventail)
 
 
 
-marking-MothChestFirewatch-firewatch_chest = Chest
-marking-MothChestFirewatch = Moth Chest (Firewatch)
+marking-MothChestFirewatch-firewatch_chest = Torse
+marking-MothChestFirewatch = Mite Torse (Garde-feu)
 
-marking-MothHeadFirewatch-firewatch_head = Head
-marking-MothHeadFirewatch = Moth Head (Firewatch)
+marking-MothHeadFirewatch-firewatch_head = Tête
+marking-MothHeadFirewatch = Mite Tête (Garde-feu)
 
-marking-MothLLegFirewatch-firewatch_l_leg = Left Leg
-marking-MothLLegFirewatch = Moth Left Leg (Firewatch)
+marking-MothLLegFirewatch-firewatch_l_leg = Jambe Gauche
+marking-MothLLegFirewatch = Mite Jambe Gauche (Garde-feu)
 
-marking-MothRLegFirewatch-firewatch_r_leg = Right Leg
-marking-MothRLegFirewatch = Moth Right Leg (Firewatch)
+marking-MothRLegFirewatch-firewatch_r_leg = Jambe Droite
+marking-MothRLegFirewatch = Mite Jambe Droite (Garde-feu)
 
-marking-MothLArmFirewatch-firewatch_l_arm = Left Arm
-marking-MothLArmFirewatch = Moth Left Arm (Firewatch)
+marking-MothLArmFirewatch-firewatch_l_arm = Bras Gauche
+marking-MothLArmFirewatch = Mite Bras Gauche (Garde-feu)
 
-marking-MothRArmFirewatch-firewatch_r_arm = Right Arm
-marking-MothRArmFirewatch = Moth Right Arm (Firewatch)
+marking-MothRArmFirewatch-firewatch_r_arm = Bras Droit
+marking-MothRArmFirewatch = Mite Bras Droit (Garde-feu)
 
 
 
-marking-MothChestGothic-gothic_chest = Chest
-marking-MothChestGothic = Moth Chest (Gothic)
+marking-MothChestGothic-gothic_chest = Torse
+marking-MothChestGothic = Mite Torse (Gothique)
 
-marking-MothHeadGothic-gothic_head = Head 
-marking-MothHeadGothic = Moth Head (Gothic)
+marking-MothHeadGothic-gothic_head = Tête
+marking-MothHeadGothic = Mite Tête (Gothique)
 
-marking-MothLLegGothic-gothic_l_leg = Left Leg
-marking-MothLLegGothic = Moth Left Leg (Gothic)
+marking-MothLLegGothic-gothic_l_leg = Jambe Gauche
+marking-MothLLegGothic = Mite Jambe Gauche (Gothique)
 
-marking-MothRLegGothic-gothic_r_leg = Right Leg
-marking-MothRLegGothic = Moth Right Leg (Gothic)
+marking-MothRLegGothic-gothic_r_leg = Jambe Droite
+marking-MothRLegGothic = Mite Jambe Droite (Gothique)
 
-marking-MothLArmGothic-gothic_l_arm = Left Arm
-marking-MothLArmGothic = Moth Left Arm (Gothic)
+marking-MothLArmGothic-gothic_l_arm = Bras Gauche
+marking-MothLArmGothic = Mite Bras Gauche (Gothique)
 
-marking-MothRArmGothic-gothic_r_arm = Right Arm
-marking-MothRArmGothic = Moth Right Arm (Gothic)
+marking-MothRArmGothic-gothic_r_arm = Bras Droit
+marking-MothRArmGothic = Mite Bras Droit (Gothique)
 
 
 
-marking-MothChestJungle-jungle_chest = Chest
-marking-MothChestJungle = Moth Chest (Jungle)
+marking-MothChestJungle-jungle_chest = Torse
+marking-MothChestJungle = Mite Torse (Jungle)
 
-marking-MothHeadJungle-jungle_head = Head
-marking-MothHeadJungle = Moth Head (Jungle)
+marking-MothHeadJungle-jungle_head = Tête
+marking-MothHeadJungle = Mite Tête (Jungle)
 
-marking-MothLLegJungle-jungle_l_leg = Left Leg
-marking-MothLLegJungle = Moth Left Leg (Jungle)
+marking-MothLLegJungle-jungle_l_leg = Jambe Gauche
+marking-MothLLegJungle = Mite Jambe Gauche (Jungle)
 
-marking-MothRLegJungle-jungle_r_leg = Right Leg
-marking-MothRLegJungle = Moth Right Leg (Jungle)
+marking-MothRLegJungle-jungle_r_leg = Jambe Droite
+marking-MothRLegJungle = Mite Jambe Droite (Jungle)
 
-marking-MothLArmJungle-jungle_l_arm = Left Arm
-marking-MothLArmJungle = Moth Left Arm (Jungle)
+marking-MothLArmJungle-jungle_l_arm = Bras Gauche
+marking-MothLArmJungle = Mite Bras Gauche (Jungle)
 
-marking-MothRArmJungle-jungle_r_arm = Right Arm
-marking-MothRArmJungle = Moth Right Arm (Jungle)
+marking-MothRArmJungle-jungle_r_arm = Bras Droit
+marking-MothRArmJungle = Mite Bras Droit (Jungle)
 
 
 
-marking-MothChestMoonfly-moonfly_chest = Chest
-marking-MothChestMoonfly = Moth Chest (Moonfly)
+marking-MothChestMoonfly-moonfly_chest = Torse
+marking-MothChestMoonfly = Mite Torse (Moonfly)
 
-marking-MothHeadMoonfly-moonfly_head = Head
-marking-MothHeadMoonfly = Moth Head (Moonfly)
+marking-MothHeadMoonfly-moonfly_head = Tête
+marking-MothHeadMoonfly = Mite Tête (Moonfly)
 
-marking-MothLLegMoonfly-moonfly_l_leg = Left Leg
-marking-MothLLegMoonfly = Moth Left Leg (Moonfly)
+marking-MothLLegMoonfly-moonfly_l_leg = Jambe Gauche
+marking-MothLLegMoonfly = Mite Jambe Gauche (Moonfly)
 
-marking-MothRLegMoonfly-moonfly_r_leg = Right Leg
-marking-MothRLegMoonfly = Moth Right Leg (Moonfly)
+marking-MothRLegMoonfly-moonfly_r_leg = Jambe Droite
+marking-MothRLegMoonfly = Mite Jambe Droite (Moonfly)
 
-marking-MothLArmMoonfly-moonfly_l_arm = Left Arm
-marking-MothLArmMoonfly = Moth Left Arm (Moonfly)
+marking-MothLArmMoonfly-moonfly_l_arm = Bras Gauche
+marking-MothLArmMoonfly = Mite Bras Gauche (Moonfly)
 
-marking-MothRArmMoonfly-moonfly_r_arm = Right Arm
-marking-MothRArmMoonfly = Moth Right Arm (Moonfly)
+marking-MothRArmMoonfly-moonfly_r_arm = Bras Droit
+marking-MothRArmMoonfly = Mite Bras Droit (Moonfly)
 
 
 
-marking-MothChestOakworm-oakworm_chest = Chest
-marking-MothChestOakworm = Moth Chest (Oak Worm)
+marking-MothChestOakworm-oakworm_chest = Torse
+marking-MothChestOakworm = Mite Torse (Ver de chêne)
 
-marking-MothHeadOakworm-oakworm_head = Head
-marking-MothHeadOakworm = Moth Head (Oak Worm)
+marking-MothHeadOakworm-oakworm_head = Tête
+marking-MothHeadOakworm = Mite Tête (Ver de chêne)
 
-marking-MothLLegOakworm-oakworm_l_leg = Left Leg
-marking-MothLLegOakworm = Moth Left Leg (Oak Worm)
+marking-MothLLegOakworm-oakworm_l_leg = Jambe Gauche
+marking-MothLLegOakworm = Mite Jambe Gauche (Ver de chêne)
 
-marking-MothRLegOakworm-oakworm_r_leg = Right Leg
-marking-MothRLegOakworm = Moth Right Leg (Oak Worm)
+marking-MothRLegOakworm-oakworm_r_leg = Jambe Droite
+marking-MothRLegOakworm = Mite Jambe Droite (Ver de chêne)
 
-marking-MothLArmOakworm-oakworm_l_arm = Left Arm
-marking-MothLArmOakworm = Moth Left Arm (Oak Worm)
+marking-MothLArmOakworm-oakworm_l_arm = Bras Gauche
+marking-MothLArmOakworm = Mite Bras Gauche (Ver de chêne)
 
-marking-MothRArmOakworm-oakworm_r_arm = Right Arm
-marking-MothRArmOakworm = Moth Right Arm (Oak Worm)
+marking-MothRArmOakworm-oakworm_r_arm = Bras Droit
+marking-MothRArmOakworm = Mite Bras Droit (Ver de chêne)
 
 
 
-marking-MothChestPointy-pointy_chest = Chest
-marking-MothChestPointy = Moth Chest (Pointy)
+marking-MothChestPointy-pointy_chest = Torse
+marking-MothChestPointy = Mite Torse (Pointu)
 
-marking-MothHeadPointy-pointy_head = Head
-marking-MothHeadPointy = Moth Head (Pointy)
+marking-MothHeadPointy-pointy_head = Tête
+marking-MothHeadPointy = Mite Tête (Pointue)
 
-marking-MothLLegPointy-pointy_l_leg = Left Leg
-marking-MothLLegPointy = Moth Left Leg (Pointy)
+marking-MothLLegPointy-pointy_l_leg = Jambe Gauche
+marking-MothLLegPointy = Mite Jambe Gauche (Pointue)
 
-marking-MothRLegPointy-pointy_r_leg = Right Leg
-marking-MothRLegPointy = Moth Right Leg (Pointy)
+marking-MothRLegPointy-pointy_r_leg = Jambe Droite
+marking-MothRLegPointy = Mite Jambe Droite (Pointue)
 
-marking-MothLArmPointy-pointy_l_arm = Left Arm
-marking-MothLArmPointy = Moth Left Arm (Pointy)
+marking-MothLArmPointy-pointy_l_arm = Bras Gauche
+marking-MothLArmPointy = Mite Bras Gauche (Pointu)
 
-marking-MothRArmPointy-pointy_r_arm = Right Arm
-marking-MothRArmPointy = Moth Right Arm (Pointy)
+marking-MothRArmPointy-pointy_r_arm = Bras Droit
+marking-MothRArmPointy = Mite Bras Droit (Pointu)
 
 
 
-marking-MothChestRagged-ragged_chest = Chest
-marking-MothChestRagged = Moth Chest (Ragged)
+marking-MothChestRagged-ragged_chest = Torse
+marking-MothChestRagged = Mite Torse (Déchiqueté)
 
-marking-MothHeadRagged-ragged_head = Head
-marking-MothHeadRagged = Moth Head (Ragged)
+marking-MothHeadRagged-ragged_head = Tête
+marking-MothHeadRagged = Mite Tête (Déchiquetée)
 
-marking-MothLLegRagged-ragged_l_leg = Left Leg
-marking-MothLLegRagged = Moth Left Leg (Ragged)
+marking-MothLLegRagged-ragged_l_leg = Jambe Gauche
+marking-MothLLegRagged = Mite Jambe Gauche (Déchiquetée)
 
-marking-MothRLegRagged-ragged_r_leg = Right Leg
-marking-MothRLegRagged = Moth Right Leg (Ragged)
+marking-MothRLegRagged-ragged_r_leg = Jambe Droite
+marking-MothRLegRagged = Mite Jambe Droite (Déchiquetée)
 
-marking-MothLArmRagged-ragged_l_arm = Left Arm
-marking-MothLArmRagged = Moth Left Arm (Ragged)
+marking-MothLArmRagged-ragged_l_arm = Bras Gauche
+marking-MothLArmRagged = Mite Bras Gauche (Déchiqueté)
 
-marking-MothRArmRagged-ragged_r_arm = Right Arm
-marking-MothRArmRagged = Moth Right Arm (Ragged)
+marking-MothRArmRagged-ragged_r_arm = Bras Droit
+marking-MothRArmRagged = Mite Bras Droit (Déchiqueté)
 
 
 
-marking-MothChestRoyal-royal_chest = Chest
-marking-MothChestRoyal = Moth Chest (Royal)
+marking-MothChestRoyal-royal_chest = Torse
+marking-MothChestRoyal = Mite Torse (Royal)
 
-marking-MothHeadRoyal-royal_head = Head
-marking-MothHeadRoyal = Moth Head (Royal)
+marking-MothHeadRoyal-royal_head = Tête
+marking-MothHeadRoyal = Mite Tête (Royale)
 
-marking-MothLLegRoyal-royal_l_leg = Left Leg
-marking-MothLLegRoyal = Moth Left Leg (Royal)
+marking-MothLLegRoyal-royal_l_leg = Jambe Gauche
+marking-MothLLegRoyal = Mite Jambe Gauche (Royale)
 
-marking-MothRLegRoyal-royal_r_leg = Right Leg
-marking-MothRLegRoyal = Moth Right Leg (Royal)
+marking-MothRLegRoyal-royal_r_leg = Jambe Droite
+marking-MothRLegRoyal = Mite Jambe Droite (Royale)
 
-marking-MothLArmRoyal-royal_l_arm = Left Arm
-marking-MothLArmRoyal = Moth Left Arm (Royal)
+marking-MothLArmRoyal-royal_l_arm = Bras Gauche
+marking-MothLArmRoyal = Mite Bras Gauche (Royal)
 
-marking-MothRArmRoyal-royal_r_arm = Right Arm
-marking-MothRArmRoyal = Moth Right Arm (Royal)
+marking-MothRArmRoyal-royal_r_arm = Bras Droit
+marking-MothRArmRoyal = Mite Bras Droit (Royal)
 
 
 
-marking-MothChestWhitefly-whitefly_chest = Chest
-marking-MothChestWhitefly = Moth Chest (White Fly)
+marking-MothChestWhitefly-whitefly_chest = Torse
+marking-MothChestWhitefly = Mite Torse (Mouche blanche)
 
-marking-MothHeadWhitefly-whitefly_head = Head
-marking-MothHeadWhitefly = Moth Head (White Fly)
+marking-MothHeadWhitefly-whitefly_head = Tête
+marking-MothHeadWhitefly = Mite Tête (Mouche blanche)
 
-marking-MothLLegWhitefly-whitefly_l_leg = Left Leg
-marking-MothLLegWhitefly = Moth Left Leg (White Fly)
+marking-MothLLegWhitefly-whitefly_l_leg = Jambe Gauche
+marking-MothLLegWhitefly = Mite Jambe Gauche (Mouche blanche)
 
-marking-MothRLegWhitefly-whitefly_r_leg = Right Leg
-marking-MothRLegWhitefly = Moth Right Leg (White Fly)
+marking-MothRLegWhitefly-whitefly_r_leg = Jambe Droite
+marking-MothRLegWhitefly = Mite Jambe Droite (Mouche blanche)
 
-marking-MothLArmWhitefly-whitefly_l_arm = Left Arm
-marking-MothLArmWhitefly = Moth Left Arm (White Fly)
+marking-MothLArmWhitefly-whitefly_l_arm = Bras Gauche
+marking-MothLArmWhitefly = Mite Bras Gauche (Mouche blanche)
 
-marking-MothRArmWhitefly-whitefly_r_arm = Right Arm
-marking-MothRArmWhitefly = Moth Right Arm (White Fly)
+marking-MothRArmWhitefly-whitefly_r_arm = Bras Droit
+marking-MothRArmWhitefly = Mite Bras Droit (Mouche blanche)
 
 
 
-marking-MothChestWitchwing-witchwing_chest = Chest
-marking-MothChestWitchwing = Moth Chest (Witch Wing)
+marking-MothChestWitchwing-witchwing_chest = Torse
+marking-MothChestWitchwing = Mite Torse (Aile de sorcière)
 
-marking-MothHeadWitchwing-witchwing_head = Head
-marking-MothHeadWitchwing = Moth Head (Witch Wing)
+marking-MothHeadWitchwing-witchwing_head = Tête
+marking-MothHeadWitchwing = Mite Tête (Aile de sorcière)
 
-marking-MothLLegWitchwing-witchwing_l_leg = Left Leg
-marking-MothLLegWitchwing = Moth Left Leg (Witch Wing)
+marking-MothLLegWitchwing-witchwing_l_leg = Jambe Gauche
+marking-MothLLegWitchwing = Mite Jambe Gauche (Aile de sorcière)
 
-marking-MothRLegWitchwing-witchwing_r_leg = Right Leg
-marking-MothRLegWitchwing = Moth Right Leg (Witch Wing)
+marking-MothRLegWitchwing-witchwing_r_leg = Jambe Droite
+marking-MothRLegWitchwing = Mite Jambe Droite (Aile de sorcière)
 
-marking-MothLArmWitchwing-witchwing_l_arm = Left Arm
-marking-MothLArmWitchwing = Moth Left Arm (Witch Wing)
+marking-MothLArmWitchwing-witchwing_l_arm = Bras Gauche
+marking-MothLArmWitchwing = Mite Bras Gauche (Aile de sorcière)
 
-marking-MothRArmWitchwing-witchwing_r_arm = Right Arm
-marking-MothRArmWitchwing = Moth Right Arm (Witch Wing)
+marking-MothRArmWitchwing-witchwing_r_arm = Bras Droit
+marking-MothRArmWitchwing = Mite Bras Droit (Aile de sorcière)

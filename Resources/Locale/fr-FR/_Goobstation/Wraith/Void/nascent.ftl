@@ -1,3 +1,3 @@
-ghost-role-information-nascent-name = Nascent Cocoon
-ghost-role-information-nascent-description = You are but a cocoon, summoned from the void by the Wraith. Pick one of three creatures to become. The skeleton commander, capable of rallying other minions and summoning lesser skeletons; the Voidhound, capable of cloaking and pouncing from the shadows; or the Void Spiker, a creature with a tentacle hook and venom that causes drowsiness.
-ghost-role-information-nascent-rules = You are a creature from the void, summoned by the Wraith. Obey their commands, and cause as much havoc as possible.
+ghost-role-information-nascent-name = Cocon naissant
+ghost-role-information-nascent-description = Vous n'êtes qu'un cocon, invoqué du vide par le Spectre. Choisissez l'une des trois créatures à incarner : le commandant squelette, capable de rallier d'autres sbires et d'invoquer des squelettes mineurs ; le Limier du vide, capable de se camoufler et de bondir depuis les ombres ; ou le Piqueur du vide, une créature munie d'un tentacule crochet et d'un venin causant la somnolence.
+ghost-role-information-nascent-rules = Vous êtes une créature du vide, invoquée par le Spectre. Obéissez à ses ordres et semez autant de chaos que possible.

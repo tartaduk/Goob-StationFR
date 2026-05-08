@@ -1,57 +1,57 @@
-slasher-role-greeting = You feel an unstoppable urge for vengeance... and synth music. The night is young, the fog is thick, and your machete gleams in the neon starlight. Time to show these spacemen why you're the legend of the midnight massacre!
+slasher-role-greeting = Vous ressentez une envie irrépressible de vengeance... et de musique synthétique. La nuit est jeune, le brouillard est épais, et votre machette brille dans la lumière néon des étoiles. Il est temps de montrer à ces hommes de l'espace pourquoi vous êtes la légende du massacre de minuit !
 
-ghost-role-information-slasher-name = Slasher
-ghost-role-information-slasher-description = Slaughter and terrorize the living as the Slasher!
+ghost-role-information-slasher-name = Tueur
+ghost-role-information-slasher-description = Massacrez et terrorisez les vivants en tant que Tueur !
 
-slasher-round-end-agent-name = Slasher
+slasher-round-end-agent-name = tueur
 
-slasher-machete-no-hands = You have no hands!
-slasher-machete-hands-full = Your hands are full!
-slasher-machete-already-holding = You're already holding your machete!
+slasher-machete-no-hands = Vous n'avez pas de mains !
+slasher-machete-hands-full = Vos mains sont pleines !
+slasher-machete-already-holding = Vous tenez déjà votre machette !
 
-slasher-summon-meatspike-popup = A gruesome meat spike erupts from the ground!
+slasher-summon-meatspike-popup = Un horrible pieu de chair jaillit du sol !
 
-slasher-staggerarea-victim = A horrifying chill runs down your spine!
-slasher-staggerarea-popup = You unleash a wave of terror.
+slasher-staggerarea-victim = Un frisson horrifiant vous parcourt l'échine !
+slasher-staggerarea-popup = Vous déchaînez une vague de terreur.
 
-slasher-regenerate-no-soul = You need a stolen soul to regenerate!
+slasher-regenerate-no-soul = Vous avez besoin d'une âme volée pour vous régénérer !
 
-slasher-soulsteal-success = You feel a dark energy course through you.
-slasher-soulsteal-start = You begin to siphon the life force of your victim...
-slasher-soulsteal-fail-not-down = Your target must be incapacitated.
-slasher-soulsteal-fail-no-mind = Your target has no soul to steal.
-slasher-soulsteal-start-victim = You feel your soul being drained...
-slasher-soulsteal-success-victim = You feel a piece of your soul dissipate.
-slasher-soulsteal-fail-not-valid = This is not a valid target!
-slasher-soulsteal-unlock-possession = Your power grows. You can now possess the living!
-slasher-soulsteal-ascendance = CRITICAL ALERT: Massive psychic disturbance detected. An entity of unprecedented malevolent power has achieved critical mass. All personnel are advised to arm themselves and travel in groups.
+slasher-soulsteal-success = Vous sentez une énergie sombre vous traverser.
+slasher-soulsteal-start = Vous commencez à siphonner la force vitale de votre victime...
+slasher-soulsteal-fail-not-down = Votre cible doit être mise hors d'état de nuire.
+slasher-soulsteal-fail-no-mind = Votre cible n'a pas d'âme à voler.
+slasher-soulsteal-start-victim = Vous sentez votre âme se vider...
+slasher-soulsteal-success-victim = Vous sentez un fragment de votre âme se dissiper.
+slasher-soulsteal-fail-not-valid = Ce n'est pas une cible valide !
+slasher-soulsteal-unlock-possession = Votre pouvoir grandit. Vous pouvez maintenant posséder les vivants !
+slasher-soulsteal-ascendance = ALERTE CRITIQUE : Perturbation psychique massive détectée. Une entité d'une puissance maléfique sans précédent a atteint la masse critique. Tout le personnel est conseillé de s'armer et de voyager en groupe.
 
-slasher-massacre-start = A surge of energy fills the air!
-slasher-massacre-end = The atmosphere returns to normal.
-slasher-massacre-already-activated = Massacre is already active!
-slasher-massacre-target-change = The focus shifts to a new target.
-slasher-massacre-decap = A decisive blow is struck!
-slasher-massacre-limb = A powerful hit lands!
+slasher-massacre-start = Une vague d'énergie envahit l'air !
+slasher-massacre-end = L'atmosphère revient à la normale.
+slasher-massacre-already-activated = Le massacre est déjà actif !
+slasher-massacre-target-change = La cible se déplace vers une nouvelle proie.
+slasher-massacre-decap = Un coup décisif est porté !
+slasher-massacre-limb = Un coup puissant atterrit !
 
-slasher-incorporealize-fail-seen = You cannot incorporealize while being watched!
-slasher-corporealize-fail-camera = You cannot corporealize when there's a camera watching!
-slasher-corporealize-fail-nearby = You cannot corporealize while someone is nearby!
-slasher-corporealize-fail-inside-wall = You cannot corporealize while near a solid object!
+slasher-incorporealize-fail-seen = Vous ne pouvez pas vous incorporaliser pendant qu'on vous observe !
+slasher-corporealize-fail-camera = Vous ne pouvez pas vous corporaliser quand une caméra vous surveille !
+slasher-corporealize-fail-nearby = Vous ne pouvez pas vous corporaliser quand quelqu'un est à proximité !
+slasher-corporealize-fail-inside-wall = Vous ne pouvez pas vous corporaliser à proximité d'un objet solide !
 
-slasher-relentless-grab-activate = You prepare to grab your next victim!
+slasher-relentless-grab-activate = Vous vous préparez à saisir votre prochaine victime !
 
 reagent-name-slasherium = Slasherium
-reagent-desc-slasherium = Used by the Slasher to heal themselves.
+reagent-desc-slasherium = Utilisé par le Tueur pour se soigner.
 
-objective-issuer-slasher = Slasher
-slasher-objective-absorb-souls-title = Absorb { $count } souls
-slasher-objective-absorb-souls-desc = The Crew has no need for such things.
-                                      You do.
+objective-issuer-slasher = Tueur
+slasher-objective-absorb-souls-title = Absorber { $count } âmes
+slasher-objective-absorb-souls-desc = L'équipage n'a pas besoin de telles choses.
+                                      Vous, si.
 
-roles-antag-slasher-name = Slasher
-roles-antag-slasher-objectives = Slaughter and terrorize the living as the Slasher!
+roles-antag-slasher-name = Tueur
+roles-antag-slasher-objectives = Massacrez et terrorisez les vivants en tant que Tueur !
 
-slasher-cannot-use-guns = Your otherworldly form rejects firearms.
+slasher-cannot-use-guns = Votre forme d'un autre monde rejette les armes à feu.
 
-alerts-slasher-seen-name = Observer Status
-alerts-slasher-seen-desc = Shows whether you are currently being watched by someone. You cannot enter or exit incorporeal form while being observed.
+alerts-slasher-seen-name = Statut d'observation
+alerts-slasher-seen-desc = Indique si vous êtes actuellement observé par quelqu'un. Vous ne pouvez pas entrer ou sortir de la forme incorporelle pendant que vous êtes observé.

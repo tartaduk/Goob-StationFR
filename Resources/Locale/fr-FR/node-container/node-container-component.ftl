@@ -5,6 +5,6 @@
 #
 # SPDX-License-Identifier: MIT
 
-node-container-component-on-examine-details-hvpower = It has a connector for [color=orange]HV cables[/color].
-node-container-component-on-examine-details-mvpower = It has a connector for [color=yellow]MV cables[/color].
-node-container-component-on-examine-details-apc = It has a connector for [color=green]LV cables[/color].
+node-container-component-on-examine-details-hvpower = Il possède un connecteur pour les [color=orange]câbles HT[/color].
+node-container-component-on-examine-details-mvpower = Il possède un connecteur pour les [color=yellow]câbles MT[/color].
+node-container-component-on-examine-details-apc = Il possède un connecteur pour les [color=green]câbles BT[/color].

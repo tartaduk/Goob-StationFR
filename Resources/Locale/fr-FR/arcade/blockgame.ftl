@@ -10,25 +10,25 @@
 ### UI
 
 # Current game score
-blockgame-menu-label-points = Points: {$points}
+blockgame-menu-label-points = Points : {$points}
 
 # Current game level
-blockgame-menu-label-level = Level: {$level}
+blockgame-menu-label-level = Niveau : {$level}
 
 # Game over information of your round
-blockgame-menu-gameover-info = Global: {$global}
-    Local: {$local}
-    Points: {$points}
+blockgame-menu-gameover-info = Global : {$global}
+    Local : {$local}
+    Points : {$points}
 
-blockgame-menu-title = Nanotrasen Block Game
-blockgame-menu-button-new-game = New Game
-blockgame-menu-button-scoreboard = Scoreboard
+blockgame-menu-title = Jeu de blocs Nanotrasen
+blockgame-menu-button-new-game = Nouvelle partie
+blockgame-menu-button-scoreboard = Classement
 blockgame-menu-button-pause = Pause
-blockgame-menu-button-unpause = Unpause
-blockgame-menu-msg-game-over = Game over!
-blockgame-menu-label-highscores = Highscores
-blockgame-menu-button-back = Back
-blockgame-menu-label-next = Next
-blockgame-menu-label-hold = Hold
+blockgame-menu-button-unpause = Reprendre
+blockgame-menu-msg-game-over = Fin de partie !
+blockgame-menu-label-highscores = Meilleurs scores
+blockgame-menu-button-back = Retour
+blockgame-menu-label-next = Suivant
+blockgame-menu-label-hold = Mettre en attente
 blockgame-menu-text-station = Station
 blockgame-menu-text-nanotrasen = Nanotrasen

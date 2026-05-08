@@ -20,68 +20,68 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-## Traitor
+## Traître
 
-traitor-round-end-codewords = The codewords were: [color=White]{$codewords}[/color]
-traitor-round-end-agent-name = a traitor
+traitor-round-end-codewords = Les noms de code étaient : [color=White]{$codewords}[/color]
+traitor-round-end-agent-name = un traître
 
-objective-issuer-syndicate = [color=crimson]The Syndicate[/color]
-objective-issuer-unknown = Unknown
+objective-issuer-syndicate = [color=crimson]Le Syndicat[/color]
+objective-issuer-unknown = Inconnu
 
 # Shown at the end of a round of Traitor
 
-traitor-title = Traitor
-traitor-description = There are traitors among us...
-traitor-not-enough-ready-players = Not enough players readied up for the game! There were {$readyPlayersCount} players readied up out of {$minimumPlayers} needed. Can't start Traitor.
-traitor-no-one-ready = No players readied up! Can't start Traitor.
+traitor-title = Traître
+traitor-description = Il y a des traîtres parmi nous...
+traitor-not-enough-ready-players = Pas assez de joueurs prêts pour la partie ! Il y avait {$readyPlayersCount} joueurs prêts sur les {$minimumPlayers} requis. Impossible de démarrer Traître.
+traitor-no-one-ready = Aucun joueur n'est prêt ! Impossible de démarrer Traitor.
 
 ## TraitorDeathMatch
 traitor-death-match-title = Traitor Deathmatch
-traitor-death-match-description = Everyone's a traitor. Everyone wants each other dead.
-traitor-death-match-station-is-too-unsafe-announcement = The station is too unsafe to continue. You have one minute.
-traitor-death-match-end-round-description-first-line = The PDAs recovered afterwards...
-traitor-death-match-end-round-description-entry = {$originalName}'s PDA, with {$tcBalance} TC
+traitor-death-match-description = Tout le monde est un traître. Tout le monde veut la mort des autres.
+traitor-death-match-station-is-too-unsafe-announcement = La station est trop dangereuse pour continuer. Il vous reste une minute.
+traitor-death-match-end-round-description-first-line = Les PDA récupérés après coup...
+traitor-death-match-end-round-description-entry = Le PDA de {$originalName}, avec {$tcBalance} TC
 
 ## TraitorRole
 
 # TraitorRole
 traitor-role-greeting =
-    You are an agent sent by {$corporation} on behalf of [color = darkred]The Syndicate.[/color]
-    Your objectives and codewords are listed in the character menu.
-    Use your uplink to buy the tools you'll need for this mission.
-    Death to Nanotrasen!
+    Vous êtes un agent envoyé par {$corporation} au nom du [color = darkred]Syndicat.[/color]
+    Vos objectifs et noms de code sont répertoriés dans le menu du personnage.
+    Utilisez votre uplink pour acheter les outils dont vous aurez besoin pour cette mission.
+    Mort à Nanotrasen !
 traitor-role-codewords =
-    The codewords are: [color = lightgray]
+    Les noms de code sont : [color = lightgray]
     {$codewords}.[/color]
-    Codewords can be used in regular conversation to identify yourself discreetly to other traitors.
+    Les noms de code peuvent être utilisés dans une conversation ordinaire pour s'identifier discrètement auprès d'autres traîtres.
 traitor-role-uplink-code =
-    Your uplink code is [color=white]{$code}[/color]. Set it as your PDA ringtone to access the black market.
-    Remember to lock it after, or the stations crew will easily open it too!
+    Le code de votre uplink est [color=white]{$code}[/color]. Définissez-la comme sonnerie de votre PDA pour accéder au marché noir.
+    N'oublie pas de le fermer après, sinon l'équipage de la station pourra facilement l'ouvrir lui aussi !
 traitor-role-uplink-pen-code =
-    Spin your pen to the combination [color = lightgray]{$code}[/color] to unlock your uplink.
-    The degrees represent rotation angles. The uplink locks automatically when closed.
+    Faites tourner votre stylo selon la combinaison [color = lightgray]{$code}[/color] pour déverrouiller votre uplink.
+    Les degrés correspondent aux angles de rotation. L'uplink se verrouille automatiquement lorsqu'il est fermé.
 traitor-role-uplink-implant =
-    Your uplink implant has been activated, access it from your hotbar.
-    The uplink is secure unless someone removes it from your body.
+    Votre implant uplink a été activé, accédez-y depuis votre barre de raccourcis.
+    L'uplink est sécurisé tant qu'il n'est pas retiré de votre corps.
 
 # don't need all the flavour text for character menu
 traitor-role-codewords-short =
-    The codewords are:
+    Les noms de code sont :
     {$codewords}.
 
-traitor-role-uplink-code-short = Your uplink code is {$code}. Set it as your PDA ringtone to access the black market.
-traitor-role-uplink-pen-code-short = Your pen uplink code is {$code}. Spin the pen to unlock. Locks when closed.
-traitor-role-uplink-implant-short = Your uplink was implanted. Access it from your hotbar.
+traitor-role-uplink-code-short = Votre code uplink est {$code}. Définissez-le comme sonnerie de votre PDA pour accéder au marché noir.
+traitor-role-uplink-pen-code-short = Votre code d'uplink par stylo est {$code}. Tournez le stylo pour le déverrouiller. Il se verrouille lorsqu'il est fermé.
+traitor-role-uplink-implant-short = Votre uplink a été implantée. Accédez-y depuis votre barre de raccourcis.
 
 traitor-role-moreinfo =
-    Find more information about your role in the character menu.
+    Trouvez plus d'informations sur votre rôle dans le menu du personnage.
 
 traitor-role-nouplink =
-    Unfortunately you do not have access to the black market.
+    Malheureusement, vous n'avez pas accès au marché noir.
 
 traitor-role-allegiances =
-    Your allegiances:
+    Vos allégeances :
 
 traitor-role-notes =
-    Additional notes:
+    Notes supplémentaires :
 

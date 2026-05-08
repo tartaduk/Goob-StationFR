@@ -4,7 +4,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-dump-verb-name = Dump out on ground
-dump-disposal-verb-name = Dump out into {$unit}
-dump-placeable-verb-name = Dump out onto {$surface}
-dump-smartfridge-verb-name = Restock into {$unit}
+dump-verb-name = Vider au sol
+dump-disposal-verb-name = Vider dans {$unit}
+dump-placeable-verb-name = Vider sur {$surface}
+dump-smartfridge-verb-name = Réapprovisionner dans {$unit}

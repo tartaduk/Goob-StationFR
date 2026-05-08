@@ -4,4 +4,4 @@
 #
 # SPDX-License-Identifier: MIT
 
-biomass-reclaimer-suicide-others = {CAPITALIZE(THE($victim))} threw themselves into the biomass reclaimer!
+biomass-reclaimer-suicide-others = {CAPITALIZE(THE($victim))} s'est jeté dans le récupérateur de biomasse !

@@ -9,15 +9,15 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 ## TabletopGameComponent
-tabletop-verb-play-game = Play Game
-tabletop-verb-dump-pieces = Dump Pieces
-tabletop-default-board-name = Board Game
-tabletop-error-remove-non-hologram = You cant remove a built in piece!
-tabletop-added-piece = The board shimmers brightly!
+tabletop-verb-play-game = Jouer
+tabletop-verb-dump-pieces = Vider les pièces
+tabletop-default-board-name = Jeu de plateau
+tabletop-error-remove-non-hologram = Vous ne pouvez pas retirer une pièce intégrée !
+tabletop-added-piece = Le plateau scintille brillamment !
 
 ## Chess
-tabletop-chess-board-name = Chess
-tabletop-chess-flip = Flip
+tabletop-chess-board-name = Échecs
+tabletop-chess-flip = Retourner
 
 ## Parchís
 tabletop-parchis-board-name = Parchís
@@ -26,7 +26,7 @@ tabletop-parchis-board-name = Parchís
 tabletop-backgammon-board-name = Backgammon
 
 ## Checkers
-tabletop-checkers-board-name = Checkers
+tabletop-checkers-board-name = Dames
 
 ## Battlemap
-tabletop-battlemap-board-name = Battlemap
+tabletop-battlemap-board-name = Carte de bataille
