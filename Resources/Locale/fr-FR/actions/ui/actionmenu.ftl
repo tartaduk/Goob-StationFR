@@ -6,7 +6,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-Action menu stuff (left panel, with hotbars etc)
+# Action menu stuff (left panel, with hotbars etc)
 
 ui-actionmenu-title = Actions
 ui-actionmenu-filter-label = Filtres : {$selectedLabels}
