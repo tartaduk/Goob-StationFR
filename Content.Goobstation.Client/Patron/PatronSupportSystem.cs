@@ -17,6 +17,8 @@ public sealed class PatronSupportUIController : UIController, IOnStateEntered<Lo
 
     public void OnStateEntered(LobbyState state)
     {
+        return; // Disabled: patron support window not used on this fork
+
         if (_hasShownThisSession)
             return;
 
