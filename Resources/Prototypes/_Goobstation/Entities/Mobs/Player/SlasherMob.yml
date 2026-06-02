@@ -2,7 +2,7 @@
   name: Urist McSlasher
   parent: MobHuman
   id: MobSlasher
-  description: A terrifying slasher with supernatural abilities.
+  description: Un terrifiant tueur aux capacités surnaturelles.
   suffix: Debug
   components:
   - type: Loadout
