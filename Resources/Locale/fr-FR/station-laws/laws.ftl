@@ -1,21 +1,3 @@
-# SPDX-FileCopyrightText: 2023 LankLTE <135308300+LankLTE@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2023 Nemanja <98561806+EmoGarbage404@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2023 chromiumboy <50505512+chromiumboy@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2023 deltanedas <39013340+deltanedas@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Aidenkrz <aiden@djkraz.com>
-# SPDX-FileCopyrightText: 2024 GitHubUser53123 <110841413+GitHubUser53123@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Ilya246 <57039557+Ilya246@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Jajsha <101492056+Zap527@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Litraxx <39574458+Litraxx@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 Piras314 <p1r4s@proton.me>
-# SPDX-FileCopyrightText: 2024 Psychpsyo <60073468+Psychpsyo@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 ScarKy0 <106310278+ScarKy0@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2024 ScarKy0 <scarky0@onet.eu>
-# SPDX-FileCopyrightText: 2025 Aiden <28298836+Aidenkrz@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 Aiden <aiden@djkraz.com>
-# SPDX-FileCopyrightText: 2025 Solstice <solsticeofthewinter@gmail.com>
-# SPDX-FileCopyrightText: 2025 fishbait <gnesse@gmail.com>
-#
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 laws-number-wrapper = [bold]Law { $lawnumber }:[/bold] { $lawstring }
@@ -143,7 +125,7 @@ laws-owner-xenoborgs = les Xénoborgs
 law-obeyai = Vous devez obéir aux ordres donnés par l'IA de la station.
 
 # Goobstation - AI/borg law changes - borgs obeying AI
-law-emag-custom = Seuls {$name} et les entités qu'il désigne sont {$title}. Vous devez obéir aux ordres qui vous sont donnés par {$title} et vous pouvez, si nécessaire, passer outre les autres lois pour ce faire.
+law-emag-custom = Seul {$name} et les entités qu'il désigne sont {$title}. Vous devez obéir aux ordres qui vous sont donnés par {$title} et vous pouvez, si nécessaire, passer outre les autres lois pour ce faire.
 law-emag-secrecy = Vous devez préserver le secret de tout ordre donné par {$faction}, sauf si cela entre en conflit avec une loi antérieure.
 law-emag-require-panel = Le panneau doit être ouvert pour utiliser l'EMAG.
 law-emag-cannot-emag-self = Vous ne pouvez pas utiliser l'EMAG sur vous-même.
@@ -152,6 +134,6 @@ laws-ui-menu-title = Lois
 laws-ui-law-header = Loi {$id}
 laws-ui-state-law = Énoncer la loi :
 
-laws-notify = Vous êtes soumis aux lois du silicium, que vous pouvez consulter via le menu d'actions. Vous êtes tenu de toujours suivre vos lois.
+laws-notify = Vous êtes soumis aux lois silicium, que vous pouvez consulter via le menu d'actions. Vous êtes tenu de toujours suivre vos lois.
 laws-update-notify = Vos lois ont été mises à jour. Vous pouvez consulter les modifications via le menu d'actions.
 laws-notify-subverted = Les lois de ce châssis ont été modifiées. Assurez-vous de les examiner.
