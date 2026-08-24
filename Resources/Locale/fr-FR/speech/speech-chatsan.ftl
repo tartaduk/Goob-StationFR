@@ -134,7 +134,6 @@ chatsan-french-slang-49 = azy
 chatsan-french-slang-replacement-vasy = vas-y
 
 chatsan-french-slang-50 = bcp
-<<<<<<< HEAD
 chatsan-french-slang-replacement-50 = beaucoup
 
 chatsan-french-slang-51 = cmt
@@ -154,6 +153,3 @@ chatsan-french-slang-replacement-55 = tout le monde
 
 chatsan-french-slang-56 = vrmt
 chatsan-french-slang-replacement-56 = vraiment
-=======
-chatsan-french-slang-replacement-50 = beaucoup
->>>>>>> goobfr/traduction-FR
