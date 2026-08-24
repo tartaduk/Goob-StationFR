@@ -223,8 +223,8 @@
 - type: entity
   parent: [ClothingHeadHatArmored, BaseSecurityContraband] # Goob edit
   id: ClothingHeadHatBeretBrigmedic
-  name: béret brigmédical
-  description: Un béret blanc pour les brigmédecins.
+  name: béret de médecins du brig
+  description: Un béret blanc pour les médecins du brig.
   components:
   - type: Sprite
     sprite: Clothing/Head/Hats/beret_brigmedic.rsi
