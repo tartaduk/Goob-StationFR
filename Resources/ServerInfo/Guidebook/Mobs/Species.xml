@@ -17,14 +17,14 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   <Box>
     <GuideEntityEmbed Entity="MobHuman" Caption="Humain"/>
     <GuideEntityEmbed Entity="MobIPCDummy" Caption="IPC"/>
-    <GuideEntityEmbed Entity="MobMoth" Caption="Homme-papillon"/>
+    <GuideEntityEmbed Entity="MobMoth" Caption="Homme-mite"/>
     <GuideEntityEmbed Entity="MobOni" Caption="Oni"/>
     <GuideEntityEmbed Entity="MobReptilian" Caption="Reptilien"/>
     <GuideEntityEmbed Entity="MobResomi" Caption="Resomi"/>
     <GuideEntityEmbed Entity="MobRodentia" Caption="Rodentia"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="MobSlimePerson" Caption="Homme-gélatine"/>
+    <GuideEntityEmbed Entity="MobSlimePerson" Caption="Homme-slime"/>
     <GuideEntityEmbed Entity="MobTajaran" Caption="Tajaran"/>
     <GuideEntityEmbed Entity="MobVox" Caption="Vox"/>
     <GuideEntityEmbed Entity="MobVulpkanin" Caption="Vulpkanin"/>

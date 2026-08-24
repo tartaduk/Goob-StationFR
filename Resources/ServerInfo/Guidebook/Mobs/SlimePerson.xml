@@ -3,7 +3,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 
 <Document>
-  # Hommes-gélatine
+  # Hommes-slime
 
   <Box>
     <GuideEntityEmbed Entity="MobSlimePerson" Caption=""/>
@@ -14,14 +14,14 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   Ils exhalent du protoxyde d'azote et ne sont pas affectés par celui-ci.
   Leur corps ne traite que deux toxines à la fois comparé à trois.
 
-  Les Hommes-gélatine ont un [bold]inventaire de stockage interne 2x3[/bold] à l'intérieur de leur membrane gélatineuse. N'importe qui peut voir ce qu'il y a dedans et le sortir de vous sans demander,
+  Les Hommes-slime ont un [bold]inventaire de stockage interne 2x3[/bold] à l'intérieur de leur membrane gélatineuse. N'importe qui peut voir ce qu'il y a dedans et le sortir de vous sans demander,
   donc faites attention.
 
-  Les Hommes-gélatine ont une régénération accélérée comparée aux autres humanoïdes.
+  Les Hommes-slime ont une régénération accélérée comparée aux autres humanoïdes.
 
-  Les Hommes-gélatine n'ont pas d'os et leurs membres se détachent plus facilement.
+  Les Hommes-slime n'ont pas d'os et leurs membres se détachent plus facilement.
 
-  Le Sang-gélatine est techniquement une source de nourriture modérément rassasiante pour les autres espèces, bien que boire le sang de vos collègues soit généralement mal vu.
+  Le Sang-slime est techniquement une source de nourriture modérément rassasiante pour les autres espèces, bien que boire le sang de vos collègues soit généralement mal vu.
   Ils s'asphyxient 80 % plus lentement, mais subissent des dégâts de pression 9 % plus vite. Cela en fait de loin l'espèce la plus capable de survivre dans le vide total. Pour un temps.
 
   Ils subissent [color=#1e90ff]40 % de dégâts Contondants en moins et 20 % de Poison en moins[/color], mais [color=#ffa500]50 % de Froid en plus, 15 % de Tranchants en plus et 15 % de Perforants en plus[/color].
