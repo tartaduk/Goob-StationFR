@@ -47,7 +47,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   Vous pouvez aussi ajuster le taux auquel les panneaux bougent pour suivre le soleil.
 
-  Le taux auquel le soleil bouge autour de la station change chaque quart, alors chronométrez la position du soleil et ajustez le taux en conséquence.
+  Le taux auquel le soleil bouge autour de la station change chaque shift, alors chronométrez la position du soleil et ajustez le taux en conséquence.
 
   L'Ordinateur de Contrôle Solaire rapporte aussi le courant total généré par les panneaux solaires.
 
@@ -94,7 +94,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="AirlockEngineering" Caption=""/>
   </Box>
 
-  Au début du quart, les panneaux solaires sont désalignés et déconnectés du réseau.
+  Au début du shift, les panneaux solaires sont désalignés et déconnectés du réseau.
   Il faut les aligner et les connecter au réseau électrique de la station pour commencer à générer du courant.
 
   Cela implique généralement de tirer une ligne de [color=orange]fil HT[/color] vers les panneaux depuis la salle de machines du réseau solaire, puis d'utiliser un Ordinateur de Contrôle Solaire pour aligner les panneaux.

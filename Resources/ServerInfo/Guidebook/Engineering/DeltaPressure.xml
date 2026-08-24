@@ -22,7 +22,7 @@
 
   Le verre standard plein format et autres objets faibles peuvent encaisser une ΔP jusqu'à [color=orange][protodata="Window" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] avant de commencer à craquer.
 
-  Le verre quart de format, comme les fenêtres directionnelles, peut encaisser une ΔP jusqu'à [color=orange][protodata="WindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] avant de commencer à craquer.
+  Le verre directionnel, comme les fenêtres directionnelles, peut encaisser une ΔP jusqu'à [color=orange][protodata="WindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] avant de commencer à craquer.
 
   ## Verre et Objets Renforcés
   <Box>
@@ -34,7 +34,7 @@
 
   Le verre renforcé plein format peut encaisser une ΔP jusqu'à [color=orange][protodata="ReinforcedWindow" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] avant de commencer à craquer.
 
-  Le verre renforcé quart de format peut encaisser une ΔP jusqu'à [color=orange][protodata="WindowReinforcedDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] avant de commencer à craquer.
+  Le verre renforcé directionnel peut encaisser une ΔP jusqu'à [color=orange][protodata="WindowReinforcedDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] avant de commencer à craquer.
 
   ## Verre Plasma/Uranium
   <Box>
@@ -48,7 +48,7 @@
 
   Le verre plasma et uranium peut encaisser une ΔP jusqu'à [color=orange][protodata="PlasmaWindow" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] avant de commencer à craquer.
 
-  Le verre plasma et uranium quart de format peut encaisser une ΔP jusqu'à [color=orange][protodata="PlasmaWindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] avant de commencer à craquer.
+  Le verre plasma et uranium directionnel peut encaisser une ΔP jusqu'à [color=orange][protodata="PlasmaWindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] avant de commencer à craquer.
 
   ## Verre Plasma/Uranium Renforcé
 
@@ -62,7 +62,7 @@
 
   </Box>
 
-  Le verre plasma renforcé et uranium renforcé peut encaisser une ΔP jusqu'à [color=orange][protodata="ReinforcedPlasmaWindow" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] avant de commencer à craquer.
+  Le verre plasma renforcé et uranium renforcé peuvent encaisser une ΔP jusqu'à [color=orange][protodata="ReinforcedPlasmaWindow" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] avant de commencer à craquer.
 
-  Le verre plasma renforcé et uranium renforcé quart de format peut encaisser une ΔP jusqu'à [color=orange][protodata="PlasmaReinforcedWindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] avant de commencer à craquer.
+  Le verre plasma renforcé et uranium renforcé directionnel peut encaisser une ΔP jusqu'à [color=orange][protodata="PlasmaReinforcedWindowDirectional" comp="DeltaPressure" member="MinPressureDelta"/] kPa[/color] avant de commencer à craquer.
 </Document>

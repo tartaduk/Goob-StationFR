@@ -18,13 +18,13 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   <GuideEntityEmbed Entity="RevolutionaryManifesto" Caption="Manifeste Révolutionnaire"/>
 </Box>
 
-  Les [color=#5e9cff]Chefs Révolutionnaires[/color] sont choisis au début du quart et ont pour mission de prendre la station en tuant, exilant ou menottant tout le staff de Commandement. Les Chefs Révolutionnaires recevront un [color=#a4885c]Manifeste Révolutionnaire[/color] pour les aider.
+  Les [color=#5e9cff]Chefs Révolutionnaires[/color] sont choisis au début du shift et ont pour mission de prendre la station en tuant, exilant ou menottant tout le staff de Commandement. Les Chefs Révolutionnaires recevront un [color=#a4885c]Manifeste Révolutionnaire[/color] pour les aider.
   Votre objectif est [bold]pas de détruire la station[/bold], mais [italic]de la prendre[/italic], alors essayez de minimiser les dégâts quand possible.
 
   [bold]La révolution échouera[/bold] si tous les [bold][color=#5e9cff]Chefs Révolutionnaires[/color][/bold] meurent, et tous les [color=red]Révolutionnaires[/color] se déconvertiront si ça arrive.
 
   ## Chefs Rev' & Conversion
-  Les [bold][color=#5e9cff]Chefs Révolutionnaires[/color][/bold] sont choisis au début du quart et commencent avec un [color=cyan]flash[/color] et une paire de [color=cyan]lunettes de soleil[/color].
+  Les [bold][color=#5e9cff]Chefs Révolutionnaires[/color][/bold] sont choisis au début du shift et commencent avec un [color=cyan]flash[/color] et une paire de [color=cyan]lunettes de soleil[/color].
 
   <Box>
   <GuideEntityEmbed Entity="RevolutionaryManifesto" Caption="Manifeste Révolutionnaire"/>

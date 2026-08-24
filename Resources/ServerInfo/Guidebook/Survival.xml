@@ -7,7 +7,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 C'est généralement sage d'éviter les situations qui vous feront du mal, parce que le médical ne peut vous soigner que jusqu'à un certain point avec des chimiques et objets médicaux limités et surtout quand y'a des opérateurs nucléaires sur votre palier.
 
 ## Identifier votre situation
-Votre PDA contient à la fois un nom de vaisseau et liste d'équipage actuellement actif sur votre vaisseau, un rappel pour votre nom si besoin, et votre métier assigné pour le quart, vous permettant d'évaluer vite la situation.
+Votre PDA contient à la fois un nom de vaisseau et liste d'équipage actuellement actif sur votre vaisseau, un rappel pour votre nom si besoin, et votre métier assigné pour le shift, vous permettant d'évaluer vite la situation.
 
 ## Traitement d'Urgence
 En cas d'urgence grave, il y a quelques trucs à faire pour aider votre survie à long terme, incluant :

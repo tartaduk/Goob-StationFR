@@ -15,7 +15,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
   - Pendant ce temps, les appareils ne recevront pas le courant dont ils ont besoin, et le réseau subira une baisse de tension temporaire.
   - Après quelques secondes, le générateur aura monté à 100 kW de courant, et la baisse de tension prendra fin. Tous les appareils sont maintenant satisfaits du courant qu'ils reçoivent.
 
-  Pendant un quart, c'est le plus souvent observé quand un générateur n'a plus de carburant et arrête soudainement de produire du courant.
+  Pendant un shift, c'est le plus souvent observé quand un générateur n'a plus de carburant et arrête soudainement de produire du courant.
   Soudain, le réseau se prend un gros déficit de courant (l'offre est tombée sous la demande), et tous les appareils subiront une baisse de tension jusqu'à ce que les SEMS ou autres générateurs puissent monter en charge pour correspondre à la nouvelle demande.
 
   Ça peut aussi arriver quand un gros consommateur ou département est reconnecté au réseau.
