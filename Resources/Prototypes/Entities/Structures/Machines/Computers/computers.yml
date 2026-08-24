@@ -913,7 +913,7 @@
 - type: entity
   id: ComputerCargoOrders
   parent: BaseComputerAiAccess
-  name: ordinateur requêtes cargo
+  name: ordinateur de commande du cargo
   description: Utilisé pour commander des fournitures et approuver les demandes.
   components:
   - type: Sprite
@@ -966,8 +966,8 @@
 - type: entity
   id: ComputerCargoOrdersEngineering
   parent: ComputerCargoOrders
-  name: ordinateur de requêtes ingénierie
-  description: Utilisé par le département ingénierie pour commander des fournitures.
+  name: ordinateur de commande d'ingénierie
+  description: Utilisé par le département d'ingénierie pour commander des fournitures.
   components:
   - type: Sprite
     layers:
@@ -999,7 +999,7 @@
 - type: entity
   id: ComputerCargoOrdersMedical
   parent: ComputerCargoOrders
-  name: ordinateur requêtes médicales
+  name: ordinateur de commande médicale
   description: Utilisé par le département médical pour commander des fournitures.
   components:
   - type: Sprite
@@ -1032,7 +1032,7 @@
 - type: entity
   id: ComputerCargoOrdersScience
   parent: ComputerCargoOrders
-  name: ordinateur requêtes scientifiques
+  name: ordinateur de commande de la science
   description: Utilisé par le département scientifique pour commander des fournitures.
   components:
   - type: Sprite
@@ -1065,8 +1065,8 @@
 - type: entity
   id: ComputerCargoOrdersSecurity
   parent: ComputerCargoOrders
-  name: ordinateur requêtes sécurité
-  description: Utilisé par le département sécurité pour commander des fournitures.
+  name: ordinateur de commande de la sécurité
+  description: Utilisé par le département de sécurité pour commander des fournitures.
   components:
   - type: Sprite
     layers:
@@ -1098,8 +1098,8 @@
 - type: entity
   id: ComputerCargoOrdersService
   parent: ComputerCargoOrders
-  name: ordinateur requêtes service
-  description: Utilisé par le département service pour commander des fournitures.
+  name: ordinateur de commande du service
+  description: Utilisé par le département de service pour commander des fournitures.
   components:
   - type: Sprite
     layers:
@@ -1261,8 +1261,8 @@
 - type: entity
   parent: BaseComputerAiAccess
   id: ComputerSalvageJobBoard
-  name: tableau emplois récupération
-  description: Console pour accéder aux emplois de récupération, si vous êtes assez costaud.
+  name: tableau boulots de récupération
+  description: Console pour accéder aux boulots de récupération, si vous êtes assez costaud.
   components:
   - type: Sprite
     layers:
