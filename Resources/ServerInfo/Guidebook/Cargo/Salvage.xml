@@ -133,13 +133,13 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   Bien que votre équipement de départ soit tout ce qu'il faut pour bosser à un niveau basique, le matos avancé rend votre travail bien plus facile, et vous donne l'équipement nécessaire pour affronter le redouté [color=red]Astéroïde Minier[/color]
 
-  ### Tableau des Jobs Salvage
+  ### Tableau des Boulots Salvage
 
   <Box>
     <GuideEntityEmbed Entity="ComputerSalvageJobBoard"/>
   </Box>
 
-  Le [color=cyan]Tableau des Jobs Salvage[/color] est un ordi situé dans la Baie Salvage. Il sert de version Salvage de l'[color=cyan]Ordi de Primes Cargo[/color], permettant aux Salvagers de remplir des jobs spécifiques avec des matériaux Salvage pour gagner des Spesos et débloquer du [color=yellow]Matériel Salvage Avancé[/color].
+  Le [color=cyan]Tableau des Boulots Salvage[/color] est un ordi situé dans la Baie Salvage. Il sert de version Salvage de l'[color=cyan]Ordi de Primes Cargo[/color], permettant aux Salvagers de remplir des boulots spécifiques avec des matériaux Salvage pour gagner des Spesos et débloquer du [color=yellow]Matériel Salvage Avancé[/color].
 
   Une fois les fournitures nécessaires rassemblées pour compléter un job, imprimez un [color=cyan]Étiquetage d'Envoi Job Salvage[/color] et collez-le sur la caisse ou le casier contenant les biens. Vous pouvez utiliser votre [color=cyan]Outil d'Estimation[/color] pour revérifier que c'est prêt pour la vente. La prime préparée peut alors être apportée à la [color=cyan]Station de Commerce Automatisée[/color] pour gagner des Spesos Cargo et débloquer de nouvelles caisses spécifiques Salvage dans l'[color=cyan]Ordi de Commande Cargo[/color].
 
@@ -149,7 +149,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
     <GuideEntityEmbed Entity="SeismicCharge"/>
   </Box>
 
-  Compléter des Jobs Salvage améliorera votre rang et débloquera de nouveaux achats d'équipement dans l'[color=cyan]Ordi de Commande Cargo[/color], incluant :
+  Compléter des Boulots Salvage améliorera votre rang et débloquera de nouveaux achats d'équipement dans l'[color=cyan]Ordi de Commande Cargo[/color], incluant :
 
   - [color=cyan]Fultons[/color] : Une fois un Fulton lié à une Balise Fulton, ils peuvent être attachés à des structures non ancrées comme caisses ou machines pour les téléporter vers la Balise après une courte attente. Exceptionnel pour déplacer items et gens.
   - [color=cyan]Armes Crusher[/color] : Une série d'options de mêlée upgradées pour les Salvagers. La [color=red]Dague Crusher[/color] est une upgrade de votre Couteau de Survie, swinguant automatiquement et bien plus vite qu'un couteau normal. Le [color=red]Crusher[/color] et le [color=red]Glaive Crusher[/color] upgradé sont d'énormes armes d'hast qui peuvent tirer des projectiles spéciaux quand maniées. Ces projectiles ne font pas de dégâts eux-mêmes, mais si un ennemi marqué est frappé en mêlée assez vite, vous lui pompez un peu de vie pour vous soigner. Tout l'armement Crusher vient avec un projecteur intégré.
@@ -192,7 +192,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
   Méfiez-vous des monstres à bord de l'Astéroïde Minier, ils sont bien au-dessus des menaces présentes sur les Épaves et Débris.
 
-  - [color=cyan]Goliaths[/color] : Bêtes titanesques qui peuvent incapaciter les cibles avec des vrilles tortueuses, les laissant sans défense contre leurs griffes massives et mâchoires carnassières. C'est chiant à descendre, mais on peut les dépecer pour de précieux [color=cyan]Plaques de Peau de Goliath,[/color] utiles pour compléter les jobs Salvage et améliorer votre Combinaison Spationaute.
-  - [color=cyan]Hivelords[/color] : Anomalies rapides et erratiques. Ils préfèrent garder leur distance au combat, crachant de petits [color=cyan]Essaims Hivelord[/color] pour noyer les Salvagers. Ils sont pas spécialement costauds, alors embusquez-les vite avant qu'ils invoquent une horde pour vous noyer. On peut les dépecer pour les [color=cyan]Cœurs Hivelord[/color] qui pourrissent vite, utilisés pour compléter les jobs Salvage et mangeables crus pour un soin rapide.
+  - [color=cyan]Goliaths[/color] : Bêtes titanesques qui peuvent incapaciter les cibles avec des vrilles tortueuses, les laissant sans défense contre leurs griffes massives et mâchoires carnassières. C'est chiant à descendre, mais on peut les dépecer pour de précieux [color=cyan]Plaques de Peau de Goliath,[/color] utiles pour compléter les boulots Salvage et améliorer votre Combinaison Spationaute.
+  - [color=cyan]Hivelords[/color] : Anomalies rapides et erratiques. Ils préfèrent garder leur distance au combat, crachant de petits [color=cyan]Essaims Hivelord[/color] pour noyer les Salvagers. Ils sont pas spécialement costauds, alors embusquez-les vite avant qu'ils invoquent une horde pour vous noyer. On peut les dépecer pour les [color=cyan]Cœurs Hivelord[/color] qui pourrissent vite, utilisés pour compléter les boulots Salvage et mangeables crus pour un soin rapide.
   - [color=cyan]Basilisks[/color] : Une terreur givrée qui rôde dans les ombres. Les Basilisks peuvent tirer des boulons d'énergie gelante qui endommagent et ralentissent leurs cibles, et les utilisent souvent pour ramollir une cible avant de passer au kill. Une fois vaincus, on peut les dépecer pour l'inestimable [color=cyan]Minerai de Diamant[/color].
 </Document>
